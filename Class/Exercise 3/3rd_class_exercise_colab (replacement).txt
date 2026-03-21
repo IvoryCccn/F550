@@ -1,0 +1,47 @@
+Replace only the Embedding settings line in your config.
+
+Configuration Dictionary — Embedding settings
+
+defaultConfig = {
+    # Document processing settings
+    "chunkSize": 500,
+    "chunkOverlap": 50,
+    "userAgentHeader": "YourCompany-ResearchBot/1.0 (your@email.com)",
+
+    # Embedding settings
+    "embeddingApiUrl": "https://router.huggingface.co/hf-inference/models/BAAI/bge-base-en-v1.5/pipeline/feature-extraction",
+    "embeddingDim": 768,
+
+    #Defalt document
+    "defaultDocument" : Document(
+        page_content = "This is a default document.",
+        metadata = {"source": "default"}
+    ),
+
+    # Vector store settings
+    "numRetrievedDocuments": 12,
+
+    # Document formater settings
+    "numSelectedDocuments": 5,
+
+    # Model settings
+    "ragAnswerModel": "gpt-4o",
+    "ragAnswerModelTemeprature": 0.7,
+
+    # URLs to process
+    "companyFilingUrls": [
+        ("Tesla", "https://www.sec.gov/Archives/edgar/data/1318605/000162828024002390/tsla-20231231.htm")
+    ],
+
+    # RAG prompt template
+    "ragPromptTemplate": """
+    Give an answer for the `Question` using only the given `Context`. Use information relevant to the query from the entire context.
+    Provide a detailed answer with thorough explanations, avoiding summaries.
+
+    Question: {question}
+
+    Context: {context}
+
+    Answer:
+    """
+}

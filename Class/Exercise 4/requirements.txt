@@ -1,0 +1,16 @@
+google-genai
+numpy
+pandas
+requests
+yfinance
+
+
+
+# pip install -r requirements.txt
+
+# python3 -m venv venv
+# source venv/bin/activate
+# pip install -r requirements.txt
+# export GEMINI_API_KEY="Your Key"
+# python3 main.py
+
