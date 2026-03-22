@@ -1,4 +1,4 @@
-google-genai
+openai
 numpy
 pandas
 requests
@@ -11,6 +11,6 @@ yfinance
 # python3 -m venv venv
 # source venv/bin/activate
 # pip install -r requirements.txt
-# export GEMINI_API_KEY="Your Key"
+# export OPENAI_API_KEY="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"
 # python3 main.py
 

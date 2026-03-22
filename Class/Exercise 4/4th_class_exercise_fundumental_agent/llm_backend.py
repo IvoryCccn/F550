@@ -13,8 +13,7 @@ import time
 from typing import Any, Dict, List, Protocol
 
 import numpy as np
-from google import genai
-from google.genai import errors
+from openai import OpenAI, RateLimitError, APIError
 
 
 class LLMBackend(Protocol):
@@ -25,128 +24,141 @@ class LLMBackend(Protocol):
         ...
 
 
-class GeminiBackend:
+# ---------------------------------------------------------------------------
+# OpenAI backend
+# ---------------------------------------------------------------------------
+class OpenAIBackend:
+    """
+    OpenAI drop-in replacement for GeminiBackend.
+ 
+    Parameters
+    ----------
+    chat_model : str
+        Chat completion model. Recommended: "gpt-4o" or "gpt-4o-mini".
+    embed_model : str
+        Embedding model. Recommended: "text-embedding-3-small" (1536-dim)
+        or "text-embedding-3-large" (3072-dim).
+    api_key : str | None
+        Paste your key here directly, OR leave as None and set the
+        environment variable OPENAI_API_KEY instead.
+    temperature : float
+        Sampling temperature for chat completions.
+    max_output_tokens : int
+        Maximum tokens in the chat response.
+    max_retries : int
+        Number of retry attempts on rate-limit / transient errors.
+    """
+ 
     def __init__(
         self,
-        chat_model: str = "gemini-2.0-flash",
-        embed_model: str = "gemini-embedding-001",
-        api_key_env: str = "GEMINI_API_KEY",
+        chat_model: str = "gpt-4o",
+        embed_model: str = "text-embedding-3-small",
+        api_key: str = "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",
+        api_key_env: str = "OPENAI_API_KEY",
         temperature: float = 0.2,
         max_output_tokens: int = 800,
+        max_retries: int = 5,
     ):
-        api_key = os.getenv(api_key_env)
-        if not api_key:
-            raise RuntimeError(f"{api_key_env} is not set. Export your Gemini API key first.")
-
-        self.client = genai.Client(api_key=api_key)
+        resolved_key = api_key or os.getenv(api_key_env)
+        if not resolved_key:
+            raise RuntimeError(
+                f"OpenAI API key not found.  Either pass api_key=... or "
+                f"set the environment variable {api_key_env}."
+            )
+ 
+        self.client = OpenAI(api_key=resolved_key)
         self.chat_model = chat_model
         self.embed_model = embed_model
         self.temperature = temperature
         self.max_output_tokens = max_output_tokens
-
-    @staticmethod
-    def _render_messages(messages: List[Dict[str, str]]) -> str:
-        parts: List[str] = []
-        for m in messages:
-            role = (m.get("role") or "user").upper()
-            content = m.get("content") or ""
-            parts.append(f"{role}:\n{content}")
-        return "\n\n".join(parts)
-
+        self.max_retries = max_retries
+ 
+    # ------------------------------------------------------------------
+    # chat()  — mirrors GeminiBackend.chat()
+    # Input:  list of {"role": "user"|"system"|"assistant", "content": "..."}
+    # Output: {"content": "<response text>"}
+    # ------------------------------------------------------------------
     def chat(self, messages: List[Dict[str, str]]) -> Dict[str, Any]:
-        prompt = self._render_messages(messages)
-
-        for attempt in range(5):
+        """
+        Send a list of messages and return the assistant's reply.
+ 
+        The message format is the standard OpenAI format:
+            [{"role": "system", "content": "..."},
+             {"role": "user",   "content": "..."}]
+ 
+        The original GeminiBackend concatenated everything into one string;
+        here we pass the list directly — which is richer and more accurate.
+        """
+        for attempt in range(self.max_retries):
             try:
-                resp = self.client.models.generate_content(
+                response = self.client.chat.completions.create(
                     model=self.chat_model,
-                    contents=prompt,
-                    config={
-                        "temperature": self.temperature,
-                        "max_output_tokens": self.max_output_tokens,
-                    },
+                    messages=messages,          # type: ignore[arg-type]
+                    temperature=self.temperature,
+                    max_tokens=self.max_output_tokens,
                 )
-                text = getattr(resp, "text", None) or str(resp)
+                text = response.choices[0].message.content or ""
                 return {"content": text.strip()}
-            except errors.ClientError as e:
-                if "429" in str(e) or "RESOURCE_EXHAUSTED" in str(e):
-                    time.sleep(1.5 * (attempt + 1))
+ 
+            except RateLimitError:
+                wait = 1.5 * (attempt + 1)
+                print(f"[OpenAIBackend] Rate limit hit — waiting {wait:.1f}s (attempt {attempt + 1}/{self.max_retries})")
+                time.sleep(wait)
+                continue
+ 
+            except APIError as e:
+                # Retry on transient 5xx errors; raise immediately on 4xx
+                if e.status_code is not None and e.status_code >= 500:
+                    wait = 1.5 * (attempt + 1)
+                    print(f"[OpenAIBackend] Server error {e.status_code} — retrying in {wait:.1f}s")
+                    time.sleep(wait)
                     continue
                 raise
-
-        raise RuntimeError("Gemini chat failed after retries due to rate limits/quota.")
-
-    # def embed(self, texts: List[str]) -> np.ndarray:
-    #     vectors: List[List[float]] = []
-
-    #     for t in texts:
-    #         try:
-    #             r = self.client.models.embed_content(
-    #                 model=self.embed_model,
-    #                 contents=t,
-    #             )
-    #         except errors.ClientError as e:
-    #             raise RuntimeError(
-    #                 f"Embedding failed for model '{self.embed_model}'. "
-    #                 f"Original error: {e}"
-    #             ) from e
-
-            # emb = getattr(r, "embedding", None)
-            # if emb is None or getattr(emb, "values", None) is None:
-            #     raise RuntimeError("Unexpected embed response format from Gemini SDK.")
-            # vectors.append(list(emb.values))
-            
-        # return np.array(vectors, dtype=np.float32)
-    
-    
+ 
+        raise RuntimeError(
+            f"OpenAI chat failed after {self.max_retries} retries (rate limit / quota)."
+        )
+ 
+    # ------------------------------------------------------------------
+    # embed()  — mirrors GeminiBackend.embed()
+    # Input:  list of strings
+    # Output: np.ndarray of shape (len(texts), embedding_dim), dtype float32
+    # ------------------------------------------------------------------
     def embed(self, texts: List[str]) -> np.ndarray:
-        vectors: List[List[float]] = []
-    
-        for t in texts:
+        """
+        Embed a list of strings and return a 2-D float32 array.
+ 
+        OpenAI's embeddings endpoint accepts up to 2048 inputs per call,
+        so we batch them all in one request for efficiency.
+        """
+        if not texts:
+            return np.empty((0,), dtype=np.float32)
+ 
+        for attempt in range(self.max_retries):
             try:
-                r = self.client.models.embed_content(
+                response = self.client.embeddings.create(
                     model=self.embed_model,
-                    contents=t,
+                    input=texts,
+                    encoding_format="float",
                 )
-            except errors.ClientError as e:
-                raise RuntimeError(
-                    f"Embedding failed for model '{self.embed_model}'. "
-                    f"Original error: {e}"
-                ) from e
-    
-            # Gemini SDK returns `embeddings` in the documented examples.
-            embs = getattr(r, "embeddings", None)
-    
-            if embs is None:
-                # fallback for SDK shape variations
-                single = getattr(r, "embedding", None)
-                if single is not None and getattr(single, "values", None) is not None:
-                    vectors.append(list(single.values))
+                # response.data is a list of Embedding objects, sorted by index
+                vectors = [item.embedding for item in sorted(response.data, key=lambda x: x.index)]
+                return np.array(vectors, dtype=np.float32)
+ 
+            except RateLimitError:
+                wait = 1.5 * (attempt + 1)
+                print(f"[OpenAIBackend] Rate limit hit on embed — waiting {wait:.1f}s")
+                time.sleep(wait)
+                continue
+ 
+            except APIError as e:
+                if e.status_code is not None and e.status_code >= 500:
+                    wait = 1.5 * (attempt + 1)
+                    print(f"[OpenAIBackend] Server error {e.status_code} on embed — retrying in {wait:.1f}s")
+                    time.sleep(wait)
                     continue
-    
-                # helpful debug so we can inspect the actual object if needed
-                raise RuntimeError(
-                    f"Unexpected embed response format from Gemini SDK. "
-                    f"Response type={type(r)} repr={r}"
-                )
-    
-            if len(embs) == 0:
-                raise RuntimeError("Gemini embed_content returned no embeddings.")
-    
-            first = embs[0]
-            values = getattr(first, "values", None)
-    
-            if values is None:
-                raise RuntimeError(
-                    f"Gemini embed_content returned embeddings without `.values`. "
-                    f"First item type={type(first)} repr={first}"
-                )
-    
-            vectors.append(list(values))
-    
-        return np.array(vectors, dtype=np.float32)
-        
-    
-    
-    
-    
+                raise
+ 
+        raise RuntimeError(
+            f"OpenAI embed failed after {self.max_retries} retries (rate limit / quota)."
+        )

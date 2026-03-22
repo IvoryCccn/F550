@@ -11,7 +11,7 @@ from __future__ import annotations
 import os
 import pandas as pd
 
-from llm_backend import GeminiBackend
+from llm_backend import OpenAIBackend
 from sec_fundamentals import SecConfig, build_quarter_table, build_filing_date_events
 from market_data import get_price_series
 from valuation_agent import ValuationAgent, ValuationInputs, ValuationAgentConfig
@@ -35,8 +35,8 @@ def main():
     start = "2022-01-01"
     end = "2026-01-01"
 
-    if not os.getenv("GEMINI_API_KEY"):
-        raise RuntimeError("Set GEMINI_API_KEY first.")
+    if not os.getenv("OPENAI_API_KEY"):
+        raise RuntimeError("Set OPENAI_API_KEY first.")
 
     sec_cfg = SecConfig(user_agent="ValuationAgent xyz@gmail.com")
 
@@ -45,9 +45,9 @@ def main():
     prices = prices.sort_index().astype(float)
     prices = prices[~prices.index.duplicated(keep="first")]
 
-    llm = GeminiBackend(
-        chat_model="gemini-2.0-flash",
-        embed_model="gemini-embedding-001",
+    llm = OpenAIBackend(
+        chat_model="gpt-4o",
+        embed_model="text-embedding-3-small",
         temperature=0.2,
         max_output_tokens=800,
     )
