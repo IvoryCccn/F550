@@ -53,7 +53,7 @@ class OpenAIBackend:
         self,
         chat_model: str = "gpt-4o",
         embed_model: str = "text-embedding-3-small",
-        api_key: str = "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",
+        api_key: str | None = None,
         api_key_env: str = "OPENAI_API_KEY",
         temperature: float = 0.2,
         max_output_tokens: int = 800,
