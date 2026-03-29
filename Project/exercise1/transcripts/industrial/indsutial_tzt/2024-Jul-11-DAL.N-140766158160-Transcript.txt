@@ -1,0 +1,805 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q2 2024 Delta Air Lines Inc Earnings Call
+JULY 11, 2024 / 2:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Edward Bastian
+   Delta Air Lines Inc - Chief Executive Officer, Director
+ * Glen Hauenstein
+   Delta Air Lines Inc - President
+ * Julie Stewart Stewart
+   Delta Air Lines Inc - Vice President, Investor Relations and Corporate Development
+ * Daniel Janki
+   Delta Air Lines Inc - Chief Financial Officer, Executive Vice President
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Tom Fitzgerald
+   TD - Analyst
+ * Mike Linenberg
+   Deutsche Bank - Analyst
+ * Leslie Josephs
+   CNBC - Media
+ * Sheila Kahyaoglu
+   Jefferies - Analyst
+ * Mary Schlangenstein
+   Bloomberg News - Media
+ * Ravi Shanker
+   Morgan Stanley - Analyst
+ * Jamie Baker
+   JPMorgan - Analyst
+ * Andrew Didora
+   BofA Global Research - Analyst
+ * Duane Pfennigwerth
+   EVERCORE ISI - Analyst
+ * Savanthi Syth
+   Raymond James - Analyst
+ * Scott Group
+   Wolfe Research - Analyst
+ * Conor Cunningham
+   Melius Research - Analyst
+ * Brandon Oglenski
+   Barclays - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good morning, everyone, and welcome to the Delta Air Lines June quarter 2024 financial results conference call. My name is Matthew, and I'll be your coordinator. (Operator Instructions)
+I would now like to turn the conference over to Julie Stewart, Vice President of Investor Relations. Please go ahead.
+
+--------------------------------------------------------------------------------
+Julie Stewart Stewart,  Delta Air Lines Inc - Vice President, Investor Relations and Corporate Development    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, Matthew, and good morning, everyone, and thanks for joining us for June quarter 2024 earnings call. Joining us today our CEO, Ed Bastian; our President, Glen Hauenstein; our CFO, Dan Janki. Ed will open the call with an overview of Delta's performance and strategy. Glen will provide an update on revenue environment and Dan will discuss costs in our balance sheet. After the prepared remarks we'll take analyst questions we ask that you please limit yourself for one question and the brief follow up, so that we can get as many as possible. And after the analyst Q&A, we will move to our media questions.
+Today's discussion contains forward-looking statements that represent our beliefs or expectations about future events. All forward-looking statements about risks and uncertainties that could cause the actual results to differ materially from forward-looking statements. Some of the factors that may cause such differences are described in Delta's SEC filing. We will also discuss non-GAAP financial measures and all of those exclude special items unless otherwise noted. You can find a reconciliation of non-GAAP measures on the Investor Relations page at ir.delta.com.
+And with that, I'll turn the call over to Ed.
+
+--------------------------------------------------------------------------------
+Edward Bastian,  Delta Air Lines Inc - Chief Executive Officer, Director    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Julie, and good morning, everyone, we appreciate you joining us today. Earlier this morning, we reported our June quarter results posting pretax earnings of $2 billion or $2.36 per share on record quarterly revenue of 5.4% over last year. These results, our second highest quarterly earnings in our history. We achieved a 15% operating margin in generated $1.3 billion of free cash during the quarter, bringing our first half free cash flow to $2.7 billion.
+With strong cash generation, we continue to progress our balance sheet back towards investment-grade metrics and announced a 50% increase to our quarterly dividend. We delivered a return on invested capital of 13%, 5 points above our cost of capital and in the top half of the S&P 500.
+Delta's leadership is increasingly being recognized, alongside some of the world's best companies. Just last month, Delta was ranked fourth in the Fortune 500 return on leadership by Fortune and Indigo, just behind NVIDIA and Microsoft. Through the year, our teams have delivered industry-leading operational performance in month and month out with Delta leading across all key metrics, including completion factor, on-time departures, and arrivals.
+This performance builds on our long-standing position as the most reliable airline in the US. And I'd like to thank all 100,000 members of our team for their exceptional work, taking care of our customers each and every day. They are truly the best in the business.
+Recognizing the extraordinary skill and care of our people, Delta was named the 2024 Global Airline of the Year by Air Transport World at the recent IATA annual meeting and for the sixth year in a row, The Points Guy rank Delta as the best US airlines. Delta was also recently named the top right carrier, across all premium cabins and J.D. Power's North American Airlines Satisfaction Study.
+Sharing our success with our people is core to our culture, and we are at the forefront on total rewards for our employees. We provided a 5% pay raise on the June 1, to eligible employees than we have accrued more than $640 million in profit sharing through the first half of the year. I am confident our profit sharing payout next February will continue to lead the industry by a wide margin.
+Our people are the foundation that enables Delta to deliver elevated experiences to our customers. To further differentiate our service excellence. We are making high return investments that may travel more seamless and connected, including generational airport rebuilds, the most comprehensive lounge network in the industry, expanded premium offerings and fast free WiFi onboard.
+Just a few weeks ago, we opened our new Delta One Lounge in JFK, the first-of-its-kind. It offers a variety of world-class amenities for our customers from fine dining to spa treatments. And later this year, we'll open Delta One Lounges in Boston and Los Angeles and in Seattle early next year. We're also enhancing existing Delta Sky Clubs with the recent expand of the Miami and the Gordian clubs.
+Onboard we have upgraded service in our Delta Premium Select cabin and will expand this popular product to select transcontinental fights this fall. We recently released the most comprehensive refresh of the fly Delta app in the last five years. Updates to the app added new features and functionality to save customers time and manage their travel even when the unexpected happens.
+Since the launch, a record number of customers that visit the app, the self-service usage during periods of disruption, up five full points, improving the customer experience. And more and more customers are joining our SkyMiles loyalty program and deepening engagement beyond flight for about 30% of our active members carrying Delta SkyMiles American Express credit card in their wallet.
+New card acquisitions are skewing younger, and the overall portfolio continues to shift to a more premium mix positioning us well to achieve our long-term remuneration goal of $10 billion.
+Finally, just this week, we are excited to announce an exclusive partnership with Riyadh Air, a new global carrier that will begin service in Saudi Arabia next year. Riyadh Air will be the premier international airline for Saudi Arabia and this partnership will expand connectivity and premium travel options for both airlines across North America, the Kingdom of Saudi Arabia, and beyond.
+The agreement comes a bit large-scale investments in the region that are rapidly transforming the Kingdom of Saudi Arabia into a popular destination for leisure and business travel with tremendous opportunity for growth. All of our continued investments across the travel ribbon strengthen Delta's trusted brand and build on our long-term journey to elevate the travel experience and increase our financial durability.
+Delta's industry leadership has never been greater. And while demand for air travel remains strong, with record TSA travel volumes up 7% from last year's levels; domestic industry seek growth has accelerated through the summer months, impacting yield performance in the main cabin. As the carrier of choice with a diversified revenue base, Delta is the most insulated from this dynamic.
+We are delivering double-digit margins and strong returns in this environment, with Delta expected to generate 50% of the industry's profitability in the first half of the year despite only representing 20% of the market capacity. That said, we are encouraged by the actions the industry is taking. Seat growth is decelerating, and there appears to be increased focus on improving financial performance. While our returns are strong, I'm confident that we'll see an even more constructive industry backdrop through the back half of the year into 2025.
+Turning to our outlook, travel remains a top purchase priority and Delta's core customers are in a healthy position. The secular shift in consumer spends, prioritize experiences align perfectly with Delta's strategy and premium focus across our global network. Air travel demand is at record levels with this past Sunday marking Delta's highest ever summer revenue day.
+For the September quarter, we expect continued demand strength, a double-digit operating margin, and a pretax profit of approximately $1.5 billion. Glen and Dan will provide more details on our third-quarter outlook. With strong first half performance and good visibility into the second half, we remain confident in our full year guidance for earnings of $6 to $7 per share, free cash flow of $3 billion to $4 billion, and leverage of 2.5 times.
+In closing as we approach our 100 year anniversary in 2025, Delta is in a stronger position than ever before. Our industry-leading performance reflects the strength of Delta's differentiated brand and returns focused strategy. And with our clear prioritization of free cash flow and debt reduction, Delta is exceptionally well positioned to deliver significant shareholder value. We look forward to sharing more about our long-term strategic and financial goals at our upcoming Investor Day in New York this November.
+Thank you again. And with that, let me hand it over to Glen for more details on our commercial performance.
+
+--------------------------------------------------------------------------------
+Glen Hauenstein,  Delta Air Lines Inc - President    [4]
+--------------------------------------------------------------------------------
+
+          Thank you, Ed, and good morning.
+I want to start by thanking our employees for their hard work and dedication. They are the Delta difference. Revenue for the June quarter increased 5.4% year over year to a record $15.4 billion. Total unit revenue was down 2.6% compared to last year. Below our guidance due to three dynamics.
+First, domestic industry seat growth accelerated into the summer months beyond normal demand growth. This has impacted main cabin unit revenue trends through the summer with scheduled seat growth decelerating into the whole June and July will be the low point with unit revenue trends expected to significantly improve in August and beyond.
+Second, we are seeing about a $100 million impact on travel to Paris for the Olympics from June to August. Outside of this temporary event, summer travel demand to Europe is strong and consistent with our expectations. And lastly, as Ed noted, we ran a great operation with a high completion factor.
+Premium continued to outperform and differentiate our results. Premium revenue was up 10% over prior year with positive unit revenue growth. We have runway ahead as we continue adding more premium seat store aircraft improving our retailing capabilities and further segmenting our products.
+Loyalty has also outperformed with revenue up 8% as our SkyMiles member base continues to expand. Spend growth in our co-brand card portfolio is expected to continue outpacing the credit card industry. American Express renumeration for the quarter was $1.9 billion, up 9% year over year.
+Cargo revenue was 16% higher than the previous year, a significant improvement from the last 12 months, and we are encouraged by the trends we're seeing. Diverse revenue streams generated 56% of total revenue. These valuable revenue streams were led by a premium and loyalty are continuing higher growth in margins underpinning Delta's industry-leading financial performance and increasing our financial durability.
+Domestic passenger revenue was up 5% over the prior year, and international passenger revenue grew 4% over last year's record June quarter. As the business carrier of choice, Delta benefited from double-digit volume growth in this high value segment with a broad demand growth across all sectors. Looking forward, demand for travel on Delta remains robust. Our core customer base is healthy and demand for premium products continues to outperform the main cabin.
+We expect the strong growth in business travel to continue with 90% of companies in our recent corporate survey saying we intend to maintain or increase travel volumes in the back half of the year. International demand is strong and continues to benefit from demographic shifts, US point of sale changes, and an extension of the leisure travel season. As our international network and core hubs approach full restoration, and we return to a more normal cadence of retiring aircraft Delta's capacity growth decelerate into the second half of the year.
+For the September quarter, we expect capacity growth of 5% to 6% and revenue growth of 2% to 4%. Total unit revenue is expected to sequentially improve each month. In domestic, we expect an inflection to positive unit revenue growth in the month of September. We also expect transatlantic unit revenue trends to improve into the fall. And in Latin America, we expect unit revenue trends to progressively improve through the back half of the year.
+Lastly, in the Pacific, we are continuing to restore our network and are very pleased with the early results from our new service to Taipei and the success of our partnership with Korean Air. Specific margins are sustaining at a meaningfully higher level than pre-pandemic due to our multi-year restructuring driving sustainable profitability.
+For the full year, we expect to deliver a sustained unit revenue premium, double-digit margins, and returns well in excess of our cost of capital. Our ability to deliver these outstanding results while the industry works to reestablish equilibrium reflects Delta's growing differentiation and leadership.
+In closing, I want to congratulate the Delta team for an outstanding first half of 2024. We are well positioned to continue our momentum through the second half and for years to come.
+And with that, I'll turn it over to Dan to talk about the financials.
+
+--------------------------------------------------------------------------------
+Daniel Janki,  Delta Air Lines Inc - Chief Financial Officer, Executive Vice President    [5]
+--------------------------------------------------------------------------------
+
+          Thank you, Glen, and good morning to everyone.
+For the June quarter, we delivered pretax income of $2 billion on a 15% operating margin. Earnings of $2.36 per share was in line with our guidance and in line with 2019 despite fuel prices that were more than 25% higher. Nonfuel chasm was up 0.6% year over year, more than one point better than guidance, primarily on stronger completion factor. A great operation is the foundation of a competitive cost structure. And in the June quarter, we delivered a 99.5% system and completion factor, including 13 cancel free brand perfect days .
+For the first half. Delta has delivered 39 brand perfect days more than all of last year combined. Fuel prices averaged $2.64 per gallon for the quarter. This included a $0.06 benefit from the refinery profit of $60 million. Fuel efficiency was 1.1% better than last year, benefiting from the continued renewal of our fleet and running a great operation.
+Operating cash flow in the first half was $4.9 billion and after and reinvesting $2.3 billion back into the business, we generate free cash flow of $2.7 billion. Strong cash generation has support debt repayment of $2.1 billion year to date, including $900 million of early repayments.
+Gross leverage ended the quarter at 2.8 times. We remain on track to repay $4 billion of debt this year and are committed to further strengthening our balance sheet with a focus on returning to full investment grade. Delta is currently investment-grade rated at Moody's and BB+ at both S&P and Fitch with all agencies with a positive outlook.
+With strong results and cash flow for the first half, we announced a 50% increase in our quarterly dividend, this puts our annualized dividend yield at just over 1% in line with the S&P 500.
+Now moving to the September quarter guidance, combined with our outlook for top-line growth, we expected operating margin of 11% to 13% with earnings of $1.70 to $2 per share. Fuel prices are expected to be $2.60 to $2.80 per gallon, including approximately 5% contribution from the refinery. Finery margins have normalized, and profits are expected to be $60 million lower compared to third quarter of last year.
+Non-fuel unit costs are expected to be 1% to 2% higher than last year on 5% to 6% capacity growth. With normalized growth and consistency in delivering a great operation, we are making progress in driving efficiency and growing into our resources. On maintenance, the investment in fleet health we made since last summer are paying off with maintenance cancellations in the first half, down 77% over prior years.
+We continue to expect full year maintenance expense to be up $350 million over 2023 as we progress through elevated volume of heavy airframe and engine checks and continue to manage industry-wide supply constraints. The majority of this increase was in the first half of the year, with second half maintenance expense expected to be similar on a year-over-year basis.
+Total non-fuel unit costs in the second half are expected to increase in the low-single digits as we fund investments in our people and brand and capacity growth decelerates. For the year, our fleet growth is expected to be less than 2%, including approximately 40 aircraft deliveries and 20 retirements. Our unencumbered asset base is expected to grow to $30 billion by year end as we continue to pay cash for our new deliveries.
+We remain confident in our full year outlook of earnings of $6 to $7 per share and free cash flow of $3 billion to $4 billion with full year CapEx expected to be $5 billion. With a continued focus on margin and returns to drive sustained cash flow generation, Delta is well positioned to improve our balance sheet to investment-grade metrics and deliver shareholder value.
+In closing, Delta's industry leading performance is a direct result of the hard work of our employees. I want to thank the Delta people for continuing to go above and beyond for our customers and each other every day.
+And with that, I'll turn it back to Ed for a final remark.
+
+--------------------------------------------------------------------------------
+Edward Bastian,  Delta Air Lines Inc - Chief Executive Officer, Director    [6]
+--------------------------------------------------------------------------------
+
+          Thank you, Dan.
+Before we begin to Q&A, I want to personally recognize and congratulate Helane Becker on a very accomplished career as an analyst covering this industry for four decades. Helane, I have a great amount of respect for you and for all the work that you've done through the years. And while I know you'll be continuing in an advisory role, we will miss working with you and wish you all the best. May the golf God speak to you.
+Operator, please begin the Q&A.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator instructions)
+Conor Cunningham, Melius Research.
+
+--------------------------------------------------------------------------------
+Conor Cunningham,  Melius Research - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Congratulate and good luck in on the golf game.
+In terms of the comment on September for the US domestic market, can you just help bridge the gap there? My guess is that you're pretty minimally booked for September so is just an industry supply getting better -- just given a discounting that's happening, right now. Just all hard around macro matter and so just any thoughts there would be helpful. Thank you, sir.
+
+--------------------------------------------------------------------------------
+Glen Hauenstein,  Delta Air Lines Inc - President    [3]
+--------------------------------------------------------------------------------
+
+          Sure, Conor. I wouldn't say we are minimally booked. We probably have about a September 3, bookings domestically on hand. So we have a good base and the base we have is substantially better than the base we have going into July and August at minus 60 days.
+So we see a much better base. And then, of course, the core economics of the industry's capacity coming continuing to come down and going back into a more normalized business season where business tends to tick up from August to September. So I think when you think about one of our core strengths being business, July and August, that's not ever been peak for business. So as we move back into the business season, given the trends we've seen in business demand, we think that will be another uplift.
+So really confident about our September numbers and really confident that not only have domestically improving substantially, but international is also improving dramatically.
+
+--------------------------------------------------------------------------------
+Conor Cunningham,  Melius Research - Analyst    [4]
+--------------------------------------------------------------------------------
+
+          Helpful. And then maybe bigger picture issue that we've been grappling with is just like the overall structure of the industry over the next couple of years. I get the idea that the current state of industry margin into changing outside of Europe and United. But can you just give us how confident are you not there actually be structural changes going forward?
+Is the pushback we get? Is that as just kind of just the same old industry that just continues to oversupply the market from time to time? So just any thoughts on the bigger industry, our industry picture that? Thank you.
+
+--------------------------------------------------------------------------------
+Glen Hauenstein,  Delta Air Lines Inc - President    [5]
+--------------------------------------------------------------------------------
+
+          Well, I'll comment on the capacity and then let me take the broader question. On capacity I do think, listen, this is an industry that's always challenging itself for how much capacity can be in the marketplace. And I've been doing this for 40 years, and I've never seen the industry react so quickly to an oversupply. So we really only been in an oversupply situation for a couple of months here and your industry has already reacted. And I think that's very different than it was years ago, where it would stay for prolonged periods of time. So I'm really excited about how the industry is behaving at this point.
+And for the broader question, I'll turn it back to Ed.
+
+--------------------------------------------------------------------------------
+Edward Bastian,  Delta Air Lines Inc - Chief Executive Officer, Director    [6]
+--------------------------------------------------------------------------------
+
+          Conor to Glen's point, the law of economics are physics whatever you want to say is going to have to work. You cannot if you're on the lower end of the industry's food chain continue to post losses, particularly given the health of the demand set we've all seen over these last couple of years. So I don't know what form that will take. But I guarantee you and you already starting to see capacity is always the effort is usually the first thing that you lever you have available, but there will be more levers available as well.
+The health of the industry broadly is in pretty good shape. Now I recognize what I just said, the lower half is struggling. But if you look at where we all need to go as an industry is that we need to continue to better differentiate and provide value to our customers. Value in this industry for many years was defined as having the lowest fare in the market. That change has changed dramatically.
+The experience economy that we've seen has taken hold. That's driven the high demand set that we are seeing and continue to see an even with the third quarter revenue quote-unquote disappointment is still going to be a record set of revenues that we're going to see this quarter.
+I'm convinced across the industry is rewarding those that are providing real value, meaning a better quality experience, better value for money in terms of the product we're offering and reliability, coupled that with the higher cost of entry higher than we've ever seen, whether it's labor, whether it's the constraints in the environment, the infrastructure, OEM engine supply, this is turning into an industry that is going to be needing to return its cost of capital or will not be those that don't will not be given the opportunity to continue to run the business models they have.
+So I realize I'm talking my own book, and I appreciate that there's a lot of other work that others need to lift this, and we're driving 50% of the overall industry profitability here at Delta. There's only so much more we can do on our own. And as things get better, Delta is only going to be beneficiary.
+
+--------------------------------------------------------------------------------
+Conor Cunningham,  Melius Research - Analyst    [7]
+--------------------------------------------------------------------------------
+
+          Great. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+
+          Savi Syth, Raymond James.
+
+--------------------------------------------------------------------------------
+Savanthi Syth,  Raymond James - Analyst    [9]
+--------------------------------------------------------------------------------
+
+          Just I think, Conor Boeing challenges. I well understood that the uptake from Airbus a few weeks ago was surprising. And I wonder you could talk about how you're managing through the supply chain issues and any early thoughts on how you're thinking things evolve in 2025 in terms of just managing the operation, but also in terms of kind of planning for growth.
+
+--------------------------------------------------------------------------------
+Edward Bastian,  Delta Air Lines Inc - Chief Executive Officer, Director    [10]
+--------------------------------------------------------------------------------
+
+          Savi, this is Ed. I'll take that.
+Airbus like Boeing continues to have certain delivery challenges. Obviously, nowhere close to the challenges that Boeing has experienced. And as one of Airbuses largest and best customers, Delta again is insulated somewhat from that. We're going to take largely the delivery schedule that we anticipated for the year. You have some may slip for you're talking about slip, meaning in terms of weeks and months, not years of delay.
+And as long as we have as we do have pretty good notice of where the delays in delivery are coming, we will be just fine in 2025 I don't anticipate us having any problems with aircraft that we're going to need for the capacity we'd like to fight.
+
+--------------------------------------------------------------------------------
+Savanthi Syth,  Raymond James - Analyst    [11]
+--------------------------------------------------------------------------------
+
+          I am guessing then on an operational standpoint, maybe not expecting any improvement cited as having just extra buffers will continue.
+
+--------------------------------------------------------------------------------
+Edward Bastian,  Delta Air Lines Inc - Chief Executive Officer, Director    [12]
+--------------------------------------------------------------------------------
+
+          We have a large fleet and our maintenance capabilities continue to improve the challenge we face on the maintenance front-end to be more parts supply than anything else as well as the all these new engine platforms that are out there from the GTF to the late to the trends stabilizing, but they continue to get better.
+And I think the opportunities for us as things stabilize and is it's become more available and as new aircraft continue to deliver will be for us to resume the retirement of our older fleet, which we indicated is already starting to do and which will create even more parts availability back to our maintenance team.
+
+--------------------------------------------------------------------------------
+Savanthi Syth,  Raymond James - Analyst    [13]
+--------------------------------------------------------------------------------
+
+          That's helpful. Thanks, Ed.
+And if I might, Glen, asked about on the left-hand side, you mentioned kind of encouraged that we are seeing that as kind of curious on the unit revenue pressure. Is that still coming from short haul with long haul still largely flattish even despite the growth? And where are you expecting the improvement as you go through?
+
+--------------------------------------------------------------------------------
+Glen Hauenstein,  Delta Air Lines Inc - President    [14]
+--------------------------------------------------------------------------------
+
+          Actually long-haul south has inflected positive and its remaining solidly positive throughout the third quarter here. So we're pretty excited about those results. And yes, still not lapping the reduction capacity in the leisure short haul portfolio. But that is in play, and it looks that the industry is going to be much more disciplined in terms of capacity levels this winter versus last winter. So we're looking at really positive momentum of that moving forward and that continuing.
+
+--------------------------------------------------------------------------------
+Savanthi Syth,  Raymond James - Analyst    [15]
+--------------------------------------------------------------------------------
+
+          I appreciate it. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+
+          Jamie Baker, JPMorgan.
+
+--------------------------------------------------------------------------------
+Jamie Baker,  JPMorgan - Analyst    [17]
+--------------------------------------------------------------------------------
+
+          So Glen, this concept of unbundling the front cabin is one that I've been thinking about. And in part because unbundling segmenting the rear cabin has been such a success for Delta and a few others. I want to be careful about asking about future pricing on that, but I'm curious what the pros and cons are in terms of possibly going down this path or is one price for all how we should continue to think about the D1 cabin?
+
+--------------------------------------------------------------------------------
+Glen Hauenstein,  Delta Air Lines Inc - President    [18]
+--------------------------------------------------------------------------------
+
+          I think you're going to have to come to Investor Day to hear more about that. We've talk conceptually about that. I think we'll be giving you more details as we get, but we're not ready to talk about the details of those plans moving forward. I think Investor Day this year should be very exciting.
+
+--------------------------------------------------------------------------------
+Jamie Baker,  JPMorgan - Analyst    [19]
+--------------------------------------------------------------------------------
+
+          I'm confident that we'll work it into by his schedule.
+And then, you know, maybe maybe for Ed or for Glen, at a high level, it seems that those airlines that are currently under duress are sort of beginning to lean into premium and maybe premium is too strong of a term. But you know, some of the more punitive ancillary charges, change fees are disappearing, but as an option of empty middle seat, Southwest and said they're looking at some sort of enhancements to their product.
+I'm just curious if this is something you and the team think about the conventional wisdom is that premium spoils belong to Delta, but what we're seeing today is that Delta is not entirely isolated from a low-end overcapacity. I'm just thinking down the road if we could find Delta isn't it isolated from, let's call it, pseudo-premium overcapacity? Any thoughts there? Thanks in advance.
+
+--------------------------------------------------------------------------------
+Edward Bastian,  Delta Air Lines Inc - Chief Executive Officer, Director    [20]
+--------------------------------------------------------------------------------
+
+          So Jamie, that's a good question. It's certainly something that we will look at. Your premium is more than just putting more seats or excuse me, more and more room in seats. And it's the overall experience, right. And yes, I think all of those experiments that we hear about some of the lower fare airlines, or the discount airlines are considering you can't blame on.
+I would oppose them consider some of those as well. But premium is also based on a foundation of overall reliability and service first and foremost, and that's what we have focused on and specialized and done better over the last 15 years and then the airline and we continue to get better.
+And in fact, the operations we've run this year for the best in the industry across every measure, every month, month-in and month-out. That gives you then freedom to actually deliver true premium experiences, comparative somewhat deal, maybe more superficial experience, and that may is what we're best at. That's why business travelers choose Delta there. That's why we have the opportunities internationally that we do. That's why American Express, top credit card provider in the world my opinion chooses Delta as their exclusive partner.
+So I think there's room for more and I would in the industry needs to continue to find better, better ways away. It's to manage the higher cost that they're facing. Remember, the cost to serve has gone up for everybody, but especially for the discounters. And the only way you can cover that is providing a better experience.
+
+--------------------------------------------------------------------------------
+Jamie Baker,  JPMorgan - Analyst    [21]
+--------------------------------------------------------------------------------
+
+          Yes, that's great. Thank you very much for that response. Take care. See you at the Investor Day.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+
+          Tom Fitzgerald, TD.
+
+--------------------------------------------------------------------------------
+Tom Fitzgerald,  TD - Analyst    [23]
+--------------------------------------------------------------------------------
+
+          Sticking with the premium cabin for a little bit, would you mind just unpacking to some of the trends in the first half and outlook in the second half is among the different buckets like D1, Premium Select, domestic first class and Comfort plus, Pay load factors booking? Anything else notable you'd call out? Thanks.
+
+--------------------------------------------------------------------------------
+Glen Hauenstein,  Delta Air Lines Inc - President    [24]
+--------------------------------------------------------------------------------
+
+          That's a loss. I think what we're very excited about this year is this is the first year that we have ubiquity and Delta Premium Select, and that program has exceeded our internal expectations with load factors in the mid-to high 80s and fare structures that are more than 2x what a coach fares are.
+So really great margins. They're great margins continuing and D1 domestic first leading the pack in domestic industry. We're really excited to start rolling out DPS and the transcons this fall with all of our JFKLA for those of you who follow this industry, the largest revenue market in their country is JFKLA and having a full suite of products in their marketplace we think will be very accretive and we're out selling it now.
+And September, October advances already looked very strong there. So I think continuing that elevation margins continue to be really in sequence with the best products continuing to have the highest margins in that main cabin coach having the lowest margins.
+
+--------------------------------------------------------------------------------
+Tom Fitzgerald,  TD - Analyst    [25]
+--------------------------------------------------------------------------------
+
+          That's definitely helpful. Thanks for that color, Glen.
+And then just quickly, if I may, one for Dan, how should we think of? And this is a topic for the whole industry, I think. But just how are you that the team thinking about the PSP loans resetting to a variable rate? I think it's [SOFR] plus two and 2025 and 2026 and just in the context of the broader deleveraging story. Thanks again for the time.
+
+--------------------------------------------------------------------------------
+Daniel Janki,  Delta Air Lines Inc - Chief Financial Officer, Executive Vice President    [26]
+--------------------------------------------------------------------------------
+
+          Yes, as you know, we continue to focus on deleveraging. We've made a lot of progress since October 20, $24 billion of debt. So deleveraging will continue to be at the forefront. When you think about those particular traunches, our first one doesn't come due at April second quarter of next year. And then we have another tranche in first quarter and second quarter of 2026. We'll look at market conditions at that point in time where we are on short term rates versus long-term rates.
+And whether that would be a long term part of the capital structure, it makes more sense to put in other types of debt and refi that out. And those will be things that we'll probably talk more about in detail at as we get closer, especially at Investor Day. But as we get to the end of the year in the beginning of next year.
+
+--------------------------------------------------------------------------------
+Operator    [27]
+--------------------------------------------------------------------------------
+
+          Mike Linenberg, Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Mike Linenberg,  Deutsche Bank - Analyst    [28]
+--------------------------------------------------------------------------------
+
+          I guess I had a question to Dan and even the team. You guys are very helpful when you guys call out where air traffic liability and how much it's up at least since your end. And I certainly think we're at a point a year where only the next few weeks that's going to shift the other way. And I think you can have a bit more pronounced for some of those who maybe having more scale in our northern hemisphere route network.
+When I think about, you know, maybe, Glen, can you talk about the extension of a transatlantic and authentic strength that you're paying now. It's deep South America and how that's going to improve in the back part ofthe air combined with corporate. How should we think about yourself air traffic liability and a half to be a much bigger hit to cash?
+And I still think for some carriers is going to be a bit of a wake-up call as we head into the back half of the year. But I think for you guys, like how should we think about it and maybe some of those measures that you’ve done to sort of mitigate? Thanks. I have a follow-up.
+
+--------------------------------------------------------------------------------
+Daniel Janki,  Delta Air Lines Inc - Chief Financial Officer, Executive Vice President    [29]
+--------------------------------------------------------------------------------
+
+          First half. It is up there. You can see it is up $2.4 billion. It's up a few hundred million dollars over last year. Whereas it supports our revenue forecast for third quarter as you get into the back half of year, certainly the elongation of the year title season helps as it relates to balance that as you go through third quarter and fourth quarter. And also the fact that corporate continues to outgrow consumer, that is also bringing it back into what I' d say is more normalized curve as it relates to historical perspective.
+When you look at it year over year, you still got the oddity of last year, you had multiple years of travel candidate. So this is the first year that it's much cleaner as we go through credit, create a better base as you think about it for '24 and '25 and start to evaluate it.
+Great. And then just my second question on, I think Ed or Glen, you talked about you have capacity has been one of the first letters that we'll see -- . As we think about where they cut back and maybe certain airports in particular, there an opportunity maybe for you to pick up additional case base in some of your bigger airports And I think the CapEx coming back into potentially in Atlanta, Orlando opportunities where things are tight, you'll get additional real estate. Any thoughts on that? Thanks.
+
+--------------------------------------------------------------------------------
+Edward Bastian,  Delta Air Lines Inc - Chief Executive Officer, Director    [30]
+--------------------------------------------------------------------------------
+
+          Thanks, Mike. This in all a concern that as we're always interested in serving underserved communities.
+
+--------------------------------------------------------------------------------
+Mike Linenberg,  Deutsche Bank - Analyst    [31]
+--------------------------------------------------------------------------------
+
+          Okay. Very good.
+
+--------------------------------------------------------------------------------
+Operator    [32]
+--------------------------------------------------------------------------------
+
+          Scott Group, Wolfe Research.
+
+--------------------------------------------------------------------------------
+Scott Group,  Wolfe Research - Analyst    [33]
+--------------------------------------------------------------------------------
+
+          So we've talked a lot about just the overall industry capacity outlook, but I wanted to get a little bit of Delta color, right. So your capacity was up 8% in the second quarter. You're saying 5% to 6% in the third quarter. I guess any color you can share on your capacity plans entering 2025 just to help get the industry supply demand more imbalanced. Do you anticipate getting GDP or sub GDP type capacity growth? Or do you think as you plan for Delta specifically, do you think you stay above GDP?
+
+--------------------------------------------------------------------------------
+Glen Hauenstein,  Delta Air Lines Inc - President    [34]
+--------------------------------------------------------------------------------
+
+          I think we're not going to give capacity growth for 2025 at this point. We've got a lot of runway left of this year. I would point out one thing that I think is really important that we ought to just note is that the difference between seats in ASMs and many of you work your models on ASMs, others work on seats. And I would think when you're looking within an entity, it's really the seat count is most important because we don't sell ASMs we sell seats.
+And when you think about our capacity growth, although it was a we only grew our seats at about five or less. So there's a stage length difference in our stage length . It is actually a little bit longer than we had in the plan because we saw some opportunities on some of the longer-haul flying as people restructure through the year.
+So I call it back to let's not talk about ASMs. Let's talk about seats within theater. So I think that's a much better representation of what the industry is facing. And one, we are all key and on as we move forward and trying to figure out where the industry is going, so too early for '25 in terms of capacity, that will be clearly over the back half of the year. We will reveal more about that. But secondly , trying to think about seats as our measure domestically is what we're trying to sell.
+
+--------------------------------------------------------------------------------
+Daniel Janki,  Delta Air Lines Inc - Chief Financial Officer, Executive Vice President    [35]
+--------------------------------------------------------------------------------
+
+          And the thing I'd add onto that line is that 80% of that demand has the capacity growth is going into our core hubs. And to Glen's point important point on seats as we get into the back half of this year fourth quarter is the first time we'll have our core hubs restored levels that they work from a seat perspective right at the start of this 2019--
+
+--------------------------------------------------------------------------------
+Glen Hauenstein,  Delta Air Lines Inc - President    [36]
+--------------------------------------------------------------------------------
+
+          Still versus '19 we are the lease structure restored in terms of seats.
+
+--------------------------------------------------------------------------------
+Daniel Janki,  Delta Air Lines Inc - Chief Financial Officer, Executive Vice President    [37]
+--------------------------------------------------------------------------------
+
+          Yeah.
+
+--------------------------------------------------------------------------------
+Scott Group,  Wolfe Research - Analyst    [38]
+--------------------------------------------------------------------------------
+
+          Okay. And then I just wanted to when I think about the guide, right, if I just take the midpoint of the Q3 guide and then the midpoint of the full year guide, it basically implies fourth quarter earnings, just the absolute earnings pretty similar with the third quarter, and that's pretty atypical rate. It's usually we usually see a step down. Any color on how to think about that dynamic this year? It might be different.
+
+--------------------------------------------------------------------------------
+Daniel Janki,  Delta Air Lines Inc - Chief Financial Officer, Executive Vice President    [39]
+--------------------------------------------------------------------------------
+
+          Yeah, fourth quarter on last year was the only quarter we were down year over year. You also had very high fuel in the fourth quarter last year at $3. The current will have to see where that plays out, but the current board of that is much lower so you get that benefit. And I think it's also with regards to the components that Glen talked about is the inflection in unit revenue as you exit September moving positive and the elongated travel season and that strong international demand.
+
+--------------------------------------------------------------------------------
+Scott Group,  Wolfe Research - Analyst    [40]
+--------------------------------------------------------------------------------
+
+          Thank you, guys. Appreciate the time.
+
+--------------------------------------------------------------------------------
+Operator    [41]
+--------------------------------------------------------------------------------
+
+          Sheila Kahyaoglu, Jefferies.
+
+--------------------------------------------------------------------------------
+Sheila Kahyaoglu,  Jefferies - Analyst    [42]
+--------------------------------------------------------------------------------
+
+          Maybe just taking the last two questions and putting it together, your Q4 guide and it's about wide. And how do you think about the industrial capacity issues? Does it get better, does it get more rationale? Or does it get worse from '25 of selling up delivery Cadence back?
+
+--------------------------------------------------------------------------------
+Edward Bastian,  Delta Air Lines Inc - Chief Executive Officer, Director    [43]
+--------------------------------------------------------------------------------
+
+          Sheila? Hi. This is Ed. I just wanted to be clear, we haven't given explicit Q4 guide, so I appreciate your models driving us there. We still have our full year guide with a pretty wide ranges as you noted in there. You may recall last year at this time when things were really starting to look promising way up to our full year guide. And we've got punished a few months later as the fuel got worked against us. So we're confident we'll end up in a good point within the full year range. But I don't really want to get into trying to figure out what Q4 is here.
+
+--------------------------------------------------------------------------------
+Sheila Kahyaoglu,  Jefferies - Analyst    [44]
+--------------------------------------------------------------------------------
+
+          Can you maybe comment on how you think about Boeing delivering cadence improving next year and how that impacts the industry?
+
+--------------------------------------------------------------------------------
+Edward Bastian,  Delta Air Lines Inc - Chief Executive Officer, Director    [45]
+--------------------------------------------------------------------------------
+
+          Well, as I mentioned, we are confident in our Airbus delivery stream. We have no Boeing aircraft coming over the next handful of years, I anticipate. I think it will take some time before Boeing gets their Cadence back. I know there are slowly starting to improve, and we'll see.
+
+--------------------------------------------------------------------------------
+Sheila Kahyaoglu,  Jefferies - Analyst    [46]
+--------------------------------------------------------------------------------
+
+          Okay, thank you.
+
+--------------------------------------------------------------------------------
+Operator    [47]
+--------------------------------------------------------------------------------
+
+          Duane Pfennigwerth, Evercore ISI.
+
+--------------------------------------------------------------------------------
+Duane Pfennigwerth,  EVERCORE ISI - Analyst    [48]
+--------------------------------------------------------------------------------
+
+          Hey, thanks. Good morning. Just to follow up on corporate travel into September and beyond. Can you remind us what the headwind was in the fourth quarter of last year from strikes in the auto and entertainment industries?
+
+--------------------------------------------------------------------------------
+Glen Hauenstein,  Delta Air Lines Inc - President    [49]
+--------------------------------------------------------------------------------
+
+          So if you recall, yes, we were heading into the writers strike rate of about this time last year, and we were in the auto and that really October timeframe at its peak. So that was I believe, at least we think that's about $100 million in terms of a headwind for source or a tailwind this year as we come into the fourth quarter.
+
+--------------------------------------------------------------------------------
+Duane Pfennigwerth,  EVERCORE ISI - Analyst    [50]
+--------------------------------------------------------------------------------
+
+          Thanks. And Glen maybe just to stick with you, can you talk a little bit about your outlook for Transatlantic in 3Q overall, maybe overall, and ex-Paris any bookings commentary you could point to post the Olympics? Appreciate you taking the questions.
+
+--------------------------------------------------------------------------------
+Glen Hauenstein,  Delta Air Lines Inc - President    [51]
+--------------------------------------------------------------------------------
+
+          Yeah, ex-Paris. We were positive. And so, you know, for those of you who follow my bet with and I lost my bet because Paris was a little bit bigger than we thought. So it's actually --
+
+--------------------------------------------------------------------------------
+Duane Pfennigwerth,  EVERCORE ISI - Analyst    [52]
+--------------------------------------------------------------------------------
+
+          I didn't want to remind you of it, but on the call, but I'm glad you brought it up --
+
+--------------------------------------------------------------------------------
+Glen Hauenstein,  Delta Air Lines Inc - President    [53]
+--------------------------------------------------------------------------------
+
+          -- as well as selling of expensive, so good for the Employee Care Fund . And so as we look at the past, the Olympics, we see a very robust fall demand for Transatlantic and we're too early to say that it's inflected positive yet because we have, but it could very well inflected positive. I would be disappointed if it didn't, but that's a personal opinion, not a guy -- an official guidance.
+
+--------------------------------------------------------------------------------
+Operator    [54]
+--------------------------------------------------------------------------------
+
+          Brandon Oglenski, Barclays.
+
+--------------------------------------------------------------------------------
+Brandon Oglenski,  Barclays - Analyst    [55]
+--------------------------------------------------------------------------------
+
+          Thanks for taking my question. Ed or Glen, if I can come back to Scott's first question, you know, thinking about things you can control, especially as margins are at your target yet. Ed, I know you talked a lot about industry capacity coming down into the fourth quarter, but maybe beyond your own capacity in the seats discussion, what are other levers you guys are pulling behind the scenes here to help drive improvement?
+
+--------------------------------------------------------------------------------
+Edward Bastian,  Delta Air Lines Inc - Chief Executive Officer, Director    [56]
+--------------------------------------------------------------------------------
+
+          Well, I think there's quite a bit of clearly as the demand set that we see in our specific customer base continues to look healthy. We're going to continue investing there. We've got a pretty robust set of new offerings coming in the premium space in WiFi is going to be free and fast and fully available and largely available on the transatlantic by the end of this summer, which is a big deal for us.
+On the cost side, we had really good cost performance in the first half of the year. I anticipate that we're going to continue to hold that. I realize the third quarter guys that touch larger than what we saw in Q2, but we're going to work hard to get that back down. I think we've all talked about the opportunity this year on the cost front to continue to grow into our larger head count. We're not there yet. We still have more growth opportunities to get there.
+So I think across the board, Brandon we have we have opportunities waiting the industry to fix itself is that was the case we wouldn't be delivering the outstanding level of profitability that we are. And but we hope that's going to be another tailwind for Delta.
+
+--------------------------------------------------------------------------------
+Brandon Oglenski,  Barclays - Analyst    [57]
+--------------------------------------------------------------------------------
+
+          I appreciate that response. And maybe, Dan, as a follow-up, can you talk about headcount trends into next year? And if you're seeing efficiencies that, you know, as you restore your core hubs?
+
+--------------------------------------------------------------------------------
+Daniel Janki,  Delta Air Lines Inc - Chief Financial Officer, Executive Vice President    [58]
+--------------------------------------------------------------------------------
+
+          Yes, we are. And this year alone, we will have headcount that will grow -- our resources will grow just under 2% while we're growing in network and mid-single digits. And I think and that's been the case even versus the trailing 12 months were up only 3% on our resources versus the growth that we've demonstrated. And I think that and delivered. So I think that is kind of the leading edge of us the step here for a few steps here of us growing back into those resources and those capabilities.
+And it's just not people, right. It's the aircraft in the utilization of aircraft. It's growing into the airports in the investment that we made on always reminds me of the most expensive days the first day that you open it. So it's across the board.
+
+--------------------------------------------------------------------------------
+Edward Bastian,  Delta Air Lines Inc - Chief Executive Officer, Director    [59]
+--------------------------------------------------------------------------------
+
+          One other thing, Brandon it is that, again, don't lose sight of the free cash were throwing off. This year will fall through of between $3 billion and $4 billion. I'm confident in that in that guide, which we gave at the start of the year, I expect at least as good next year, again. Compounded effect of all that cash that we're continuing to de-lever the balance sheet is once again going to differentiate Delta within this industry.
+
+--------------------------------------------------------------------------------
+Brandon Oglenski,  Barclays - Analyst    [60]
+--------------------------------------------------------------------------------
+
+          Thank you both.
+
+--------------------------------------------------------------------------------
+Operator    [61]
+--------------------------------------------------------------------------------
+
+          Ravi Shanker, Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Ravi Shanker,  Morgan Stanley - Analyst    [62]
+--------------------------------------------------------------------------------
+
+          I just want to follow up a couple of follow-ups here. One is on the international commentary you guys, as I said, a couple of ancillary international is looking pretty strong through the fall. Is that just in a spillover or like out from the air pocket for the Olympics spreading to other periods? Are you seeing an acceleration there? And any particular geographies is going to unpack that'd be great.
+
+--------------------------------------------------------------------------------
+Glen Hauenstein,  Delta Air Lines Inc - President    [63]
+--------------------------------------------------------------------------------
+
+          I think generally, we see the season extending as a whole group of people, whether or not it's retirees, whether or not it's a people with double incomes and without children who don't have the school concerns is actually a better time to go to Europe in September and October than it is potentially in July and August when the weather was so hot and everything it so packed. So we are really seeing an extension into September and October, and it really into through November that European demand across the board is remaining strong. So that's very exciting for us.
+The same thing is happening in the leisure markets in the Pacific. Interestingly, you know, Japan has turned into a US point of sale leisure market with the yen hitting at [160]. So we have a really record numbers of US tours heading to Japan, which is such a great destination. And that again, that has a very strong fall season. So really looking at US origin higher and leisure, extending the system through October and into November.
+
+--------------------------------------------------------------------------------
+Ravi Shanker,  Morgan Stanley - Analyst    [64]
+--------------------------------------------------------------------------------
+
+          Understood. That's great color. And maybe a follow-up on the previous discussion on the premiumization of the industry can have as the lower cost carriers push towards premium. I just wanted to clarify your comments. Are you saying that there's more opportunity for you guys to push up kind of as the bottom comes out and do you have a sense of how high you can go on these those as I'm concerned that now as others premiumize, there's going to be more competition for a fixed set of premium demands? How do you see that playing out?
+
+--------------------------------------------------------------------------------
+Edward Bastian,  Delta Air Lines Inc - Chief Executive Officer, Director    [65]
+--------------------------------------------------------------------------------
+
+          Well, I think it's both. We have and we continue to have to have opportunities to grow premium. Premiums growing double digit for us, and we don't see that slowing down. So Delta on its own right continues to grow there. And what will happen is as others, if they do choose to continue to upgrade their products, it's going to force them also upgrade their price points, which will help our main cabin revenues as well.
+
+--------------------------------------------------------------------------------
+Glen Hauenstein,  Delta Air Lines Inc - President    [66]
+--------------------------------------------------------------------------------
+
+          That was the point I think we should continue to reinforce is when you take away revenue streams, you have to replace them with other revenue streams. And so as the ULCCs look to make their products more value, they have to increase their base fares just to remain constant in terms of revenue. And I think that is maybe I missed point here, is that's actually good for the industry.
+
+--------------------------------------------------------------------------------
+Ravi Shanker,  Morgan Stanley - Analyst    [67]
+--------------------------------------------------------------------------------
+
+          Very helpful. Thank you.
+
+--------------------------------------------------------------------------------
+Julie Stewart Stewart,  Delta Air Lines Inc - Vice President, Investor Relations and Corporate Development    [68]
+--------------------------------------------------------------------------------
+
+          We'll now go to the final analyst Q&A.
+
+--------------------------------------------------------------------------------
+Operator    [69]
+--------------------------------------------------------------------------------
+
+          Andrew Didora, Bank of America.
+
+--------------------------------------------------------------------------------
+Andrew Didora,  BofA Global Research - Analyst    [70]
+--------------------------------------------------------------------------------
+
+          Thanks for squeezing me in here. I mean, Dan, helpful commentary on the 2% fleet growth this year. And I know you aren't prepared to give the 2025 capacity growth now. But can you maybe help us think about the 2025 fleet seat growth based on wondering you see deliveries and expected retirements over the next 18 months?
+
+--------------------------------------------------------------------------------
+Daniel Janki,  Delta Air Lines Inc - Chief Financial Officer, Executive Vice President    [71]
+--------------------------------------------------------------------------------
+
+          Yeah. Thank you. It will take at about 40 deliveries this year, as I mentioned, give, or take one or two and how it falls out on average. When you look forward into next year, it's around 50 were right in that 40 to 50 range associated with that. And you're going to continue to see a steady drumbeat of retirements of probably in the mid-20s as we go through 2025.
+We'll finalize that as we get through our final plan and tweak that guards to what it is. But it's just an older fleet, right? The seven fives, starting to see some of the seven sixes, and the 320s. And as we've all talked about those as we've been trying to grow , we haven't been able to retire at what we're used to. This is first time we're actually means, thankfully, retiring aircraft over the last two to three years.
+And that then benefits us right. Because that then is a materials stream back into our tech ops operation, maintenance operations that can use that material and take improve efficiency, which they've been so good at through the years when you look at the last decade.
+
+--------------------------------------------------------------------------------
+Andrew Didora,  BofA Global Research - Analyst    [72]
+--------------------------------------------------------------------------------
+
+          Got it. That's actually very helpful.
+Just as my follow up count and I know you mentioned on the last call that you felt like you still have more depth in your comfortable with. Is there any framework you can -- you have align in terms of -- just give us a sense of how you think about a proper level of debt that gets you to a much more comfortable place. Thank you.
+
+--------------------------------------------------------------------------------
+Edward Bastian,  Delta Air Lines Inc - Chief Executive Officer, Director    [73]
+--------------------------------------------------------------------------------
+
+          Andrew, I think that's a perfect question for November. We will answer that at that time.
+
+--------------------------------------------------------------------------------
+Andrew Didora,  BofA Global Research - Analyst    [74]
+--------------------------------------------------------------------------------
+
+          That's great. Thank you.
+
+--------------------------------------------------------------------------------
+Julie Stewart Stewart,  Delta Air Lines Inc - Vice President, Investor Relations and Corporate Development    [75]
+--------------------------------------------------------------------------------
+
+          That will wrap up the analyst portion of the call. I'll now turn it over to 10 minutes to start the media question.
+
+--------------------------------------------------------------------------------
+Edward Bastian,  Delta Air Lines Inc - Chief Executive Officer, Director    [76]
+--------------------------------------------------------------------------------
+
+          Thank you, Julie. Matthew, if you don't mind as we transition from the analysts to the meeting members of the media, if you could please repeat just the instructions for getting into the call queue, please?
+
+--------------------------------------------------------------------------------
+Operator    [77]
+--------------------------------------------------------------------------------
+
+          (Operator instructions)
+Leslie Josephs from CNBC.
+
+--------------------------------------------------------------------------------
+Leslie Josephs,  CNBC - Media    [78]
+--------------------------------------------------------------------------------
+
+          Just a couple questions for premium economy. Are you seeing most travelers by that at the onset of the outside of their on their bookings? Are they doing high apps after and if that's still the most popular part, profitable part of the cabin? And then on WiFi, when do you expect the entire mainline fleet to have the faster free WiFi for SkyMiles members? Thanks.
+
+--------------------------------------------------------------------------------
+Glen Hauenstein,  Delta Air Lines Inc - President    [79]
+--------------------------------------------------------------------------------
+
+          So what is the question was on Delta Premium select?
+
+--------------------------------------------------------------------------------
+Leslie Josephs,  CNBC - Media    [80]
+--------------------------------------------------------------------------------
+
+          Yes.
+
+--------------------------------------------------------------------------------
+Glen Hauenstein,  Delta Air Lines Inc - President    [81]
+--------------------------------------------------------------------------------
+
+          Premium economy, we're just Premium select. So that is mostly being bought like all of our products at initial purchase. And as you know, we designed that to be flexible system, all forms of including miles as the upgrade for people whose companies might not allow them to buy and those that they could use their miles to upgrade into those. But still over 80% come at initial booking.
+
+--------------------------------------------------------------------------------
+Leslie Josephs,  CNBC - Media    [82]
+--------------------------------------------------------------------------------
+
+          And probably the most profitable Cadence?
+
+--------------------------------------------------------------------------------
+Glen Hauenstein,  Delta Air Lines Inc - President    [83]
+--------------------------------------------------------------------------------
+
+          Delta Premium Select, I think in terms of profitability, it is the third most profitable, right? Our Delta One of the most profitable, it really goes down domestic First Amendment Delta Premium Select. So really in terms of the hierarchy, the more premium product, the higher the margin.
+
+--------------------------------------------------------------------------------
+Leslie Josephs,  CNBC - Media    [84]
+--------------------------------------------------------------------------------
+
+          Okay. Delta One first class domestic and then premium select on all roofs.
+
+--------------------------------------------------------------------------------
+Edward Bastian,  Delta Air Lines Inc - Chief Executive Officer, Director    [85]
+--------------------------------------------------------------------------------
+
+          And Leslie, the WiFi question, we are continuing to roll it out, making good progress. Focus rate at the moment is getting our international fleet equipped we will have largely the transatlantic pretty well, fully up and running by the end of the summer over the next couple of months. And our remaining focus after that is getting the regionals as well as our remaining domestic aircraft, which is principally the 717 fleet up and running over the next 12 to 18 months. So we're getting there. Certainly on a passenger count level were well over 50% at the present time.
+
+--------------------------------------------------------------------------------
+Leslie Josephs,  CNBC - Media    [86]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [87]
+--------------------------------------------------------------------------------
+
+          (Operator instructions)
+Mary Schlangenstein, Bloomberg News.
+
+--------------------------------------------------------------------------------
+Mary Schlangenstein,  Bloomberg News - Media    [88]
+--------------------------------------------------------------------------------
+
+          I wanted to see if you could just give us a little bit more detail on the Japan situation that you mentioned that just primarily leisure or what is your business travel looking like between the US and Japan as well?
+
+--------------------------------------------------------------------------------
+Glen Hauenstein,  Delta Air Lines Inc - President    [89]
+--------------------------------------------------------------------------------
+
+          US and Japan business is quite strong. It has been for us since the end of the pandemic. And what we've seen is really a new Japan as a destination market. I think when the end was '83 was very difficult to be able to afford to go see Japan and all the great things that Japan has to offer with the unit 160, it's a very good world for US travelers and they seem to be a great advantage of that.
+
+--------------------------------------------------------------------------------
+Mary Schlangenstein,  Bloomberg News - Media    [90]
+--------------------------------------------------------------------------------
+
+          And what about on the business side?
+
+--------------------------------------------------------------------------------
+Glen Hauenstein,  Delta Air Lines Inc - President    [91]
+--------------------------------------------------------------------------------
+
+          Business continues to remain strong.
+
+--------------------------------------------------------------------------------
+Mary Schlangenstein,  Bloomberg News - Media    [92]
+--------------------------------------------------------------------------------
+
+          Okay. Another question I had we haven't talked for some time about the refinery and whether you're still in any sort of discussions to develop a partnership or sell the refinery. Can you give us an update on that?
+
+--------------------------------------------------------------------------------
+Daniel Janki,  Delta Air Lines Inc - Chief Financial Officer, Executive Vice President    [93]
+--------------------------------------------------------------------------------
+
+          We're not the refinery has been running very well. The team's doing a great job. The key part of Delta.
+
+--------------------------------------------------------------------------------
+Mary Schlangenstein,  Bloomberg News - Media    [94]
+--------------------------------------------------------------------------------
+
+          Great. Thank you.
+
+--------------------------------------------------------------------------------
+Edward Bastian,  Delta Air Lines Inc - Chief Executive Officer, Director    [95]
+--------------------------------------------------------------------------------
+
+          Thank you, Mary. With that math, you were right at the. Our will conclude the call.
+
+--------------------------------------------------------------------------------
+Operator    [96]
+--------------------------------------------------------------------------------
+
+          Thank you. That concludes today's conference. Thank you for your participation today.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2024 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

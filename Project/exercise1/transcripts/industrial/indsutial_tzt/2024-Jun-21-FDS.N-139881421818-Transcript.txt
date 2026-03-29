@@ -1,0 +1,580 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q3 2024 Factset Research Systems Inc Earnings Call
+JUNE 21, 2024 / 3:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Alexandra Van Nes
+   Factset Research Systems Inc - SVP, Head of Investor Relations
+ * F. Philip Snow
+   Factset Research Systems Inc - Chief Executive Officer, Director
+ * Linda Huber
+   Factset Research Systems Inc - Chief Financial Officer, Executive Vice President
+ * Helen Shan
+   Factset Research Systems Inc - Executive Vice President, Chief Revenue Officer
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Manav Patnaik
+   Barclays Bank PLC - Analyst
+ * Craig Huber
+   Huber Research Partners, LLC - Analyst
+ * Kelsey Zhu
+   Autonomous Research US LP - Analyst
+ * Russell Quelch
+   Redburn Atlantic - Analyst
+ * Ashish Sabadra
+   RBC Capital Markets - Analyst
+ * Scott Wurtzel
+   Wolfe Research Securities - Analyst
+ * George Tong
+   Goldman Sachs & Co. - Analyst
+ * Guru Sidaarth
+   Oppenheimer & Co. Inc. - Analyst
+ * Toni Kaplan
+   Morgan Stanley & Co. LLC - Analyst
+ * Shlomo Rosenbaum
+   Stifel, Nicolaus & Company, Incorporated - Analyst
+ * Andrew Nicholas
+   William Blair & Company L.L.C. - Analyst
+ * Heather Balsky
+   BofA Securities, Inc. - Analyst
+ * Faiza Alwy
+   Deutsche Bank AG - Analyst
+ * Alex Kramm
+   UBS Group AG - Analyst
+ * Surinder Thind
+   Jefferies LLC - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good day and thank you for standing by. Welcome to the third quarter FactSet earnings call. (Operator Instructions) Please be advised that today's conference is being recorded.
+I would now like to hand the conference over to your first speaker today, Ali van Nes, Head of IR, Investor Relations. Please go ahead.
+
+--------------------------------------------------------------------------------
+Alexandra Van Nes,  Factset Research Systems Inc - SVP, Head of Investor Relations    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, and good morning, everyone. Welcome to FactSet’s third fiscal quarter 2024 earnings call. Before we begin, the slides we referenced during this presentation can be found through the webcast on the investor relations section of our website at factset.com. A replay of today's call will be available on our website.
+After our prepared remarks, we will open the call to questions from investors. The call is scheduled to last for one hour. To be fair to everyone, please limit yourself to one question. You may re-enter the queue for additional follow-up questions, which we will take if time permits.
+Before we discuss our results, I encourage all listeners to review the legal notice on slide two, which explains the risks of forward-looking statements and the use of non-GAAP financial measures. Additionally, please refer to our forms 10-K and 10-Q for a discussion of risk factors that could cause actual results to differ materially from these forward-looking statements.
+Our slide presentation and discussions on this call will include certain non-GAAP financial measures. For such measures, reconciliation to the most directly comparable GAAP measures are in the appendix to the presentation and in our earnings release issued earlier today.
+Joining me today are Philip Snow, Chief Executive Officer; and Linda Huber, Chief Financial Officer. We will also be joined by Helen Shan, Chief Revenue Officer, for the Q&A portion of today's call.
+I will now turn the discussion over to Phil Snow.
+
+--------------------------------------------------------------------------------
+F. Philip Snow,  Factset Research Systems Inc - Chief Executive Officer, Director    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Ali, and good morning, everyone. Thanks for joining us today. Before I speak about this quarter's results, I just want to point out that we scheduled today's call on a Friday to allow for observant of the Juneteenth holiday earlier this week. We finished our third quarter with organic ASV and professional services growth of 5%. Adjusted diluted EPS rose to $4.37 for the quarter, and our adjusted operating margin was 39.4%.
+This quarter, we continued to see the impact of clients, tightening budgets, and cost rationalization. Trends w e highlighted last quarter that were echoed by others in the industry. These pressures extend decision-making and lengthened sales cycles. Also, as you may recall, the third quarter is seasonally our weakest of the year. Against this backdrop, we continue to build on FactSet's history of 44 consecutive years of revenue growth and 28 consecutive years of adjusted EPS growth.
+And in these 44 years, we have successfully navigated through even more difficult market conditions than we face right now. Despite challenged end markets, t his is an exciting time in our industry, particularly for technology companies with valuable data assets. We are harnessing the power of gen AI to build cutting-edge solutions and capture market share.
+For example, we held our 11th client symposium in Miami in April, showcasing new products and the value they bring to clients. These new products are driving requests for hundreds of product demonstrations, creating new leads for our sales team. Returning now to our third quarter, we concluded with 8,029 clients and nine net new logos. Our user count exceeded 208,000. Overall ASP retention remained higher than 95% and c lient retention was 90%.
+Currently, w e expect to finish the fiscal year with annual organic ASV plus professional services growth between 4% and 5.5%. Linda will provide further updates to guidance in a few minutes. Turning now to our performance by region. We saw slower growth in the third quarter due to continued market headwinds and the effect of the cancellation from the Credit Suisse-UBS merger, which impacted all of our regions.
+Overall, as cancellation accounted for approximately 30 basis points or two-thirds of our ASV deceleration quarter over quarter. In the Americas, gains from asset owners and wealth managers were offset by continued client cost rationalization and the Americas regions' o rganic ASV growth rate was 5.7%. In the EMEA region, growth was driven by a price increase, sales to asset owners, and higher ASV from the analytics products suite. The EMEA region's organic ASV growth rate was 4.4%. And in the Asia-Pacific region, we saw acceleration from buy-side firms driven by front office solutions and growing transactional revenues. The Asia Pacific regions organic ASV growth rate was 6.1%.
+Looking now at trends by firm types, on the institutional buy side, we had a notable win this quarter, displacing a competitor at a large asset manager in the US. This win was driven by our advanced fixed income analytics. We took an enterprise sales approach and the client chose our portfolio performance solutions and analytics capabilities.
+We had another significant win with a global asset manager. It moved to a multiyear agreement, including middle office portfolio services. This contract aligns with the client strategy to consolidate vendors and to reduce total cost of ownership. These victories demonstrate our ability to provide tailored high-value solutions to our clients. These clients also recognize that our ongoing management of their complex portfolio holdings positioned us well to do more for them.
+In banking, we saw a decline from the Credit Suisse cancellation. This segment is still impacted by cautious hiring and a wait-and-see attitude toward the overall capital market conditions. In wealth management, a lthough growth was modest this quarter, the sector remains a tremendous opportunity for FactSet, g iven our active pipeline. We're committed to enhancing our offerings to capture future growth and deliver compelling value to wealth advisors and their clients.
+A great example of this is our recent investments in Aidentified, which was announced last week. By incorporating Aidentified's relationship management data into FactSet's intelligent prospecting solution, we're able to accelerate new client acquisitions for wealth advisors. This brings us to the fast-evolving technology landscape where FactSet is well positioned to lead. We have more than 40 years of meticulously curated and connected data. We are trusted by institutional asset managers and retail wealth advisors with 16 million portfolios on our system, representing more than $30 trillion in assets.
+And on the sell side, FactSet is well established as the platform of choice for fundamental research workflows. For users on both the buy-side and sell-side, FactSet has a unique breadth of data curated for their specific-use cases. Our rich data ecosystem is a singularly robust and safe foundation for harnessing the power of generative AI, specifically our clients benefit from the combination of our data, our knowledge of clients' workflows, and our new generative AI tools. Together, they are producing unique insights and efficiencies for our clients.
+At FactSet, we are energized to help our clients find new ways to surface insights to set them apart from their peers. We're doing this with live demonstrations of our new products that are available right now. As a result, FactSet is the trusted partner of choice, g iven that accuracy requires both seasoned judgments and traceable data sources. At FactSet, we have both.
+A prime example is our portfolio commentary product released last month, which generates complete detailed investment performance summaries in about a minute. Portfolio commentary combines our comprehensive data and deep domain expertise to provide tailored and highly efficient outputs. We also launched the new portfolio manager hub, an end-to-end solution that integrates all elements of our portfolio managers workflow from news and research to analysis and trade simulation.
+PM Hub adds a gen AI-backed chatbot called Portfolio Assistant to tap into our data to provide precise, traceable answers, all without leaving the platform. Enthusiastic client response at the Portfolio Commentary and PM Hub give us confidence that we can extend our buy-side middle office presence to front office users.
+And on the sell side, FactSet Mercury optimizes the company research workflow for junior bankers. Using a single trusted conversational interface, we are working towards producing pitch books and charts on-demand. We expect users to save another 10 hours per week using this tool in addition to the 5 to 10 hours per week that they said they saved with FactSet b efore we released Mercury. If banking conditions improve, we are confident that bankers will seek out FactSet Mercury to give them better speed, accuracy and efficiency.
+Looking ahead, we have a multi-year strategic investment plan built on three key pillars. First, we are expanding our market data for deep sector, private markets, alternatives, and real-time applications. With real-time market data, f or example, we aim to compete for market share by transitioning to cloud-based solutions.
+By enhancing our [pick up] plans' cloud capabilities and expanding content coverage, w e can offer more scalable, reliable, and cost-efficient data services. We're well positioned to capture market share when clients demand modern cloud-based infrastructure. Secondly, client workflow. Beyond our middle office business, we are heavily invest testing in our process capabilities covering both fundamental and quantitative research.
+Our offerings for the sell side, particularly in banking automation and gaining traction with top global banks and boutique firms. Our wealth franchise also continues to grow with significant new opportunities in the pipeline. Thirdly, generative AI. This foundational and strategic initiative we believe will begin delivering incremental ASV in fiscal 2025.
+As we mentioned on new Portfolio Commentary and FactSet Mercury are already driving demand. And last week, we announced our off-platform AI solutions for technologists. These include a new generative AI data package, a conversational API powered by FactSet Mercury and a new AI partner program to bring fintechs and AI start-ups onto FactSet's platform. Together, we expect to see ASV growth from tech savvy financial firms and hedge funds.
+In summary, I am extremely excited about our competitive opportunity. The demand for traceable quality data grows, particularly for financial decision-making, we're adding critical AI tools to deliver real advantages for our clients. Our partnership-focused approach has made FactSet a preferred provider and positions us well for even greater success when market conditions improve.
+I will now hand it over to Linda to discuss our second-quarter performance in more detail.
+
+--------------------------------------------------------------------------------
+Linda Huber,  Factset Research Systems Inc - Chief Financial Officer, Executive Vice President    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Phil, and hello to everyone. As you've seen from our press release this morning, d espite slower ASV growth in the third quarter, we improved margins and EPS, and we are increasing guidance on both of these for the fiscal year. I'll say more about that later. First, our results for this quarter. As Ali noted, our usual reconciliation of our adjusted metrics to comparable GAAP figures is included at the end of our press release.
+For the third quarter, organic ASV grew 5%, while adjusted operating margin improved 340 basis points to 39.4%, and adjusted diluted EPS rose 15% to $4.37. For the quarter, GAAP revenue increased 4% to $553 million on sales to institutional asset managers, asset owners, partners, and corporate. For our geographic segments, organic revenues grew by 5.5% in the Americas, 2.4% in EMEA, and 3% in Asia Pacific.
+Turning now to expenses. GAAP operating expenses decreased 2% year over year to $350 million. This was driven by lower compensation expense, mainly due to a reduction of $8 million to our annual bonus accrual, as well as the reduction in salary expenses and payroll taxes, partially offset by higher intangible amortization and cloud-related costs.
+Compared to the previous year, GAAP operating margin increased by approximately 420 basis points to 36.6%. This was due to increased revenues combined with reduced operating expenses as a result of lower compensation expense. On an adjusted basis, operating expenses decreased 1.2%. And now looking at each of our four major cost buckets in turn, first, as we have frequently discussed, technology continues to be our main area of expense growth. Specifically, technology costs increased 26% year over year. Technology costs now represent about 9.5% of revenue.
+Secondly, in contrast, employee expenses fell 8.6% year over year, driven by lower compensation expenses due to earlier cost reduction efforts and lower bonus accrual. Third, our third-party content costs increased by 9% due to the timing of changes in variable fee expenses. And finally, real estate and related expenses saw 15% decrease year over year. It's because of the benefits of early and significant steps we took to reduce the expense bucket.
+As we've mentioned before, thoughtful expense management is positioning the company for future growth while allowing us to continue to invest in technology and strategic initiatives. Turning now to margin. Adjusted operating margin improved by 340 basis points to 39.4%. This was primarily due to an adjustment to the bonus accrual, a one-time payroll tax adjustment, and lower salary expense. The bonus accrual was reduced by about $8 million for the fiscal year, g iven our lower ASV achievement. This change added about 160 basis points to our adjusted operating margin in the quarter.
+Additionally, earlier cost rationalization efforts resulted in another 130 basis points of the 340 basis point adjusted operating margin improvement. And as always, you will find an expense block from revenue to adjusted operating income in the appendix of today's earnings presentation. As a percentage of revenue, our cost of services declined by 90 basis points year over year o n a GAAP basis.
+Cost of services was approximately 40 basis points lower on an adjusted basis. The decrease was primarily due to lower compensation expense, partially offset by an increase in intangible amortization and cloud related costs. And in SG&A, as a percentage of revenue, it was 320 basis points lower year over year o n a GAAP basis. SG&A was approximately 300 basis points lower on an adjusted basis. The decrease was primarily due to lower compensation expense, a reduction in bad debt expense, and lower facilities costs.
+Turning now to tax. Our tax rate for the quarter was 17% compared to last year's rate of 16.9%. This slight increase was primarily due to higher pretax income, partially offset by increased utilization of foreign tax credits and additional tax benefits from stock-based compensation. Turning now to EPS. GAAP EPS increased 18.2% to $4.09 this quarter versus $3.46 in the prior year period. This was driven by higher revenues, margin expansion, and a lower share count, partially offset by higher interest expense.
+On an adjusted basis, EPS increased 15.3% to $4.37, also driven by revenue growth and margin expansion as well as reduced share count, partially offset by higher interest expense. EBITDA increased to $240 million, up 16.9% year over year due to higher net income. Free cash flow, which we define as cash generated from operations less capital spending, was $217 million for the quarter, an increase of 13% of the same period last year. This was primarily driven by higher net cash from operating activities and reduced spending, property equipment and leasehold improvements. FactSet continues to be a strong producer of free cash flow.
+And turning now to share repurchases f or the quarter, we repurchased 135,150 shares for approximately $60 million and an average share price of $442.12. Our fiscal 2024 share repurchase plan targets $250 million of repurchases. As of May 31, 2024, we had $128.1 million remaining for repurchases in fiscal 2024. Also, yesterday, we paid a quarterly dividend of $1.04 per share, which represented a 6% increase in the regular quarterly dividend from the previous quarter. This marks the 25th consecutive year we have increased dividends on a stock split adjusted basis.
+We remain disciplined in our buyback program and committed to returning long-term value to our shareholders. Combining our dividends and share repurchases, w e returned $430.1 million to our shareholders over the last 12 months. And during the third quarter, we paid down $62.5 million of our term loan, which brings our gross leverage down to 1.7 times. This is consistent with our plan to repay the term loan in full by the second quarter of fiscal 2025.
+As Phil mentioned earlier, given the delayed recovery in our end markets, we are now guiding to incremental organic ASV plus professional services growth of $85 million to $120 million for the fiscal year, reflecting 4.8% growth at the midpoint, down from our recent guide to approximately 5%. Revenues are now expected to be in the range of $2.18 billion to $2.19 billion for the year.
+On the other hand, our expectations for margin and EPS growth for the year have gone up. Specifically, GAAP operating margin is expected to be in the range of 33.7% to 34%, up approximately 100 basis points from prior guidance. And adjusted operating margin is expected to be in the range of 37% to 37.5%, up 70 to 80 basis points from prior guidance. Adjusted EPS is now expected to be $0.40 higher than prior guidance in the range of $16 to $16.40.
+The effective tax rate guidance remains unchanged in the range of 16.5% to 17.5%. In closing, we continue to manage our cost base carefully so that we can deliver value to our shareholders while maintaining investment in gen AI and other strategic initiatives. We believe that we are well positioned for growth as the markets pick up. We're now ready for your questions. Operator?
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Toni Kaplan, Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Toni Kaplan,  Morgan Stanley & Co. LLC - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Terrific. Thank you so much. I wanted to ask regarding ASV. The guidance seems pretty wide in terms of the range. Are there sort of a wide range of -- array of outcomes that could happen? I think the midpoint sort of assumes that things maybe stays -- are flat sequentially. And so, therefore, that would maybe be a little bit better than the last few quarters. So just wanted to get a sense of, you know, you talked about the challenging environment, like any green shoots there and how we should be thinking about that. Thanks.
+
+--------------------------------------------------------------------------------
+F. Philip Snow,  Factset Research Systems Inc - Chief Executive Officer, Director    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Toni. It's Phil. I'll start, and I think Helen will have a bit more detail here. So yeah, we definitely have more visibility now on Q4. 4.75 is the mid-range now -- mid of the range that we just gave you. We wanted to make sure we de-risked sort of the low end. So the low end is at four. So we feel really confident about this range and feel confident about the middle of the range. There are, though -- I mean, it is our biggest quarter and there are a lot of swing deals in the quarter. A lot of seven-figure opportunities.
+So you never really know until the quarter is over whether or not you're going to get all of those. But I do think there's reason for optimism here. As I mentioned in my comments, we have some very nice wins in Q3 that was strategic. New kinds of wins for us across the portfolio life cycle are really helping clients with total cost of ownership. So I'm becoming more encouraged in our ability to go out, help clients save money with the existing portfolio life cycle set of products as well as the tools that we're now building for generative AI.
+
+--------------------------------------------------------------------------------
+Helen Shan,  Factset Research Systems Inc - Executive Vice President, Chief Revenue Officer    [4]
+--------------------------------------------------------------------------------
+
+          Yeah. No, I think as Phil had mentioned, we had some very good wins earlier in Q3. And so when we take a look at Q4, we've also had a number of deals that have longer decision cycles, and that's moved us a bit as well. But if I look at the weighted pipeline for Q4, it's in line with last year, and we've been able to sell at the same pace. That's really the end market that's been impacting us from an erosion perspective and cost decision. So that's why we've gone for a wider range to allow for that. But we're very confident right now at this point that we have derisked it.
+
+--------------------------------------------------------------------------------
+Operator    [5]
+--------------------------------------------------------------------------------
+
+          Alex Kramm, UBS.
+
+--------------------------------------------------------------------------------
+Alex Kramm,  UBS Group AG - Analyst    [6]
+--------------------------------------------------------------------------------
+
+          Yes, hey, hello, everyone. Phil, you talked about adding three areas of investments here that you're excited about or that you're focused on rather. If I go back a few years ago, I think we found ourselves in the same kind of situation. Growth has come down maybe from the environment and you felt like you need to spend a little bit more to get the growth going again. So when you talk about these investments, if I think about the next couple of years, do you think the company needs another kind of boost of investments? Or do you think you can do orders in the current cost base that you have in front of you? Thanks.
+
+--------------------------------------------------------------------------------
+F. Philip Snow,  Factset Research Systems Inc - Chief Executive Officer, Director    [7]
+--------------------------------------------------------------------------------
+
+          That's a fair question. Thank you, Alex. So, you know, I think the reason is for optimism. We have a lot of ongoing multiyear initiatives that are still being built out and we expect to drive growth in the future. So that would be deep sects of private markets more recently real time, so bit of an old advantage. So those things are still chugging along quite nicely and are promising. And in the last 18 months or so, we really have done a good job of freeing up incremental dollars to invest in generative AI and the data platform.
+And I think we've unleashed another wave of innovation at the company, honestly, in terms of how we've approached this. So I do feel optimistic. It is a fair question, though. So as we go through Q4 and we do our rolling three-year plan, I think we are going to evaluate whether or not there are some things that we'd want to invest more in. But we can't really give you any real guidance on that until the September call. But it's a good question.
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+
+          Kelsey Zhu, Autonomous.
+
+--------------------------------------------------------------------------------
+Kelsey Zhu,  Autonomous Research US LP - Analyst    [9]
+--------------------------------------------------------------------------------
+
+          Hi, good morning. Thanks for taking my question. So the industry data we track suggest that there are some early signs of capital markets activity recovery. So just curious, what are you hearing from your sell side customers? And when do you expect sell side ASV growth to reaccelerate?
+
+--------------------------------------------------------------------------------
+F. Philip Snow,  Factset Research Systems Inc - Chief Executive Officer, Director    [10]
+--------------------------------------------------------------------------------
+
+          Well, thanks, Kelsey. So I think we certainly are seeing more activity on the M&A front with the bankers. I think we're seeing a little bit better hiring than we did. Helen might have some more comments on this. And I think if you look at the trends historically as banking fees go up, historically, banking hiring has followed that, and then historically FactSet ASV on the sell side follows that. So historical trends remain true, no guarantees. I think there are some reasons to be optimistic there.
+
+--------------------------------------------------------------------------------
+Helen Shan,  Factset Research Systems Inc - Executive Vice President, Chief Revenue Officer    [11]
+--------------------------------------------------------------------------------
+
+          Yeah, I'll add a little bit to that. I think what we're seeing from the large investment banks and universal banks, the hiring has been pretty muted. So they're being more conservative themselves. We're seeing higher numbers from the middle market bank, the boutiques. So I would say that right now, seasonal hiring for the quarter is for the first quarter this -- for the first time this year higher than the previous year. But I would -- we're not necessarily building that in as a big recovery until our Q4 numbers.
+
+--------------------------------------------------------------------------------
+Operator    [12]
+--------------------------------------------------------------------------------
+
+          Manav Patnaik, Barclays.
+
+--------------------------------------------------------------------------------
+Manav Patnaik,  Barclays Bank PLC - Analyst    [13]
+--------------------------------------------------------------------------------
+
+          Thank you. Good morning. I guess I just had a little bit of a run rate question and kind of a two part. One on the top line. Is the UBS-CS impact now fully in the run rate? Did you anticipate more impact? And then just specific to expenses as well, you know, all the headcount efforts and stuff you've made thus far, is there more to flow through? Just trying to appreciate the dynamics in those two.
+
+--------------------------------------------------------------------------------
+Helen Shan,  Factset Research Systems Inc - Executive Vice President, Chief Revenue Officer    [14]
+--------------------------------------------------------------------------------
+
+          Sure, Manav. It's Helen. I'll take the first part. So I would say the majority of the impact from that transaction is reflected in this quarter. There's a little bit less than Q4, but it's much smaller.
+
+--------------------------------------------------------------------------------
+Linda Huber,  Factset Research Systems Inc - Chief Financial Officer, Executive Vice President    [15]
+--------------------------------------------------------------------------------
+
+          Yeah. And Manav, looking at the margin improvement, I want to try to go through the detail of this. So everyone understands what's one-time and what continues. So the total good guys on the margin improvement side, and this is adjusted operating margin, were about 540 basis points, and then the negatives were about 200 basis points. So let me go through these.
+The lower bonus accrual of $8 million to get our annual bonus accrual in line, contributed about 160 basis points to the good for third quarter, and that will not be repeated. In other words, we had to do that adjustment. Lower salaries added about 130 basis points, and that will continue. Lower payroll taxes added about 120. And that's a one-time thing, that's based on the CARES Act. It's a refundable tax credit for keeping people on payroll during COVID. Lower facilities expenses added 60 basis points. That will continue. A higher capitalization added 40, which will also continue, and lower stock based comp amortization added 20. That one has caught up and will not continue.
+So out of the 540 basis points, about 280 are one-timers. And then on the negative side, we had higher technology costs for 170 basis points and higher third-party data and other expenses for 30 basis points. And so 340 basis points overall improvement. And on the good guys side, about half of that will continue as we move through the year. Hope that helps.
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+
+          Faiza Alwy, Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Faiza Alwy,  Deutsche Bank AG - Analyst    [17]
+--------------------------------------------------------------------------------
+
+          Yes, hi, thank you. Good morning. So I wanted to ask about the competitive environment, and I'm curious what you're seeing from competitors. It seems that over the last couple of years, you've seen competitors invest as well, relative to what had been the case previously. And I know you talked about price competition for new business. So just give us a sense of how you would assess the competitive dynamics at this point.
+
+--------------------------------------------------------------------------------
+F. Philip Snow,  Factset Research Systems Inc - Chief Executive Officer, Director    [18]
+--------------------------------------------------------------------------------
+
+          Yeah. Thanks, Faiza. So on the institutional buy side, I would say we have two key competitors there and the name of the game is really total cost of ownership. So we feel very well positioned with the portfolio analytics that we have on FactSet, but even better position now that we have invested in our front office tools. So I mentioned that we launched PM Hub, which really connects very nicely the middle office solutions that we have with the front office. So I feel really good about our competitive position on the buy side. And those firms really have -- I think, feeling the most cost pressure and the ones taking costs out. So I think the firms that have portfolio analytics solutions are the ones that have the right to compete on the buyer side. And I think we're in good shape there.
+In wealth, similarly, we have, you know, the portfolios on the system. We've done an amazing job with our wealth advisor product and Advisor Dashboard. And you heard me talk about another workflow today, which is the CRM workflow. So we're really focused very heavily now on building out additional work flows for the wealth space, but we couldn't feel better positioned in the wealth space.
+I think within banking, private equity, corporates, the hedge funds, that space admittedly is getting a bit more crowded. So there's lots of us in there with fundamental analysts products. I think the work we've done with deep sector with private markets, the tools that we're building with generative AI, all of those, I think give us a very nice position there on the competitive front.
+
+--------------------------------------------------------------------------------
+Helen Shan,  Factset Research Systems Inc - Executive Vice President, Chief Revenue Officer    [19]
+--------------------------------------------------------------------------------
+
+          And I'll just comment on your point around pricing. As we mentioned before, there is some price pressure on new logos, but they're not widespread. Really when it happens is when we're displacing competitors where we may need to reduce price to help match budgets, for example. But the good thing is that we are almost always in multiyear contracts. So we recapture the price and improve our price realization as a contract matures.
+
+--------------------------------------------------------------------------------
+Operator    [20]
+--------------------------------------------------------------------------------
+
+          Surinder Thind, Jefferies.
+
+--------------------------------------------------------------------------------
+Surinder Thind,  Jefferies LLC - Analyst    [21]
+--------------------------------------------------------------------------------
+
+          Thank you. The question about gen AI and just the integration of the tools and the feature set, as clients begin to adopt more and use more, how does that impact the technology costs for you guys? Any color there would be helpful.
+
+--------------------------------------------------------------------------------
+F. Philip Snow,  Factset Research Systems Inc - Chief Executive Officer, Director    [22]
+--------------------------------------------------------------------------------
+
+          Great question. Thank you. It's a bit unknown at this point, as Linda has spoken about, you know, what technology expenses are going up. And that's for good reason because we're investing here. But yeah, as clients use more of these tools, it's going to cost in terms of compute. So of course, we're thinking carefully about that. We have fantastic engineers at FactSet, they're monitoring this, and that will be baked into how we end up charging for these products. So it's an equation, a little have to be figured out over time. But if we're delivering enough value in terms of saving clients time, which is really what we're focused on, it should outweigh the added expense that we or they would be incurring from the compute.
+
+--------------------------------------------------------------------------------
+Operator    [23]
+--------------------------------------------------------------------------------
+
+          Ashish Sabadra, RBC.
+
+--------------------------------------------------------------------------------
+Ashish Sabadra,  RBC Capital Markets - Analyst    [24]
+--------------------------------------------------------------------------------
+
+          Thanks for taking my question. I just wanted to clarify on the CS-UBS headwind. Was that just the negative impact? Or how do we think about like any potential cross-sell opportunity? Was there any cross-sell opportunity which lowered that impact? And then maybe just a quick clarifying question on revenue versus ASV growth in the fourth quarter. If my math is right, I get at the midpoint of the revenue guidance, less than 2% revenue growth in the second -- in the fourth quarter, which is almost a three-point lower than the ASV growth at the midpoint. What's causing that delta? And how do we think about the exit revenue run rate and going into next year? Thanks.
+
+--------------------------------------------------------------------------------
+Helen Shan,  Factset Research Systems Inc - Executive Vice President, Chief Revenue Officer    [25]
+--------------------------------------------------------------------------------
+
+          Sure. Hi, this is Helen. Let me address the first part and then I'll turn this to Linda. As it relates to the Credit Suisse and UBS merger, what we were talking about is on a net basis. So we were able to capture some of the cancellation back in selling to UBS. So that's a positive from our perspective.
+
+--------------------------------------------------------------------------------
+Linda Huber,  Factset Research Systems Inc - Chief Financial Officer, Executive Vice President    [26]
+--------------------------------------------------------------------------------
+
+          Yeah. And Ashish, you right, it's Linda. Generally revenue lags ASV. We had an unusual one-time acceleration of CUSIP revenues in the third quarter of last year. That increased the revenue attributed to Q3 of ‘23 and by comparison, because that's a tough lap, the Q3 ‘24 looks lower. So some of it is timing. And I think it is fair to note that in the third quarter, while we don't break out CUSIP, because it is core to our business, we had very strong performance from CUSIP, both in terms of growth and margins. So we're very pleased with how that business is doing. But it's -- you're correct, but it is a lapping effect that's causing that.
+
+--------------------------------------------------------------------------------
+Ashish Sabadra,  RBC Capital Markets - Analyst    [27]
+--------------------------------------------------------------------------------
+
+          Sorry, I was wondering if you could comment on the fourth quarter as well. That was helpful color on the third quarter.
+
+--------------------------------------------------------------------------------
+Linda Huber,  Factset Research Systems Inc - Chief Financial Officer, Executive Vice President    [28]
+--------------------------------------------------------------------------------
+
+          Thank you. And the run rate exit at the fourth quarter, Ashish, we are not going to give guidance on that. So we'll see what it looks like when we get there. I speak to you about it in September.
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+
+          George Tong, Goldman Sachs.
+
+--------------------------------------------------------------------------------
+George Tong,  Goldman Sachs & Co. - Analyst    [30]
+--------------------------------------------------------------------------------
+
+          Hi, thanks. Good morning. I wanted to get some additional clarity around the assumptions behind the updated ASV guide. Are you basically assuming that the sales cycles are elongating, so it's basically a matter of timing of when the deals get closed? Or does it reflect increased client events where the business is essentially structurally lost?
+And then secondly, can you talk a little bit about international pricing. I believe fiscal 3Q is typically when you push through your pricing actions and how does that pricing compare to the prior year?
+
+--------------------------------------------------------------------------------
+Helen Shan,  Factset Research Systems Inc - Executive Vice President, Chief Revenue Officer    [31]
+--------------------------------------------------------------------------------
+
+          Sure. Hey George, it's Helen. Let me try to answer. I'll do the pricing one first. So the international pricing increased. You're right, we do it every year in Q3. It was 16 versus 16.8 last year. So you can see that we were able to capture pretty much as the same as last year. And that reflects an increase in the number of clients that we're able to capture. So we feel very good about that. And it's in line with our expectations. So we believe our pricing realization and value that we're giving clients remain the same.
+When we think about the Q4, the reason that we moved some of this as we think about the pipeline is that we are seeing deals continue to move, especially on the analytics the buy side in particular. So they're not falling out is a term that we use. So they're not lost. But since they've moved a number of quarters, because the larger the deals until clients have greater certainty about the end markets, and sometimes our own bandwidth, quite frankly, is more constrained. We're seeing that continue to move. So that's part of the reason.
+And I do want to make one point again, which I made earlier. If we look at what we expect for the year, the underlying demand for our products remains steady. On a gross basis, we are in line with last year. So we're selling as much as we were last year. So it's not a demand problem. But that being said, we have had a number of one-time cancels that we've talked about. So the impact has been on higher erosion, which we believe is in part obviously driven by market.
+
+--------------------------------------------------------------------------------
+Operator    [32]
+--------------------------------------------------------------------------------
+
+          Andrew Nicholas, William Blair.
+
+--------------------------------------------------------------------------------
+Andrew Nicholas,  William Blair & Company L.L.C. - Analyst    [33]
+--------------------------------------------------------------------------------
+
+          Hi, good morning. Thanks for taking my question. Phil, I think you mentioned that you believe AI will drive incremental ASV in 2025. I appreciate all the color there. But I'm just curious on kind of the other side of the coin, maybe in terms of internal cost savings. Is that something that you would also expect to materialize at least at some point in 2025? Or should we still be thinking about this primarily being kind of breakeven cost effort on the expense front. Thank you.
+
+--------------------------------------------------------------------------------
+F. Philip Snow,  Factset Research Systems Inc - Chief Executive Officer, Director    [34]
+--------------------------------------------------------------------------------
+
+          Yeah. Thanks, Andrew. Great question. So as you could expect, like many firms, we've been looking at this, and I think there are good opportunities for efficiency and client service, quality assurance, content collection, even just engineer -- just code editing, code writing, so we're evaluating that closely. I think we will get efficiencies. The real question is do we reinvest those in products, sort of going back to Alex's earlier question. So there certainly will be efficiencies that we'll get. We're seeing that. It's just a question of what we choose to do with that in the end.
+
+--------------------------------------------------------------------------------
+Operator    [35]
+--------------------------------------------------------------------------------
+
+          Shlomo Rosenbaum, Stifel.
+
+--------------------------------------------------------------------------------
+Shlomo Rosenbaum,  Stifel, Nicolaus & Company, Incorporated - Analyst    [36]
+--------------------------------------------------------------------------------
+
+          Hi. Thank you for taking my question here. I wanted to ask a little bit just to clarify first on the questions that were asked before in terms of like CS and UBS, the fourth quarter guidance implies a down quarter in revenue, which is notable. I don't think we've seen this in about five years on a sequential basis. And want to know if you were to exclude what's going on with the UBS-CS, license is going away, would you show growth sequentially in revenue if were to kind of normalize for that? I'm trying to understand if there's an environment thing or you're being overly burdened by that.
+And then just in general, there's been a slowdown in revenue growth, and Linda I've asked you this before, but you've pulled a lot of levers in terms of expenses, and we're continuing to see the environment kind of meander around. And what's left on the board for you in terms of if we don't see kind of a pickup. We're kind of hoping to see a little bit more, I think, from some green shoots that we noted last quarter. But if those don't materialize soon, what other levers would you pull?
+
+--------------------------------------------------------------------------------
+Helen Shan,  Factset Research Systems Inc - Executive Vice President, Chief Revenue Officer    [37]
+--------------------------------------------------------------------------------
+
+          Sure. Let me take a little bit of that first, and I'll turn this over to Linda. As it relates to CS, let me talk through, in particular, we mentioned this in our script around the impact, if we take that out as a one-time impact, that would be around 30-plus basis points. Now that's not going to impact revenue right away. That's over the period of time. If I take a look at some of the other one-time items that we've talked about in the past, I think it was back last quarter, that, that one large cancel that's helping to explain that delta.
+But yes, it is, in my view, again, let me go back, what we're selling is in line with how we've seen it in the past. There are some one-time items that are impacting the erosion and so I do not view this as an issue with our underlying business, but rather more market, or again, some things that are a bit out of our control, Shlomo.
+
+--------------------------------------------------------------------------------
+Linda Huber,  Factset Research Systems Inc - Chief Financial Officer, Executive Vice President    [38]
+--------------------------------------------------------------------------------
+
+          So Shlomo, thank you for recognizing that despite the meandering market, which is a good adjective for it, we like that, we have been focused -- (technical difficulty)
+
+--------------------------------------------------------------------------------
+F. Philip Snow,  Factset Research Systems Inc - Chief Executive Officer, Director    [39]
+--------------------------------------------------------------------------------
+
+          Hey, Linda, we can't hear you here.
+
+--------------------------------------------------------------------------------
+Operator    [40]
+--------------------------------------------------------------------------------
+
+          Thank you. One moment for our next question.
+
+--------------------------------------------------------------------------------
+F. Philip Snow,  Factset Research Systems Inc - Chief Executive Officer, Director    [41]
+--------------------------------------------------------------------------------
+
+          One second, operator. I don't believe Linda was done yet. One second.
+
+--------------------------------------------------------------------------------
+Operator    [42]
+--------------------------------------------------------------------------------
+
+          Okay.
+
+--------------------------------------------------------------------------------
+Linda Huber,  Factset Research Systems Inc - Chief Financial Officer, Executive Vice President    [43]
+--------------------------------------------------------------------------------
+
+          -- the cost basis. And so our people costs are down 10% year over year in the third quarter, and our real estate cost down 14%, that offsets an increase of 26% in our technology costs and third-party data up a little bit unusually in the third quarter. So we feel like we've got all our lines pretty well under control. The thing that was flattering to the margin in the third quarter was the reduction of our bonus accrual. And of course, that bonus accrual will match our performance with our ASV completion. So we've got a few more things that we can do.
+I think we've managed very, very carefully. But I don't think we see any major cost-cutting actions coming along. We're pretty happy with where we are. And we planned this all through to match what Helen is seeing for the revenue line for the fourth quarter. So we think we're in a pretty good place. And as you saw, our guidance for adjusted operating margin has gone up 70 to 80 basis points for the rest of the year. So we feel pretty good about our actions. And sorry about the audio issues here.
+
+--------------------------------------------------------------------------------
+Operator    [44]
+--------------------------------------------------------------------------------
+
+          Craig Huber, Huber Research Partners.
+
+--------------------------------------------------------------------------------
+Craig Huber,  Huber Research Partners, LLC - Analyst    [45]
+--------------------------------------------------------------------------------
+
+          Thank you. Back to just a broad question here. How would -- again, your thoughts here on the sell side and buy side customers that you have out there in the marketplace. Do you sort of feel like you're just sort of bouncing along at the bottom here that the worst is behind you? How you -- just broadly, again, how would you describe what you're going through right now? I mean, in other words, are you feeling like you're at the very bottom here, and it's just a matter of time before things start re-accelerating.
+
+--------------------------------------------------------------------------------
+F. Philip Snow,  Factset Research Systems Inc - Chief Executive Officer, Director    [46]
+--------------------------------------------------------------------------------
+
+          It's hard to predict that, Craig, I'll start, and I think Helen may have some comments here. I think for a lot of companies 2024 was sort of positioned as the year of cost cuts. So I think a lot of budgets were kind of set late last year and a lot of firms in a lot of industries, including ours, people were taking out costs. It does feel that things are getting more constructive with the clients. In my conversations with salespeople and clients, it feels like those projects that were paused are beginning to come back to life. But I'm not sure I would bank on that any sort of -- real sort of tailwinds from the end markets until potentially next calendar year. I think what we're observing now, I kind of would handicap continuing through the end of the calendar year. Helen?
+
+--------------------------------------------------------------------------------
+Helen Shan,  Factset Research Systems Inc - Executive Vice President, Chief Revenue Officer    [47]
+--------------------------------------------------------------------------------
+
+          Yeah. No, I would agree. It's hard to predict, obviously, market conditions. But I think the softness in banking and the high erosion due to cost consolidations from clients, and then, of course, the delay in some of the larger projects. Right now, we're assuming that, that's going to remain through the rest of the year, as Phil just said. I will say, as I said before, this is the first quarter that we've actually seen net seasonal hiring banking be higher than the previous year, but I'm not sure we look at that and call it -- make it a call at the bottom.
+
+--------------------------------------------------------------------------------
+Craig Huber,  Huber Research Partners, LLC - Analyst    [48]
+--------------------------------------------------------------------------------
+
+          Linda, could you just quickly give us a housekeeping question I have for you here. Just your bonus accruals, what was it each of the first three quarters this year? I think it was $24 million to $25 million quarterly last year. What was it the first three quarters this year? Sorry for the housekeeping question. Thank you.
+
+--------------------------------------------------------------------------------
+Linda Huber,  Factset Research Systems Inc - Chief Financial Officer, Executive Vice President    [49]
+--------------------------------------------------------------------------------
+
+          That's okay, Craig. And I've just had my microphone replaced. I feel like Taylor Swift. So hopefully, it works. Our first quarter bonus accrual was $30 million. That included a $3 million top-up to sort of catch up a bit from 2023. Second quarter, Craig, was $20 million. Third quarter is $18 million. And the fourth quarter, we're thinking it should be in the range of $15 million, $16 million depending on how we finish with ASV.
+So roughly $83 million for bonus for the whole year. Last year, we were running sort of $105 million for bonus for the full year. So the unfortunate trend here is that we have to adjust bonus based on ASV achievement, which is about two-thirds of our bonus calculation and margin is the other third. So I hope that gives you the detail you're looking for, Craig.
+
+--------------------------------------------------------------------------------
+Operator    [50]
+--------------------------------------------------------------------------------
+
+          Russell Quelch, Redburn.
+
+--------------------------------------------------------------------------------
+Russell Quelch,  Redburn Atlantic - Analyst    [51]
+--------------------------------------------------------------------------------
+
+          Yeah, hi Phil and Linda. Just wanted to drill down into the private market space a little bit. A lot of your competitors are also targeting this area for growth. So could you just a favor and just detail your product ambitions here, how you're going to win against the other guys who are targeting growth. And the other angle to this question is it was recently rumored that one of the big incumbents in the space is for sale. So is this something you might look at to accelerate your positioning growth in the area?
+
+--------------------------------------------------------------------------------
+F. Philip Snow,  Factset Research Systems Inc - Chief Executive Officer, Director    [52]
+--------------------------------------------------------------------------------
+
+          Yeah. Thanks, Russell. So yeah, we've not been shy about talking about this. And we have been investing steadily since 2019 in private markets. We've built out, I believe, our coverage from around $4 million to $8 million or $9 million. So we've doubled that. The quality is getting higher. We acquired Cobalt, which you'll remember. And we're just continuing to work with a lot of partners in the ecosystem. So I think this is an important area. Private credit, obviously, is important and something that we're taking a look at. And obviously, we can't comment on any transactions that may or may not be out there right now.
+
+--------------------------------------------------------------------------------
+Operator    [53]
+--------------------------------------------------------------------------------
+
+          Heather Balsky, Bank of America.
+
+--------------------------------------------------------------------------------
+Heather Balsky,  BofA Securities, Inc. - Analyst    [54]
+--------------------------------------------------------------------------------
+
+          Hi. Thank you so much. I want to first ask with regards to ASV growth, if you could provide some color in terms of what you're seeing with regards to price versus volume right now and how that tracks versus, I guess, what you expected in the year. And then the other question, bigger picture, and I realized you just talked about kind of that potentially the malaise we're seeing persist until the end of the year. I know this has been a really tough environment to kind of get visibility, but when you think about the recovery here, based on what you've been seeing, how do you think things recover? Or do you think we can have a U- or V-shape recovery? Do you get the sense that your clients are going to move very gradually, just given all the uncertainty in pad? Just any insight you have would be helpful.
+
+--------------------------------------------------------------------------------
+Helen Shan,  Factset Research Systems Inc - Executive Vice President, Chief Revenue Officer    [55]
+--------------------------------------------------------------------------------
+
+          Sure. I'll start with that one, Heather, thanks. This is Helen. Thanks for the question. So overall, part of the reason that we see some of the deals that get delayed is because of their size. So when I think about volume and pricing, actually, interestingly, our volume, meaning number of transactions, is considerably higher this year than last year. And I would say, in the low to mid figures is where we're seeing the biggest pickup, probably as high as 20% higher as we think about the end of the year.
+So what that would mean on average, the volume is down in terms of the size of the transaction. So as you might guess, in order to grow that, you need larger deals. So these larger transactions, which we have a very high number of opportunities, but if they don't sort of convert them in that quarter, that's where we're seeing that right now. So I think that all ties together, higher volume at an average price that's lower right now in terms of just opportunity size.
+As it relates to a little bit of where do we end up in the bottom, it's very hard to say. I think it varies by firm type. Typically, we've seen banking being the quickest to respond. I think we had thought that, that would be better in the second-half of this year. We're not seeing that. So we'll have to see how that goes, as mentioned by Phil before, if capital markets picks up, where we end up in that. But technology is very much the driver right now. And so as clients are looking to upgrade and as we saw post-COVID, once they're ready to spend the decisions tend to move more quickly. So I think it's going to be very much dependent on the market conditions.
+
+--------------------------------------------------------------------------------
+F. Philip Snow,  Factset Research Systems Inc - Chief Executive Officer, Director    [56]
+--------------------------------------------------------------------------------
+
+          I do want to kind of add on and point out that it's up to us to make our own tailwinds here. Regardless of the end markets, we have a $28 billion total addressable market, the way it's been defined historically. $8 billion of that is beginning to open up to us now with the feed products that we're creating. And then to build on what Helen just said, I think because firms look to outsource more from a technology and even managed services standpoint, I think that addressable market grows. So there's no shortage, honestly, of addressable market. And I think the companies that are positioned well moving into this can create some of their own tailwinds despite what the market is giving us.
+
+--------------------------------------------------------------------------------
+Operator    [57]
+--------------------------------------------------------------------------------
+
+          Guru Sidaarth, Oppenheimer.
+
+--------------------------------------------------------------------------------
+Guru Sidaarth,  Oppenheimer & Co. Inc. - Analyst    [58]
+--------------------------------------------------------------------------------
+
+          Hi. This is Guru on for Owen and thank you so much for taking my questions. I wanted to ask about the deep sector offering. I think the last major update was back in Q1 when it helped displace a competitor in banking. So any updates here? Because this really seems like it could be a solid driver give behind AI. So any updates or insights over here?
+
+--------------------------------------------------------------------------------
+F. Philip Snow,  Factset Research Systems Inc - Chief Executive Officer, Director    [59]
+--------------------------------------------------------------------------------
+
+          A little bit, Guru. Thanks for the question. So yeah, we're certainly chipping away here. I believe we now have eight sectors with some good coverage and over 80 reports within the workstation. And I believe we're also building out some feed deals. So there's an active pipeline, and it is an important aspect of what most banks want to see now when things come up for renewal. So I think there's just one or two of us in the market, honestly, that have this in banking.
+
+--------------------------------------------------------------------------------
+Operator    [60]
+--------------------------------------------------------------------------------
+
+          Scott Wurtzel, Wolfe Research.
+
+--------------------------------------------------------------------------------
+Scott Wurtzel,  Wolfe Research Securities - Analyst    [61]
+--------------------------------------------------------------------------------
+
+          Hey, good morning, guys, and thanks for squeezing me in here. Just wanted to go back to the wealth segment. I'm wondering if you can maybe sort of characterize the overall demand on the wealth side relative to what you're seeing on institutional buy side and sell side. I know you talked about modest growth this quarter, but I would love to just kind of hear characterization of the overall demand and compared to some of the other end markets you operate in.
+
+--------------------------------------------------------------------------------
+F. Philip Snow,  Factset Research Systems Inc - Chief Executive Officer, Director    [62]
+--------------------------------------------------------------------------------
+
+          I think it's the healthiest one for us, honestly, Scott. Thanks for the question. So we have a very active pipeline there of deals of various sizes. And we're beginning to build out some interesting workflows beyond sort of what we've been providing over the last few years. And with the introduction of some of these AI tools, I think we're in very good shape. So I'm very optimistic about wealth and our ability to accelerate from here.
+
+--------------------------------------------------------------------------------
+Scott Wurtzel,  Wolfe Research Securities - Analyst    [63]
+--------------------------------------------------------------------------------
+
+          Great, thank you.
+
+--------------------------------------------------------------------------------
+F. Philip Snow,  Factset Research Systems Inc - Chief Executive Officer, Director    [64]
+--------------------------------------------------------------------------------
+
+          Summary, we believe we are well positioned in terms of both our strategy and product portfolio to capitalize on the ongoing mega trends in our industry and for when the end markets become more constructive. Thank you all for your great questions today. We'll see you all in September. Operator, this ends today's call.
+
+--------------------------------------------------------------------------------
+Operator    [65]
+--------------------------------------------------------------------------------
+
+          Thank you for your participation in today's conference. This concludes the program. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2024 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

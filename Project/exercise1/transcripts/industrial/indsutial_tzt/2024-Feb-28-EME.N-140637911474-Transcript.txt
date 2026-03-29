@@ -1,0 +1,420 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q4 2023 EMCOR Group Inc Earnings Call
+FEBRUARY 28, 2024 / 3:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Mark A. Pompa
+   EMCOR Group, Inc. - Executive VP & CFO
+ * Jason R. Nalbandian
+   EMCOR Group, Inc. - Senior VP & CAO
+ * R. Kevin Matz
+   EMCOR Group, Inc. - EVP of Shared Services
+ * Unidentified Company Representative
+    - 
+ * Anthony J. Guzzi
+   EMCOR Group, Inc. - Chairman, President & CEO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Brent Edward Thielman
+   D.A. Davidson & Co., Research Division - MD & Senior Research Analyst
+ * Alexander David Dwyer
+   KeyBanc Capital Markets Inc., Research Division - Associate
+ * Blake Mueller
+    - 
+ * Adam Robert Thalhimer
+   Thompson, Davis & Company, Inc., Research Division - Director of Research & Partner
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good morning, my name is Alan, and I will be your conference operator today. At this time, I would like to welcome everyone to the EMCOR Group Fourth Quarter and Year-End 2023 Earnings Call. (Operator Instructions) Please note, this event is being recorded. 
+I'd like to hand things over to Mr. Blake Mueller with FTI Consulting. You may begin.
+
+--------------------------------------------------------------------------------
+Blake Mueller,   -     [2]
+--------------------------------------------------------------------------------
+Thank you, Alan, and good morning, everyone. Welcome to the EMCOR Group conference call. We are here today to discuss the company's 2023 fourth quarter and full year results, which were reported this morning. 
+I would like to turn the call over to Kevin Matz, Executive Vice President of Shared Services, who will introduce management. Kevin, please go ahead.
+
+--------------------------------------------------------------------------------
+R. Kevin Matz,  EMCOR Group, Inc. - EVP of Shared Services    [3]
+--------------------------------------------------------------------------------
+Thanks, Blake. Good morning, everyone. And as always, thank you for your interest in EMCOR, and welcome to our earnings conference call for the fourth quarter and full year 2023. 
+For those of you who are accessing the call via the Internet and our website, welcome to you as well, and you've arrived at the beginning of our slide presentation that will accompany our remarks today. We are on Slide 2. 
+This presentation certain forward-looking statements and may also contain certain non-GAAP financial information. Page 2 describes in detail the forward-looking statements and the non-GAAP financial information disclosures. I encourage everyone to review both disclosures in conjunction with our discussion and accompanying slides. 
+Slide 3 depicts the executives who are with me to discuss the quarter and full year 2023 results. They are Tony Guzzi, our Chairman, President and Chief Executive Officer; Mark Pompa, Executive Vice President and Chief Financial Officer; Jason Nalbandian, our Senior Vice President and Chief Accounting Officer; Maxine Mauricio, Chief Administrative Officer, our Executive Vice President and General Counsel; and Andy Backman, Vice President, Investor Relations. 
+For call participants not accessing the conference call via the Internet, this presentation, including the slides, will be archived in the Investor Relations section of our website under Presentations. You can always find us at emcorgroup.com. 
+And with that said, please let me turn the call over to Tony. Tony?
+
+--------------------------------------------------------------------------------
+Anthony J. Guzzi,  EMCOR Group, Inc. - Chairman, President & CEO    [4]
+--------------------------------------------------------------------------------
+Thanks, Kevin. Good morning, and thank you for joining us for our 2023 full year and fourth quarter earnings call. Before we begin, though, I would like to recognize 2 of our executives, Mark Pompa and Kevin Matz. As we have previously announced, Mark and Kevin will close out 2 remarkable EMCOR careers on April 1. I want to thank them for their hard dedication -- hard work, dedication to EMCOR, and you've been great teammates. I know they both share our excitement about the future at EMCOR, as Jason will take the helm as our CFO. Andy will take over Kevin's Investor Relations responsibilities. I also want to recognize the promotion of Maxine Mauricio to Chief Administrative Officer, as she assumes some of the oversight duties previously held by Kevin. Thank you again to Kevin and Mark. Congratulations to Jason and Maxine, and a continued warm welcome to Andy, who joined us this last fall. 
+Now I'd like to turn you to Page 4 to 6, and that's where I'm going to start my comments. I'm going to focus most of my comments on our full year 2023 results, and Mark will go into more detail about our fourth quarter. We had a great fourth quarter at EMCOR. We outperformed our expectations, earning $4.47 per share on $3.44 billion in revenue, which represented 16.2% organic revenue growth. Our fourth quarter operating margin was exceptional at 8.4%. Fourth quarter rounded out an excellent 2023 by any measure. 
+We did have an incredible 2023, with revenue of $12.6 billion, representing growth of 13.6%, and organic revenue growth of 12.6%. Our earnings per share increased by approximately 65%, and our operating income up $875.8 million, grew 55% over that of 2022, with record annual operating margin of 7.0%. Operating cash flow of $900 million represented a conversion in excess of 100% of operating income. 
+We had a lot go right for us in EMCOR in 2023, and this incredible performance is a testament to our leadership at all levels of our company, including our segment and subsidiary leaders, who have delivered exceptional results for our customers, shareholders and teammates over an extended period of time. 
+Over the last 3 years, we have more than doubled our earnings per share, with a compound annual growth rate of 28%, in a difficult and uncertain business environment. Our teams drive our results by a relentless focus on long-term growth, productivity and innovation, balanced capital allocation, and we live our EMCOR values of Mission First, People Always, and they've been embraced throughout our company. We also have strong workforce training and development programs. 
+We're fortunate to operate in large, growing market sectors like high-tech manufacturing, network and communications, manufacturing and industrial. These sectors as well as our energy retrofit projects are benefiting from long-term secular trends that require excellence in specialty trade contracting. 
+We have challenges, but we have met them and will continue to meet those challenges with resolve and with a strong focused execution at every turn. 
+We finished the year with our RPOs at an all-time high of $8.85 billion, which represents 2.5% sequential growth from September 30, 2023, and 18.6% growth over the year ago period. 
+Now I'm going to probably share some highlights from our segments. We had excellent performance in each our Mechanical and Electrical Construction and U.S. Building Services segment. Mechanical Construction had an especially stellar 2023. The operating results of our Industrial Services segment continue to improve at a measured pace. And despite unfavorable economic conditions, our U.K. Building Services segment is reporting solid operating income and operating margin. 
+The continued strength of our Electrical, Mechanical Construction segment is evidenced by 2023 revenue growth, up 14.4% and 18.2%, respectively. With 2023 Electrical Construction operating margin of 8.3% and Mechanical Construction operating margin of 10.5%, the conversion from revenue to operating income by these segments has exceeded our expectations and really is a result of excellent execution, adaptability, smart project selection and favorable contract terms. 
+In the Construction segments, we selected key market sectors, estimated, negotiated in one meaningful projects planned and executed such projects well and safely deploy our highly-skilled labor with strong productivity. Our teams have increased productivity by deploying BIM, or building information modeling, and prefabrication at scale while sharing best practices on construction means and methods across our company. 
+Said simply, we have learned from both our successes and failures, then deploy those learnings across our company to drive excellent results for our customers and superior financial returns for our shareholders. 
+In our Construction segments, we continue to win and complete some of the most sophisticated projects in markets such as high-tech manufacturing, which includes semiconductors, the EV value chain, biotech, life sciences and pharmaceuticals. The network and communications sector, which encompasses our data center work in the manufacturing sector, which has been driven by reshoring, domestic capacity expansion and also includes the renewable energy projects we're working on, and we have continued to see growth in our health care sector. 
+As a reminder, our mechanical product offering is brought across applications such as HVAC, processed piping plumbing, fire protection and life safety. We are operating in key geographies where such projects are in process, and our life safety group has the capability to move across the country. We are positioned well with the right resources in the right market sectors and geographies to continue to win complex projects that allow us to perform well for our customers. 
+Our Electrical and Mechanical Construction teams have deep expertise in data center market, which allows us to serve our customers with the right solution delivered under the most demanding schedules with excellent outcome for our customers. As I have mentioned on earlier calls, our segment and subsidiary management teams are leading in an exceptional way in allocating resources in a thoughtful and pragmatic way. We continue to strive to optimize our project mix to produce great financial results. 
+Our U.S. Building Services segment continues its record of steady and impressive performance, and it has a strong mix of work across the service lines. This segment's revenues grew 13.3% in 2023, with an operating margin of 5.9%. Demand persists for our -- in our Mechanical Services division with excellent execution across retrofit projects, building controls and maintenance and repairs. We are working across a variety of end markets, and our customers remain focused on energy efficiency and indoor air quality upgrades. The Mechanical Services business drove the robust performance of the segment in 2023, due in large part -- not due in large part, just due in part to a strong repair service season this past summer as heat and humidity blanked most parts of the country. 
+The site first services division continues to deliver, entering into multiyear facility maintenance contracts to leverage our self-perform operating model for skilled tradespeople and operating engineers. While opportunities for growth remain in this area, these facility services contracts take some time to ramp up, and the scope for these contracts can reduce, expand or be terminated over time and upon rebid. We have seen some contract degradation as the real estate facility providers are especially aggressive on price and scope on some of these contracts, as they are struggling in their commercial real estate businesses. However, we will remain disciplined and not take any low price, low opportunity contracts. 
+Our Industrial Services segment improved in 2023, and had sustained performance improvement over the last 2 years. Operating income improved by nearly 80% in the year, albeit from a low base. We had a more turnaround seasons in 2023, and we had strong results from our niche services like heater repair. We are experiencing greater levels of capital spending within our shop services division in the form of increased new build heat exchanger orders and have benefited during the year from certain renewable fuel projects. 
+We are just starting to see the resumption of demand for utility scale solar projects currently impacted by supply chain and permitting issues. Our Industrial Services and Electrical team has us positioned well in the solar market and that position should continue to improve. Our U.K. segment performed in a manner consistent with the available market opportunities in 2023. The competition on some contracts is fierce as the U.K. economy is not strong. 
+And similar to the U.S. facility services market, we see the real estate companies bidding on contracts aggressively due to weakness in the U.K. commercial real estate market. However, we have a normal base of facility services contracts. We'll build on that base and serve our customers well. And though we experienced a reduction in annual revenues in this segment, we are executing well as shown by the 5.9% operating margin for the year. 
+Our balance sheet remains strong. It supports our organic growth, and it provides us with the capital needed to expand our prefabrication capabilities, an investment in BIM, automation and robotics. We also have the firepower to continue to make strategic acquisitions, and I'm going to discuss that in more detail later. 
+With that, Mark, I'm going to turn it over to you.
+
+--------------------------------------------------------------------------------
+Mark A. Pompa,  EMCOR Group, Inc. - Executive VP & CFO    [5]
+--------------------------------------------------------------------------------
+Great. Tony, thank you for those kind words you said earlier, and good morning to everyone participating on our call today. For those accessing this presentation via the webcast, we are now on Slide 7. Over the next several slides, I will provide a detailed discussion of our fourth quarter 2023 results as well as a summary of our full year performance, some of which Tony just outlined during his opening commentary.  
+As a reminder, all financial information discussed during this morning's call is included in our consolidated financial statements within both our earnings release announcement and Form 10-K filed with the Securities and Exchange Commission earlier today. 
+With that, let's begin our review of EMCOR's fourth quarter. Consolidated revenues of $3.44 billion increased $489.4 million, or 16.6% from the fourth quarter of 2022. Each of our domestic reportable segments experienced revenue growth during the fourth quarter, which was the case for all 4 quarters of 2023. Revenues attributable to businesses acquired during the quarter were just under $11 million, so substantially all of our quarter-over-quarter revenue growth was due to organic activities. Our fourth quarter's consolidated revenues established a new all-time quarterly revenue record for the company, and eclipses our previous record set during the third quarter of 2023. 
+The specifics to each of our reportable segment's fourth quarter revenue performance is as follows: United States Electrical Construction segment revenues of $763.4 million increased $49.8 million, or 7% from quarter 4 of 2022, this segment continues to experience revenue growth across the majority of the market sectors that we serve, with the most significant fourth quarter revenue increases being generated within the manufacturing and industrial and high-tech manufacturing market sectors; Revenues of our United States Mechanical Construction segment of $1.47 billion, increased $339.3 million or approximately 30% from the year ago period. This segment experienced revenue growth across all market sectors in which we operate, with the most significant growth occurring within the high-tech manufacturing market sector. 
+In addition, notable increases were seen within the manufacturing and industrial, network and communications, health care and water and wastewater market sectors. 
+As communicated throughout the year, driven by customer projects supporting the design and manufacturing of semiconductors as well as production and development of electric vehicles and/or related battery technologies, this segment is experiencing strong demand for both fire and life safety as well as traditional mechanical services. This is in conjunction with continued data center development as well as the domestic reshoring of critical supply chain by certain of our customers, are the contributing factors to this segment's significant organic growth. 
+Both our Electrical and Mechanical Construction segments established new all-time quarterly revenue records with their fourth quarter performance. Revenues of EMCOR's combined domestic Construction segments totaled $2.24 billion for the fourth quarter of 2023, an increase of $389.1 million or just over 21%. The United States Building Services quarterly revenues of $802 million increased $88.6 million or 12.4%. Excluding incremental acquisition contribution, the segment's revenues grew 10.9% organically, given increases across each of its operating divisions, with the most significant growth being generated by mechanical services. 
+Within mechanical services, we are benefiting from strong demand for HVAC projects and retrofits as well as building automation and control services, while customer initiatives to improve energy efficiency and our indoor air quality are certainly contributing to this demand our opportunities remain broad-based and are further enhanced by mandated refrigerant phaseouts. 
+In addition, our service volume continues to grow given an increase in our customer base as well as our geographic footprint. 
+EMCOR's Industrial Services segment revenues of $292.5 million, increased $16.2 million or 5.9% quarter-over-quarter. This marks this segment's fourth consecutive quarter of top line growth. In addition, to more normal maintenance demand, we experienced the resumption in capital spending by our customers in the form of new build heat exchanger orders and participation in several renewable fuel projects. 
+United Kingdom Building Services segment revenues of $108.8 million represents a reduction of $4.5 million or 4% from last year's fourth quarter. As referenced throughout 2023, this segment's revenues have declined due to the nonrenewal of certain facilities maintenance contracts, which were still active in 2022 as well as the reduction in project work from certain of its segment's customers who slowed their capital spending programs in response to macroeconomic headwinds within the United Kingdom. 
+Please turn to Slide 8. Reported operating income for the quarter was $289.2 million or 8.4% of revenues, and favorably compares to $177.2 million of operating income or 6% of revenues a year ago. Consistent with my revenue commentary, our fourth quarter operating income and operating margin both established new all-time quarterly records for EMCOR. This was achieved through increased operating income in each of our reportable segments, as well as expansion in operating margin in all but one of our segments. 
+Specific fourth quarter operating performance by segment is as follows: our U.S. Electrical Construction segment earned operating income of $76.3 million, an increase of $18.2 million or 31.3% from the comparable 2022 period. The reported operating margin of 10% represents an improvement from 8.1% in last year's quarter, increased gross profit and gross profit margin within the institutional commercial and high-tech manufacturing market sectors were the primary drivers of this improved performance. 
+As a reminder, the results of this segment during the fourth quarter of 2022 were negatively impacted by certain discrete project write-downs which totaled $10 million, and reduced this segment's operating margin by 140 basis points in the 2022 4th quarter. 
+Operating income of our United States Mechanical Construction Services segment of $186.1 million, represents a substantial increase of $81.3 million from last year's quarter, and operating margin of 12.6% represents an all-time high for this segment. Greater gross profit dollars and gross profit margin in the majority of market sectors in which we operate, driven by a favorable revenue mix, successful project closeouts and better execution were the factors behind this segment's improved performance. 
+Operating income for U.S. Building Services was $42.1 million or 5.2% of revenues, which represents a 10.8% increase. The improved year-over-year performance was primarily due to the segment's Mechanical Services division, given the volume growth referenced during my revenue commentary, coupled with favorable execution on both our HVAC project and repair service activities. Our U.S. Industrial Services segment operating income of $12.6 million or 4.3% of revenues, represents an increase of just over $11 million from the corresponding 2022 period, led in the quarter by improved pricing within a shop services division, we are continuing to see operating margins of this segment move in an upward direction. 
+U.K. Building Services is reporting operating income of $5.5 million or 5% of revenues, which compares favorably to that of the prior year period. The decrease in the segment's revenues was more than offset by increased operating margin as the segment continues to execute well across its portfolio of facilities maintenance contracts and add-on project work. 
+We are now on Slide 9. Additional financial items that's significant through the quarter not addressed on the previous slides are as follows: Quarter 4 gross profit of $617.7 million represents an all-time quarterly record for the company, and is higher than the comparable 2022 period by approximately $163 million or merely 36%. Gross margin of 18% has improved 260 basis points period-over-period. 
+Selling, general and administrative expenses of $328.5 million represent 9.6% of revenues and reflect an increase of approximately $51 million from quarter 4 of 2022. SG&A for the current year's quarter includes $2.7 million of incremental expenses from businesses acquired, inclusive of intangible asset amortization, resulting in an organic increase of just over $48 million, which was largely driven by personnel costs. 
+In addition to annual cost of living adjustments and greater employee benefit costs, our strong organic revenue growth has necessitated increased head count across many of our businesses. Further, the operating income outperformance across the majority of our reportable segments during the fourth quarter and full year 2023 periods resulted in incremental incentive compensation expense. 
+Diluted earnings per common share in the fourth quarter of 2023 is $4.47 compared to $2.63 per diluted share in the prior year. This fourth quarter EPS performance, like many of our financial metrics this quarter, eclipses EMCOR's prior all-time quarterly diluted earnings per share record, which was previously established during the third quarter of 2023. 
+Please turn to Slide 10. With the quarterly commentary complete, I will now supplement Tony's comprehensive introductory remarks at EMCOR's annual performance. Consolidated revenues of $12.6 billion represent an increase of $1.5 billion or 13.6% when compared to 2022. Our full year results include $107.1 million of incremental revenues attributable to businesses acquired, pertaining to the time that such businesses were not owned by EMCOR in 2022. Excluding the impact of acquisitions, annual revenues increased a strong 12.6%, with all of our reportable segments other than our United Kingdom Building Services segment, generating strong revenue growth during the full year period. 
+Operating income of $87.8 million or 7% of revenues represents a 55% increase from calendar year 2022, along with a 190 basis point improvement in operating margin. 
+Each of our domestic reportable segments, as Tony commented, achieved double-digit increases in full year operating income along with meaningful improvements in operating margin. 
+Full year diluted earnings per share was $13.31, and  compares to $8.10 in the corresponding 2022 period. Adjusting 2023 to exclude the third quarter impairment charge related to certain long-lived assets within our United States Mechanical Construction segment results in an adjusted non-GAAP diluted earnings per share of $13.34 for the year. This represents a 65% improvement over 2022's reported diluted EPS. 
+Not surprising, with our strong performance throughout the last 12 months, full year 2023 represents a record year for EMCOR, surpassing the company's previous all-time performance achieved in 2022. 
+We are now on Slide 11. The strength of EMCOR's balance sheet continues to differentiate us from our competition, and provides our customers with confidence as we bid on large-scale and demanding projects. Given our balance sheet, coupled with the borrowing capacity available to us under our recently amended and extended revolving credit facility, we remain well positioned to fund organic growth, pursue strategic M&A opportunities and return capital to shareholders. Our commitment to shareholder return is evidenced in part by today's announcement that our Board of Directors has approved an increase in our quarterly dividend of almost 40%. 
+The notable fluctuations in our balance sheet when compared to December of 2022 are as follows: Cash on hand is $790 million, and represents an increase of just over $333 million; our exceptional operating cash flow performance of $900 million, which Tony commented on earlier, was partially offset by cash used for financing activities of just over $412 million, given the repayment of all amounts previously outstanding under our term loan, and the return of $160 million to stockholders through share repurchases and dividends, as well as cash used in investing activities of $161 million for acquisitions and capital expenditures. 
+Resulting primarily from the increase in cash just referenced, our working capital balance has increased by just over $220 million from December of last year. 
+Goodwill has increased by $37.4 million as a result of the 8 acquisitions completed by us in calendar 2023, while net identifiable intangible assets have decreased by $7.9 million, as the additional intangible assets recognized in connection with these acquisitions was more than offset by $67.1 million of the amortization expense in 2023. Total debt, exclusive of operating lease liabilities has decreased by $241.9 million, almost entirely as a result of the aforementioned repayments made on our previously outstanding term loan after considering outstanding letters of credit, there remains $1.2 billion of capacity available to us under our renewed $1.3 billion revolving credit facility, the maturity of which now has been extended to December of 2028. 
+Our stockholders' equity balance has increased by almost $500 million, as our net income for the year exceeded our share repurchases and dividend payments made throughout 2023. EMCOR's debt-to-capitalization ratio has reduced to 0.2%, from 11.1% at year-end to 2022, given the full repayment of our term loan as well as the increase in stockholders' equity, both of what I had just referenced.  
+With my portion of this morning's prepared comments complete, I will now give the call thankfully back to Tony.
+
+--------------------------------------------------------------------------------
+Anthony J. Guzzi,  EMCOR Group, Inc. - Chairman, President & CEO    [6]
+--------------------------------------------------------------------------------
+Thanks, Mark. And I'm going to start on Page 12. We really could think of this, the way we talk about earnings is, we just talked about everything that happened in the past and this next section is all about the future. 
+And if you go to Page 12, we've talked about this chart probably about 3 quarters ago, we started talking about it. And I look at this as a resource allocation chart. It not only informs how we allocate resources to drive organic growth, but this chart also informs our capital allocation decisions, which we'll talk about later. 
+So if you think about this chart and moving left to right, and it will be some intermixing, the first part is the electrification EV value chain, it's a trend. And there's been a lot in the news lately about what's happening, is it stalling and all that. In our world, it's not right now, because of where we played. For us, it's mainly been about fire and life safety and utility scale charging stations and now solar is starting to come back up on the radar. 
+But the way I think about this, this is a major transformation, whether EVs and the electrification is 10% of vehicles, whether it's 15% of vehicles, whether it's is 30%. And clearly, the policy got a little ahead of the technology here. But that's okay. At the end of the day, all these facilities will be built. Some of them, the battery infrastructure is going to have to be built again, no matter what penetration it has. It's a lot more than it is today. And the utility scale charging stations that we participated in, these are major hubs of transportation. And some of this is well underway because it makes sense, especially for delivery vehicles and other things that have lighter weights. 
+The solar is just starting to reengage in our part of the world, and we do that mainly in electrical. We do that some in the Electrical segment, some in the sub-utility scale in building services, and we'll talk about that later. But then at scale, we do it in industrial services through our electrical business there. We have great capability there. And it's also supported by the IRA and government incentives. And we are privileged to be able to either do that with union labor where applicable, or we have the necessary prevailing wage experience and apprenticeship programs in the nonunion world to be able to do that. And you'll hear that theme across some of these trends. 
+Then you get to the high-tech manufacturing, look, maybe on electrification, EV value chain, a pretty good market. What we're building, we're going to continue to build. All big markets go through periods of up and down. But the long-term trend, I think, is intact. And again, whether it's 7%, 15% or 30%. There's a lot of facilities, a lot of utility scale charging that needs to happen. And if we just get a share of the solar market going forward, we'll see that in our Industrial Services segment. 
+You go to high-tech manufacturing, life sciences, and you really got to look at this box and draw a little loop down to reshoring and near-shoring. We learned in COVID, the supply chains weren't as resilient as they should be. I don't think we learned that. We probably knew that. But we needed to have a lesson like that. So we're seeing our customers move their supply chains back onshore. This was happening even before COVID, because the wage differential versus the transportation, and the uncertainty of transportation was not what it was in automation allow you to make up for a lot of that wage differential. 
+But you're really seeing it, the semiconductor manufacturing, which we're such a big part of, and we've expanded where we can do that. We only could do that in a couple of markets before. Now we can do that and double that number. So maybe when we were 2 before, now we're 4 to 6. And that is, for us, weighted towards Mechanical. But Electrical, we still do that work there in fire or life safety. So it represented all trades, but weighted more towards Mechanical, and you see that in our RPOs. 
+And you go to pharma, biotech, life sciences, again, there's 2 things happening there. There's reshoring. And we're in a lot of the right markets to make that happen, whether it's the Carolinas, parts of California, Indiana or New Jersey, but there's also an explosion of new drugs, specifically around weight loss. And new lines are being added, new capacity, and we're part of that. 
+And you're also seeing in this high-tech manufacturing life safety, nearshoring, is these major tech companies building hubs outside of Silicon Valley, whether it be in Research Triangle Park, Texas or Arizona. Again, places we're well positioned to take advantage of helping our customers. 
+And again, go to the government incentives, it's focused on getting skilled trade labor on the job that's trained the right way. We do that either through our union relationships or through skilled apprenticeship programs. And you have to understand how to work in a PLA, a prevailing wage world. we're expert at that. And our subsidiary CEOs, our segment leadership and our corporate leadership knows how to put the right parameters around that to make sure that we comply with what we told our customers were, so they qualify for the incentives that they want to receive. 
+Then you move to the right, and again, part of that high-tech manufacturing is driven by AI and data center buildout. Go to data centers, we're really good. And we've been really good at this for a long period of time. We started this back in the early 2000s. There was a little bubble up in 2010, '11. We kept that capability. And that leadership we have in our Electrical and Mechanical segments and some of our subsidiary leaders, they are world-class specialty contractors and data centers as is our fire and life safety offering. 
+So what's driving demand here? Driving demand is us, right? We want more and more service. We -- big companies like EMCOR is putting more and more things in the cloud, but also the proliferation of AI and that needs more systems. These went from 5, 10, 15-megawatt facilities to 50, 80, 100 million -- 100-megawatt facility. So just put that in perspective, if you look at an office building or even a hospital complex, you look at a large hospital complex. That maybe is 5 to 10 megawatts. 
+So think about what that one data center is using today to drive the things we need to be more productive or to outsource or get things into the cloud, increase power requirements, then you're going to go back to the remodel of some of the data centers that were built to uplift the power in there and also have different kinds of server racks. So we not only participate on the front end, electrically and mechanically in fire and life safety. We also participate in, we call it the day 2 work, to allow it to be -- to receive the racking. 
+And then also finally in the retrofit and remodel. We've done a lot of work around these 3 top trends over the past 1.5 years, 2 years to understand the long-term trends. We feel pretty good about where we're positioned. 
+Going on to health care, EMCOR has always been world-class hospital builders. It's hard to go into a major city that we're in and not know that we weren't part of that health care skyline. Whether it's the Texas Medical Center in Houston, whether it's Massachusetts General and a whole hospital complex pass Fenway in Boston, whether it's in San Diego, whether it's in Chicago, we're part of that health care skylight. And what we learned in COVID, those facilities need to be redone in many cases, also need to be made more flexible. 
+And when you think about those health care facilities, they are rich, system-complex environments. They don't look other than some of the high purity things, which an operating room is a lot different than these high-tech manufacturing and life science plants. There's a lot of commonality between that hospital build and high-tech manufacturing. And that allows me to talk about what we do -- I talked about it and started this was a resource allocation game at EMCOR and figuring out where the best opportunities for us to perform, perform well, keep our workers safe and productive and get superior results for our shareholders. 
+And so a lot of the capabilities we've built across these different boxes, we can use in the different boxes. And that is the wonderful thing about our skilled trades. That's the wonderful thing about our supervision and the engineering that we have at EMCOR which is more design assist, value engineering people that designed to build, right? We figure out how to make it more buildable. And that's what BIM and prefabrication have allowed us to do. 
+And last but not least, you get the energy efficiency and sustainability. I don't think any of us sit here to say and say, "Oh, yes, I know energy prices are going down in the long term." That can't be true because you have an energy transformation going on, coupled with this great demand coming out of things like high-tech facilities, data centers, the electrification, they use a lot of energy. 
+So energy efficiency is also for owners and energy security, people are concerned about reducing their emissions, because it's not only in a lot of ways the right thing to do, it's the most cost-effective thing to do over the long term. And nobody does that better than our EMCOR Mechanical Services businesses, in Building Services, also partly in our Mechanical Construction business. Yes, the lighting is good and all that. That's a given. But the complex things we can do around HVAC design and what we can do with building control systems. We do that world class. We are the -- one of the leading applied building controls companies in the country, and we can deliver superior results for mechanical solutions for our customers. 
+And we've expanded our ability to do that with some recent acquisitions to talk about water and waste reduction, talk about the building envelope as part of someone's else drive to get facilities rationalization and energy efficiency. Sometimes you'll see these things, coupled with an alternative energy solution or a cogen solution, where they'll add solar, they'll add a cogen solution where you're taking steam and converting it into a cooling or you're converting it into power. We have folks in the field, we have great engineers, they know how to do that, to work within the built space to drive great energy efficiency and superior results for our customers and reduce their energy needs. 
+So I could stop there. We could stop talking about the future, but we're going to go now shift to Page 13 and talk about RPOs and how that page, Page 12, manifests itself into RPOs. I mean ultimately, great trends, but you don't know how to capitalize and turn it into projects, really doesn't mean a whole lot. 
+So if you look on Page 13, you can see the impact of those major trends in our RPOs. Total company RPOs at the end of 2023 were over $8.8 billion, up almost $1.4 billion or almost 19% over the December 2022 total of $7.5 billion. Additionally, fourth quarter project bookings were strong, with RPOs increasing $212 million from September 30, 2023. 
+Domestic construction services RPOs stand at $7.3 billion, a record, up $1.3 billion from December 2022, in line with strong project demand across most of the market sectors in which we operate. And then we've seen that throughout the year. 
+Building Services, which are anchored by energy efficiency projects and retrofit projects, ends 2023 with a healthy project pipeline and also exemplified by almost $1.3 billion of RPOs. 
+RPOs by market sector, for balanced end market segmentation, bridging back to the previous page of organic growth trends in the marketplace. Looking into the actual activity, high-tech manufacturing, which includes semiconductor, pharma, biotech, life sciences, R&D and the electric vehicle value chain stands at $1.5 billion, up $686 million or 89% from year-end 2022. Network and communications, which includes hyperscale data center work, stands at almost $1.6 billion, up $578 million or 59% from December 31, 2022. 
+Health care project demand continues to be strong, as we have over $1 billion in health care RPOs, which is primarily made up of new hospital construction or expansion projects. We also currently have RPOs of nearly $650 million in water and wastewater projects, which for us are predominantly located in Florida's Miami-Dade County and also the West Coast of Florida from targeted projects from Tampa to Naples. Reshoring and nearshoring trends continue for our manufacturing and industrial customers reflected in $808 million in project RPOs. 
+During the year, we also saw increases in transportation and short duration projects. Partially offsetting these RPOs were decreases in commercial, that's primarily driven by warehouse and hospitality projects. However, with respect to warehouses, we are seeing an uptick in activity for cold storage warehouses and upgrades in those cold storage warehouses for our fire and life safety services and projects as customers introduce more automation and change warehouse configuration. 
+As the calendar moves into 2024, we continue to see strong multiyear growth characteristics in many of the market sectors we serve. Our scale and operational excellence sets us apart from others in the marketplace and make our operating companies some of the most capable partners for our customers. As the diversity in our RPOs demonstrates, we have the flexibility and capability to move across these sectors to address trends in the markets as they arise. 
+As we progress through 2024, the pace and compositions of RPOs may change, based on the way our customers contract with us, and become more familiar and part of their site build up. Once we are on a customer site frequently or sometimes subsequent portions of the project at the site are awarded in scopes of work that are smaller than the initial award. And second, supply chain issues and lead times are now being factored into the initial planning, thus avoiding the previous delay that led to some of the buildup in RPOs, especially in Building Services. 
+With respect to capital allocation, which I'm going to show to you on Slide 14, our Board has approved an increase in our quarterly dividend from $0.18 per share to $0.25 per share. We have a good acquisition pipeline, and tend to use some of our firepower to execute deals. We recently signed definitive agreements to purchase a company in Texas and one in the Greater Atlanta area, both of which add capabilities to our Mechanical Construction segment. We also bought a company or signed an agreement for a company, which will be a bolt-on for our Mechanical Services division. We expect to send around $140 million in aggregate upfront purchase price in connection with these acquisitions. 
+We expect to close these acquisitions as we move further into 2024, and we'll take the opportunity to expand our capabilities and increase our geographic reach to better serve our customers, when we can purchase companies with the right skills and culture. 
+We like our pipeline of deals, but as always, deals happen when they happen. 
+Now let's turn to Page 15 and 16. Our exceptional performance in 2023 resulted in 3 meaningful guidance increases in 2023, as our operating margin strengthened throughout the year, primarily because we perform well and efficiently on difficult and complex projects. Some of these projects had favorable contract terms. And what that really means is we don't get into protracted disputes with our customers. We work to finish the job together. And we have some outstanding disputes that we successfully resolved in 2023. 
+As we set guidance for 2024, it is important to remember what I mentioned earlier at the start of this call. We're coming off a 3-year CAGR of nearly 28%, and we had 65% growth in earnings per share this past year. We do expect to continue to grow earnings for our shareholders this year. For 2024, we will set guidance at $13.5 billion to $14 billion in revenues, and $14 to $15 in diluted earnings per share. Our guidance assumes strong operating margin performance. Our guidance assumes strong operating margin performance. 
+As previously discussed, we started the year with excellent RPOs in our Electrical and Mechanical Construction segments, and a good base of RPOs in our Mechanical Services division within our U.S. Building Services segment. However, we have nearly $300 million in revenue headwinds in the U.S. and U.K. Building Services segment combined. They are coming from the result of loss of facility services contract that we lost on rebid despite strong customer scores on our service delivery. 
+Despite this, we still expect low to single -- mid-single-digit revenue growth in U.S. Building Services. As reflected in our RPOs and as discussed previously, we continue to work and win work in important and strategic market sectors. We are executing our work with efficiency and precision as shown by our operating margins. We are utilizing BIM prefabrication and our labor and supply management capabilities, with an eye towards delivering superior results for our customers and shareholders. 
+However, as I stated in previous calls, it is important to remember that operating margins can fluctuate quarter-to-quarter based on mix execution and timing of projects. 
+We evaluate our operating margin performance in terms of ranges over 8 quarters. And our performance in 2023 yielded operating margins for most of our segments, which were at or above the high end of our historical ranges, especially in our Mechanical Construction segment. We've shown great resilience in dealing with supply chain issues and continue to develop a strong bench performance through project managers to senior leadership. Further, we are attracting notable talent, from skilled labor to senior project and operations management. 
+Our outlook for 2024 is positive and for our ability to achieve the upper end of our guidance range, macroeconomic factors and other factors will come into play potentially. We remain concerned with the financial risk to some customers around continued elevated interest rates and also the macro uncertainties posed by the (inaudible), the conflict and unrest in the Middle East and their impact on global energy markets and supply chains, as well as the dysfunction occurring in the U.S. government, which may lead to a government shutdown or the inability key pieces of legislation. 
+We also realized that our customers adjust the scope and timing of long-term projects, consistent with their immediate, intermediate and long-term capacity needs. Despite these challenges, we believe that we will be able to navigate these uncertainties as we have, as our team has shown great resiliency in the past. We remain cognizant of these external factors and the potential impact on our execution and performance. 
+We're going to continue to be balanced capital allocators, specifically, as discussed previously, there remain opportunities within our acquisition pipeline, and we just increased our dividend to a --  quarterly dividend to $0.25 per share. We will continue to pursue opportunities to grow profitably, both organically and through acquisitions, and our share repurchase program remains in place. 
+As I've said before, with the uncertainty in the financial markets, we believe that our strong balance sheet helps us win work on large sophisticated projects, as customers see our financial strength as just another reason to choose EMCOR. 
+As always, I want to thank the entire EMCOR team for their dedication and hard work. We appreciate all you do every day for our customers. 
+With that, I'll turn it over to you, Alan, to open the line for questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Our first question comes from Brent Thielman of D.A. Davidson.
+
+--------------------------------------------------------------------------------
+Brent Edward Thielman,  D.A. Davidson & Co., Research Division - MD & Senior Research Analyst    [2]
+--------------------------------------------------------------------------------
+Mark, Kevin, congrats on tremendous contributions and careers here. Tony, I heard you say twice, guidance assumes strong margin performance. I heard you mentioned [4] quarters now favorable contract terms, is it sort of one factor here for the really strong margins. I don't imagine that's changing with the new work you're tucking into the business. But are those better terms broad-based? Is it confined to a few of the really hot areas and markets within the business. I just wanted to hear you maybe talk about that.
+
+--------------------------------------------------------------------------------
+Anthony J. Guzzi,  EMCOR Group, Inc. - Chairman, President & CEO    [3]
+--------------------------------------------------------------------------------
+Well, the better terms are mainly focused around liquidity in the project, right, cash flow, keep the project moving. And that wouldn't be an issue with us, but we negotiate hard for those because the better the cash flow on the project is typically the projects moving well.
+Secondarily, the better terms around, okay, if we're going to expand scope with the method for which we're going to expand scope. So we don't get into the change order discussions that are extended and really affect productivity. Some of it's around general conditions, the realization that we want people to have the right general conditions to be able to execute the project well.
+And finally, I think the better contractual terms around how things convert, whether they go from a fee-based contract, GMP to a fixed price and what would be the mechanism to do that? You put all that together, yes, I think the larger the project right now, the more are those terms are favorable both for the owner and for us, because it's a clear eye view of how we're going to work together.
+
+--------------------------------------------------------------------------------
+Brent Edward Thielman,  D.A. Davidson & Co., Research Division - MD & Senior Research Analyst    [4]
+--------------------------------------------------------------------------------
+Okay. Great. And then comparing your RPOs to last year, the RPOs to be executed within [mean] a lot, the RPO is kind of beyond 1 years down compared to that same number last year. And I guess, Tony, the question is, is the response there, what you said in the opening commentary that you may be on these customer sites already, and so you can essentially sort of turn the work faster? Or is there more to it than that?
+
+--------------------------------------------------------------------------------
+Anthony J. Guzzi,  EMCOR Group, Inc. - Chairman, President & CEO    [5]
+--------------------------------------------------------------------------------
+No, that's basically it, coupled with the pace and timing of some of this large work, I mean times money, especially in the data center space. And as a result, you have to be a big sophisticated contractor that has the financial resources to mobilize on the site, be able to assemble a trained workforce with the right training, on a job that might have been in planning, we get it, we may have 1.5 months to mobilize, within 4 months, we're at full production. And within 9 months, some of these big data center jobs, what we do on the -- the guts of it are done. 
+And then if you go to the other side of that, if you're already at a significant semiconductor site or an EV site or even a health care facility, or any manufacturing site, there's a lot of work that has to get done initially to set the utility infrastructure and mobilize, and get everybody to say, okay, we're going to be here. But then as they build the other parts of the site, add tooling, other things, you may get that in an award that will build to something almost the same size in chunks that are 15% to 20% of what you ultimately overdo on that scope.
+
+--------------------------------------------------------------------------------
+Brent Edward Thielman,  D.A. Davidson & Co., Research Division - MD & Senior Research Analyst    [6]
+--------------------------------------------------------------------------------
+Got it. And then I thought it was employee head count saw a bigger annual increase last year than we've seen since the onset of the pandemic for the company. I guess, Tony, do you feel like you have the right amount of kind of human capital to address the opportunities you see out there? Is it an impediment to you by any means? Just curious.
+
+--------------------------------------------------------------------------------
+Anthony J. Guzzi,  EMCOR Group, Inc. - Chairman, President & CEO    [7]
+--------------------------------------------------------------------------------
+It hasn't been an impediment yet, Brent. We have -- we always say that we're always -- [put] an eye towards that. We've always had good success building it. The impediment actually will find the skilled tradespeople. It's how quickly we can develop foreman, how quickly develop project managers to move from being someone that was helping on the job or was an assistant foreman to move up to run big work, likewise with project managers.
+We've also had pretty good success of tracking how we are winning, people like (inaudible). And we've also had pretty good success attracting skilled foreman and project managers from other parts of the country when we're building out some of these sites from other companies and also from other industries.
+
+--------------------------------------------------------------------------------
+Brent Edward Thielman,  D.A. Davidson & Co., Research Division - MD & Senior Research Analyst    [8]
+--------------------------------------------------------------------------------
+Great. Just last one, Mark. The free cash conversion noticeably strong this year just compared to the last 5 years, taking away 2020 COVID. But can we think this conversion rate can continue off the guidance you've given here?
+
+--------------------------------------------------------------------------------
+Mark A. Pompa,  EMCOR Group, Inc. - Executive VP & CFO    [9]
+--------------------------------------------------------------------------------
+Unfortunately, not, Brent, I think as Tony mentioned, with regards to some of our contract negotiations for some of our larger, more sophisticated work, we've been successful in making sure that we're staying ahead of the curve with regards to being provided the necessary working capital to complete those jobs based on advanced billings and payments. We cannot continue the cycle of collecting more cash than income earned. I don't think any company can. So I suspect 2024 is going to look more normal.
+So I think an appropriate benchmark would be 2022 or 2021. And...
+
+--------------------------------------------------------------------------------
+Anthony J. Guzzi,  EMCOR Group, Inc. - Chairman, President & CEO    [10]
+--------------------------------------------------------------------------------
+(inaudible)...
+
+--------------------------------------------------------------------------------
+Mark A. Pompa,  EMCOR Group, Inc. - Executive VP & CFO    [11]
+--------------------------------------------------------------------------------
+Yes. Plus or minus, yes. And a lot of that, once again, not to sound like a broken record is highly determined based on progression of work. But at the end of the day, we much rather be in the position we're currently in than on the other side of the curve with regards to trying to chase collections once a project is complete. So...
+
+--------------------------------------------------------------------------------
+Anthony J. Guzzi,  EMCOR Group, Inc. - Chairman, President & CEO    [12]
+--------------------------------------------------------------------------------
+We've always looked at cash flow. If you're earning in net income, it means the business is in pretty good shape, right? And if we're in the construction businesses, Jason, what do you think, 75%?
+
+--------------------------------------------------------------------------------
+Jason R. Nalbandian,  EMCOR Group, Inc. - Senior VP & CAO    [13]
+--------------------------------------------------------------------------------
+75% to 80%.
+
+--------------------------------------------------------------------------------
+Anthony J. Guzzi,  EMCOR Group, Inc. - Chairman, President & CEO    [14]
+--------------------------------------------------------------------------------
+Op income. That means our project portfolio is usually pretty good and that we don't have a lot of jobs that are eating cash because they're in some form of dispute or they're delayed or anything. So when you're overperforming like we did this year versus operating, like Mark said, it's because specifically -- go to the mobilization we had on some of these big sites, we negotiate really hard upfront to make sure that we're not have a big cash drain as we mobilize on these sites. And sometimes that takes a long time to negotiate that.
+And also sometime will start on that, the one form of contract structure. And then over time, that contract structure will change from a fee-based or T&M plus, to more of a fixed-price work because now we know what it costs to put labor on the site. We know the composition of the workforce, we're going to work for, for the next 3 or 4 or 5 years, hopefully. And then we know the owner and the GCs and the engineering firms we're going to work with how they get change orders down, how they get ads moved.
+And so we have great folks on the ground that know this art. It's not a science. It's an art, and they do it really well. And they've a lot of experienced people help them quarterback that. And it's really the power of our corporate segment and subsidiary teams working together to bring that home on a site and to bring the cash flow home.
+
+--------------------------------------------------------------------------------
+Unidentified Company Representative,   -     [15]
+--------------------------------------------------------------------------------
+Yes. Tony, not to belabor the point. But when we look at kind of a normalized historical cash flow, right? Over the last couple of years, we adjust for some of the impacts we saw with COVID, whether it was deferred FICA payments. I think a reasonable kind of historical average is somewhere between 70% and 80% of operating at a consolidated basis.
+
+--------------------------------------------------------------------------------
+Anthony J. Guzzi,  EMCOR Group, Inc. - Chairman, President & CEO    [16]
+--------------------------------------------------------------------------------
+Which gets you at net income or a little bit above. Yes. Does that make sense, Brent?
+
+--------------------------------------------------------------------------------
+Brent Edward Thielman,  D.A. Davidson & Co., Research Division - MD & Senior Research Analyst    [17]
+--------------------------------------------------------------------------------
+That makes sense. Appreciate all the help.
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+Our next question comes from Adam Thalhimer of Thompson, Davis.
+
+--------------------------------------------------------------------------------
+Adam Robert Thalhimer,  Thompson, Davis & Company, Inc., Research Division - Director of Research & Partner    [19]
+--------------------------------------------------------------------------------
+Mark, Kevin, I'm really sorry to see you go but congrats on hugely successful careers at EME. I guess I wanted to start on RPOs. So commercial is obviously down year-over-year, which is not -- so my question would be, do you think these other segments can continue to offset commercial weakness?
+
+--------------------------------------------------------------------------------
+Anthony J. Guzzi,  EMCOR Group, Inc. - Chairman, President & CEO    [20]
+--------------------------------------------------------------------------------
+Well, I think, Adam, with guidance out of $13.5 billion to $14 billion, known that not all our revenues and RPOs, we feel pretty strongly that these other trends will continue through the year.
+As far as RPOs go, there could be fits and starts in the RPOs in some of these segments as work gets let. But we feel really good about Page 12 and the underlying drivers of our business, and we think that we will continue to win. And the good news for us is we're balanced across market sectors.
+So as I talked about on Page 12, the skilled trade because these are complex projects. And then when we share knowledge so well across our company on how to build and means and methods that our supervision can deploy that skilled trades on any number of industries once they get going. And that's been the strength of EMCOR over a long period of time, and we expect it to continue to be so.
+So the short answer is, I give you a shocking thing here, Adam. I think over the last 7, 8 years, maybe a couple of mixed-use buildings. But as far as commercial skyscrapers, where we were the core person doing the core building shell and everything else who was with that, not talking tenant fit-out and commercial I think we've built 2, Mark, right? In 9 years now. We have one underway right now that's really a delayed project from 2017, and it's going fine. But that's not been the heart of EMCOR's business for a while. We still are big in the tenant fit-out place,  where we operate, how we always like to say, we at EMCOR operate and earn in the Class A office space for tenant fit-out and retrofits and everything. And we occupy Class B and C space because of the nature of what we do.
+So where we operate, we're fine because that's still buoyant, a lot of movement or reconfiguring or figuring workspaces. New buildings. And then if you go to the other side of that, on the B&C space, quite frankly, it's not a bad time to be looking for space.
+
+--------------------------------------------------------------------------------
+Adam Robert Thalhimer,  Thompson, Davis & Company, Inc., Research Division - Director of Research & Partner    [21]
+--------------------------------------------------------------------------------
+Tony, fire and life safety, do you think it makes sense to break that out as a segment for us?
+
+--------------------------------------------------------------------------------
+Anthony J. Guzzi,  EMCOR Group, Inc. - Chairman, President & CEO    [22]
+--------------------------------------------------------------------------------
+No, I don't think. I mean...
+
+--------------------------------------------------------------------------------
+Adam Robert Thalhimer,  Thompson, Davis & Company, Inc., Research Division - Director of Research & Partner    [23]
+--------------------------------------------------------------------------------
+Clearly, you're seeing good trends. And I'm just -- I'm curious on forward trends there.
+
+--------------------------------------------------------------------------------
+Anthony J. Guzzi,  EMCOR Group, Inc. - Chairman, President & CEO    [24]
+--------------------------------------------------------------------------------
+Yes. It's such an integral part of mechanical and how mechanical jobs thought about, and it's such a heart of our shops and everything. It would be hard to break out because it's ingrained in some of the companies and how they operate. That being said, it's an important part of our business. And it has a real success factor with our customers to deliver results on very complicated facilities across the country. Now that has some unique characteristics that make it on a trade delivery standpoint, it has a national union, right? Most trade businesses don't have a national union. Like the rest of the mechanical business, it's gravitated more towards prefab, like the rest of the mechanical business, you have to have excellence in craft in the field and multidiscipline. They can do multisize pipe and really engineering.
+So and also has more of a design assist element as the rest of the mechanical business has gravitated towards. So that's why it's so integral to that mechanical business and it really wouldn't make sense to have it look different than the rest of the mechanical business.
+
+--------------------------------------------------------------------------------
+Adam Robert Thalhimer,  Thompson, Davis & Company, Inc., Research Division - Director of Research & Partner    [25]
+--------------------------------------------------------------------------------
+Okay. And then just last one on data centers. One big tech company said, U.S. data center capacity, I think they said will double in the next 5 years. So I'm just curious if your funnel kind of matches that comment.
+
+--------------------------------------------------------------------------------
+Anthony J. Guzzi,  EMCOR Group, Inc. - Chairman, President & CEO    [26]
+--------------------------------------------------------------------------------
+We've done a lot of work around it. We think it grows high single digits to mid-teens for a while. So yes.
+
+--------------------------------------------------------------------------------
+Operator    [27]
+--------------------------------------------------------------------------------
+The next question comes from Alex Dwyer of KeyBanc Capital Markets.
+
+--------------------------------------------------------------------------------
+Alexander David Dwyer,  KeyBanc Capital Markets Inc., Research Division - Associate    [28]
+--------------------------------------------------------------------------------
+Congrats on the quarter, and congrats, Mark and Kevin on the successful careers.
+
+--------------------------------------------------------------------------------
+Mark A. Pompa,  EMCOR Group, Inc. - Executive VP & CFO    [29]
+--------------------------------------------------------------------------------
+Thanks, Alex.
+
+--------------------------------------------------------------------------------
+Alexander David Dwyer,  KeyBanc Capital Markets Inc., Research Division - Associate    [30]
+--------------------------------------------------------------------------------
+Can I just start off with -- can you talk about the semiconductor and the CHIPS Act opportunity set. So like we're seeing more -- there's more grant funding coming to market in the past couple of weeks and next coming weeks, but there's also spend on major fab project delays. I'm just wondering how we should think about the opportunity set over the next 12 months in light of these 2 diverging signals?
+
+--------------------------------------------------------------------------------
+Anthony J. Guzzi,  EMCOR Group, Inc. - Chairman, President & CEO    [31]
+--------------------------------------------------------------------------------
+Next 12 months? Good. I mean it's the next 12 months, we have most of it already in RPOs, and we know what the work we'll be doing on some of these critical sites when you think about the delays, actually, that's not bad for us in some cases. We're building the infrastructure around that. They have to staff them. It allows the sites to become much more after the initial build, they start to winnow down to the contractors that are the winners on that site that have done great work for them. On the sites that we are, we emphatically are those contractors.
+
+--------------------------------------------------------------------------------
+Alexander David Dwyer,  KeyBanc Capital Markets Inc., Research Division - Associate    [32]
+--------------------------------------------------------------------------------
+And then how would you compare and contrast like the semiconductor build-out versus the data center build-out in terms of like the duration of the cycle and based on what you're hearing from your customers on discussions on plans. I'm just trying to wonder like, is one a 5-year cycle, is one a 10-year cycle? Just any thoughts on duration of the 2 cycles?
+
+--------------------------------------------------------------------------------
+Anthony J. Guzzi,  EMCOR Group, Inc. - Chairman, President & CEO    [33]
+--------------------------------------------------------------------------------
+I don't really have -- we're contractors. We tend to look at things in 3- to 5-year cycles. And as we look at things over the next 3 to 5 years, we feel pretty good about that. Again, we can deploy our resources to the best opportunities.
+Secondarily, I give you a real-world case. If someone comes in and the semiconductor market is going to be strong in a market. We have our share of work or maybe we're not even playing in the semiconductor market in that market. The rest of the work that happened around it, because it usually becomes a buoyant infrastructure that's part of that, whether it be warehousing, whether it be health care, the area tends to grow. We may do all those jobs and not do the semiconductor work. For us, it's a matter of resource allocation. How better serve the jobs and what the best opportunities are.
+Data center, I said, again, both and we look really strong for the next 3 to 5 years. I would say the data center business is a much more stable business and how they're going to staff it because they don't -- think about a data center, they don't -- they have to get the technology right and a lot of them know how to do that, and they're thinking of redesign. The data center human resource end of it is all on the construction side. The actual operating of the data center requires very few people. So once they get them up and running, it's much easier for them to think about capacity planning.
+Contrast that with the semiconductor world, you have some of them have established work forces in some of these markets. They have a much easier time thinking about expansion and growing for someone that comes and knew it the first time, they may hire 1.5 workers to 2 workers for everyone that's going to stick with them on the production side. The construction side there's a workforce that knows how to do that work after the first one. The construction folks aren't the issue. We would say that a -- I don't want to say slow down a more thoughtfully planned next 3 or 4 phases on that. Once you get up and running leads to a more orderly construction site. We know how to work together and it goes on. We're all for them taking their time and getting them staffed correctly and becoming successful versus just build, build, build. It's better for us in our planning, it's better for them also.
+So bullish on both, data center does not have the human resource issue after the fact that semiconductors does.
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+This concludes our question-and-answer session. I would like to turn the conference back over to Tony Guzzi for any closing remarks.
+
+--------------------------------------------------------------------------------
+Anthony J. Guzzi,  EMCOR Group, Inc. - Chairman, President & CEO    [35]
+--------------------------------------------------------------------------------
+Thank you all. We look forward to hearing and working with you all in 2024. And with that, we now put a wrap on 2023.
+
+--------------------------------------------------------------------------------
+Operator    [36]
+--------------------------------------------------------------------------------
+The conference has now concluded. Thank you for attending today's presentation. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2024 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

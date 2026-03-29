@@ -1,0 +1,562 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q1 2024 Comfort Systems USA Inc Earnings Call
+APRIL 26, 2024 / 3:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Julie Shaeff
+   Comfort Systems USA Inc - Senior Vice President, Chief Accounting Officer
+ * Brian Lane
+   Comfort Systems USA Inc - President, Chief Executive Officer, Director
+ * William George
+   Comfort Systems USA Inc - Chief Financial Officer, Executive Vice President
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Alex Dwyer
+   KeyBanc Capital Markets - Analyst
+ * Brent Thielman Thielman
+   D.A. Davidson & Co. (Research) - Analyst
+ * Josh Chan
+   UBS Securities LLC - Analyst
+ * Adam Thalhimer Thalhimer
+   Thompson, Davis & Company - Analyst
+ * Julio Romero Romero
+   Sidoti & Company, LLC - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good day, and thank you for standing by. And welcome to the Q1 2024 Comfort Systems USA earnings conference call. (Operator Instructions) Please be advised that today's conference is being recorded.
+I would now like to hand the conference over to your speaker today, Julie Shaeff, Chief Accounting Officer. Please go ahead.
+
+--------------------------------------------------------------------------------
+Julie Shaeff,  Comfort Systems USA Inc - Senior Vice President, Chief Accounting Officer    [2]
+--------------------------------------------------------------------------------
+
+          Thanks, Justin. Good morning. Welcome to Comfort Systems USA's first-quarter 2024 earnings call.
+Our comments today, as well as our press releases, contain forward-looking statements within the meaning of the applicable securities laws and regulations. What we will say today is based on the current plans and expectations of Comfort Systems USA. Those plans and expectations include risks and uncertainties that might cause actual future activities and results of our operations to be materially different from those set forth in our comments. You can read a detailed listing and commentary concerning our specific risk factors in our most recent Form 10-K and Form 10-Q, as well as in our press release covering these earnings.
+A slide presentation has been provided as a companion to our remarks. This presentation is posted on the Investor Relations section of the company's website found at comfortsystemsusa.com.
+Joining me on the call today are Brian Lane, President and Chief Executive Officer; Trent McKenna, Chief Operating Officer; and Bill George, Chief Financial Officer. Brian will open our remarks.
+
+--------------------------------------------------------------------------------
+Brian Lane,  Comfort Systems USA Inc - President, Chief Executive Officer, Director    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Julie. Good morning, everyone, and thank you for joining us on the call today.
+2024 is off to an outstanding start, with strong revenue, fantastic margins, and continuing strong cash flow. Our dedicated teams across the country achieved superb execution, and I am deeply grateful for their hard work and commitment.
+We earned $2.69 per share this quarter compared to $1.59 a year ago. Our revenue was $1.5 billion, with same-store growth of 23%. Our mechanical business exceeded last year, while our electrical segment achieved unprecedented margins.
+Backlog is $5.9 billion, up both year over year and sequentially on a same-store basis. Construction continues to thrive amid strong ongoing demand, and service is performing at high levels.
+In February, we closed two substantial acquisitions, Summit Industrial and J&S Mechanical, and they, too, are off to a great start. Both of these companies are included in our mechanical segment.
+We also increased our dividend by 20%, adding $0.05 to reach $0.30 per share. This increase reflects our continuing strong cash flow and our commitment to reward our shareholders.
+I will discuss our business and outlook in a few minutes, but first, I will turn this call over to Bill to review our financial performance. Bill?
+
+--------------------------------------------------------------------------------
+William George,  Comfort Systems USA Inc - Chief Financial Officer, Executive Vice President    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Brian. I can't help but also express my gratitude to the people who are working every day to create these amazing results.
+So as Brian noted, revenue for the first quarter of 2024 was $1.5 billion, and that is an increase of $362 million or 31% compared to last year. Same-store revenue increased by 23%, or $266 million, with the remaining $96 million increase resulting from acquisitions. Our mechanical segment revenue increased by 29%, and our electrical segment revenue increased by 37%.
+We did not experience as much seasonality this first quarter as we have in the past, as an increasing proportion of our work is being performed in warmer climates. Additionally, weather in our colder climates was favorable for construction this quarter, and with the strong growth in modular, more of our work is being performed under roof inside our modular plan.
+We are also facing tougher prior-year comparable results for the remainder of this year. However, our best estimate is that we will achieve same-store percentage revenue increases in at least the mid-teens and more likely in the high-teens for the full year.
+Gross profit was $297 million for the first quarter of 2024, a $92 million improvement compared to a year ago. Our gross profit percentage improved to 19.3% this quarter, compared to 17.5% for the first quarter of 2023. The quarterly gross profit percentage in our electrical segment improved to 22.6% this year, as compared to 16.1% last year.
+Margins in our mechanical segment also increased in the quarter to 18.4%, as compared to 17.9% in the first quarter of 2023. Our mechanical segment includes our modular business, which operates at lower margins than our remaining business.
+EBITDA improved markedly to $170 million this quarter from an already strong $90 million in the first quarter of 2023. Same-store EBITDA increased by over 70%.
+Although the first quarter benefited from the favorable factors I mentioned earlier and our underlying trends are strong, we expect that, for 2024, EBITDA margins will continue to trend in the strong ranges that we have achieved over the last several quarters, and we are optimistic that full-year EBITDA margins in 2024 will match or exceed our high 2023 results. Gross margins should also remain strong, but gross margin percentage may be more variable in 2024, in light of the effect of amortization and certain purchase-related adjustments.
+SG&A expense for the quarter was $163 million, or 10.6% of revenue, compared to $135 million, or 11.5% of revenue, in the first quarter of 2023. On a same-store basis, SG&A spend was $19 million higher due to ongoing investments to support our higher activity level.
+Our operating income increased by 91% from last year, from $71 million in the first quarter of 2023 to $135 million for the first quarter of 2024. With improved gross profit margins and favorable SG&A leverage, our operating income percentage increased to 8.8% this quarter from 6.0% in the prior year.
+Changes in the fair value of our earnout obligations this quarter reduced our income by $12 million, and that was caused by the variability noted earlier, and it was triggered by strong early performance at our recent acquisitions. We always have purchase-related adjustments in the periods following an acquisition. However, they will likely be much larger over the next several quarters because of the size of the Summit and J&S acquisitions and the significant contingent consideration opportunities that were included in those transactions.
+Our first-quarter tax rate was 21.7%. We currently estimate that the full-year 2024 tax rate will likely be in the 21% to 22% range.
+After considering all these factors, net income for the first quarter of 2024 was $96 million, or $2.69 per share. This compares to net income for the first quarter of 2023 of $57 million, or $1.59 per share.
+Free cash flow for the first quarter of 2024 was $123 million. We continue to benefit from advanced payments for work that we will fund and complete in upcoming quarters, and operating cash flow continues to exceed our earnings by about $300 million on a trailing 12-month basis.
+Over the coming quarters, we expect that, eventually, pre-booking and equipment advances will normalize, creating some cash flow headwind. In the meantime, these collections have allowed us to invest in growth and fund acquisitions from current cash flows while lowering interest costs.
+Our total debt as of March 31, 2024 was $90 million, with no funded debt from our banks, and that was despite large cash payments for the Summit and J&S acquisitions in February. As Brian noted, we also increased our dividends.
+Before I close, I want to mention one additional item, which is not directly relevant to our financial results, but that I wanted to flag for awareness. Last night, a Texas jury returned a jury verdict against one of our subsidiaries relating to a 2019 safety incident.
+The jury verdict was over $70 million, and that pencils out to about $48 million for us. Assuming this jury's verdict is entered by the judge, we will pursue a number of strong appeals. Even if the appeals are unsuccessful, this event is not expected to have an impact on us financially.
+That's all I have, Brian.
+
+--------------------------------------------------------------------------------
+Brian Lane,  Comfort Systems USA Inc - President, Chief Executive Officer, Director    [5]
+--------------------------------------------------------------------------------
+
+          All right. Thanks, Bill. I'm going to discuss our business and outlook.
+Our backlog at the end of the first quarter was a record $5.9 billion. Since last year, our backlog had increased by $1.5 billion, or 33%, and about half of that increase was same-store growth and the other half was new backlog from companies we acquired.
+Our sequential backlog increased by $754 million, of which $612 million related to acquisitions. Our same-store sequential backlog increased by $142 million, and pipelines remain strong.
+Our revenue mix continues to trend towards data centers, chip fabrication, battery plants, life science, and food. Industrial customers accounted for 60% of total revenue in the first quarter, and they are major drivers of pipeline and backlog. Technology, which is included in industrial, was 30% of our revenue, a substantial increase from 19% the prior year.
+Institutional markets, which include education, healthcare, and government, are also strong and represent 23% of our revenue. The commercial sector remains reasonably active in the regions that we serve, but it is now a smaller part of our business at about 17% of revenue. The majority of our service revenue is for commercial customers, so the share of our overall construction revenue from commercial has become relatively small.
+Construction grew quickly and drove great results for us this quarter. Overall, construction accounted for 84% of our revenue, with projects for new buildings representing 59%, and existing building construction, 25%. We include modular in new building construction, and modular, this quarter, was 16% of our revenue.
+Service revenue increased this quarter, but because of the growth in construction, even with a service revenue increase, service fell to 16% of total revenue. Service, which remains seasonal, continues to be a great source of profit and cash flow for us.
+Comfort Systems USA is thriving, and our team members across the country are delivering exceptional results. Thanks to their excellence, in the light of the strong ongoing demand, we are optimistic that we will continue to achieve strong results in 2024.
+Safety, execution, and innovation remain at the forefront of our operations. We believe that our commitment to our employees and to building legacies is the foundation of our success. Our number one priority is to preserve and grow the best workforce in our industry. And so as always, I want to close by thanking our over 16,500 employees for their hard work and dedication.
+I will now turn it back over to Justin for questions. Thank you.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Alex Dwyer, KeyBanc Capital Markets.
+
+--------------------------------------------------------------------------------
+Alex Dwyer,  KeyBanc Capital Markets - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Hi, team. Congrats on a strong start to the year. So the EBITDA margin was very strong this quarter, and the guide for this year continues to call for similar to last year. Can you just talk about the potential for margin expansion over the rest of the year? Is it just that the comps get tougher in the back half, or is there something in the recent performance that isn't sustainable as we progress through this year?
+
+--------------------------------------------------------------------------------
+Brian Lane,  Comfort Systems USA Inc - President, Chief Executive Officer, Director    [3]
+--------------------------------------------------------------------------------
+
+          Well -- this is Brian -- I'll go first, and then Bill can follow up. I mean, we're really pleased with the margins that we have right now. If you're in that gross margin 18% to 20% range, I think you're executing at a high level over in 19% for the quarter. So I think we're going to continue to be in that range throughout the year.
+We'll have broad-based excellent performance across our operating companies. So I mean, might have a little fluctuation up and down as we go, but in general, our performance has just been excellent.
+
+--------------------------------------------------------------------------------
+William George,  Comfort Systems USA Inc - Chief Financial Officer, Executive Vice President    [4]
+--------------------------------------------------------------------------------
+
+          That's it. As we noted in the opening comments, we're definitely anticipating -- expecting our EBITDA margins for the full year to stay up near last year, and the recent amazing results we have, and we're optimistic we can do a little better.
+I will say, as you pointed out, later this year, we hit some very tough comparables. We had extraordinary growth and increases really progressively throughout the year and especially in the second half of the year last year.
+So one of the things you're seeing is, even though last year, the first quarter seemed like an extraordinary quarter, and it was, it got so much better later in the year that we're just facing tougher comparables. We're extremely optimistic, but they are tough comparables, and that's why we're giving that guidance.
+
+--------------------------------------------------------------------------------
+Alex Dwyer,  KeyBanc Capital Markets - Analyst    [5]
+--------------------------------------------------------------------------------
+
+          Thank you. And then the organic backlog growth was very strong this quarter. Can you talk about what end markets drove that strength and if there was any larger modular orders in there? And do you think it's fair to assume backlog can continue to increase sequentially through this year?
+
+--------------------------------------------------------------------------------
+Brian Lane,  Comfort Systems USA Inc - President, Chief Executive Officer, Director    [6]
+--------------------------------------------------------------------------------
+
+          I mean, in terms of the backlog, it's broad-based. We didn't get one surge from any particular segment. It's really reassuring to us here to see multi-sectors, particularly if you're talking about the tech sector, manufacturing, education, I think, at the university level, is strong, and healthcare, both outpatient and hospitals. So we've seen good balance across the board.
+
+--------------------------------------------------------------------------------
+William George,  Comfort Systems USA Inc - Chief Financial Officer, Executive Vice President    [7]
+--------------------------------------------------------------------------------
+
+          And as far as what might happen in the coming quarters, it would actually surprise me at some point not to see some sequential declines, especially as we get into the summer and the revenues get really big. Historically, we've always had sequential declines in the middle of the year, except for lately. So I've been -- like I said, it would surprise me, but to be fair, I have been surprised quarter after quarter for the last several quarters.
+The demand is unmatched. There's never been more demand for our services. And our guys are turning away work, but at some point, you can only take so much work. And so I think you'll see backlogs stay at extremely high levels, but I don't think you should say, oh yeah, for sure, every sequential comparable will be awesome. So that's really not historically what happens.
+
+--------------------------------------------------------------------------------
+Alex Dwyer,  KeyBanc Capital Markets - Analyst    [8]
+--------------------------------------------------------------------------------
+
+          And then a last one for me, the Summit and J&S acquisitions are off to a strong start this year. Is there anything different about the integration of them into your business, given these are so large? And then can you talk about the appetite for more deals through the year?
+
+--------------------------------------------------------------------------------
+Brian Lane,  Comfort Systems USA Inc - President, Chief Executive Officer, Director    [9]
+--------------------------------------------------------------------------------
+
+          I'll just start on the integration. The allies -- one a little bit of advantage you have with the allies is they get a little bit more horsepower. They're in the back office to handle the public company requirements. These are both very sophisticated companies, excellent workforce, great leadership. So we're working pretty closely with them to make this as smooth as possible, but -- plus, they got a great attitude to integrate themselves, which is a huge help. So far, off to a great start.
+
+--------------------------------------------------------------------------------
+William George,  Comfort Systems USA Inc - Chief Financial Officer, Executive Vice President    [10]
+--------------------------------------------------------------------------------
+
+          Yeah, I couldn't agree more. For us, the integration -- the biggest thing we try to do in integration is keep what's great about a company and keep it going and keep it -- that local excellence continuing. And so that's an advantage we have since we're not trying to change things. That makes integration a little easier.
+
+--------------------------------------------------------------------------------
+Alex Dwyer,  KeyBanc Capital Markets - Analyst    [11]
+--------------------------------------------------------------------------------
+
+          Thank you. I'll turn it over.
+
+--------------------------------------------------------------------------------
+Operator    [12]
+--------------------------------------------------------------------------------
+
+          Adam Thalhimer, Thompson Davis.
+
+--------------------------------------------------------------------------------
+Adam Thalhimer Thalhimer,  Thompson, Davis & Company - Analyst    [13]
+--------------------------------------------------------------------------------
+
+          Hey, good morning, guys. Great quarter. I wanted to stick on Summit and just see what you're seeing so far, specifically from chip plants, the timing of those projects.
+
+--------------------------------------------------------------------------------
+Brian Lane,  Comfort Systems USA Inc - President, Chief Executive Officer, Director    [14]
+--------------------------------------------------------------------------------
+
+          They have great work going on and great prospects. They also have a big solar fab, and they have -- these guys can do -- they're perfect to do the big hard work that the country needs right now. That's why we were so excited to buy them. But right now, it's full speed ahead.
+
+--------------------------------------------------------------------------------
+William George,  Comfort Systems USA Inc - Chief Financial Officer, Executive Vice President    [15]
+--------------------------------------------------------------------------------
+
+          Adam, in terms of their skill set, they're looking at a lot of opportunities in pharmaceuticals, et cetera. So their skills are applicable to a whole bunch of industries.
+
+--------------------------------------------------------------------------------
+Adam Thalhimer Thalhimer,  Thompson, Davis & Company - Analyst    [16]
+--------------------------------------------------------------------------------
+
+          Okay. What kind of capacity growth potential do they have as you start getting more into markets?
+
+--------------------------------------------------------------------------------
+Brian Lane,  Comfort Systems USA Inc - President, Chief Executive Officer, Director    [17]
+--------------------------------------------------------------------------------
+
+          So when we buy a company, we don't push them to grow. We basically push them to do -- well, we push them to grow their workforce to really, really put their arms around and grow their workforce, which leads to growth in almost every case. But I would not say for us, that's a growth story. I think almost any company we buy, they will grow over time, but for us, it's just an excellence story -- keep your workforce busy.
+
+--------------------------------------------------------------------------------
+Adam Thalhimer Thalhimer,  Thompson, Davis & Company - Analyst    [18]
+--------------------------------------------------------------------------------
+
+          And then I wanted to ask about specialty contractor capacity. Is it still, do you think, as tight now as it was kind of a year or two ago? And are you still booking work further out?
+
+--------------------------------------------------------------------------------
+Brian Lane,  Comfort Systems USA Inc - President, Chief Executive Officer, Director    [19]
+--------------------------------------------------------------------------------
+
+          Adam, for sure, it's still tight. We've been very fortunate to recruit some outstanding people. On the human resource side, we're attracting some great talent, but it is still tight. But we're a good place to work. We offer great compensation package, the opportunity to develop. We like to promote from within.
+So I think that'll be a struggle for a while, but we have good work. People like working here. So I'm very optimistic about the future.
+
+--------------------------------------------------------------------------------
+Adam Thalhimer Thalhimer,  Thompson, Davis & Company - Analyst    [20]
+--------------------------------------------------------------------------------
+
+          All right. And Bill, just a quick modeling thing, what do you have for D&A in Q2, since we only had the acquisitions for part of Q1?
+
+--------------------------------------------------------------------------------
+William George,  Comfort Systems USA Inc - Chief Financial Officer, Executive Vice President    [21]
+--------------------------------------------------------------------------------
+
+          So we had two months of those guys. I think it's in -- we put a -- if you look in the footnotes, we actually have a table where we tell you exactly, well, almost exactly what we think it's going to be. So just -- you can go get the actual numbers from one of the footnotes.
+
+--------------------------------------------------------------------------------
+Adam Thalhimer Thalhimer,  Thompson, Davis & Company - Analyst    [22]
+--------------------------------------------------------------------------------
+
+          I was being lazy. Okay, thank you.
+
+--------------------------------------------------------------------------------
+William George,  Comfort Systems USA Inc - Chief Financial Officer, Executive Vice President    [23]
+--------------------------------------------------------------------------------
+
+          Yeah, well, I'm being lazy too because I have to go look at that myself. It's big. It's like -- you saw the pop, right? And that was only two months of those guys.
+But you're only required to publish that schedule once a year, but we publish it. We certainly publish it every quarter after we do an acquisition because those non-cash charges -- it's crazy that we reduce our earnings by that. People want to know what the asset they own is doing, but GAAP is GAAP, and so that's what we do.
+
+--------------------------------------------------------------------------------
+Adam Thalhimer Thalhimer,  Thompson, Davis & Company - Analyst    [24]
+--------------------------------------------------------------------------------
+
+          Sounds good. Thank you, Bill.
+
+--------------------------------------------------------------------------------
+Operator    [25]
+--------------------------------------------------------------------------------
+
+          Josh Chan, UBS.
+
+--------------------------------------------------------------------------------
+Josh Chan,  UBS Securities LLC - Analyst    [26]
+--------------------------------------------------------------------------------
+
+          Hey, good morning, guys. Congrats on a really good quarter. Could you talk about the bidding environment for potential projects that even are before backlogs? Anything changing there, and how's pricing on those bids that you're putting together?
+
+--------------------------------------------------------------------------------
+Brian Lane,  Comfort Systems USA Inc - President, Chief Executive Officer, Director    [27]
+--------------------------------------------------------------------------------
+
+          So in terms of the pipeline, pre-order is still very robust; it's still broad-based. Pricing is still reasonable, for sure. It's a great opportunity for us to work for our really good customers, be very selective in the acquisition process. We don't want to chase revenue, chase the opportunities and the work that we're good at. But in terms of the sectors that I hit on before, the operations -- the opportunities are very consistent still today.
+
+--------------------------------------------------------------------------------
+William George,  Comfort Systems USA Inc - Chief Financial Officer, Executive Vice President    [28]
+--------------------------------------------------------------------------------
+
+          No letup.
+
+--------------------------------------------------------------------------------
+Brian Lane,  Comfort Systems USA Inc - President, Chief Executive Officer, Director    [29]
+--------------------------------------------------------------------------------
+
+          No letup.
+
+--------------------------------------------------------------------------------
+Josh Chan,  UBS Securities LLC - Analyst    [30]
+--------------------------------------------------------------------------------
+
+          Okay, that's great to hear. And then on the data center side, could you just talk about how your conversations are like with your data center customers? And any kind of update in terms of your thinking on when you might be able to expand module capacity again?
+
+--------------------------------------------------------------------------------
+William George,  Comfort Systems USA Inc - Chief Financial Officer, Executive Vice President    [31]
+--------------------------------------------------------------------------------
+
+          These are big organizations, so you're not just talking to one part of the organization. You're talking to the people who desperately need the capacity and who understand how to partner with us. And you're also talking to parts of the organizations whose job it is to purchase things and to try to get the lowest price.
+I would say that things are as expected. And what we try to do is just be a great partner for people. And if -- really, we do our best work and get the best value for people who reciprocate that. But I don't know that anything's changed.
+Essentially, we -- they are in an all path to market mindset. So they love getting this stuff built modularly. They're hiring our contractors who build it in the traditional way. I just think that the demand is so great that they're just looking for people who can help them do what they need to do. And we love to do that for people who want to partner up.
+
+--------------------------------------------------------------------------------
+Brian Lane,  Comfort Systems USA Inc - President, Chief Executive Officer, Director    [32]
+--------------------------------------------------------------------------------
+
+          Josh, I'll just add on a little bit to the opportunities. One of our strengths is the size of the company and the geographic spread we have, opportunity to share labor. It's really an advantage that us and a few of our colleagues throughout the country have -- just some of these larger opportunities that we can handle both financially and from a resource basis, including when you think about our suppliers, we're a good company to do business with. So our size right now is really helping us.
+
+--------------------------------------------------------------------------------
+William George,  Comfort Systems USA Inc - Chief Financial Officer, Executive Vice President    [33]
+--------------------------------------------------------------------------------
+
+          And we use that size to be a partner to people. Not -- we don't try to use it against people.
+
+--------------------------------------------------------------------------------
+Josh Chan,  UBS Securities LLC - Analyst    [34]
+--------------------------------------------------------------------------------
+
+          Any thoughts on whether you could expand capacity at some time later this year or into next year?
+
+--------------------------------------------------------------------------------
+William George,  Comfort Systems USA Inc - Chief Financial Officer, Executive Vice President    [35]
+--------------------------------------------------------------------------------
+
+          So if you're talking about modular, I would say that that is not something that we are currently making plans around, but we are evaluating.
+
+--------------------------------------------------------------------------------
+Josh Chan,  UBS Securities LLC - Analyst    [36]
+--------------------------------------------------------------------------------
+
+          Okay. All right. And then just a modeling question, so EBITDA margins usually go up from Q1 to Q2. I know, Bill, you mentioned the lack of seasonality in Q1, but I was just wondering your thoughts about whether you can see a typical sequential margin expansion into the next quarters.
+
+--------------------------------------------------------------------------------
+William George,  Comfort Systems USA Inc - Chief Financial Officer, Executive Vice President    [37]
+--------------------------------------------------------------------------------
+
+          So EBITDA margins do typically go up from the first quarter to the second quarter, but first quarters have never been all-time highs by extraordinary amounts. So it's a very insecure time for us to start saying it's going to -- we're going to have sequential uptick in margins only because of how high they are in the first quarter.
+I'm more comfortable talking about doing better this year than last year. But one quarter -- this is a quarter where our EBITDA was up 70% on a same-store basis. We need to adjust to that in our brains.
+
+--------------------------------------------------------------------------------
+Brian Lane,  Comfort Systems USA Inc - President, Chief Executive Officer, Director    [38]
+--------------------------------------------------------------------------------
+
+          When you stick around these margins, we'll be happy folks.
+
+--------------------------------------------------------------------------------
+Josh Chan,  UBS Securities LLC - Analyst    [39]
+--------------------------------------------------------------------------------
+
+          Yeah, definitely understood. I bet it's a good problem to have, and congrats, guys.
+
+--------------------------------------------------------------------------------
+Operator    [40]
+--------------------------------------------------------------------------------
+
+          Julio Romero, Sidoti & Company.
+
+--------------------------------------------------------------------------------
+Julio Romero Romero,  Sidoti & Company, LLC - Analyst    [41]
+--------------------------------------------------------------------------------
+
+          Thanks. Hey, good morning, guys. Can you maybe talk about the margins you're seeing in construction? Are they trending upward? And are you seeing any fixed cost leverage as that modular business continues to grow?
+
+--------------------------------------------------------------------------------
+Brian Lane,  Comfort Systems USA Inc - President, Chief Executive Officer, Director    [42]
+--------------------------------------------------------------------------------
+
+          For sure, our construction margins increased the back half of this year. Into this year, we -- there's a lot of multiple reasons for it, but the crux of it is good job selection with good customers. But I got to tell you, we're executing in the field, which is always where the rubber meets the road for me at a very high level.
+Really, I'm very grateful to the folks that go out to these jobs every day and the work they're doing. So margins are up, and to me, a lot of it's about the execution that we're getting.
+
+--------------------------------------------------------------------------------
+Julio Romero Romero,  Sidoti & Company, LLC - Analyst    [43]
+--------------------------------------------------------------------------------
+
+          Got it. Now, great execution. I'm just curious if there's any kind of fixed cost leverage that you see there as that grows.
+
+--------------------------------------------------------------------------------
+William George,  Comfort Systems USA Inc - Chief Financial Officer, Executive Vice President    [44]
+--------------------------------------------------------------------------------
+
+          Well, we saw -- our SG&A obviously dropped from 11.5% to 10.6%. I would say we are definitely making investments to accommodate our growth in every -- from all sorts of back office sales. But with revenue increasing the way it is, it certainly seems like our SG&A can't go up as fast as that. So I don't think you'll see worse SG&A leverage over the course of the rest of this year.
+Now, revenue increases, if we tell you we're going to be sort of in the mid-teens and more likely in the high-teens in revenue increase, and we were in the 20s this quarter, that means it's going to average down some. So I would say maybe we don't get additional leverage. So I don't think you'd see additional leverage sequentially, but I think year over year, you're going to see a ton of leverage.
+And I don't even know -- that's just a guess. And it will -- the important part is year over year, as far as how the math comes down into what we're doing. I hope you followed that. I think I wasn't very clear in that answer.
+
+--------------------------------------------------------------------------------
+Julio Romero Romero,  Sidoti & Company, LLC - Analyst    [45]
+--------------------------------------------------------------------------------
+
+          No, that was a good commentary. And what's your best guess as to when you see some of this cash flow reversal is expected?
+
+--------------------------------------------------------------------------------
+William George,  Comfort Systems USA Inc - Chief Financial Officer, Executive Vice President    [46]
+--------------------------------------------------------------------------------
+
+          Well, so our history of getting that right is poor because it keeps happening later. I'd say late this year, probably at some point. There is a sense in which it did flatten because we're going to show you a slide in our investor presentation. Last quarter, we had a slide in our investor presentation that showed that we had earned -- well, we had cash flowed $300 million more than we had earned in 2023.
+You're going to see at the end of the first quarter that, on a trailing 12-month basis, we will have cash flowed more than we have earned by $300 million. Here's the thing. So the $300 million didn't go up. It didn't go down, but we didn't get in our same-store businesses.
+Now, we did inherit some advanced cash from our acquisition, especially of Summit, but in our same-store businesses, we didn't get farther out. So I think before you start to give some of it back, the first thing that happens is you stop getting more of it. And there were certainly signs in the first quarter that we stopped getting more of it.
+Having said that, we're earning so much money that cash flow -- when I looked at why our cash flow was still so big in the first quarter, in the past quarters, it's been a lot of earnings and advanced cash. This quarter, it was just a lot of earnings and not giving back advanced cash. So there is signs of that flattening out as it literally has to.
+If somebody pays you to do a bunch of welding and electrical work, sooner or later, you got to go do the welding and electrical work. And the welders and the electricians, you're going to pay them, you're going to have to pay them.
+It's a fantastic problem to have, not really a problem, but it will look like a problem at some point. Because at some point in the future, our cash flow will be less than our earnings by the amount that it was more than our earnings, and it's a high-class problem.
+
+--------------------------------------------------------------------------------
+Julio Romero Romero,  Sidoti & Company, LLC - Analyst    [47]
+--------------------------------------------------------------------------------
+
+          Certainly is. Thanks for the color, guys. Appreciate it.
+
+--------------------------------------------------------------------------------
+Operator    [48]
+--------------------------------------------------------------------------------
+
+          Brent Thielman, D.A. Davidson.
+
+--------------------------------------------------------------------------------
+Brent Thielman Thielman,  D.A. Davidson & Co. (Research) - Analyst    [49]
+--------------------------------------------------------------------------------
+
+          Hey, thanks. Good morning, guys. I'm going to ask about margins, sorry. I guess the -- when you look at this quarter, I mean, just take a step back, is the margin performance because you're getting paid more generally for what you do, or that you have the perfect mix of projects where you get paid more, or you're just that much more productive in the field?
+
+--------------------------------------------------------------------------------
+Brian Lane,  Comfort Systems USA Inc - President, Chief Executive Officer, Director    [50]
+--------------------------------------------------------------------------------
+
+          I would say all three. But the thing that we really can control on an everyday basis is how we're doing in the field. And Brent, you heard this from a lot of times, no different version of pre-fabrication. Let's face it, the more work we can do inside a building and ship it to the field, the more productive, safer, the higher quality of the work is. And we're doing more pre-fabrication every day.
+But it's a combination of all three, for sure, but we really cannot minimize how well we are execution on a per person basis at these job sites, including service. We're talking a lot about construction, but our service folks are doing a hell of a job as well.
+
+--------------------------------------------------------------------------------
+William George,  Comfort Systems USA Inc - Chief Financial Officer, Executive Vice President    [51]
+--------------------------------------------------------------------------------
+
+          And the other thing you got to mention is electrical. Our electrical margins popped by 600 basis points this quarter. And what was amazing about that, we had something like that 1.5 years ago where we had an extraordinary gain in the quarter. This was just a mixture of everything good that can happen to a business because they're doing a great job.
+And our customers really value the ability we have to go out and bring the manpower that's needed to do big jobs. And they're allowing us to really reward the people so that we can keep doing that. So electrical is mind blowing, really amazing quarter.
+And you can say, well, is that a one-time blip? And the answer is, I wouldn't bet against them. I mean, they might -- it's pretty hard to say at this percentage, but I think they're just going to -- they got a long runway ahead of them of doing well.
+
+--------------------------------------------------------------------------------
+Brent Thielman Thielman,  D.A. Davidson & Co. (Research) - Analyst    [52]
+--------------------------------------------------------------------------------
+
+          Okay. And just looking back, I don't think you guys have ever had a year when EBITDA margins for the rest of the year were below the first quarter. And I know the company in the mix has evolved quite a bit in the last 10 years. I heard your comment perfect storm of weather, both sides. But I'm just trying to unpack the reasons why we should be careful in thinking that this is tough to repeat, just given --
+
+--------------------------------------------------------------------------------
+William George,  Comfort Systems USA Inc - Chief Financial Officer, Executive Vice President    [53]
+--------------------------------------------------------------------------------
+
+          And there's one reason that we are -- our EBITDA on a same-store basis was up 70% in the first quarter. It's pretty hard to see that happen and say, oh yeah, there's our new baseline. So I understand -- we don't know what's going to happen, but these margins are, for a first quarter, extraordinary.
+Now, do I think we've got extraordinary margins in our future? I do, but on a comparable basis, it's a tough comparable. They were about to hit tough comparables from the prior year, and our first quarter was a comparable for the ages. But we're about to make a lot of money. We'll go for it. We'll make as much money as we can, and you can figure out what that means.
+
+--------------------------------------------------------------------------------
+Brent Thielman Thielman,  D.A. Davidson & Co. (Research) - Analyst    [54]
+--------------------------------------------------------------------------------
+
+          I got an idea. Okay. I just wanted to come back to modular. I mean, I think you're essentially booked in 2024. To what degree do you still have available capacity in 2025 to fill, and are conversations starting at all for 2026?
+
+--------------------------------------------------------------------------------
+William George,  Comfort Systems USA Inc - Chief Financial Officer, Executive Vice President    [55]
+--------------------------------------------------------------------------------
+
+          I would say we believe that if we had more capacity, we could sell more than we have capacity for in '25. We have more of our capacity at '25 sold than we would have thought was possible. And we don't think people are going to -- we don't think all of these factors are going to end by '26.
+But '26 alone, we don't have bookings. We don't have the floor planned for the middle of 2026. You know what I mean? Nobody's doing manpower loading schedules right now for the Winter Olympics. That's a long time out.
+
+--------------------------------------------------------------------------------
+Brent Thielman Thielman,  D.A. Davidson & Co. (Research) - Analyst    [56]
+--------------------------------------------------------------------------------
+
+          And then maybe if you could just talk about the progression with new customers and modular. I know you don't want to talk about name specifics for obvious reasons, but how are you being able to diversify the customer base in that business?
+
+--------------------------------------------------------------------------------
+William George,  Comfort Systems USA Inc - Chief Financial Officer, Executive Vice President    [57]
+--------------------------------------------------------------------------------
+
+          So things are going great with our second large customer. We like them, they like us. The product they've designed, we think, is very, very clever and going to do a great job for them. We've sold as much as we would have hoped as we could sell by now.
+As far as diversifying, the thing that keeps us from diversifying is that fantastic customers are willing to buy all of our capacities. We reserve a little bit of that capacity for a lot of long-time pharma customers who really rely on us to do certain things that any other people would have a hard time doing. We have to do that because we owe it to them.
+But in general, so far, those two customers want all we can do. And they've earned first, really, frankly, they've earned last look. They've earned first look and last look. They're great partners. And so as long as they're good partners, we take what the market -- the skills we have are applicable to all kinds of things.
+It's not like -- but in our market, it's always lumpy. And it's always the case that there's more of something in any given year. And right now, we're sticking with guys that need what we can do. And they've been great partners and they've earned our loyalty.
+They've asked us, what do we need to do to have all of your capacity? And we've said, well, this would be what you need to do, and they've done it. And they've asked us -- last year, they said, what do you need in order to expand your capacity? And we said, look, to be fair to our shareholders and the risks that we take and the costs we incur, we need these kinds of commitments, and they made them. And so we're keeping our commitments to them.
+
+--------------------------------------------------------------------------------
+Brent Thielman Thielman,  D.A. Davidson & Co. (Research) - Analyst    [58]
+--------------------------------------------------------------------------------
+
+          Then just one last one, guys. I mean, I think it's obvious that the opportunities in data centers has brought up a lot of attention to the company and the stock from investors. And clearly, I think it's driving a lot of growth for you. Maybe just your perspective, is that overemphasized relative to some of the other things moving the needle for your business right now? You talk about manufacturing, industrial capacity. I'll just be curious your thoughts to that.
+
+--------------------------------------------------------------------------------
+Brian Lane,  Comfort Systems USA Inc - President, Chief Executive Officer, Director    [59]
+--------------------------------------------------------------------------------
+
+          Well, I mean, I think it's logical that people focus on data centers because when you and I were touring a couple of weeks ago, it was everybody's favorite topic. But if you look at the other stuff we got going on, just take Indianapolis for example, how much farm is going on, food, there's a lot of sectors that are very busy and work that we're good at. Whether you're talking about battery plants, food, pharma, hospitals, education, university work, is still very strong.
+So I think we're seeing multi-sector activity. I think data centers is going to get a lot of attention for a while. But those other sectors, we love them. Winning a lot of work in them, and the work's going well.
+
+--------------------------------------------------------------------------------
+Brent Thielman Thielman,  D.A. Davidson & Co. (Research) - Analyst    [60]
+--------------------------------------------------------------------------------
+
+          Okay. Thanks for taking the questions again.
+
+--------------------------------------------------------------------------------
+Operator    [61]
+--------------------------------------------------------------------------------
+
+          And thank you. And I'm showing no further questions. I would now like to turn the call back over to Brian Lane for closing remarks.
+
+--------------------------------------------------------------------------------
+Brian Lane,  Comfort Systems USA Inc - President, Chief Executive Officer, Director    [62]
+--------------------------------------------------------------------------------
+
+          Okay, Justin. So in closing, I really want to thank our amazing employees once again. We are really grateful for their daily efforts. We do appreciate everyone's interest on the call in our business. It's great to talk about it, and thank you.
+I'm very optimistic about 2024. We got great customers, we got great people. And I'm really looking forward to how the year pans out and as well as seeing most of you on the road, probably here pretty soon. So thanks for that too, and hope everyone has a great spring. Thanks, and enjoy your weekend. Thanks, folks.
+
+--------------------------------------------------------------------------------
+Operator    [63]
+--------------------------------------------------------------------------------
+
+          This concludes today's conference call. Thank you for participating, and you may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2024 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

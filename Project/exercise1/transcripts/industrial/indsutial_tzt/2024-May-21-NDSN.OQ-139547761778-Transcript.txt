@@ -1,0 +1,445 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q2 2024 Nordson Corp Earnings Call
+MAY 21, 2024 / 12:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Sundaram Nagarajan
+   Nordson Corporation - President, CEO & Director
+ * Lara L. Mahoney
+   Nordson Corporation - VP of IR & Corporate Communications
+ * Stephen F. Shamrock
+   Nordson Corporation - VP & Corporate Controller
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Walter Scott Liptak
+   Seaport Research Partners - MD & Senior Industrials Analyst
+ * Unidentified Analyst
+    - 
+ * Christopher D. Glynn
+   Oppenheimer & Co. Inc., Research Division - MD & Senior Analyst
+ * Matt J. Summerville
+   D.A. Davidson & Co., Research Division - MD & Senior Research Analyst
+ * Jeffrey David Hammond
+   KeyBanc Capital Markets Inc., Research Division - MD & Equity Research Analyst
+ * Andrew Edouard Buscaglia
+   BNP Paribas Exane, Research Division - Senior Analyst of US Industrial Technology
+ * Michael Patrick Halloran
+   Robert W. Baird & Co. Incorporated, Research Division - Associate Director of Research & Senior Research Analyst
+ * Christopher M. Dankert
+   Loop Capital Markets LLC, Research Division - SVP
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Thank you for standing by. My name is Eric, and I will be your conference operator today. At this time, I would like to welcome everyone to the Nordson Corporation Second Quarter Fiscal Year 2024 Conference Call. (Operator Instructions).
+Thank you. I would now like to turn the call over to Lara Mahoney. Please go ahead.
+
+--------------------------------------------------------------------------------
+Lara L. Mahoney,  Nordson Corporation - VP of IR & Corporate Communications    [2]
+--------------------------------------------------------------------------------
+Thank you. Good morning. This is Lara Mahoney, Vice President of Investor Relations and Corporate Communications. I'm here with Sundaram Nagarajan, our President and CEO; and Stephen Shamrock, Chief Accounting Officer. We welcome you to our conference call today, Tuesday, May 21, to report Nordson's fiscal 2024 second quarter results. 
+You can find both our press release as well as our webcast slide presentation that we will refer to during today's call on our website at www.nordson.com/investors. This conference call is being broadcast live on our investor website and will be available there for 30 days. There will be a telephone replay of the conference call available until Tuesday, May 28, 2024. During this conference call, we will make references to non-GAAP financial metrics. We've provided a reconciliation of these metrics to the most comparable GAAP metrics in the press release issued yesterday. 
+Before we begin, please refer to Slide 2 of our presentation, where we note that certain statements regarding our future performance that are made during this call may be forward-looking based upon Nordson's current expectations. These statements may involve a number of risks, uncertainties and other factors as discussed in the company's filings with the Securities and Exchange Commission that could cause actual results to materially differ. 
+Moving to today's agenda on Slide 3, Naga will discuss second quarter highlights. He will then turn the call over to Steve to review sales and earnings performance for the total company and the 3 business segments. Steve will also discuss the balance sheet and cash flow. Naga will then share a high-level commentary about our end markets and provide an update on the fiscal 2024 full year and third quarter guidance. We will then be happy to take your questions. 
+With that, I'll turn the call over to Naga.
+
+--------------------------------------------------------------------------------
+Sundaram Nagarajan,  Nordson Corporation - President, CEO & Director    [3]
+--------------------------------------------------------------------------------
+Good morning, everyone. Thank you for joining Nordson's fiscal 2024 second quarter conference call. 
+Before we begin, I would like to welcome Dan Hopgood, our new Executive Vice President and Chief Financial Officer to Nordson. Dan started with us yesterday. He brings more than 25 years of financial and operational expertise to the CFO role. Prior to joining Nordson, he held roles of increasing responsibility at Eaton Corporation, a $23 billion multinational power management company. Most recently, he served as Eaton's Controller and Chief Accounting Officer. As I got to know Dan, I was impressed with this robust financial experience, his time as an operational leader, and his passion for developing talent. Today, he will be listening in, and we look forward to introducing him to all of you in the coming months starting at the KeyBanc Industrials and Basic Materials Conference in Boston next week. 
+Now let's shift into our second quarter earnings results on Slide 5. At the outset, I would like to recognize the dedicated Nordson team who have leveraged the NBS Next Growth Framework to deliver solid second quarter results. Sales of $651 million were within our second quarter guidance range. Growth was driven by the ARAG acquisition as well as strong performance in our industrial coatings and fluid solutions product lines, which offset continued weakness in our electronics product lines. 
+In addition, our focus on top customers and differentiated products improved product mix. This focus and strategically adjusting costs led to improvements in gross margins and top-quartile EBITDA margin of 31%. In the quarter, we delivered adjusted earnings per share of $2.34, which was at the top end of our EPS guidance for the quarter. 
+Finally, I'd like to highlight our second quarter free cash flow of $108 million, which was 92% of net income. We continue to convert earnings into cash flow and use this cash flow to retire nearly $100 million of debt within the quarter. I'll speak more about the enterprise performance in a few moments. 
+But first, I'll turn the call over to Steve to provide a detailed perspective on our financial results for the quarter.
+
+--------------------------------------------------------------------------------
+Stephen F. Shamrock,  Nordson Corporation - VP & Corporate Controller    [4]
+--------------------------------------------------------------------------------
+Thank you, Naga, and good morning to everyone. On Slide #6, you'll see second quarter fiscal 2024 sales were $651 million, a slight increase to the prior year's second quarter sales of $650 million. This was driven by a favorable 5% benefit from the ARAG acquisition, partially offset by an organic sales decrease of 4% and an unfavorable foreign exchange impact of 1%. As Naga referenced, strength in our industrial coating systems and fluid solutions product lines were offset by ongoing weakness in our electronics product lines. 
+Gross profit performance was strong in the second quarter. We delivered gross profit margins in excess of 56%, an approximately 200 basis point improvement over the prior year. Deploying our NBS Next Growth Framework, we are focusing on top products driving a favorable product mix and product simplification efforts to improve manufacturing efficiency. We also remain disciplined on managing our cost structure and taking actions where necessary. EBITDA adjusted for special items in both periods totaled $203 million, or 31% of sales, which was consistent with the prior year. Improved gross margins were offset by higher selling and administrative costs, attributable primarily to the addition of ARAG. 
+Looking at nonoperating expenses, net interest expense increased $9 million associated with higher debt levels and increased interest rates. Other expenses net decreased $1 million, primarily related to lower foreign exchange losses compared to the prior year. Tax expense was $31 million, for an effective tax rate of 21% in the quarter, which is in line with the prior year rate and our guidance range for 2024. 
+Net income in the quarter totaled $118 million or $2.05 per share. Adjusted earnings per share, excluding $2 million of nonrecurring cost reduction actions and amortization of acquisition-related intangibles of $19 million, totaled $2.34 per share, a 4% decrease from the prior year adjusted earnings per share amount of $2.45. The decrease in earnings was driven primarily by higher interest expense due to the ARAG acquisition. 
+Now let's turn to Slide 7 through 9 to review the second quarter 2024 segment performance. Industrial Precision Solutions sales of $367 million increased 9% compared to the prior year second quarter, driven by the ARAG acquisition, as well as increased sales in our industrial coating systems and packaging product lines. Organic sales increased 2% over the prior year second quarter, continuing to build upon a record fiscal 2023 for the segment, partially offset by an unfavorable foreign exchange impact of 1%. This segment has now delivered organic growth in 12 of the last 14 quarters. 
+EBITDA was $132 million in the second quarter or 36% of sales, an increase of 11% compared to the prior year EBITDA of $119 million. The increase in EBITDA was driven primarily by the ARAG acquisition, plus organic sales growth and gross margin improvement in the base business. It's also worth highlighting that this quarter marks 13 out of 14 consecutive quarters of EBITDA growth. 
+On Slide 8, you'll see Medical and Fluid Solutions sales of $169 million increased 2% compared to the prior year second quarter, driven by modest growth in fluid and medical interventional solutions product lines. This was partially offset by lower sales in our medical fluid components product lines versus last year. Despite the year-over-year decrease, we did see a modest increase in the medical fluid component sales sequentially. Second quarter EBITDA was $63 million or 37% of sales, which was flat to the prior year EBITDA of $63 million, which excluded $1.5 million of special items for cost reduction actions. This segment has now delivered EBITDA margins greater than 35% in 13 of the last 14 quarters. 
+Turning to Slide 9, you'll see Advanced Technology Solutions sales were $115 million, a 22% decrease compared to the prior year second quarter. The decrease in sales was driven by continued weakness across the segment, primarily related to products serving electronics end markets. Second quarter EBITDA was $24 million or 21% of sales, which trailed the prior year second quarter EBITDA of $32 million, which excluded special items of $2 million related to cost reduction actions in both periods. While the reduction in EBITDA was tied to the overall decrease in volume, favorable mix and cost reduction actions contributed to 22% decremental margins. This is well ahead of our decremental target of approximately 55%. 
+Finally, turning to the balance sheet and cash flow on Slide 10. At the end of the second quarter, we had cash of $125 million, and net debt was $1.4 billion, resulting in a leverage ratio of 1.7x based on the trailing 12 months EBITDA. We continue to have significant available borrowing capacity, pursue organic and inorganic growth opportunities. 
+Free cash flow was $108 million or a 92% conversion rate on net income. We strategically deployed this strong cash flow in the quarter. We repaid $100 million of revolver debt and paid $39 million in dividends during the quarter. For modeling purposes for the full fiscal year, assume an estimated effective tax rate of 20% to 22%, capital expenditures of approximately $40 million to $50 million, and net interest expense of $74 million to $77 million. In summary, we delivered another strong financial performance in the second quarter, in line with our expectations. 
+We'll now move to Slide 11, and I'll turn the call back to Naga.
+
+--------------------------------------------------------------------------------
+Sundaram Nagarajan,  Nordson Corporation - President, CEO & Director    [5]
+--------------------------------------------------------------------------------
+Thanks, Steve. I also want to commend the business for delivering strong operating performance under a challenging demand environment in some of our segments. This is a testament to how NBS Next is becoming the way we run our business. I want to spend a few minutes talking about our end markets and the changes we are seeing as we move into the second half of fiscal 2024. 
+Starting with Industrial Precision Solutions segment. We continue to see steadiness in industrial and consumer nondurable end markets. After 2 years of record growth, our full year guidance implies IPS, excluding ARAG, is about flat to slightly up versus prior year. And while the ARAG integration continues to go well, we cannot ignore the impact of weakening agricultural end market conditions. Despite the weakening of this particular agricultural cycle, which is causing customers to pause spending and work through inventory, we are undeterred in our belief that precision agriculture is a high-growth end market, and this cycle is temporary in nature. 
+Based on the past 9 months of integration, we remain excited about ARAG's differentiated technology and value proposition that would help customers boost crop yields while sustainably reducing the expensive usage of fertilizers and chemicals. 
+Within our Medical and Fluid Solutions segment, we are continuing to see modest order entry pickup in our fluid components business, which is returning to growth following last year's biopharma destocking. Similarly, our fluid solutions product lines, which have exposure to the electronics cycle, are turning positive. Our medical interventional solution product lines, which grew double digits in fiscal 2023 driven by the trends in minimally invasive therapies and the aging of population, we have tough comparisons in the second half of the year. 
+In the ATS segment, we continue to see positive early indicators of the electronics cycle inflection. But we're not seeing order entry pick up that would support the implied ramp in our prior second half guidance. Keeping in mind the semiconductor subsegment, Nordson's applications are largely positioned at the back end of the manufacturing process with a focus on advanced packaging of semiconductor chips. Currently, investments are being made in the front end of the semiconductor manufacturing process related to fabrication and processing of silicon wafers. As production shifts towards converting their wafers to individual chips and advanced packaging of these chips, customers will invest in Nordson electronics dispense and test and inspection technology. Overall, we will benefit from the increasing demand for chips in support of AI, automotive electronics, onshoring, CHIPS Act and more. 
+While our test and inspection businesses are positioned to improve the yields and ensure quality of these critical and expensive chips, our X-ray business, which experienced double-digit growth in fiscal 2023, is dealing with challenging comparisons in the second half of the year. Our ATS leaders continue to do an excellent job of implementing the NBS Next Growth Framework and positioning themselves for future growth. This includes positioning operations closer to the customer, introducing differentiated new products, and making strategic cost adjustments. ATS ability to outperform the decremental targets again this quarter is a testament to this work. 
+Turning now to our outlook on Slide 12. We enter the third quarter with approximately $700 million in backlog. This backlog remains concentrated in our systems businesses, while customer order entry patterns have returned to historical norms in the rest of the businesses. Based on the current visibility I just shared and order entry trends, we are updating our previously issued full year revenue guidance in the range of flat to up 2% over record fiscal 2023. Full year fiscal 2024 earnings are forecasted to be in the range of down 5% to down 1% per diluted share. 
+This full year guidance assumes a neutral impact from FX rates and the ARAG acquisition contributing approximately 3.5% growth at the midpoint of our guidance. Investors should keep in mind that we anniversary the acquisitive growth impact of ARAG in the fiscal fourth quarter. For the third quarter of fiscal 2024, sales are forecasted to be in the range of $645 million to $670 million, with adjusted earnings in the range of $2.25 to $2.40 per diluted share. Third quarter guidance considers weaker electronics and agriculture end markets. 
+Even as we face more challenging market conditions, Nordson's core strengths remain a diversified portfolio close to the customer business model, high level of recurring revenue, NBS Next Growth Framework, and a commitment to innovation. All of this positions Nordson well to deliver long-term Ascend strategy goals. As always, I want to thank our customers, shareholders and the Nordson team for your continued support. 
+With that, we will pause, and Steve and I will take your questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Your first question comes from the line of Mike Halloran with Baird.
+
+--------------------------------------------------------------------------------
+Michael Patrick Halloran,  Robert W. Baird & Co. Incorporated, Research Division - Associate Director of Research & Senior Research Analyst    [2]
+--------------------------------------------------------------------------------
+A couple of questions here. Naga, maybe you could just talk to what's assumed in guidance as you work through the year from an end market recovery. I certainly understand the electronics piece and the ag piece. You look at the implied fourth quarter ramp, it's still probably a little above seasonality. So wondering if you still have some of those systems and projects hitting in the fourth quarter or if that's been pushed to next year. And thoughts about any sustainability of the packaging piece and how you think the biopharma is going to recover. So basically, just maybe lay out how you think the end markets track as we work through the remainder of the year and what's assumed in guidance.
+
+--------------------------------------------------------------------------------
+Sundaram Nagarajan,  Nordson Corporation - President, CEO & Director    [3]
+--------------------------------------------------------------------------------
+Yes. Let's get started with IPS. The guide is really -- maybe start with the first 2 big hits and then we'll go through the end markets, Mike. So the first -- the 2 factors which you highlighted is that we're not seeing the pickup in orders for electronic systems that we had expected with the implied second half ramp. So that's number one. Number two is the agriculture cycle is having a greater impact on ARAG than our own expectation. So timing is just -- there is not enough time here to achieve the ramp we had originally expected. 
+In terms of end markets, if you think about IPS, non-ARAG, our expectation is going to be flat to slight growth following record 2 years. In terms of -- ARAG continues to contribute to the growth of the business. In terms of ATS, certainly, the growths are below our long-term growth rates. We're not seeing the pickup as we talked about. In terms of Medical Fluid Solutions, our expectation is that our fluid components business will be slightly up. Our fluid solutions business would also be slightly up offset by tough comps on the interventional components. So in summary, we're going to have IPS flat to slightly up, ATS down, MFS returning to growth slightly.
+
+--------------------------------------------------------------------------------
+Michael Patrick Halloran,  Robert W. Baird & Co. Incorporated, Research Division - Associate Director of Research & Senior Research Analyst    [4]
+--------------------------------------------------------------------------------
+So following up on that then, are you assuming any sort of pickup in some of those stressed markets or any sort of backlog let out in any of those stressed markets in the fourth quarter? In other words, just trying to understand how derisked some of those stressed points are in the guidance as we work through the rest of the year?
+
+--------------------------------------------------------------------------------
+Sundaram Nagarajan,  Nordson Corporation - President, CEO & Director    [5]
+--------------------------------------------------------------------------------
+Yes. What I'll tell you is that if you think about our fourth quarter is -- does not require electronics to come back, does not expect ARAG to come back. So if you think about those 2 stressed markets. But what is expected, though, is sequential continued improvement in both these markets. So we saw that in second quarter, both electronics -- ATS is sequentially up and so that's our expectation.
+
+--------------------------------------------------------------------------------
+Michael Patrick Halloran,  Robert W. Baird & Co. Incorporated, Research Division - Associate Director of Research & Senior Research Analyst    [6]
+--------------------------------------------------------------------------------
+So in other words, the sequentials from here are relatively stable versus a normal sequential pattern in your mind in those markets?
+
+--------------------------------------------------------------------------------
+Sundaram Nagarajan,  Nordson Corporation - President, CEO & Director    [7]
+--------------------------------------------------------------------------------
+Yes. What we're seeing is order entry -- yes, go ahead, Steve. Maybe provide some more...
+
+--------------------------------------------------------------------------------
+Stephen F. Shamrock,  Nordson Corporation - VP & Corporate Controller    [8]
+--------------------------------------------------------------------------------
+No, I was going to say, Mike, that I think you're spot on there, because if you also look at sequential growth, we had 11% growth last year from Q3 to Q4. And our midpoint basically implies around 8% growth this year. So Q4 is usually seasonally our strongest quarter. So I think that aligns with how we're thinking about it.
+
+--------------------------------------------------------------------------------
+Operator    [9]
+--------------------------------------------------------------------------------
+Your next question comes from the line of Saree Boroditsky with Jefferies.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [10]
+--------------------------------------------------------------------------------
+This is James on for Saree. I just wanted to kind of follow up on the ARAG. So can you kind of provide more color on kind of increased pressure? Because I thought you guys said that you guys have got high recurring revenue here. And kind of when do you expect to see an inflection point in the ag market?
+
+--------------------------------------------------------------------------------
+Sundaram Nagarajan,  Nordson Corporation - President, CEO & Director    [11]
+--------------------------------------------------------------------------------
+In general, this market is expected to be down this year. And we expect this turnaround sometime in '25,  but we're not really giving any guidance on '25. So difficult to tell you exactly when that will happen. But our guidance does not imply any pickup in ag, agriculture markets this year.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [12]
+--------------------------------------------------------------------------------
+Got it. And I kind of wanted to follow up on the -- like the strong gross margin performance here despite like flat revenue growth. So how should we think about like gross margin for the remainder of the year?
+
+--------------------------------------------------------------------------------
+Stephen F. Shamrock,  Nordson Corporation - VP & Corporate Controller    [13]
+--------------------------------------------------------------------------------
+Yes. Yes. No. So what I would tell you, and that really kind of ties back to our, what I would call, very strong Q2 performance, right? Basically, from a sales standpoint with Q2, we came in really where we expected from a sales standpoint. We came in with $651 million of sales in Q2. And that was -- when we gave the guidance for Q2, we assumed currency neutral. So if you add back about a $5 million unfavorable impact of FX, we basically came in spot on near the midpoint of our guidance. And we actually were at the high end of our guidance in Q2 because of the gross margin performance that you referenced there. 
+And the way I would think about that is we really had a strong performance in margins for a number of factors in Q2, right? We had a very strong mix. I would tell you in Q2, whether it was parts versus sales, that was very strong, we had good customer mix, and even mix within product lines, and also had -- we referenced in our earlier comments manufacturing efficiencies and cost controls. 
+How I would think about gross margins going forward, I think I mentioned this on a previous call, we're not focused on gross margin expansion. Our long-term focus is really to maintain the gross margins that we have. So I do think what you saw in Q2 was a favorable mix than normal. So that's how I would think about that going forward. I wouldn't expect as favorable of a mix in the balance of the year.
+
+--------------------------------------------------------------------------------
+Operator    [14]
+--------------------------------------------------------------------------------
+Your next question comes from the line of Matt Summerville with D.A. Davidson.
+
+--------------------------------------------------------------------------------
+Matt J. Summerville,  D.A. Davidson & Co., Research Division - MD & Senior Research Analyst    [15]
+--------------------------------------------------------------------------------
+Just a question on ARAG. I remember back to when you did the call as it related to the acquisition. We seem pretty convinced that this business would be less impacted by a down ag cycle. And clearly, that's not the case here. So what I guess have you learned over the last couple of quarters about ARAG and how indeed tied to the cycle that business seemingly is? And to that point, you mentioned inventory destocking. I assume that's at the OEM level, but correct me if I'm wrong. How long do you think that destock lasts?
+
+--------------------------------------------------------------------------------
+Sundaram Nagarajan,  Nordson Corporation - President, CEO & Director    [16]
+--------------------------------------------------------------------------------
+Yes. You're right, Matt, in that our expectations that this business would have been less muted because of the precision ag exposure certainly did not play out the way our expectations were. But look, what is really important to remember is we still like the technology. We like the people we have added to the organization. Certainly, a very interesting end market. If you look at expectations of some of the OEMs, the precision ag itself is down or expected to be down 20%, 25%. So even if you think about our expectations with precision ag is going to continue to grow through the cycle, that has not worked out the way it is. 
+In terms of inventory destocking, remember, 40% of this business is aftermarket parts. And those aftermarket parts go through distribution. They're not direct sale. So they don't go through the OEM, they go through a distributor. And there is some level of inventory destocking that is going on in ARAG.
+
+--------------------------------------------------------------------------------
+Matt J. Summerville,  D.A. Davidson & Co., Research Division - MD & Senior Research Analyst    [17]
+--------------------------------------------------------------------------------
+Got it. With respect to -- you mentioned kind of last conference call the canary businesses, and I mean that in a positive way with respect to electronics, showing some signs of life. Are you concerned that maybe those are no longer good leading indicators for a broader upturn in the electronics side? And could you maybe just put a finer point on how those businesses -- those canary businesses, if you will, performed in the second quarter and how inbound order activity has been looking there?
+
+--------------------------------------------------------------------------------
+Sundaram Nagarajan,  Nordson Corporation - President, CEO & Director    [18]
+--------------------------------------------------------------------------------
+Yes. Both the businesses continue to strengthen in the trends that we mentioned in our first quarter. So we're continuing -- we remain convinced both those are very good leading indicators. And the reason I'll tell you is those are 2 separate indicators. For example, the one we talked about was the UV lamp business is a niche product line in one of our businesses. That is in the front end of the semiconductor process where we sell to large machine builders. That continues to strengthen, the forecasts have actually increased. That lines up with what you see front-end semiconductors growing nicely. So you see that. But you also see on finished electronic products, you're continuing to see greater usage of existing lines. So this is the consumables from EFD. Those continue to strengthen. So both those are still strong. 
+I think what it is not getting translated is that you would immediately see a system business pick up. And that's the translation that is getting delayed. We're not concerned that this is -- this doesn't indicate that the cycle is going to turn. It is more an uncertainty in this CapEx spend in electronics that we are seeing. So it is more related to the CapEx investment rather than does the cycle has not turned on that. So hopefully, that helps you.
+
+--------------------------------------------------------------------------------
+Operator    [19]
+--------------------------------------------------------------------------------
+Your next question comes from the line of Christopher Glynn with Oppenheimer.
+
+--------------------------------------------------------------------------------
+Christopher D. Glynn,  Oppenheimer & Co. Inc., Research Division - MD & Senior Analyst    [20]
+--------------------------------------------------------------------------------
+Yes. I wanted to follow up on a little different cross-section for the electronics cycle. I'm curious if you could speak directly to the differences you're seeing in electronics processing versus T&I broadly. And then if any, interesting nuances in the different test and inspection modalities.
+
+--------------------------------------------------------------------------------
+Sundaram Nagarajan,  Nordson Corporation - President, CEO & Director    [21]
+--------------------------------------------------------------------------------
+Okay. All right. I think if you -- let's just first start with EPS and T&I. EPS systems continue to be, in the quarter, continue to be lower in line with the ATS levels, right? So down 20% or so. And in the T&I business, I'll remind you that last year we had some significant growth in those businesses. So what we are facing on our X-ray business is a tough comp. 
+Among the other T&I business, on our optical business, we have our sensors that go into the front end of the market, we just call it WaferSense product line, that is continuing to grow nicely. It is a small part of the business, but it is growing nicely. The acoustic test and inspection part of the business is also growing, which is more on the front end and on some new memory applications. The optical side, the parts are fine, the systems are behind. So we fundamentally still believe the test and inspection business will be lower declines when compared to our dispense business. What you've got mixed in there is some tough comps in our X-ray business. 
+In all of these cases, the teams are doing an incredible job doing 3 things. One, they are certainly strengthening their delivery and quality performances. They are moving manufacturing closer to our customers. So we have got a new manufacturing and distribution location coming up in India to support our electronic customers who are shifting focus into India. Third, we have very exciting new products that are being released by our test and inspection business. Our new MXI line products are well received in the marketplace. We've got a new updated software for our AXI business that is hitting the market. And in our dispense business, you certainly see our Vantage product as well as a new coating product lines, again, all hitting the market. So we're using this time to really position the business for growth.
+
+--------------------------------------------------------------------------------
+Christopher D. Glynn,  Oppenheimer & Co. Inc., Research Division - MD & Senior Analyst    [22]
+--------------------------------------------------------------------------------
+Great. And then a similar one in IPS, I'm wondering if you could go into the state of phasing of demand and comparisons for the polymer and adhesives, general assembly pieces. I think coatings stood out as maybe the strongest piece in the quarter for non-ARAG IPS.
+
+--------------------------------------------------------------------------------
+Sundaram Nagarajan,  Nordson Corporation - President, CEO & Director    [23]
+--------------------------------------------------------------------------------
+Yes. Our coatings business is doing an incredible market demand and really delivering on the growth opportunities. So we're very happy about the performance there. If you think about our adhesive business, in general, 12 out of 13 quarters or 12 out of 14 quarters, we have been growing. So pretty strong growth. Our expectation is still, as we finish the year, we would be flat to slightly up. So that is in a good spot. Particularly our packaging part of our business is doing incredibly well. 
+If you think about our plastics business, again, you had record growth in those businesses for the last 2 years. And this year, they would face some tough comp. And so that will be slightly lower. We don't talk about sales by individual divisions. But generally speaking, what I will tell you is our plastic business is slightly lower than their record last 2 years, right? So hopefully, that gives you enough color around the different businesses.
+
+--------------------------------------------------------------------------------
+Christopher D. Glynn,  Oppenheimer & Co. Inc., Research Division - MD & Senior Analyst    [24]
+--------------------------------------------------------------------------------
+Yes. Terrific. Thank you, Naga.
+
+--------------------------------------------------------------------------------
+Sundaram Nagarajan,  Nordson Corporation - President, CEO & Director    [25]
+--------------------------------------------------------------------------------
+And one last thing I would add in our adhesive business. Certainly, parts are significantly up when compared to our system businesses. This is some of the -- this is one of the reasons when we talk -- when Steve talks about sales mix, certainly, this was very helpful.
+
+--------------------------------------------------------------------------------
+Christopher D. Glynn,  Oppenheimer & Co. Inc., Research Division - MD & Senior Analyst    [26]
+--------------------------------------------------------------------------------
+Yes, you're saying less system sales in the quarter was sort of neutralized by really strong recurring revenue growth?
+
+--------------------------------------------------------------------------------
+Sundaram Nagarajan,  Nordson Corporation - President, CEO & Director    [27]
+--------------------------------------------------------------------------------
+Yes. Recurring revenue growth.
+
+--------------------------------------------------------------------------------
+Operator    [28]
+--------------------------------------------------------------------------------
+(Operator Instructions) Your next question comes from the line of Chris Dankert with Loop Capital.
+
+--------------------------------------------------------------------------------
+Christopher M. Dankert,  Loop Capital Markets LLC, Research Division - SVP    [29]
+--------------------------------------------------------------------------------
+I guess just return to ARAG for a moment. Given that agriculture markets kind of come off peak here, is there any risk around the expected synergies for that deal? And maybe just how do we think about the cost structure of that business in the context of the current slowdown here?
+
+--------------------------------------------------------------------------------
+Sundaram Nagarajan,  Nordson Corporation - President, CEO & Director    [30]
+--------------------------------------------------------------------------------
+Yes. I think there are -- if you remember, when we acquired ARAG, this is a complete new division for the company. Hence, there were no cost synergies baked into our valuation model. It was mostly based on our ability to continue to grow with the market. Clearly, with the market being down and our own expectations that it wouldn't follow the market, not panning out the way we had expected, certainly puts the sales part of our plan behind. 
+But I'd still remind you, great technology, great end market with precision agriculture, long-term solid growth opportunities for us as a company, market leader in Europe, market leader in South America, 2 big geographies. Certainly, we have opportunities as we think about North America, we fully acknowledge that our existing competitors who do a nice job in North America, but we do believe that is an opportunity for us to continue to think about it.
+
+--------------------------------------------------------------------------------
+Christopher M. Dankert,  Loop Capital Markets LLC, Research Division - SVP    [31]
+--------------------------------------------------------------------------------
+I think that was just kind of my -- the crux of my question. When you brought it on board, there was no -- the expectation of a slowdown. There was no cost side to the economics there, I guess. Has that -- it doesn't sound like that has changed. It sounds like we're just going to kind of manage through -- we're not contemplating any sort of adjustment to decrementals on that business.
+
+--------------------------------------------------------------------------------
+Sundaram Nagarajan,  Nordson Corporation - President, CEO & Director    [32]
+--------------------------------------------------------------------------------
+No. This -- if you think about this business, even with the reduction in revenue, their profit margins are north of the company's margins.
+
+--------------------------------------------------------------------------------
+Christopher M. Dankert,  Loop Capital Markets LLC, Research Division - SVP    [33]
+--------------------------------------------------------------------------------
+Got it. Got it. Perfect. And I think just for my follow-up, on the electronic side of the business, particularly on the electronic processing within ATS, the short hand, at least for me, has always kind of that's the handset cycle. Is there anything else that's kind of weighing down that business right now beyond handsets or is that still kind of the main driver there?
+
+--------------------------------------------------------------------------------
+Sundaram Nagarajan,  Nordson Corporation - President, CEO & Director    [34]
+--------------------------------------------------------------------------------
+Yes. Chris, I mean over the last 4, 5 years, we certainly have moved away from the handset as an important driver in that business. Handset is still a small part of the business. But really, semiconductor advanced packaging is where this business is growing, and in components such as camera modules and things like that. Automotive electronics also has become a bigger part of the business. So it's no longer just a handset business. It is semiconductor, automotive electronics, and a small handset presence still.
+
+--------------------------------------------------------------------------------
+Operator    [35]
+--------------------------------------------------------------------------------
+Your next question comes from the line of Walter Liptak with Seaport Research.
+
+--------------------------------------------------------------------------------
+Walter Scott Liptak,  Seaport Research Partners - MD & Senior Industrials Analyst    [36]
+--------------------------------------------------------------------------------
+And yes, I just want to try a couple of follow-ups on ARAG. You talked about the market in Europe, Latin America. Are all the markets getting picked the same way by the cycle?
+
+--------------------------------------------------------------------------------
+Sundaram Nagarajan,  Nordson Corporation - President, CEO & Director    [37]
+--------------------------------------------------------------------------------
+Yes. If you look at some of the market reports that are out there, pretty much across the world, the market cycle seems to be in the down 20% to 25%. And that is North America, that is Europe, that is South America. And even precision ag, which was typically a growth engine.
+
+--------------------------------------------------------------------------------
+Walter Scott Liptak,  Seaport Research Partners - MD & Senior Industrials Analyst    [38]
+--------------------------------------------------------------------------------
+Okay. And the follow-up is that, the precision ag market, is -- what's different about this cycle? The precision ag is slowing as it's related to destocking or something?
+
+--------------------------------------------------------------------------------
+Sundaram Nagarajan,  Nordson Corporation - President, CEO & Director    [39]
+--------------------------------------------------------------------------------
+I think there is some amount of destocking, but that is also -- we are -- I'd tell you, our knowledge of agriculture when compared to our knowledge of electronics or industrial nondurable is sort of -- obviously, we've been in this business for a short period of time, so our knowledge is not as deep as we would have in other end markets. But our understanding is that there is some amount of destocking, but there is certainly some hesitancy in investing in large implements even. And so that is what you're seeing, is that reduction in OEM. And this is unique because, as we looked at this business and evaluated it, one of the things we were -- we did a lot of work around is to understand the relationship between cycle in this business' performance. And this seems a little bit unique when compared to their prior performance. 
+So we're still figuring it out, but I will tell you that it is impacting us more than we had expected. And it is impacting us, and that's what our current situation is. And we still like the products. We still like the people. We're still working on continuing to integrate the business, which is going really well. And I think that's kind of where we are at with ARAG.
+
+--------------------------------------------------------------------------------
+Walter Scott Liptak,  Seaport Research Partners - MD & Senior Industrials Analyst    [40]
+--------------------------------------------------------------------------------
+Okay. Great. And just as the -- I guess a follow-up question, is the electronics part of the business, you mentioned that there's a timing issue between the front end and the back end. Can you help educate us just how long is that? Is it measured in months or years? How should we think of that?
+
+--------------------------------------------------------------------------------
+Sundaram Nagarajan,  Nordson Corporation - President, CEO & Director    [41]
+--------------------------------------------------------------------------------
+Yes. We don't -- by now, right, look, based on our expectations in the first quarter, we had expected that this would follow quickly or thereafter. That has not happened. So our guidance doesn't imply a significant pickup in electronic market for the rest of the year. And as we approach 2025, we'll be in a better place to provide you more color as to when it might actually pick up. But I think what is important to remember is that we have derisked our outlook for electronics for the rest of the year.
+
+--------------------------------------------------------------------------------
+Operator    [42]
+--------------------------------------------------------------------------------
+Your next question comes from the line of Andrew Buscaglia with BNP Paribas.
+
+--------------------------------------------------------------------------------
+Andrew Edouard Buscaglia,  BNP Paribas Exane, Research Division - Senior Analyst of US Industrial Technology    [43]
+--------------------------------------------------------------------------------
+I wanted to go back to the ATS segment. Just given the nature of Nordson having a more direct sales model gives investors a lot of confidence in what you guys are saying. But what is it that these customers are saying to you that's making it so difficult to predict when the spend is going to move forward?
+
+--------------------------------------------------------------------------------
+Sundaram Nagarajan,  Nordson Corporation - President, CEO & Director    [44]
+--------------------------------------------------------------------------------
+Yes. I think it's a great question, Andrew. What I will tell you is that none of the projects we are working on with our customers, that somebody come to us and said, look, this is all off the table, it is canceled. That is not the case. We continue to work with our customers on projects and opportunities as they bring on new technologies for AI, as they bring on more technologies for much smaller, much more complicated chips than we have. 
+So that work, the project work, continues. But what it has not translated is, from that project work into system orders, it has not translated yet, nor have people completely canceled projects either, right? So we are sort of in this middle time, call it uncertainty. I can only talk to you about what we're seeing in terms of customer sort of actions rather than what is the broader trend here. There seems to be a reluctance in translating work that they're doing into systems sales or systems orders, right? We continue to do well on our parts, but there seems to be some reluctance, and I'm -- and not exactly understand the core reasons as to why our customers have reluctance, but there is reluctance.
+
+--------------------------------------------------------------------------------
+Andrew Edouard Buscaglia,  BNP Paribas Exane, Research Division - Senior Analyst of US Industrial Technology    [45]
+--------------------------------------------------------------------------------
+Maybe to dig in a little bit deeper, regionally, is there something unusual going on? Like is one region worse than the other? And I'm thinking China here. I don't know. What are you seeing by geography, I guess?
+
+--------------------------------------------------------------------------------
+Sundaram Nagarajan,  Nordson Corporation - President, CEO & Director    [46]
+--------------------------------------------------------------------------------
+Yes. We're not seeing significantly different behavior from geography, geography. We still -- we work with all of the major semiconductor manufacturers. There are -- it's not like -- obviously, we continue to sequentially grow. Sequentially, we have better order entry. So it is not like we're continuing to decline or we are not -- we're just flat in the bottom. We're starting to come out. It is just not as fast as we had hoped. 
+I think that is probably what we need to take away, is that our reduction in guidance is mainly because we had a far steeper implied ramp in our second half, that's not happening. And that is not happening because the orders we are getting are not at the same rate as we had hoped. It is at a little flatter rate than we had hoped for. And we don't see a whole lot of difference in regions. 
+Clearly, when compared to last year, activity in Asia has picked up, that we can tell you, right? Certainly, Southeast Asia is better than China for us, and that's just for us. Certainly, our automotive electronics customers in Mexico are significantly better for us. Europe is okay. So that's, broadly, that's how we think about the ATS business.
+
+--------------------------------------------------------------------------------
+Operator    [47]
+--------------------------------------------------------------------------------
+Your next question comes from the line of Jeff Hammond with KeyBanc Capital Markets.
+
+--------------------------------------------------------------------------------
+Jeffrey David Hammond,  KeyBanc Capital Markets Inc., Research Division - MD & Equity Research Analyst    [48]
+--------------------------------------------------------------------------------
+So just if we step back and think about capital allocation, I think you guys have kind of been on the wrong side of cycle timing around CyberOptics and ARAG now. And I'm just wondering how you think about cyclicality and timing as you kind of look at deals going forward.
+
+--------------------------------------------------------------------------------
+Sundaram Nagarajan,  Nordson Corporation - President, CEO & Director    [49]
+--------------------------------------------------------------------------------
+Yes. I think it's a fair question, and we have spent time thinking about this. We certainly need to put that into part of our equation as we think about acquisitions and deals. But having said that, I would tell you the technology behind each of these deals are spot on for us as a company to continue to expand our portfolio of precision technologies. We certainly have short-term pressure because of the market conditions, but we believe that the long-term drivers in both these bases are pretty sound, and we like the technologies we have and the people we've added. 
+Finally, what I will tell you, it's not offered as an excuse, if you so will, right? But it is -- we really don't control when high-quality assets come to market. We continue to remain focused on our strategy of building strong precision technology portfolio, continue to deploy NBS Next. And we believe the long-term strategic fit of these businesses. And I know as we get past these market conditions, we're going to be incredibly happy that these are part of Nordson portfolio. So I think it's a fair question you asked, but that's what we're working on.
+
+--------------------------------------------------------------------------------
+Jeffrey David Hammond,  KeyBanc Capital Markets Inc., Research Division - MD & Equity Research Analyst    [50]
+--------------------------------------------------------------------------------
+Okay. Appreciate the color there, Naga. Just on decremental margins in the second half, I mean you guys have done a pretty good job with NBS Next kind of limiting the decrementals. But I think at least in our model, initially, we had pretty severe decrementals. So just maybe how you're thinking about decrementals and holding the line.
+
+--------------------------------------------------------------------------------
+Sundaram Nagarajan,  Nordson Corporation - President, CEO & Director    [51]
+--------------------------------------------------------------------------------
+Yes. If you think about decrementals, I think we think about decrementals inside the company mostly for our core businesses. That is probably the best apples-to-apples comparison. And if you look at our core business, apples-to-apples decrementals were pretty strong in the quarter. But if you look at the total company's, given ARAG performance where you have lower sales yet you have the full load of SG&A, your decrementals at the total company level will look skewed. But without ARAG, we had some pretty strong decrementals. And you have to find number? You're looking for a number. Sorry, Steve, you want to go ahead add?
+
+--------------------------------------------------------------------------------
+Stephen F. Shamrock,  Nordson Corporation - VP & Corporate Controller    [52]
+--------------------------------------------------------------------------------
+Yes. No, no, I was just going to say, Jeff, what I'd also focus on, too, is just our EBITDA margins as well, right? I mean we -- I think we've been very successful in terms of generating strong EBITDA margins. I mean even Q2 was the fifth quarter in a row where we had EBITDA margins 31% or higher. And the last 3 years, we've delivered 30% or more EBITDA margins. And I think we're obviously well on our way to do that again here in 2024.
+
+--------------------------------------------------------------------------------
+Sundaram Nagarajan,  Nordson Corporation - President, CEO & Director    [53]
+--------------------------------------------------------------------------------
+And in the core businesses, Jeff, if you're asking for what is a target decremental, it is about 50 to 55.  I would use 55 which is sort of in line with our gross margins because we want to stay invested in our precision technology innovation, we want to stay invested in our direct customer model. That is what we have done in the past and that's what we'll continue to do. 
+But if you really put all of this in perspective, right? If you look at our full year, we're still -- our midpoint essentially implies a 1% growth over a record 2023. We're still expecting that we will deliver 31-plus percent EBITDA margins. We will still convert pretty strong on net income to free cash flow. In the quarter, we converted about 92%. So from an operational perspective, yes, the teams are dealing with some market conditions, but the operational performance of the company is in a pretty good place, and we continue to do that in this environment.
+
+--------------------------------------------------------------------------------
+Operator    [54]
+--------------------------------------------------------------------------------
+I will now turn the call back over to Naga for closing remarks. Please go ahead.
+
+--------------------------------------------------------------------------------
+Sundaram Nagarajan,  Nordson Corporation - President, CEO & Director    [55]
+--------------------------------------------------------------------------------
+Our solid second quarter operating performance reflects the strength of our diversified markets, close to the customer model, differentiated precision technologies, and rigorous implementation of NBS Next Growth Framework. We remain focused on the deployment of the Ascend strategy that positions us well for long-term profitable growth. With that in mind, we are excited to announce that we will be hosting an Investor Day in New York on Thursday, October 3, 2024. We'll be sharing more information about the details of the event this summer but please save the date on your calendars for the afternoon of October 3. 
+Again, I want to thank Nordson's employees for their commitment, which makes these results possible. Thank you for your time and attention on today's call. Have a great day.
+
+--------------------------------------------------------------------------------
+Operator    [56]
+--------------------------------------------------------------------------------
+Ladies and gentlemen, that concludes today's call. Thank you all for joining, and you may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2024 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

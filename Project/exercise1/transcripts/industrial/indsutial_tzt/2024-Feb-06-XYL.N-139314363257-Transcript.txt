@@ -1,0 +1,359 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q4 2023 Xylem Inc Earnings Call
+FEBRUARY 06, 2024 / 2:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Andrea van der Berg
+   Xylem Inc. - VP of IR
+ * William K. Grogan
+   Xylem Inc. - Senior VP & CFO
+ * Matthew Francis Pine
+   Xylem Inc. - CEO, President, COO & Director
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Scott Reed Davis
+   Melius Research LLC - Founding Partner, Chairman, CEO & Research Analyst of Multi-Industry Research
+ * Deane Michael Dray
+   RBC Capital Markets, Research Division - MD of Multi-Industry & Electrical Equipment & Analyst
+ * Andrew Alec Kaplowitz
+   Citigroup Inc., Research Division - MD & U.S. Industrial Sector Head
+ * Joseph Craig Giordano
+   TD Cowen, Research Division - MD & Senior Analyst
+ * Michael Patrick Halloran
+   Robert W. Baird & Co. Incorporated, Research Division - Associate Director of Research & Senior Research Analyst
+ * Nathan Hardie Jones
+   Stifel, Nicolaus & Company, Incorporated, Research Division - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Welcome to Xylem's Fourth Quarter 2023 Results Conference Call. (Operator Instructions) Please note, this event is being recorded.
+I would now like to turn the conference over to Andrea van der Berg, Vice President of Investor Relations. Please go ahead.
+
+--------------------------------------------------------------------------------
+Andrea van der Berg,  Xylem Inc. - VP of IR    [2]
+--------------------------------------------------------------------------------
+Thank you, Operator. Good morning, everyone, and welcome to Xylem's Fourth Quarter 2023 Earnings Call. With me today are Chief Executive Officer, Matthew Pine; and Chief Financial Officer, Bill Grogan. They will provide their perspectives on Xylem's fourth quarter and full year 2023 results and discuss our outlook and guidance for 2024.
+Following our prepared remarks, we will address questions related to the information covered on the call. I'll ask that you please keep to one question and a follow-up and then return to the queue. As a reminder, this call and our webcast are accompanied by a slide presentation available in the Investors section of our website. A replay of today's call will be available until midnight, February 13. Additionally, the call will be available for playback via the Investors section of our website under the heading Investor Events.
+Please turn to Slide 2. We will make some forward-looking statements on today's call, including references to future events or developments that we anticipate will or may occur in the future. These statements are subject to future risks and uncertainties such as those factors described in Xylem's most recent annual report on Form 10-K and subsequent reports filed with the SEC. Please note that the company undertakes no obligation to update any forward-looking statements publicly to reflect subsequent events or circumstances, and actual events or results could differ materially from those anticipated.
+Please turn to Slide 3. We have provided you with a summary of our key performance metrics, including both GAAP and non-GAAP metrics. For purposes of today's call, all references will be on organic and/or adjusted basis, unless otherwise indicated, and non-GAAP financials have been reconciled for you and are included in the Appendix section of the presentation.
+Now please turn to Slide 4, and I'll turn the call over to our CEO, Matthew Pine.
+
+--------------------------------------------------------------------------------
+Matthew Francis Pine,  Xylem Inc. - CEO, President, COO & Director    [3]
+--------------------------------------------------------------------------------
+Thanks, Andrea. Good morning, everyone, and thanks for joining us. It's a pleasure to share the Xylem team's exceptional performance in the fourth quarter of a transformational year for the enterprise. The team delivered both Q4 and full year results exceeding expectations on revenue and earnings per share.
+Looking at the fourth quarter, strong demand drove organic revenue growth of 9% with disciplined execution, delivering EBITDA margin expansion of 90 basis points. That drove double-digit orders growth, and our backlog is now more than $5 billion. Our Q4 performance capped off a year in which the team overdelivered in every quarter.
+Full year organic revenues were up 12% with EBITDA margin expansion of 190 basis points and adjusted earnings per share growth of 20%. The team even delivered Evoqua run rate cost synergies in 2023 ahead of plan. Both the quarter and the full year give us very strong momentum entering 2024.
+Despite a dynamic environment and the excitement of our combination with Evoqua, the team stayed focused on serving our customers. Joining forces with Evoqua has put the sector's most advanced portfolio of capabilities in the hands of our customers and opened up new opportunities to address even more of their water challenges.
+In our last earnings call, we shared a bit about the synergy traction we're seeing between the legacy Evoqua services business and Xylem's dewatering business. And since then, we've seen the momentum continue to build as the team wins in the marketplace with our combined offering.
+On January 1, we made it even easier for our customers to access the full breadth of our capabilities with the creation of the Water Solutions and Services segment, effectively combining Xylem and Evoqua services offerings in a realigned segment structure. The move supports the continuing growth of our services business and expansion of recurring revenues. And to put Xylem in an even stronger position to capture value by serving industrial water customers who are increasingly outsourcing water management as water stresses intensify.
+Looking forward, we are starting off strong in 2024 with the momentum from our outperformance in '23 and continued healthy demand in our major end markets. Though we're keeping a close eye on demand dynamics in China and are taking a prudent view of end markets for Applied Water, which is our most cyclical segment, our backlog across the business is a source of continuing strength, especially in M&CS.
+We also feel very confident in our ability to drive continuing margin expansion by focusing our energy on the parts of the business delivering the greatest value. Overall, we're well positioned for profitable and sustainable growth. We expect 2024 organic revenues to be up 3% to 5% with solid EBITDA margin expansion, resulting in earnings per share between $4 and $4.20.
+I'll now turn it over to Bill to walk through the quarter's results and our outlook for 2024 in more detail.
+
+--------------------------------------------------------------------------------
+William K. Grogan,  Xylem Inc. - Senior VP & CFO    [4]
+--------------------------------------------------------------------------------
+Thanks, Matthew. Please turn to Slide 5. As Matthew mentioned, we are pleased with the strong finish to 2023. The team has stayed focused and consistently were delivered throughout the year, exceeding our expectations on revenue and earnings per share for Q4 and the full year.
+We continue to see resilient demand and are supported by our $5.1 billion backlog, which grew 5% organically for the year. Organic orders grew 10% in the quarter, with book-to-bill approximately 1 for the quarter and greater than 1 for the full year. Total revenues grew 41%, while organic revenues rose 9%, exceeding our guidance of 4% to 5%. Outperformance was led by M&CS and Water Infrastructure. All regions grew, led by double-digit growth in the U.S.
+EBITDA margin was 19.6%, up 90 basis points from the prior year, with productivity savings, price, and higher volume more than offsetting inflation. This reflects 33% incrementals on the legacy Xylem performance. We finished the year with EBITDA margin of 18.9%, up nearly 200 basis points over prior year. Our EPS in the quarter was $0.99, above the high end of our guide by $0.03. When excluding the impacts of Evoqua, EPS was $1.10, up 10% over prior year.
+Our financial position remains robust with over $1 billion in cash and available liquidity of approximately $2 billion. We ended the year with adjusted free cash flow conversion of 122%, exceeding our expectations and significantly improved versus last year.
+Please turn to Slide 6. Before I highlight each segment's fourth quarter performance, I want to touch on some changes you'll see in our earnings materials going forward. In the spirit of 80/20, we have simplified our earnings materials to focus on what is most important for investors. To insist (sic) [assist] with the transition this quarter, we have provided our historical presentation format in the appendix.
+And now on to the segment performance. Measurement and Control Solutions saw robust orders growth of 14%, with strength across the portfolio led by metrology and assessment services. Backlog is $2.3 billion, and book-to-bill is above 1, a reflection of the strong demand for our AMI solutions and other digital offerings.
+MCS revenue was up 21%, driven by metrology backlog execution and strong demand. We finished the quarter with improved EBITDA margins of 17.3%, up 220 basis points versus the prior year and up 160 basis points sequentially on productivity, price, and higher volumes.
+Water Infrastructure also saw orders growth of 9% for the quarter, with strength across the portfolio led by robust treatment demand globally. Revenue exceeded our expectations with total growth of 30% on organic growth of 9%, driven by robust OpEx demand across all regions. EBITDA margin for the segment was down 90 basis points, driven by the impacts of legacy Evoqua. When excluding the impact of Evoqua, EBITDA margin was up 50 basis points primarily due to price, productivity, and volume more than offsetting inflation and unfavorable mix.
+In Applied Water, although orders grew, book-to-bill was 0.9x, as we continue to work down our backlog, and we saw softer demand environment in the U.S., our largest geography. Revenues were flat, in line with our guide, with the decline in developed markets offset slightly by growth in emerging markets. Segment EBITDA margin expanded 80 basis points, with productivity and price more than offsetting inflation and volume declines.
+Integrated Solutions & Services, orders grew 5% on a pro forma basis, and book-to-bill was 1. Demand was driven by services. Pro forma revenue growth of 10% exceeded our expectations as implied in our reported guidance, with healthy growth across the portfolio. Adjusted EBITDA margin was strong at 21.1%, driven by price realization and volume.
+Please turn to Slide 7. I will cover our segment outlook for the year. As Matthew mentioned, in December, we announced the creation of Water Solutions and Services segment. We are providing organic revenue guidance based on our previous reporting segments. Later this month, we will provide recast financial information aligned to the new segments. However, we expect the segment guidance outlook to largely be in line with the new segment structure, and we'll update as needed in our Q1 earnings call.
+In M&CS, we expected growth of low teens. Demand and order momentum for our AMI solutions remains strong. We expect to see sequential revenue improvement throughout 2024 supported by a robust backlog. In Water Infrastructure, we expect growth of mid-single digits. We expect resilient OpEx demand due to mission-critical nature of our applications and a healthy CapEx demand. We are continuing to closely monitor softness in China where the majority of our business is in the utility end market.
+In Applied Water, we expect a modest decline of low single digits. We continue to see pockets of softness across our end markets, particularly in developed markets, which make up about 80% of our business. We also expect to see headwinds as we lap price increases, and our backlog returns to more historic levels.
+ISS growth is expected to be mid-single digits with growth across both capital and services. We continue to see strong activity in our funnel, particularly in high-growth verticals such as food and beverage, energy, and life sciences. This segment is supported by $1 billion in backlog and a durable service business model. And as a reminder, the ISS growth outlook is on an organic basis.
+Now let's turn to Slide 8 for our 2024 and Q1 guidance. The growth outlook by segment translates to 2024 full revenue of $8.4 billion to $8.5 billion, resulting in total revenue growth of 14% to 15% and organic revenue growth of 3% to 5%. EBITDA margin is expected to be 19.4% to 19.9%. This represents 50 to 100 basis points of expansion versus the prior year, driven by higher volume, productivity, and price offsetting inflation.
+This yields an EPS range of $4 to $4.20, up 8% at the midpoint over prior year. We are expecting approximately $100 million of exit run rate cost synergies in 2024, which is embedded in our guide. Free cash flow conversion for the year is expected to be 115% of net income.
+Drilling down on the first quarter. We anticipate total revenue growth will be in the 36% to 38% range on a reported basis and 4% to 6% organically. We expect first quarter EBITDA margin to be approximately 18%, up 170 basis points, driven by higher volumes, continued price realization, and productivity gains. This yields first quarter EPS of $0.80 to $0.85.
+We are entering the year with momentum and from a position of strength. Our balanced outlook reflects our strong commercial position and the durability of our portfolio while we also continue to monitor broader market conditions, particularly in China and Applied Water, which is our shortest-cycle business. In the case of larger-than-expected volume declines, we're ready to take additional cost actions as needed to ensure continued focus on margin expansion. Overall, our expectations for the year remain positive as we build on our strong momentum.
+With that, please turn to Slide 9, and I'll turn the call back over to Matthew for closing comments.
+
+--------------------------------------------------------------------------------
+Matthew Francis Pine,  Xylem Inc. - CEO, President, COO & Director    [5]
+--------------------------------------------------------------------------------
+Thanks, Bill. It's been incredibly exciting to step up as CEO at a time of such great momentum and opportunity for Xylem. I began the year by spending time with customers and colleagues in India and the Middle East. Bill and I started off in India, and the scale of ambition there to modernize infrastructure and tackle the big water challenges is frankly awe-inspiring.
+We have an outstanding team there, doing great work to serve customers from our localized R&D and manufacturing platform that gives us a real competitive advantage. And both India and the Middle East provide great reminders of the fundamental interconnectedness of economic value and social value creation in our business.
+These markets present the expanse of commercial opportunity. In both markets, every project improves lives and increases sustainability of communities. We took some time out with colleagues in India to visit a school in a rural area outside of Bangalore. We got hands on building a small-scale water treatment system that now provides clean drinking water to those students and their community.
+I'll be honest, the experience of celebrating with those kids and their teachers as the clean water started to flow, well, it's just hard to describe. And you also know that the impact on educational outcomes, health, and quality of life is likely to be profound. That experience drove home for me not just the importance of what Xylem does, but it reinforced the focus we're bringing into 2024.
+Whether at the scale of a school or the scale of a mega city, we have to make it easier for customers and communities to solve their big water challenges. Reducing the complexity of water solutions, that is our focus, simplifying water.
+We have assembled the most advanced and most comprehensive portfolio of products, solutions, and services in this sector. The value creation opportunity in front of us is to make all that capability far easier for customers to access, to empower them to solve their most critical water challenges and deliver great outcomes with far less complexity.
+We started the year with great pace, with strong execution off the back of a great Q4 in 2023 across both legacy Xylem and legacy Evoqua businesses. And our integration is well on track to deliver on the full value creation opportunity of the combination. Our end markets are resilient, and as long as the long-term trends in water continue to intensify, our team is energized to take all of our capabilities to deliver an even greater impact for our customers.
+Our investment thesis remains robust, and we continue to execute on the strategy that has positioned us so strongly for further economic and social value creation. We look forward to sharing further insights into our priorities and strategic direction at our upcoming Investor Day on May 30 in Washington, D.C., when I hope many of you will join us.
+Now Operator, I'll turn the call back over to you for questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Our first question is from Deane Dray with RBC Capital Markets.
+
+--------------------------------------------------------------------------------
+Deane Michael Dray,  RBC Capital Markets, Research Division - MD of Multi-Industry & Electrical Equipment & Analyst    [2]
+--------------------------------------------------------------------------------
+Matthew, as we start the year, I'd love to hear what's top of mind for you on your priorities. I know we're going to get a lot more specifics at the Analyst Day, but I think everyone would love to hear more about what you're thinking the path and the opportunity for margin improvement broadly. And just some early thoughts on optimizing the portfolio potentially.
+
+--------------------------------------------------------------------------------
+Matthew Francis Pine,  Xylem Inc. - CEO, President, COO & Director    [3]
+--------------------------------------------------------------------------------
+Great. Thanks, Deane. First, I want to just acknowledge the team's Q4 and full year performance during really a transformational year for Xylem. We had the Evoqua combination. We announced that in January. Followed by the Idrica partnership. And then obviously, we had a leadership change, all that while dealing with a lot of macro challenges out there around the globe. So the team has done an incredible job staying focused.
+I'm really humbled and excited to lead Xylem into the next chapter. We built, as I've said before, an incredible platform over the past decade. If you look back 6 or 7 years ago, half the company did not even exist. So a lot of really good momentum there. And from my perspective, we're in a very unique position with our platform leadership of this 10-year journey to have visibility across the water value chain. And this really enables us to provide holistic kind of optimized solutions to our customers.
+And moving forward, we're going to continue to build on that platform. As COO last year, I did lead the strategic planning process at Xylem. So we have, I'd say, really strong strategic continuity as we transition this year. And I've talked about 3 strategic execution priorities that we're focused on. Number one, we have to deliver the Evoqua value capture. That's first and foremost. That's the transformational deal that we did last year.
+Number two, is -- and you hit on it, is we've got to get after margin expansion acceleration, and we're going to do that through productivity and continuing to drive operational excellence through the business. And then lastly, scaling our services business, enabled by digital, which we'll talk probably later in the call about the WSS segment for 2024 and its ability to help us do that.
+One thing I'd mention that we don't talk a lot, it's kind of the soft side, and that's on culture. As we bring 2 large companies together, culture is really important, and we put a lot of focus in that area. We call it high-impact culture. And there's behaviors to drive alignment around our culture and those behaviors are, first of all, to have our people be inspired to innovate.
+We don't want people to feel a fear of failure. We want them to innovate, and that's going to drive the next cash flows and top line growth in the company. The second is, we want them to be empowered to lead and empowered in the business. And then thirdly and most importantly, we want them to be accountable to deliver.
+And so those are things we're really pushing the organization on to get alignment around that will, I think, help us going forward. Maybe the last comment I would make is we have a call to action in the company that we've been working on over the past few months, and that's we want to simplify water.
+And what that means is really bridging our aspiration, which is let's solve water, which everybody knows our tagline, to our strategic execution priorities, which is really the what we're going to focus on. So that's really the rallying cry in the organization, and that's where we're going to be focused in 2024.
+
+--------------------------------------------------------------------------------
+Deane Michael Dray,  RBC Capital Markets, Research Division - MD of Multi-Industry & Electrical Equipment & Analyst    [4]
+--------------------------------------------------------------------------------
+I appreciate all that color. And just as a follow-up for Bill, would love to get an update on the rollout of 80/20 besides the check the box, a successful recast of the slides, which I really like. And then could you also lead in on the update on the revenue synergy plans on Evoqua specifically? I know there's a plan to roll out existing North America customers who have asked to have similar facilities outsourcing in Europe. So an update there, please.
+
+--------------------------------------------------------------------------------
+William K. Grogan,  Xylem Inc. - Senior VP & CFO    [5]
+--------------------------------------------------------------------------------
+Sure. So maybe I'll start with the first part of the question. And first off, 80/20 is a multiyear journey as it gets weaved into the fabric of the culture. Matthew just highlighted, we are on a cultural evolution and incorporate some new tools and behaviors into the organization. And you have to remember, 80/20 is kind of about systematic complexity reduction. And that takes time. It's not just a quick math exercise and you're done. It's really about focused resource allocation methodology, aligning the teams around the things that matter most in the business.
+Obviously, there's a tremendous margin opportunity that comes with the tool set, but longer term, it's really a tool to drive better organic growth performance by overserving your best customers and innovating around your best ideas. We've kicked off 2 pilots late in Q4 within Applied Water North America and North American Metrology within M&CS. It takes some time to do the analytics.
+And I look to see some benefits starting to evolve within 6 to 12 months. Obviously, as we get to Investor Day, we'll be able to put some more specific numbers around that. But I really think it's going to be a transformational tool for the organization as we roll it out and be a big part of our longer-term margin improvement story.
+
+--------------------------------------------------------------------------------
+Matthew Francis Pine,  Xylem Inc. - CEO, President, COO & Director    [6]
+--------------------------------------------------------------------------------
+Yes. Maybe a little bit of color on revenue synergies, Deane. I was proud of the team in Q4. We completed the APT integration to water infrastructure, which was a big deal. We've appointed regional synergy leads for the revenue capture around the globe, and incentives are in place to drive that execution. And one thing we've been really focused on is training our sales teams as well as our service teams. And as you know, in December, we announced the creation of the WSS segment for 2024. And a few comments there.
+Number one, we feel it's going to accelerate our synergies, both on the cost side as well as the revenue side, which is where we're focused the most. One thing that maybe is not as intuitive, I do think it's going to help us with technician utilization so we can leverage our technicians across the broader portfolio and also provide better career pathing for them long term, as well as leveraging technology.
+And then the big thing it does for us, it really helps us leverage and enable the international expansion of WSS going forward in '24, like I said, internationally. And then the most important thing is	 it makes it easier for our customers because at the end of the day, it's about customer focus. And our customers instead of picking up the phone to pick -- make 4 phone calls, they can make 1 to Xylem to solve their biggest problems.
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+The next question is from Mike Halloran with Baird.
+
+--------------------------------------------------------------------------------
+Michael Patrick Halloran,  Robert W. Baird & Co. Incorporated, Research Division - Associate Director of Research & Senior Research Analyst    [8]
+--------------------------------------------------------------------------------
+A couple of questions here. First, you commented on confidence in the end markets and sustainability of existing trends. Maybe talk a little bit about [so] utility and industrial markets, what the customers are saying at this point, willingness to put capital forward for CapEx-related projects. Any signs of softness, acceleration? How are you thinking about things on that side?
+
+--------------------------------------------------------------------------------
+Matthew Francis Pine,  Xylem Inc. - CEO, President, COO & Director    [9]
+--------------------------------------------------------------------------------
+Yes, I could start us out. I mean from -- on the CapEx front, we've seen continued momentum there. For us, the proxy is our treatment business. Orders were very strong, both in Q4 and the full year, up double digits. And so that gives us a lot of confidence. And that number is not only just in the U.S., that's a global number. So every region is performing very well in treatment.
+So from a CapEx perspective, we haven't seen any pullback or any concern there. And obviously, a big part of our focus in our portfolio in utilities is focused on the OpEx side, and that's about 75% of the revenue, and that remains pretty strong. And it's also -- we've talked about buoyed, especially the long term.
+It's not going to be this year or even in the next year, but over the next 5 to 7 years, it's buoyed by regulation globally. Whether that's in the U.S. with the infrastructure bill, which includes PFAS funding or if you get into Europe with the Recovery and Resilience Act and then the AMP cycle in the U.K. That gives us a lot of confidence that we'll continue to see those markets do well.
+I'd say industrially, it's a little bit of a mixed bag on the new segment, WSS, which is a legacy ISS business, which contains assessment services and dewatering now. We're seeing strong momentum there, especially in power, life sciences, microelectronics. We're seeing a lot of bid activity there, and we feel good about that. We've seen a little bit of lumpiness in the applied water end markets, especially resi.
+Some of that is just due to coming out of the pandemic where people were investing their discretionary income and upgrading their houses. And also weather has played some of a role in that as a lot of our resi products are applied into ag applications. And so we've seen some lumpiness there in the U.S. and a little bit in Western Europe. So that's a little bit of the view of the landscape.
+
+--------------------------------------------------------------------------------
+Michael Patrick Halloran,  Robert W. Baird & Co. Incorporated, Research Division - Associate Director of Research & Senior Research Analyst    [10]
+--------------------------------------------------------------------------------
+Appreciate that. Second question, just on the pricing side of things, I guess, twofold. One, how are you thinking about pricing for '24? And as you think about the multiyear journey here as you're rolling out 80/20 and all the other toolkits you're going to be implementing, what is the opportunity for pricing as you think about the broader portfolio?
+
+--------------------------------------------------------------------------------
+William K. Grogan,  Xylem Inc. - Senior VP & CFO    [11]
+--------------------------------------------------------------------------------
+Yes. Mike, maybe I'll take that one. So price expectations for next year are going to ramp down versus the capture that we experienced in 2023, will be a little over 1 point. That's still significantly higher than pre-pandemic pricing. But it is an opportunity as we look forward as we calibrate and hone in the skills to continue to capture the value for our products across the portfolio.
+Obviously, that 1 point plus varies across the different segments. With M&CS and WSS going forward, probably stronger price capture opportunities. And then 80/20, I think will be up as we roll out opportunities within AWS as they've done some additional analytics and we look for just better pricing methodology and capture on some of the longer tail customers that we have.
+Obviously, we're leveraging price as one of our components to offset inflation. The team does a really good job driving operational productivity as a second lever to offset inflation. So we're going to manage price and material cost and stay positive. Obviously, that will compress a little bit next year as pricing goes down, but also our expectations relative to inflation will be price/ material cost positive, and then look for productivity to really enhance our margins as we move forward.
+
+--------------------------------------------------------------------------------
+Operator    [12]
+--------------------------------------------------------------------------------
+The next question is from Scott Davis with Melius Research.
+
+--------------------------------------------------------------------------------
+Scott Reed Davis,  Melius Research LLC - Founding Partner, Chairman, CEO & Research Analyst of Multi-Industry Research    [13]
+--------------------------------------------------------------------------------
+Wanted to -- you made some comments incrementally on China seemed a little bit more cautious, which is not a surprise just given what we've heard from others. But it looks like your business there has held up okay, at least versus some peers out there, but what -- maybe a little bit more granularity there would be helpful.
+
+--------------------------------------------------------------------------------
+Matthew Francis Pine,  Xylem Inc. - CEO, President, COO & Director    [14]
+--------------------------------------------------------------------------------
+Yes. Thanks for the question, Scott. China, for us, now with the new combination of the company is about mid-single digit in terms of our revenue, with over 50% of that being water infrastructure from an exposure standpoint, largely tied to public utilities. We've seen pretty decent orders there.
+Q4 orders were up 11%, full year up 10%. On the revenue side, we were up on the full year about 2%, low single digits. But if you look back on a 2-year stack, we're down mid-single digits in China. So the backlog is building, but we haven't seen that convert to revenue yet. Things continue to slide to the right in terms of funding.
+I think if you read the news, you continue to see the government's intervention in the economy there, and that's taking some of the funds away from investing in some of the infrastructure. But we believe that's more of a short-term issue. Across the utilities exposure, we continue to see, again, a healthy pipeline and we'll continue to monitor that funding.
+I would say on the industrial side, it's a little bit of a similar demand environment, and that's held up a little bit more resilient, to be honest, over utilities. And the last thing I would say with China, overall, we expect China to be roughly flat in 2024 for the business.
+
+--------------------------------------------------------------------------------
+Scott Reed Davis,  Melius Research LLC - Founding Partner, Chairman, CEO & Research Analyst of Multi-Industry Research    [15]
+--------------------------------------------------------------------------------
+Okay. That's super helpful. Your balance sheet is in fantastic shape. And given the way you structured the Evoqua deal, just leads me -- a natural question would be are there -- should we expect kind of some bolt-on acquisitions or anything kind of in '24 that -- or perhaps you could talk about your M&A backlog? And just as much as talk about the pipeline, perhaps talk about your interest in doing deals. That would be helpful.
+
+--------------------------------------------------------------------------------
+Matthew Francis Pine,  Xylem Inc. - CEO, President, COO & Director    [16]
+--------------------------------------------------------------------------------
+Yes. No, thanks. It's a good question. We closed out 2023 very strong, following the close of our largest transformational deal in our history. And so one of the things we're laser focused on is making sure that we integrate Evoqua well and we get the value capture in the near term. To your point, we do have a strong M&A pipeline. And the structure of the Evoqua deal allows us flexibility with a strong balance sheet.
+The short-term focus, Scott, is going to be to focus on small to medium bolt-ons. Evoqua, we can fairly ring-fence within the business, but there's other parts of the portfolio where we do want to continue to be inquisitive, with again, with small to medium bolt-ons. And we'll continue our disciplined approach, and we're evaluating our longer-term capital allocation framework, and we'll share more about that at Investor Day in May.
+
+--------------------------------------------------------------------------------
+Operator    [17]
+--------------------------------------------------------------------------------
+The next question is from Andy Kaplowitz with Citigroup.
+
+--------------------------------------------------------------------------------
+Andrew Alec Kaplowitz,  Citigroup Inc., Research Division - MD & U.S. Industrial Sector Head    [18]
+--------------------------------------------------------------------------------
+Matt or Bill, when you look at the 50 to 100 basis points of margin expansion for '24, could you give us a little more color on how that margin improvement translates by segment? And then you mentioned the 80/20 pilots with a focus on M&CS. You did have nice margin improvement in M&CS in Q4. So how do you think about the margin potential in that particular business over the longer term?
+
+--------------------------------------------------------------------------------
+William K. Grogan,  Xylem Inc. - Senior VP & CFO    [19]
+--------------------------------------------------------------------------------
+Yes. I mean relative to the largest impact on margin expansion for next year, I think M&CS leads the pack. Obviously, we've started our journey on margin improvement and recovery as they've gone through chip supply shortages, which I think, for the most part, has resolved.
+They've added capacity within the production facility to meet the record backlog levels that they've had. They've gone out with incremental pricing to improve the quality of the margin within the backlog. And I think the value of their products and solutions are able to continue to drive incremental price as we go into next year.
+So I think their ability to exit the year at near historic record levels of EBITDA margin is the target, as they continue to leverage their volume and drive some pretty significant productivity as they look at their labor and material footprint around their products. So we're excited about the progress that they've made and look for them to continue to sequentially improve as we progress through the year in 2024.
+
+--------------------------------------------------------------------------------
+Andrew Alec Kaplowitz,  Citigroup Inc., Research Division - MD & U.S. Industrial Sector Head    [20]
+--------------------------------------------------------------------------------
+That's very helpful. And Matt, maybe just a bigger picture question for you. I know you want to guide conservatively for this year. You've been prudent in Applied in China, but you've got such a strong growth business in M&CS, and you're still only guiding 3% to 5%.
+Xylem has had a longer-term algorithm of 4% to 6%. So as you take over the CEO reins, do you worry at all that, that's higher, given all the self-help focus, focus on digitization, all these kinds of things that that's still the right longer-term growth rate?
+
+--------------------------------------------------------------------------------
+Matthew Francis Pine,  Xylem Inc. - CEO, President, COO & Director    [21]
+--------------------------------------------------------------------------------
+Yes. I think, again, a lot of that has not changed from what we've said in the past. It's just, I think, being balanced in our approach and with a watchful eye to China. We've got that flat year-over-year, but there could be some potential headwinds there.
+And also with Applied Water, which it's -- some of that's cyclicality and timing as we think about that, Andy. So from a long-term framework, none of that's changed. It's just really more thinking about in the context of 2024 and thinking about going out with a balanced approach.
+We do have a lot of healthy demand across our largest end markets. When you look at the year from a seasonality standpoint, it's normalized. There's no change in terms of the seasonality of our business and how we ramp from Q1 through the balance of the year. I think the thing I'd leave you with, too, is our margin guide reflects low 40s pro forma incrementals. And so we feel really strong about the margin that we're delivering as well on the growth.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+The next question is from Nathan Jones with Stifel, please go ahead. Mr. Jones, is your line open?
+
+--------------------------------------------------------------------------------
+Nathan Hardie Jones,  Stifel, Nicolaus & Company, Incorporated, Research Division - Analyst    [23]
+--------------------------------------------------------------------------------
+I'm going to follow up on the margin question. I think your Evoqua cost synergies get you something like 80 basis points, and you're obviously going to get some pretty good margin expansion out of the M&CS operating leverage, which when I do the math gets me well in excess of the 100 basis points top end of your margin expansion target. So can you talk about what could be the offsets there or increased growth investments or anything that's kind of muting some of that margin expansion that I might otherwise expect?
+
+--------------------------------------------------------------------------------
+William K. Grogan,  Xylem Inc. - Senior VP & CFO    [24]
+--------------------------------------------------------------------------------
+Yes. I think the biggest piece probably in your high-level math is we continue to invest in the business. Obviously, we've got significant growth opportunities over the long term that we want to make sure that we're allocating resources around -- across all 4 segments. There's exciting things relative to product launches and market expansions that put a little bit of pressure on some of the significant accretion relative to productivity and the synergies that you highlighted.
+And then also, Nathan, there's obviously an evolving macro environment that we want to make sure that we were prudent relative to the guide that we have the ability to account for things that come up. So I think our guide relative to the margin expansion is fairly balanced. I think Matthew just highlighted, at 40% incrementals on a pro forma basis, that's really strong flow-through. So excited about the opportunities the team has laid out here as we look for a really strong year on our margin expansion journey.
+And I think longer term, obviously, we're just starting with the 80/20 implementation. That will add some tailwind as we exit the year and into 2025 to try to get us at the higher end of that range longer term.
+
+--------------------------------------------------------------------------------
+Nathan Hardie Jones,  Stifel, Nicolaus & Company, Incorporated, Research Division - Analyst    [25]
+--------------------------------------------------------------------------------
+Great. And then my follow-up, Bill, I think you just mentioned that the chip supply issue has basically worked itself out. Can you guys comment on where the past due backlog is in M&CS today and when you expect that to get to whatever a normal level of past due backlog is?
+
+--------------------------------------------------------------------------------
+Matthew Francis Pine,  Xylem Inc. - CEO, President, COO & Director    [26]
+--------------------------------------------------------------------------------
+Nate, I'll take it, it's Matthew. Yes, we're making good progress on the past due backlog. If you remember, we started 2023 around 30% past due. We exited at 20%. And we feel that we're going to get through the bulk of the past due backlog in 2024. Some of that may stray into '25, but for the most part, we feel pretty confident that we'll get through the past due backlog in 2024, again, with a little bit of carryover into '25.
+And so really from a bottleneck standpoint, it really just comes down to our customers' ability to go out and execute the deployments. Chip supply is falling. We've made investments over the past few years in our capacity. So there's no capacity limitations from our point of view internally here at Xylem in our 4 walls.
+
+--------------------------------------------------------------------------------
+Operator    [27]
+--------------------------------------------------------------------------------
+The next question is from Joe Giordano with TD Cowen.
+
+--------------------------------------------------------------------------------
+Joseph Craig Giordano,  TD Cowen, Research Division - MD & Senior Analyst    [28]
+--------------------------------------------------------------------------------
+I wanted to touch on Idrica. I guess one of the more like interesting, high level, where can we go type stories within water, how to get a real connected utility and I'm just curious how you guys think about this, like how do we judge success? What -- how meaningful could something like this turn into over near to medium term? And just maybe set expectations about where that can go?
+
+--------------------------------------------------------------------------------
+Matthew Francis Pine,  Xylem Inc. - CEO, President, COO & Director    [29]
+--------------------------------------------------------------------------------
+Yes. I mean, I've been pretty bullish on this. You've heard me talk about being the aggregator of data in the utilities, much like folks are in the building management world or in the residential home. We believe we have the capabilities through this partnership to be able to be the leader in aggregating utility data.
+We're off to a really good start. We only had about 6 months under our belt last year once we got the combination closed. The teams have made great progress globally, and we built a significant pipeline. And one of the things I've talked about is it's one thing is to get the platform in play at the utility, but it's about building on the applications as well as pulling through our core products.
+So a little bit of a land and expand is how I would frame it, get the platform in place, help them optimize their water networks with our applications, as well as pulling through our products like AMI, our treatment products, et cetera.
+So we've had some significant wins. Some of those I've highlighted on prior calls. We continue to have wins and build momentum. Like I said, and it's not a specific region, it's across the world, whether that's in the U.K., Italy. We just won a big deal in the Middle East, which is for a new city with fully digitizing their water management system with this platform.
+And I've talked in the past about some of the deals in Spain and the U.S. we've done, in terms of putting the platform in and being able to sell AMI deals as well as treatment products. So I think it can be a big opportunity for us. Obviously, we'll give you a lot more color as we get closer to May 30 at our Investor Day, but we're really bullish on the partnership.
+
+--------------------------------------------------------------------------------
+Joseph Craig Giordano,  TD Cowen, Research Division - MD & Senior Analyst    [30]
+--------------------------------------------------------------------------------
+That's great color. And then I just -- and apologies if you mentioned some of this on the prepared remarks, I had to join late. But on Evoqua like revenue side synergies, I know like selling an ISS solution outside the U.S. is going to take a long time to build out. But I'm curious if there's anything you can point to about, like leveraging existing channels that you have in like Europe to put product through, which I would imagine would be a lower lift than to try to do a solutions-based sell.
+
+--------------------------------------------------------------------------------
+Matthew Francis Pine,  Xylem Inc. - CEO, President, COO & Director    [31]
+--------------------------------------------------------------------------------
+Yes. That's kind of a shorter to medium-term objective, and we've already had some wins. We just had one in South Africa actually, where we took the capital from the legacy Evoqua business through the legacy Xylem business in South Africa. So we were able to execute and deploy that capital into an industrial application without really having to have service folks on the ground and infrastructure.
+So those are things that we're focused on in the short to medium term is leveraging the product side and really the capital side of the legacy Evoqua business through the Xylem channels both in the U.S. as well as internationally. So we are starting to see progress there.
+
+--------------------------------------------------------------------------------
+Operator    [32]
+--------------------------------------------------------------------------------
+This concludes our question-and-answer session. I would like to turn the conference back over to Matthew Pine for any closing remarks.
+
+--------------------------------------------------------------------------------
+Matthew Francis Pine,  Xylem Inc. - CEO, President, COO & Director    [33]
+--------------------------------------------------------------------------------
+Yes. I just want to thank everybody for joining our call today and for your interest in Xylem. We look forward to speaking again in early May, followed by our Investor Day on May 30, where we're going to provide more details on our long-term outlook. Take care and make it a great day.
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+The conference has now concluded. Thank you for attending today's presentation. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2024 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

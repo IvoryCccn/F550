@@ -1,0 +1,540 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q1 2024 RTX Corp Earnings Call
+APRIL 23, 2024 / 12:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Neil G. Mitchill
+   RTX Corporation - Executive VP & CFO
+ * Christopher T. Calio
+   RTX Corporation - President, COO & Director
+ * Gregory J. Hayes
+   RTX Corporation - CEO & Chairman
+ * Jennifer Reed
+   RTX Corporation - VP of IR
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Douglas Stuart Harned
+   Sanford C. Bernstein & Co., LLC., Research Division - SVP and Senior Analyst
+ * Gavin Eric Parsons
+   UBS Investment Bank, Research Division - Analyst
+ * Seth Michael Seifman
+   JPMorgan Chase & Co, Research Division - Senior Equity Research Analyst
+ * Jason Michael Gursky
+   Citigroup Inc., Research Division - MD & Lead Analyst
+ * Kristine Liwag
+   Morgan Stanley, Research Division - Executive Director, Head of Aerospace & Defense Equity Research and Equity Analyst
+ * Ronald Jay Epstein
+   BofA Securities, Research Division - MD in Equity Research & Industry Analyst
+ * David Egon Strauss
+   Barclays Bank PLC, Research Division - Research Analyst
+ * Myles Alexander Walton
+   Wolfe Research, LLC - MD & Senior Analyst
+ * Matthew Carl Akers
+   Wells Fargo Securities, LLC, Research Division - Senior Equity Analyst
+ * Sheila Karin Kahyaoglu
+   Jefferies LLC, Research Division - Equity Analyst
+ * Noah Poponak
+   Goldman Sachs Group, Inc., Research Division - Equity Analyst
+ * Cai von Rumohr
+   TD Cowen, Research Division - MD & Senior Research Analyst
+ * Peter J. Arment
+   Robert W. Baird & Co. Incorporated, Research Division - Senior Research Analyst
+ * Robert Alan Stallard
+   Vertical Research Partners, LLC - Partner
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good day, ladies and gentlemen, and welcome to the RTX First Quarter 2024 Earnings Conference Call. My name is Latif, and I will be your operator for today. As a reminder, this conference is being recorded for replay purposes.
+On the call today are: Greg Hayes, Chairman and Chief Executive Officer; Chris Calio, President and Chief Operating Officer; Neil Mitchill, Chief Financial Officer; and Jennifer Reed, Vice President of Investor Relations. This call is being webcast live on the Internet, and there is a presentation available for download from RTX website at www.rtx.com.
+Please note, except where otherwise noted, the company will speak to results from continuing operations, excluding acquisition accounting adjustments and net nonrecurring and/or significant items often referred to by management as other significant items. The company also reminds listeners that the earnings and cash flow expectations and any other forward-looking statements provided in this call are subject to risks and uncertainties. RTX SEC filings, including its Forms 8-K, 10-Q and 10-K, provide details on important factors that could cause actual results to differ materially from those anticipated in the forward-looking statements.
+(Operator Instructions) With that, I will turn the call over to Mr. Hayes.
+
+--------------------------------------------------------------------------------
+Gregory J. Hayes,  RTX Corporation - CEO & Chairman    [2]
+--------------------------------------------------------------------------------
+Thanks, and good morning, everyone. As you all know, next week at our Annual Shareowners' Meeting, I'll be stepping down as CEO and turning the reins over to Chris Calio.
+For the past 2 years, Chris has had responsibility for leading our three business units: Pratt & Whitney, Collins and Raytheon. There's no better evidence of his success than our results this quarter with strong sales and operating profit growth and a record backlog of over $200 billion.
+I'll be back at the conclusion of the call for some final comments. But let me turn it over to Chris right now to give you an overview of the company and our first quarter performance. Chris?
+
+--------------------------------------------------------------------------------
+Christopher T. Calio,  RTX Corporation - President, COO & Director    [3]
+--------------------------------------------------------------------------------
+Thank you, Greg, and good morning, everyone. First, I want to acknowledge and express my appreciation for Greg's leadership. He has created significant value over the last decade as CEO and has shaped RTX into the best portfolio in A&D with our three industry-leading businesses, leaving a strong foundation for our continued success.
+Before we discuss our first quarter, I want to spend a few moments on the strength of this foundation and how we plan to build upon it in 2024 and beyond. Now I know we've highlighted it before, but I think it's worth repeating. Collins is an industry leader, #1 or #2 on 70% of its product portfolio and has an off-warranty installed base of $100 billion, which will create decades of aftermarket growth.
+At Pratt, the large commercial engine business has an installed base of 12,000 engines and a backlog of over 10,000 GTFs, which will also drive growth for decades to come. But Pratt is much more than the GTF. Pratt & Whitney Canada remains the premier small engine business with sole-source positions on over 200 platforms and 63,000 engines in service, which also comes with long aftermarket tails. And Pratt's military engine business is set to power the F-35 and B-21 bomber well into the future.
+At Raytheon, our defense franchises are essential to the U.S. and our allies as they confront the threats of today and tomorrow with programs like the Patriot air defense system, GEM-T, NASAMS, SPY-6 radars, AMRAAM, Tomahawk and the Standard Missile family and future technologies like LTAMDS, hypersonics and LRSO, the Long-Range Standoff cruise missile.
+So as we move forward, our focus will continue to be transforming RTX from the best portfolio in A&D into the best company in A&D. This means being recognized by our customers as a trusted partner that executes on its commitments. It means leveraging our core operating system to help drive operational excellence in terms of quality and cost. It means being the provider of differentiated technologies that create a competitive advantage. And it means converting all of these attributes into best-in-class financial performance and long-term shareholder value.
+All right. With that, let me move to the quarter on Slide 2. We've gotten off to a strong start to the year with organic sales up 12%, segment operating profit up 10% and free cash flow in line with our expectations. Commercial OE was up 33% across RTX, driven by continued strong demand for new aircraft. And commercial aftermarket was up 11% as we continue to see strong growth in both domestic and international RPKs.
+So clearly, the commercial aero demand is there. But as you all know, the industry is still working through supply chain constraints and other challenges, which is leading to some OE production rate uncertainty. And this will continue to be a watch item for us for the year.
+On the defense side, we delivered 7% growth year-over-year and ended the quarter with a defense book-to-bill of 1.05 and a backlog of $77 billion. We're pleased the fiscal year 2024 spending bills have been enacted and provide $886 billion in defense spending, which is up 3%.
+But more importantly, the budget supports our key programs and technologies, including next-generation propulsion, critical munitions and upgrades to the F135, ensuring it remains the only engine powering every variant of the F-35 Joint Strike Fighter. The budget also supports investment in key capabilities to address current and future threats such as systems that counter unmanned aircraft and hypersonics, where RTX provides leading technologies.
+And we are encouraged by the progress on the Ukraine supplemental bill, which the DoD will use to further deepen critical U.S. munition stockpiles, such as TOW, Javelin and Excalibur, and provide needed air defense capabilities to the region with NASAMS and Patriot. Internationally, we continue to see heightened demand from U.S. allies. In the quarter, Raytheon was awarded a $1.2 billion contract to supply Germany with additional Patriot air and missile defense systems.
+Okay. Let me move beyond the end market dynamics and talk about some of our critical initiatives, and I'll start with an update on the GTF fleet management plan. We continue to stay on track here, and our financial and operational outlook remain consistent with our prior comments. As you may have seen, in March, the GTF airworthiness directives were issued and are consistent with our service bulletins and service instructions. On the technical side, the results from the ultrasonic angle scan inspections have all been in line with our initial expectations and assumptions.
+With regard to new engine production, as we said on our last call, all GTF engines being delivered to our customers' final assembly lines have full-life HPC and HPT discs. And on the MRO side, we have started the process of incorporating full-life discs into certain engine overhauls. And as we previously said, we expect to progressively ramp this effort throughout the year. In addition, the PW1100 engine shop visits completed in the quarter were in line with our plan and up 50% year-over-year.
+With regard to overhaul turnaround time, our average wing-to-wing turnaround time assumptions remain consistent with our prior guidance of roughly 250 to 300 days. With the ADs now issued, we are now essentially at our peak AOG level. We continue to expect an average of roughly 350 AOGs from 2024 through 2026. And lastly, we have reached support agreements with nine of our customers. And these are in line with our assumptions.
+And with that, let's turn to Slide 3, and I'll share a bit more on how we're leveraging our CORE operating system and digital transformation to drive quality, efficiency and productivity. As I said before, our CORE operating system is all about driving continuous improvements that compound over time to create a significant impact on our business.
+Let me give you a few recent examples. Our nacelle business within Collins deployed CORE across 7 factories that support the A320neo program, resulting in an 8% improvement in on-time delivery and a 17% improvement in quality. And at Raytheon, on the TPY-2 program, which is a radar designed to detect and intercept ballistic missiles, we leveraged CORE practices to help double first pass yield on high-volume circuit cards, resulting in a 40% reduction in manufacturing hours per unit and improved on-time delivery.
+We also remain committed to enhancing our factories through digitization, automation and connected equipment. Last year, we connected 20 factories and have another 20 planed to be completed by the end of this year. Once fully connected, these factories will achieve improved overall equipment efficiency, better quality and ultimately higher output.
+And lastly, we will continue to invest both directly and indirectly through RTX Ventures and our cross-company technology roadmaps to develop differentiated technologies to fill our product pipeline. These include areas such as advanced materials, electrification, power and thermal management and microelectronics.
+This year, we will invest about $3 billion in company-funded R&D, along with $5 billion in customer-funded R&D, to develop new technologies and products. We are also expanding our manufacturing capacity in key areas to meet customer demand, a key priority within our $2.5 billion of capital investment in 2024.
+One of our most significant new products coming to the market is LTAMDS, which is the next-generation advanced 360-degree air defense radar that provides significant performance improvement against a range of threats, including UAS and hypersonics. This program recently completed another successful live-fire event with representatives from seven countries in attendance. And we expect both the first domestic LRIP and international FMS contracts this year.
+And today, we're announcing a $115 million expansion of our Raytheon Redstone Missile Integration Facility in Huntsville, Alabama. When complete, the factory's capacity for integrating and delivering several of our critical munitions programs will increase by more than 50%.
+So with the best portfolio within A&D, CORE driving our continuous improvement in operational excellence and ongoing investments in next-generation technologies, I'm incredibly confident in RTX's future and our ability to transform into the best company in A&D.
+With that, let me turn it over to Neil to take you through our first quarter results. Neil?
+
+--------------------------------------------------------------------------------
+Neil G. Mitchill,  RTX Corporation - Executive VP & CFO    [4]
+--------------------------------------------------------------------------------
+Thanks, Chris. I'm on Slide 4. As Chris said, we got off to a really good start this year on a number of our key financial metrics across RTX with Collins, Pratt and Raytheon all making progress in line with our expectations. Additionally, we completed the sale of Raytheon's cybersecurity business at the end of the first quarter with gross proceeds of $1.3 billion. And we've made progress on deleveraging the balance sheet, having paid down over $2 billion of debt since we initiated the ASR last year.
+RTX sales of $19.3 billion were up 12% organically versus prior year. And that is on top of 10% growth in the first quarter of last year. Demand strength was also reflected in our backlog, which is now $202 billion and up 12% year-over-year. Segment operating profit growth of 10% was partially offset by expected headwinds from lower pension income and higher interest expense. And our effective tax rate for the quarter included a current period foreign tax benefit.
+Adjusted earnings per share of $1.34 was up 10% year-over-year. And on a GAAP basis, EPS from continuing operations was $1.28 and included: $0.29 of acquisition accounting adjustments; a $0.21 benefit related to tax audit settlements; an $0.18 net gain related to the cyber business sale; a $0.13 charge related to initiating alternative titanium sources; and $0.03 of restructuring and other nonrecurring items.
+And finally, free cash flow was an outflow of $125 million in the first quarter, in line with our expectations and a $1.3 billion year-over-year improvement. As planned, the timing of defense milestones and increase in shop visits, along with inventory build to support our growth, drove higher working capital this quarter.
+Okay. Let me turn to our business units and some of the progress we made in the quarter. You heard Chris give a status update on the GTF fleet management plan, so let me touch on our top priorities at Raytheon and Collins. At Raytheon, the business continues to see incredible demand. And as we said on our last call, we're taking actions to advance our key franchises, improve our supply chain and drive margin expansion.
+In the quarter, Raytheon saw 50 basis points of sequential margin improvement and 20 basis points on a year-over-year basis. On the material front, we saw a double-digit increase in material receipts in the first quarter versus prior year, the fourth consecutive quarter of growth, which, of course, is driving the top line, but more importantly, helping to alleviate bottlenecks in the manufacturing processes and burn down overdue sales.
+Moving over to Collins. Our focus remains on driving incremental margins through continued commercial OE and aftermarket growth and the benefit from ongoing structural cost reduction. In the quarter, Collins saw strong sales growth and 90 basis points of margin expansion on both a sequential and year-over-year basis. And we expect future volume increases to drive continued fixed cost absorption benefits across the business this year.
+On the cost reduction front, we continue to make progress as well. For example, Collins is in the process of shifting 2.7 million manufacturing hours to best cost locations by the end of 2025. To date, over 2 million of those hours have already been moved with 400,000 more planned for the rest of the year. And finally, we also achieved an incremental $105 million of RTX gross merger cost synergies in the quarter. And we're approaching the $2 billion target we updated last year. So good progress on our top priorities to start the year.
+With that, based on our first quarter results and strong backlog, we remain on track to deliver our full year outlook, including full year sales of between $78 billion and $79 billion, which translates to between 7% and 8% organic revenue growth. In addition, we continue to see adjusted earnings per share of between $5.25 and $5.40 and free cash flow of approximately $5.7 billion.
+Now let me hand it over to Jennifer to take you through the segment results. Jennifer?
+
+--------------------------------------------------------------------------------
+Jennifer Reed,  RTX Corporation - VP of IR    [5]
+--------------------------------------------------------------------------------
+Thanks, Neil. Starting with Collins on Slide 5. Sales were $6.7 billion in the quarter, up 9% on both an adjusted and organic basis, driven primarily by continued strength in commercial aftermarket and OE. By channel, commercial aftermarket sales were up 14%, driven by a 17% increase in parts and repair, a 16% increase in provisioning and a 3% decrease in mods and upgrades. Commercial OE sales for the quarter were up 14% versus the prior year, driven by growth in widebody, narrowbody and bizjet platforms. And defense sales were up 1%, primarily due to higher volume.
+Adjusted operating profit of $1.05 billion was up $145 million or 16% from the prior year with drop-through on higher commercial aftermarket volume, partially offset by unfavorable OE mix, higher space program costs and increased R&D expense. Looking ahead, on a full year basis, we continue to expect Collins sales to grow mid- to high single digits on both an adjusted and organic basis with operating profit growth between $650 million and $725 million versus 2023.
+Shifting to Pratt & Whitney on Slide 6. Sales of $6.5 billion were up 23% on both an adjusted and organic basis with sales growth across all three channels. Commercial OE sales were up 64% in the quarter and higher engine deliveries and favorable mix in the large commercial engine business. Commercial aftermarket sales were up 9% in the quarter, driven by higher volume within large commercial engines, primarily related to GTF overhaul activity as well as an increased volume at Pratt Canada.
+Legacy large commercial engine aftermarket revenues were down slightly versus prior year as a result of increased allocation of material to support the GTF fleet. And in the military engine business, sales were up 21%, primarily driven by higher sustainment volume across the F135, F117 and F100 platform, and higher development volume, primarily driven by the F135 Engine Core Upgrade program.
+Adjusted operating profit of $430 million was flat to prior year. The benefit of favorable commercial OE mix and drop-through on higher commercial aftermarket volume was partially offset by headwinds from increased commercial OE deliveries, unfavorable commercial aftermarket mix and the absence of a favorable $60 million prior year contract matter. Higher military volume and favorable mix was more than offset by higher R&D and SG&A expenses.
+Turning to Pratt's full year outlook. We continue to expect sales to grow low double digits on an adjusted and organic basis and adjusted operating profit to grow between $400 million and $475 million versus 2023 as large commercial engine aftermarket continues to ramp and military volume grows.
+Now turning to Raytheon on Slide 7. Sales of $6.7 billion in the quarter were up 6% on both an adjusted and organic basis, primarily driven by higher volume on land and air defense systems and advanced technology programs. The increase in land and air defense systems programs reflect higher customer demand for the Patriot, counter-UAS systems and NASAMS.
+Adjusted operating profit for the quarter of $630 million was up $46 million versus the prior year, driven primarily by higher volume and improved net productivity, partially offset by unfavorable mix. Also recall that Q1 2023 net productivity included the exercise of a significant unfavorable contract option that did not repeat in the first quarter of this year. Bookings and backlog remain very strong. In the first quarter, bookings of $8.1 billion resulted in a book-to-bill of 1.23 and a backlog of $53 billion.
+In addition to the German Patriot award that Chris mentioned earlier, Raytheon also saw significant orders for the GEM-T, NASAMS and classified work. Looking ahead, we continue to expect Raytheon sales to grow low to mid-single digits organically with operating profit up between $100 million and $200 million versus 2023. As a reminder, the profit outlook includes an $80 million year-over-year headwind from the sale of the cybersecurity business.
+With that, I'll turn it back to Chris to wrap things up.
+
+--------------------------------------------------------------------------------
+Christopher T. Calio,  RTX Corporation - President, COO & Director    [6]
+--------------------------------------------------------------------------------
+Thanks, Jennifer. I'm on Slide 8. With our portfolio strength and current demand, our overall backlog is at a record $202 billion, and our focus as a team remains on executing this backlog to meet our customer commitments and driving operational performance. And our top priorities for the year remain unchanged. First, at Pratt, it's about continuing to execute the GTF fleet management plan. Second, at Raytheon, it's about delivering the backlog at improved margins. And third, at Collins, it's about generating strong incremental margins.
+As I discussed, our CORE operating system underpins our execution on these priorities and drives continuous improvement across RTX. At the same time, we're investing over $10 billion in research and development, modernization and digital capabilities, continuing to evaluate our portfolio for incremental opportunities to further enhance our focus and prioritize future investments. And as we do this, we remain on track to return $36 billion to $37 billion of capital to shareowners from the date of the merger through next year.
+So with that, let me turn it over to Neil.
+
+--------------------------------------------------------------------------------
+Neil G. Mitchill,  RTX Corporation - Executive VP & CFO    [7]
+--------------------------------------------------------------------------------
+Thanks, Chris. Before we go into Q&A, I want to quickly update everyone on an Investor Relations team leadership transition.
+After 3 years leading the team, Jennifer Reed is moving on to her next opportunity. Jennifer took the helm in an unprecedented environment and worked tirelessly to ensure all of our stakeholders had timely and clear information during the critical post-merger years for RTX. I want to thank Jennifer for her leadership.
+I also want to introduce Nathan Ware, who's coming over from our Collins business to lead Investor Relations. Some of you will remember Nathan as he was a member of the UTC IR team leading up to the merger. But since then, Nathan has held a couple of roles at Collins, and most recently as CFO of the Interiors business. Jennifer and Nathan will work to ensure a smooth transition for all of us and all of you.
+And with that, we are ready to open the line for our first question.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Our first question comes from the line of Myles Walton of Wolfe Research.
+
+--------------------------------------------------------------------------------
+Myles Alexander Walton,  Wolfe Research, LLC - MD & Senior Analyst    [2]
+--------------------------------------------------------------------------------
+Thanks for the help, Jennifer, over the years. Can you talk to the Pratt aftermarket first to start and sort of if there is risk to achieving the full year guidance, given the harder comps that play out for the rest of the year, given the 9% in the first quarter and low double digits expected for the full year?
+
+--------------------------------------------------------------------------------
+Neil G. Mitchill,  RTX Corporation - Executive VP & CFO    [3]
+--------------------------------------------------------------------------------
+Myles, this is Neil. I'll start out and Chris can add anything here. But a couple of things on the Pratt aftermarket. I think 9% aftermarket growth in the first quarter was largely as we expected. We took the first quarter to make sure that we started off on a strong foot with respect to the GTF aftermarket overhauls. And I'm sure Chris can provide a little more color there. In doing so, there was a little bit lighter material allocation to the V2500s.
+We're actually down a handful of shop visits year-over-year in the first quarter, a little bit -- around 175 or so. We still feel confident though that we'll hit 800 shop visit inductions on the V2500 for the full year. And so what we expect to play out over the remainder of the year is that we will see more and more of those shop visits come in. We'll also see the content on those shop visits increase, so we'll see better drop-through on the legacy aftermarket.
+Back in January, we talked about the PW2000s and 4000s. There's some puts and takes there. They largely offset for the year. So it's really about seeing that legacy aftermarket continue to grow. So full year, still expect low-teens sort of growth in the aftermarket at Pratt. And we're confident that we'll see the material flowing to support that.
+
+--------------------------------------------------------------------------------
+Christopher T. Calio,  RTX Corporation - President, COO & Director    [4]
+--------------------------------------------------------------------------------
+Yes. I mean, I guess, the only thing I would add, Myles, this is Chris, is to Neil's point, we know we needed to come out of the gates strong on GTF MRO, given the situation in the fleet management plan. And so we were allocating material and resources with that in mind. And I think we saw the fruits of that here in the first quarter. But as Neil said, we continue to see the demand on what we call the mature fleets, the V and others. And that ramp-up is calibrated in our number for the year, so still feel confident it's going to deliver the full year shop visits that we need.
+
+--------------------------------------------------------------------------------
+Operator    [5]
+--------------------------------------------------------------------------------
+Our next question comes from the line of Kristine Liwag of Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Kristine Liwag,  Morgan Stanley, Research Division - Executive Director, Head of Aerospace & Defense Equity Research and Equity Analyst    [6]
+--------------------------------------------------------------------------------
+And Greg, thank you for your leadership over the years. And Jennifer, wish you the best in your next endeavor. So maybe on GTF, Chris, thank you for providing more color on the GTF fleet management plan. And at this point, it seems like everything is progressing well.
+So as we look forward to understanding the risk retirement, are there other milestones you're monitoring to see if there could be potential risk reduction? Is there a number of specific completed AOGs or more customer agreements to be completed? Any sort of gauge to help us understand risk retirement would be helpful.
+
+--------------------------------------------------------------------------------
+Christopher T. Calio,  RTX Corporation - President, COO & Director    [7]
+--------------------------------------------------------------------------------
+Sure. Thanks, Kristine. So look, the GTF fleet management plan is a multiyear process. And we're going to continue to grind through that over the next 3 years or so. And we've laid out all of the key enablers. We looked at them on the call today and we've done it historically. And that's going to be AOG levels, that's going to be turnaround times. And so again, we've given those sort of ranges on each of those key enablers, and we're going to continue to do everything we can to stay within or move to the lower end of those ranges.
+And again, the single biggest enabler for us is MRO output. We had a very good first quarter, but we've got a large growth plan here in 2024. And so for us, it's about material flow, including the new powdered metal parts that we're going to be putting into the engine. As we said during the last call and during our comments, we continue to add the full-life HPC and HPT in MRO, and it's going to ramp throughout the year. So that will be a key indicator for us.
+The more output we can get obviously, the more relief we can get the fleet, the less AOG days and then the less penalties. It's really that simple. So for us, it's all about the MRO enablers, chief among them continuing to ramp up in powdered metal part production and MRO.
+(technical difficulty)
+
+--------------------------------------------------------------------------------
+Neil G. Mitchill,  RTX Corporation - Executive VP & CFO    [8]
+--------------------------------------------------------------------------------
+Yes. Sorry about that feedback there, Kristine. So hopefully, that all came through.
+
+--------------------------------------------------------------------------------
+Kristine Liwag,  Morgan Stanley, Research Division - Executive Director, Head of Aerospace & Defense Equity Research and Equity Analyst    [9]
+--------------------------------------------------------------------------------
+Very helpful, appreciate it.
+
+--------------------------------------------------------------------------------
+Operator    [10]
+--------------------------------------------------------------------------------
+Our next question comes from the line of Seth Seifman of JPMorgan.
+
+--------------------------------------------------------------------------------
+Seth Michael Seifman,  JPMorgan Chase & Co, Research Division - Senior Equity Research Analyst    [11]
+--------------------------------------------------------------------------------
+Maybe kind of a small-picture question here, but it is one that we get a lot. When you think about the trajectory of aircraft on ground, and it seems like we are right around the highest level we'll see here at -- in the 550-ish level, when we think about where that goes from here, do we think of that more as a plateau for the remainder of the year for a couple of quarters?
+Or do we start to see some progress there? And when you think about where turnaround times are kind of now and the improvement that you can make over the next few quarters, is there anything that you can kind of lay out for us to gauge that?
+
+--------------------------------------------------------------------------------
+Christopher T. Calio,  RTX Corporation - President, COO & Director    [12]
+--------------------------------------------------------------------------------
+Seth, this is Chris. Thanks for the question. Yes, so look, we are, as we said in our comments, essentially at peak AOG. I mean, there'll be some perturbations a little bit above, a little bit below. But we see that as kind of the peak, and we're going to start to gradually chip away and move that down. So again, as I said to Kristine's question, the #1 enabler of that is our MRO output.
+And again, strong start to the quarter, but we've got a big plan for the year. And we're focused on turnaround times and new material. At the end of the day, in terms of our MRO output, it's not so much about capacity. We've got enough shops. We've got enough labor. It's about material flow. The faster that we can flow material, the faster we can take turnaround times down, increase output and then burn down the backlog of those engines waiting for induction.
+
+--------------------------------------------------------------------------------
+Operator    [13]
+--------------------------------------------------------------------------------
+Our next question comes from the line of Ron Epstein of Bank of America.
+
+--------------------------------------------------------------------------------
+Ronald Jay Epstein,  BofA Securities, Research Division - MD in Equity Research & Industry Analyst    [14]
+--------------------------------------------------------------------------------
+Could you speak a little bit to the supplemental that got through the House and how that plays out for your defense business? What good is there in there for you guys?
+
+--------------------------------------------------------------------------------
+Christopher T. Calio,  RTX Corporation - President, COO & Director    [15]
+--------------------------------------------------------------------------------
+Ron, this is Chris. So as I'm sure you've seen, if you break down sort of the supplemental into it big buckets, it's about $60 billion for Ukraine, another $25 billion or so for Israel and $10 billion for INDOPACOM. So when we look at our product portfolio against those big buckets, we look at Ukraine and say about 2/3 of that is addressable with RTX products, think GEM-T, NASAMS, Patriot, AMRAAM, AIM-9X.
+Israel, we kind of handicap that as about 30% addressable, stockpile replenishment, Iron Dome, David's Sling procurements. And then INDOPACOM, again roughly that 30% addressable with the RTX product suite, namely SM-6, Tomahawk, AIM-9X. So again, the services will have their specific lists of what they're looking for. But again, we think our product portfolio is pretty well positioned to address the needs in each of those theaters.
+
+--------------------------------------------------------------------------------
+Ronald Jay Epstein,  BofA Securities, Research Division - MD in Equity Research & Industry Analyst    [16]
+--------------------------------------------------------------------------------
+Great. And then if I may, just a quick follow-on, you had some challenges with the fixed price development program within missiles. How is that going?
+
+--------------------------------------------------------------------------------
+Christopher T. Calio,  RTX Corporation - President, COO & Director    [17]
+--------------------------------------------------------------------------------
+Yes. So again, when you look at the productivity story at Raytheon, Ron, that's a big part of the continued margin expansion. And so in the quarter, we saw improvements in productivity, which is really helpful. Again, as you know, our productivity plan for the year is effectively no productivity. But last year, of course, we had some headwinds in the productivity department. So again, overall, an improvement for the year.
+We've still got some classified programs of fixed price that we are continuing to work through. We said that's kind of a 12- to 18-month journey as we work through those. I would say, on a number of them, we've made some good progress towards milestones. And others, we're going to continue to battle our way through during that period.
+
+--------------------------------------------------------------------------------
+Neil G. Mitchill,  RTX Corporation - Executive VP & CFO    [18]
+--------------------------------------------------------------------------------
+Chris, I'll just add with respect to the productivity, in the first quarter, we saw about a $58 million year-over-year Q1-to-Q1 improvement. Of course, we had the exercise of an option last year, which accounts for maybe 55% of that improvement. But nonetheless, we're expecting $200 million year-over-year and continue to expect $200 million year-over-year. And so good progress in the first quarter. But there's still 3 quarters to go, but we are encouraged by the shift that we've seen here in the first quarter so far.
+
+--------------------------------------------------------------------------------
+Operator    [19]
+--------------------------------------------------------------------------------
+Our next question comes from the line of Cai von Rumohr of TD Cowen.
+
+--------------------------------------------------------------------------------
+Cai von Rumohr,  TD Cowen, Research Division - MD & Senior Research Analyst    [20]
+--------------------------------------------------------------------------------
+So you had a 23% gain at Pratt in the first quarter. If we're going to low double digits, call it, 11%, 12%, you have to have a sharp deceleration as you go through the year. And yet you're still guiding to, what, low-teens for the aftermarket, which would suggest either your total guide is low or we're going to see a flat to down year in commercial or military as we go through the year. Can you give us some color in terms of each of those three parts of Pratt's business and their quarterly sequence as we move through the year?
+
+--------------------------------------------------------------------------------
+Neil G. Mitchill,  RTX Corporation - Executive VP & CFO    [21]
+--------------------------------------------------------------------------------
+Sure. Cai, let me start here. I mean, we had a really strong start to Pratt's first quarter. Most of that was on the back of commercial OE deliveries, up 40% almost in the first quarter on a unit basis. So that obviously drove the top line. And some good mix there, too, between installs and spare engines as we look to position the GTF fleet as best we can to start the year. I think some of that's going to moderate, clearly, as the rest of the year unfolds. So I think we had a good start out of the gate on installs.
+On the aftermarket side, you're right. We're going to see more of the mid-single-digit type of growth in the next 3 quarters. So again, that will be fueled by V2500s coming up a little bit. The top line is going to be also bolstered by GTF aftermarket, which, of course, doesn't come with nearly as much profit but will certainly help the fleets get healthier. And military also had a really strong first quarter start. The material coming in, in the first quarter was positioned to support the aftermarket principally in the military business. And we do see that slowing down a bit in the next part of the year.
+So those are the key ingredients, not going to get into the specifics on a quarterly cadence here. But we're just 1 quarter into the year. But a good start to the year, and we'll see, we're kind of holding on to our guidance at this point.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+Our next question comes from the line of Sheila Kahyaoglu of Jefferies.
+
+--------------------------------------------------------------------------------
+Sheila Karin Kahyaoglu,  Jefferies LLC, Research Division - Equity Analyst    [23]
+--------------------------------------------------------------------------------
+Jennifer, congratulations on your next move, wishing you all the best. I wanted to ask one on Collins, maybe Neil or Chris. Just the guidance for the year implies a step-up 16.6% margins versus a 15.7% adjustment in the quarter, adjusted basis in the quarter. Can you maybe talk about what drives that margin expansion as we progress through the year at Collins and if you could give us any more detail on the impairment of $175 million?
+
+--------------------------------------------------------------------------------
+Neil G. Mitchill,  RTX Corporation - Executive VP & CFO    [24]
+--------------------------------------------------------------------------------
+All right. Let me start, Sheila. As I think about -- first, let's start with the first quarter for Collins. It was a really good quarter. We had about $145 million of profit growth on an adjusted basis. We've talked about the Collins growth trajectory really being driven by the aftermarket. Now there's still a long ways to go. We put out a range of $650 million to $725 million for the full year.
+And so what we're going to see is increased drop-through on the continued cost reduction essentially that Collins embarked upon several years ago, and we're starting to see the costs associated with achieving that cost reduction ease as well as the benefit from the actions start to drop through in the form of stronger incrementals, so feel like the aftermarket trajectory supports that at this juncture. And that, I think, is going to really continue to be the key driver for the Collins profit growth for the rest of the year.
+If I just comment for a minute on the $175 million, as we said in our remarks, that charge related to some procurement of titanium, which I know you all know is an important commodity for the aerospace industry, given a number of ongoing supply chain dynamics around aerospace-grade titanium in particular, especially as it relates to the titanium that we use in our landing gear manufacturing at Collins, we've taken some steps to secure alternative sources for that supply. And it's taken us some time to do that, frankly.
+So specific to the charge, we reached an agreement with two new suppliers during the quarter in connection with those agreements as well as some sanctions imposed by Canada, which were announced in February. We took a charge to reflect two things. One was the higher purchase commitment cost that came about as a result of these two new agreements. And the second is the impairment of about $75 million of cost that have been previously capitalized on the balance sheet associated with the specific program that are no longer recoverable.
+So as we talked about, since 2022, we've been evaluating our global sourcing strategies to mitigate the potential impact of sanctions and other restrictions. And frankly, we've derisked that in many areas. And I think this is an important step in putting this issue behind us. So feel good about the agreements we have, but they're certainly at a higher cost, and so we took a charge to deal with that.
+
+--------------------------------------------------------------------------------
+Operator    [25]
+--------------------------------------------------------------------------------
+Our next question comes from the line of Doug Harned of Bernstein.
+
+--------------------------------------------------------------------------------
+Douglas Stuart Harned,  Sanford C. Bernstein & Co., LLC., Research Division - SVP and Senior Analyst    [26]
+--------------------------------------------------------------------------------
+On the defense side, so in Raytheon, you made a leadership transition, Wes Kremer retired in Q1. Can you talk about how, if at all, you're thinking about the strategy differently? And I'd say in two areas, one, you mentioned a little bit about this before in terms of bringing margins up to your objectives in 2025, which presumably fixed price contracts play into that but also the supply chain progress. And then second, back in Paris, you talked about a need for a new strategy on the space side to really reinvigorate growth there. Can you comment on how you're thinking about those now with a new leader in place in Phil Jasper?
+
+--------------------------------------------------------------------------------
+Christopher T. Calio,  RTX Corporation - President, COO & Director    [27]
+--------------------------------------------------------------------------------
+Yes. You bet, Doug. This is Chris. So let's start first on the first part of your question here on the supply chain and Raytheon margins and how we're thinking about that. If we just take a step back for a sec, Doug, it's a tremendous backlog at Raytheon. You saw the increase here in Q1. A big part of that, obviously, is the continued focus on execution, in particular, the supply chain. We've had 4 consecutive quarters of material receipt growth at Raytheon. So feeling like the focus on the supply chain and the health of the supply chain is starting to pay dividends. And we're seeing that flow through again with some of the margin increases here in Q1.
+And so again, Phil and team are incredibly focused on execution, head down in execution on this backlog at the margins that we need. And again, a big part of that is supply chain. And we're adding production capacity as well to meet the demands of this ramp. You heard us announce today Huntsville. Last quarter, we talked about the expansion in Camden, Arkansas, so again putting in the production capacity that we need and driving material. So that's where the focus is.
+On space, we did talk about a bit of a pivot, Doug, from a space prime, if you will, to being more of a component supplier to the space primes. And I think when you look at our strengths in that portfolio, I think that pivot is the right one. We've got historical strength in some of the exquisite space areas. We've got some other strengths in some of the key components that go into the prime satellites and buses. But again, I think that's where we're going to be shifting away from perhaps being a space prime to being more of a component supplier.
+
+--------------------------------------------------------------------------------
+Operator    [28]
+--------------------------------------------------------------------------------
+Our next question comes from the line of David Strauss of Barclays.
+
+--------------------------------------------------------------------------------
+David Egon Strauss,  Barclays Bank PLC, Research Division - Research Analyst    [29]
+--------------------------------------------------------------------------------
+Best of luck, Greg, enjoyed working with you. Same thing, Jennifer. Chris, on the GTF plan, I think it's calling for disc replacement, replacement on 3,000-or-so engines. Can you just tell us at this point how many have actually seen full replacement, actually having been done at this point? That's my first question.
+Then the second question, you reached an agreement with Spirit Airlines in the quarter that was made public. Is that amount kind of on a per AOG basis representative of your other customer agreements? Because that would seem to imply a higher compensation number than you've baked into your forecast.
+
+--------------------------------------------------------------------------------
+Christopher T. Calio,  RTX Corporation - President, COO & Director    [30]
+--------------------------------------------------------------------------------
+Yes. So on the first question, David, yes, the disc replacement, so again we're early stages. I told you this is going to be a 3-year process. Again, the priority was making sure everything we delivered to our customers' final assembly lines had the full-life powdered metal parts, and that's what's happening today. And it was going to be a ramp throughout the year and into '25 on insertion of those full-life parts into MRO.
+So I would say today, it's early days. And so there haven't been a ton that have received all of those things. But as we said before, we're working hard to optimize the work scopes there, depending on where the engine is operating, what configuration it has, was it going to come in for another visit within this time frame, anyway depending on where it operated. So again, the focus is on output and part of that is optimizing the work scope. But again, early days.
+As for the customer compensation, we've got about nine agreements under our belt, which represents about 1/3 of the fleet. And I think we're close on a number of other significant ones. And the compensation on all of those remains within the guidance that we provided on this.
+
+--------------------------------------------------------------------------------
+Operator    [31]
+--------------------------------------------------------------------------------
+Our next question comes from the line of Rob Stallard of Vertical Research.
+
+--------------------------------------------------------------------------------
+Robert Alan Stallard,  Vertical Research Partners, LLC - Partner    [32]
+--------------------------------------------------------------------------------
+Greg, all the best for the future. And Jennifer, thanks for all your help. It's been interesting times, obviously.
+
+--------------------------------------------------------------------------------
+Gregory J. Hayes,  RTX Corporation - CEO & Chairman    [33]
+--------------------------------------------------------------------------------
+Obviously.
+
+--------------------------------------------------------------------------------
+Robert Alan Stallard,  Vertical Research Partners, LLC - Partner    [34]
+--------------------------------------------------------------------------------
+A question for Chris, probably. At Collins, there's clearly some things going on with the 737 MAX at the moment. And I was wondering what sort of implications there could potentially be for the Collins business and what do you see as the risk of potential destocking as this year progresses.
+
+--------------------------------------------------------------------------------
+Christopher T. Calio,  RTX Corporation - President, COO & Director    [35]
+--------------------------------------------------------------------------------
+Yes. Rob, yes, as you pointed out, significant content at Collins on 737 and 787, so across the main growth platforms there at Boeing. I would say that, I mean, we kind of mentioned this upfront. We've got, I guess, some uncertainty around rates today. We think that we've calibrated a lot of that in. But again, I know The Boeing Company will provide their guidance tomorrow. So we won't get out ahead of them.
+We're just going to focus on working with them, supporting them through the dynamics in play and preparing to take whatever actions we think necessary, depending on the guidance that they provide. But I'll just say that the team has worked very hard to go drive the material in that we need to support their rates, and we've got the capacity to do so.
+
+--------------------------------------------------------------------------------
+Operator    [36]
+--------------------------------------------------------------------------------
+Our next question comes from the line of Noah Poponak of Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Noah Poponak,  Goldman Sachs Group, Inc., Research Division - Equity Analyst    [37]
+--------------------------------------------------------------------------------
+Two follow-ups on topics already asked about. But on the powdered metal process, can you quantify, even if roughly, how many engines that are off-wing are actually in an MRO facility now versus waiting in line to get into one?
+And then, Neil, on the defense margins, the guidance implies that each quarter, the rest of the year looks roughly similar to the first quarter. You have the framework next year for a decent amount of expansion. I would have thought you would have sort of ramped through this year into that '25 expansion. How do we kind of flip in '25? Or do I just have the numbers off there?
+
+--------------------------------------------------------------------------------
+Neil G. Mitchill,  RTX Corporation - Executive VP & CFO    [38]
+--------------------------------------------------------------------------------
+Noah, let me start with defense and I'll hand it off to Chris to hit your first question. But listen, I think we had a number of headwinds last year. I think you're all well aware of that. And so as we put together our outlook for this year, we essentially assumed no productivity for the year. Now as Chris said and I talked about earlier, that's a significant step-up from what we experienced last year. And largely, last year was driven by a handful of fixed price development programs. But we're not out of the woods there.
+So what I would say is we took an approach that is not assuming a huge uptick. Remember, this is a business that several years ago was kicking off $300 million, $400 million and $500 million of positive productivity. There is still positive productivity in the Raytheon business each quarter. But it's been overwhelmed by the negatives. And so at this point, I think we're really pleased to see a quarter like this to start the year.
+There's work to do, obviously, to get multiple quarters together that look like this one going forward. And that's what we're focused on. We're really focused on improving the health of the supply chain and moving the material through that you could see has come in, and now we've got to get it through the entire manufacturing process to meet these important needs of our customers. And that's where really where our focus is.
+I do think it will step up in '25. One encouraging thing is we had significant orders during the quarter. And the margins in that new backlog are very healthy. The mix of that, those new orders, about 60% foreign sales. So it's a good start, but 1 quarter at a time. Chris, maybe a couple of comments?
+
+--------------------------------------------------------------------------------
+Christopher T. Calio,  RTX Corporation - President, COO & Director    [39]
+--------------------------------------------------------------------------------
+Yes, sure. So Noah, I'm not going to get into the specific numbers on where things stand in terms of those engines waiting to be inducted. But again, when you look at the turnaround times, the extended turnaround times that we've talked about, engines coming off today are going to have to wait a bit before they actually do get inducted and enter into Gate 1 in the MRO process.
+Suffice it to say, and we kind of alluded to this upfront, big step-up this year in GTF shop visits. And that's why we've played a little bit of the allocation game end of last year, early this year to get off to a strong start there. But again, we've got a big ramp on GTF MRO throughout the year in order to support this fleet. Again, we think we've got the capacity to do it, the labor to do it, the partners in our MRO shops who are incredibly adept at this. It's about material flow.
+
+--------------------------------------------------------------------------------
+Noah Poponak,  Goldman Sachs Group, Inc., Research Division - Equity Analyst    [40]
+--------------------------------------------------------------------------------
+Neil, the fixed price development programs that have been a challenge in Raytheon defense, when do those end? When do those move out of development?
+
+--------------------------------------------------------------------------------
+Neil G. Mitchill,  RTX Corporation - Executive VP & CFO    [41]
+--------------------------------------------------------------------------------
+Yes. So here's a couple of ways to look at it. About 1% of our existing Raytheon backlog today constitutes those programs. And I'd say it's about 12 to 18 months. There's a few of them. So we're still -- we still have a little ways to go. We are making progress, critical milestones on each program.
+In the first quarter, we had net unfavorable productivity of about $28 million. Nearly all of that was associated with these programs. So there's still some headwinds that we're encountering as we get additional technical learning and going through testing. But that's the time frame and that's the magnitude I would put on it.
+
+--------------------------------------------------------------------------------
+Noah Poponak,  Goldman Sachs Group, Inc., Research Division - Equity Analyst    [42]
+--------------------------------------------------------------------------------
+Greg and Jennifer, thanks for all the help over the years.
+
+--------------------------------------------------------------------------------
+Gregory J. Hayes,  RTX Corporation - CEO & Chairman    [43]
+--------------------------------------------------------------------------------
+Thanks, Noah.
+
+--------------------------------------------------------------------------------
+Operator    [44]
+--------------------------------------------------------------------------------
+Our next question comes from the line of Peter Arment of Baird.
+
+--------------------------------------------------------------------------------
+Peter J. Arment,  Robert W. Baird & Co. Incorporated, Research Division - Senior Research Analyst    [45]
+--------------------------------------------------------------------------------
+Greg and Jennifer, best of luck. I enjoyed it over the years. Chris, on Raytheon, Europe continues to be a really strong reason for bookings. Maybe you could talk about the outlook there and how should we think about, I guess, Neil just touched upon it, the FMS mix kind of ramping and going to benefit margins. Is this -- should we expect the FMS mix to kind of be a multiyear process as it plays out where that shows up favorably on margins but also just maybe just talk about the outlook on bookings?
+
+--------------------------------------------------------------------------------
+Christopher T. Calio,  RTX Corporation - President, COO & Director    [46]
+--------------------------------------------------------------------------------
+Yes. I think that's right, Peter. I think it is a multiyear process. To your point, if you just think about what's going on out there today, the integrated air and missile defense, the demand there is exceptionally strong, obviously, Patriot, NASAMS and, of course, GEM-T and the like. You saw a huge order from NATO at the end of last year for us and the demand continues to be really strong.
+To your point, when we look at our margins throughout the year, our margin progression story at Raytheon, we're expecting a tailwind from mix as we increase the international backlog. About 60% of Raytheon's Q1 bookings were international. And so that's provided us a nice tailwind. And we expect that to continue.
+
+--------------------------------------------------------------------------------
+Operator    [47]
+--------------------------------------------------------------------------------
+Our next question comes from the line of Matt Akers of Wells Fargo.
+
+--------------------------------------------------------------------------------
+Matthew Carl Akers,  Wells Fargo Securities, LLC, Research Division - Senior Equity Analyst    [48]
+--------------------------------------------------------------------------------
+Good luck, Greg and Jennifer. I had a couple of questions. One, what's the current wing-to-wing turnaround time for GTF full stop? Is it close to that 250, 300 days? Or is it shorter and then sort of builds as the pipeline of planes waiting gets bigger than -- I think you might have said Pratt aftermarket, mid-single digits through the rest of the quarters. Did I mishear that? Is that actually mid-teens?
+
+--------------------------------------------------------------------------------
+Christopher T. Calio,  RTX Corporation - President, COO & Director    [49]
+--------------------------------------------------------------------------------
+So let me start, Matt, with the wing-to-wing turnaround time. Yes, it's in that range that we've provided, in that 250, 300. Again, a lot of that will continue to be dependent on the mix of work scopes. We're still believing that it's going to be more of a 90% heavy, 10% lighter shop visit. And with that, we'll stay within that range.
+If we can find a way to come up with medium work scopes and other things that can alleviate the need for new, we'll call it, non-powdered metal material repair development and the like, perhaps we'll be closer to the lower end of that range. But we're in there today, given the shop visit mix that we see and the material flow that we see.
+
+--------------------------------------------------------------------------------
+Matthew Carl Akers,  Wells Fargo Securities, LLC, Research Division - Senior Equity Analyst    [50]
+--------------------------------------------------------------------------------
+Can I get the aftermarket?
+
+--------------------------------------------------------------------------------
+Neil G. Mitchill,  RTX Corporation - Executive VP & CFO    [51]
+--------------------------------------------------------------------------------
+Yes, sorry, I didn't put my mic on. Just a couple of clarifications, so when I said mid-single digits, I was referring to the military growth. We had really strong growth, obviously, in the first quarter. On the aftermarket, think about that as low- to mid-teens for the rest of the year.
+
+--------------------------------------------------------------------------------
+Operator    [52]
+--------------------------------------------------------------------------------
+Our next question comes from the line of Jason Gursky of Citigroup.
+
+--------------------------------------------------------------------------------
+Jason Michael Gursky,  Citigroup Inc., Research Division - MD & Lead Analyst    [53]
+--------------------------------------------------------------------------------
+Jennifer, Greg, best of luck with your new roles and ventures. And Nathan, welcome back. Chris, just a quick question for you on Raytheon in the defense side of the business, solid book-to-bill here in the first quarter. So I'm wondering if you can talk about the pipeline that you see here for the next 12 to 24 months and what you think the book-to-bill is going to look like over that time period. Do we have a prolonged period here of book-to-bills above 1 that forecast or -- yes, forecast growth here for multiple years?
+
+--------------------------------------------------------------------------------
+Christopher T. Calio,  RTX Corporation - President, COO & Director    [54]
+--------------------------------------------------------------------------------
+Yes. Jason, look, I think given the threat environment we described and we kind of laid out in the question on the supplemental, we're going to continue to see strong top line growth at Raytheon and strength in bookings. And again, if you just kind of go region-by-region, it's replenishment in the U.S., it's the integrated air and missile defense in Europe, it's naval munitions in Asia. So again, feel like the strength of demand is going to continue to be there.
+And then the other thing I'll say, Jason, is we're also thinking through some of the advanced capabilities that we're trying to bring to market as well: LTAMDS, which I mentioned upfront, the 360-degree radar; the refresh on AMRAAM; SPY-6 radar, which has gone through its initial sea trials; counter-UAS capabilities with our Coyote system; and then things like high-power microwave as you look to sort of the drone swarm threat that continues to build. So again, strong demand for the existing pipeline of products. And we continue to invest in that next-generation product, which we think meets the emerging threats.
+
+--------------------------------------------------------------------------------
+Jason Michael Gursky,  Citigroup Inc., Research Division - MD & Lead Analyst    [55]
+--------------------------------------------------------------------------------
+And as I say, to be clear, you think that, that leads to the book-to-bill above 1 here for this year and maybe going into '25?
+
+--------------------------------------------------------------------------------
+Neil G. Mitchill,  RTX Corporation - Executive VP & CFO    [56]
+--------------------------------------------------------------------------------
+I was just going to comment on the book-to-bill. I mean, certainly really strong first quarter. With top line sales projected to where we see them, it's obviously going to change the math a little bit on the book-to-bill calculation. But we still expect a book-to-bill over 1.1 for this year. And I think it's going to be strong next year. But obviously, as sales go up, too, that will level off a little bit. But the backlog is going to continue to grow.
+To put a finer point on some of the awards for this year, we see AMRAAM, we've talked about LTAMDS both with the U.S. Army and Poland, certainly Patriot, SPY-6 and SM-3, so a good list of potential things. The large international ones could be lumpy. They can come in this year, they could fall into next year. But we see a lot of demand signals that are really strong there.
+
+--------------------------------------------------------------------------------
+Operator    [57]
+--------------------------------------------------------------------------------
+Our final question comes from the line of Gavin Parsons of UBS.
+
+--------------------------------------------------------------------------------
+Gavin Eric Parsons,  UBS Investment Bank, Research Division - Analyst    [58]
+--------------------------------------------------------------------------------
+First, I was wondering if you guys could just give an update on what ratio of GTF customer compensation agreements have actually been completed? And then second, if you could just give a little more detail on the OE rate uncertainty you talked about. I know we're waiting for Boeing tomorrow. But if you're actually already seeing lower pull on any of those programs and if that's considered in Collins' guidance.
+
+--------------------------------------------------------------------------------
+Christopher T. Calio,  RTX Corporation - President, COO & Director    [59]
+--------------------------------------------------------------------------------
+Yes, sure, Gavin. This is Chris. So again, on the GTF customer piece, we've just said upfront, we've got about nine done. We're in the final throes of a few more. And those nine that we've got under our belt represent about 1/3 of the GTF fleet total.
+And then on the rates, again Boeing will provide their guidance tomorrow. I just think we're very much embedded with the 737, 787, what do we need to do to support a ramp on 787 and then what do we need to do to help them go wherever they need to on 737. And so we're not -- we won't get out ahead of them, but just know that we're working a number of scenarios. And we'll take whatever action is necessary based upon what they need.
+
+--------------------------------------------------------------------------------
+Operator    [60]
+--------------------------------------------------------------------------------
+I would now like to turn the conference back to Greg Hayes for closing remarks.
+
+--------------------------------------------------------------------------------
+Gregory J. Hayes,  RTX Corporation - CEO & Chairman    [61]
+--------------------------------------------------------------------------------
+Okay. Thank you, Latif. I'll keep these comments brief. But as I step back from the day-to-day responsibility as CEO of RTX, I want to take this opportunity to thank our team for their trust and support over this past decade. Any success we have had is the result of the hard work and dedication of the entire team, the senior leadership team, but also the whole 185,000 people that make RTX the great company that it is.
+I also want to thank our investors. It's been an interesting decade or so in the role. And thank you for your patience as we've transitioned and transformed what was United Technologies, a multi-industry company, into RTX, which is, I believe, the best-positioned A&D company in the world today. We've got great products, great portfolio of people and technologies and a great backlog that I think is going to serve us well into the future.
+There is, of course, always more to do. We can talk a lot about that. I think Chris is absolutely on the right track, that is focusing on execution, focusing on technology and making sure we have the best team possible. And I can't think of a better leader than Chris to lead RTX for the next decade or so. You should all know that Chris has the full support of the Board, but not just the Board, the entire senior leadership team and the entire organization. And I look forward to working with Chris in the near term and watching from the sidelines beyond that as he is successful.
+I also want to thank Jennifer. Jennifer and I worked together for a decade from Sikorsky's disposition to the integration of Raytheon and UTC. And lately, for the last 3 years as Head of Investor Relations, she's been a great resource for the company and a great friend. So Jennifer, thank you.
+With that, I think that's all. Thanks for listening today. Jennifer and Nathan and team will be available all day to answer whatever questions you have. But thanks for listening and take care.
+
+--------------------------------------------------------------------------------
+Operator    [62]
+--------------------------------------------------------------------------------
+And this now concludes today's conference. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2024 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

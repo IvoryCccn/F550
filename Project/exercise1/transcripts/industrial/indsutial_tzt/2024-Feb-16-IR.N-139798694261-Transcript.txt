@@ -1,0 +1,546 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q4 2023 Ingersoll Rand Inc Earnings Call
+FEBRUARY 16, 2024 / 1:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Vikram U. Kini
+   Ingersoll Rand Inc. - Senior VP & CFO
+ * Matthew Fort
+   Ingersoll Rand Inc. - VP of IR
+ * Vicente Reynal
+   Ingersoll Rand Inc. - Chairman, CEO & President
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Stephen Edward Volkmann
+   Jefferies LLC, Research Division - Equity Analyst
+ * Jeffrey Todd Sprague
+   Vertical Research Partners, LLC - Founder & Managing Partner
+ * Andrew Alec Kaplowitz
+   Citigroup Inc., Research Division - MD & U.S. Industrial Sector Head
+ * Julian C.H. Mitchell
+   Barclays Bank PLC, Research Division - Research Analyst
+ * Michael Patrick Halloran
+   Robert W. Baird & Co. Incorporated, Research Division - Associate Director of Research & Senior Research Analyst
+ * Joseph John O'Dea
+   Wells Fargo Securities, LLC, Research Division - Senior Equity Analyst
+ * David Michael Raso
+   Evercore ISI Institutional Equities, Research Division - Senior MD & Head of Industrial & Machinery Research Team
+ * Robert Cameron Wertheimer
+   Melius Research LLC - Founding Partner, Director of Research & Research Analyst
+ * Christopher Snyder
+    - 
+ * Nigel Edward Coe
+   Wolfe Research, LLC - MD & Senior Research Analyst
+ * Joseph Alfred Ritchie
+   Goldman Sachs Group, Inc., Research Division - VP & Lead Multi-Industry Analyst
+ * Nathan Hardie Jones
+   Stifel, Nicolaus & Company, Incorporated, Research Division - Analyst
+ * Nicole Sheree DeBlase
+   Deutsche Bank AG, Research Division - Director & Lead Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good morning, and welcome to the Ingersoll Rand Q4 2023 Earnings Call. Please note that this call is being recorded. (Operator Instructions)
+I will now turn the call over to Matthew Fort, Vice President of Investor Relations. You may begin your conference.
+
+--------------------------------------------------------------------------------
+Matthew Fort,  Ingersoll Rand Inc. - VP of IR    [2]
+--------------------------------------------------------------------------------
+Thank you, and welcome to the Ingersoll Rand 2023 Fourth Quarter Earnings Call. I'm Matthew Fort, Vice President of Investor Relations. And joining with me this morning are Vicente Reynal, Chairman and CEO; and Vik Kini, Chief Financial Officer.
+We issued our earnings release and presentation yesterday afternoon, and we will reference these during the call. Both are available on the Investor Relations section of our website. In addition, a replay of this conference call will be available later today. Before we start, I want to remind everyone that certain statements on this call are forward-looking in nature and are subject to the risks and uncertainties discussed in our previous SEC filings, which you should read in conjunction with the information provided on this call.
+Please review the forward-looking statements on Slide 2 for more details. In addition, in today's remarks, we will refer to certain non-GAAP financial measures. You can find a reconciliation of these measures to the most comparable measure calculated and presented in accordance with GAAP in our slide presentation and in our earnings release, both of which are available on the Investor Relations section of our website.
+On today's call, we will review our company and segment financial highlights and provide full year 2024 guidance. For today's Q&A session, we ask that each caller keep to 1 question and 1 follow-up to allow time for other participants.
+At this time, I will turn the call over to Vicente.
+
+--------------------------------------------------------------------------------
+Vicente Reynal,  Ingersoll Rand Inc. - Chairman, CEO & President    [3]
+--------------------------------------------------------------------------------
+Thanks, Matthew, and good morning to all. I would like to begin by acknowledging and thanking our employees for their hard work in helping us deliver another record year in 2023. We finished the year on a high note with strong fourth quarter and full year results despite the constantly changing macroeconomic environment.
+Our 2023 performance reinforces the impact our employee ownership mindset has for Ingersoll Rand. I would also like to welcome our new employees from our recent acquisition of Friulair whom I had the chance to visit last week in Italy. I was very impressed by the entrepreneurial and technological spirit that has made this company grow at an impressive organic CAGR of 15% over the past 3 years.
+Starting on Slide 3. In 2023, we demonstrated, again, how we continue to outperform against our long-term Investor Day commitments with double-digit growth in revenue, adjusted EBITDA, adjusted EPS and free cash flow. As we move to 2024, demand remains solid. And while macroeconomic and geopolitical uncertainties continue to be at the top of everyone's mind, we remain agile and focused on what we can control. IRX is our competitive differentiator. And combined with our ownership model, we remain confident in our ability to execute on our commitments. We recently held our Investor Day this past November, and I'd like to spend a few minutes providing a couple of important highlights that we presented.
+On Slide 4, we highlighted how we delivered compounding results through our economic growth engine. With the use of IRX, we have created an increasingly durable financial profile, underpinned by our employee ownership model. Since 2016, we have transformed the company into a premier growth compounder. We have reduced cyclicality through divesting our Club Car and HPS businesses and reinvested approximately $2.3 billion into accretive acquisitions focused on high-growth sustainable end markets.
+Today, our balance sheet is stronger than ever, and we enter 2024 well positioned to build upon our progress to date. Moving to the next page, we show how we are uniquely positioned to grow market share within the $55 billion of highly fragmented addressable markets we currently play. The combination of our product portfolio, multichannel, multi-brand strategy, massive installed asset base and unmatched commercial and operational footprint provides an exceptional foundation for continued market share growth, both organically and inorganically.
+On Slide 6, we demonstrate how we remain committed to delivering financial performance while also doing good for the planet and our community. On the left-hand side of the page, we have some very exciting news to share. S&P Global recently announced that Ingersoll Rand ranked first in the world within our industry, up from #2 in the prior year. Also, Ingersoll Rand was named to the A List for its performance in tackling climate change and commitment to global environment leadership by CDP.
+CDP annual environmental disclosure and scoring process is globally recognized as the gold standard for corporate transparency. Finally, as shown on the right-hand side of the page, we continue to make progress towards our aggressive 2030 goals, and we're already well on our way to achieve them.
+On Slide 7, we show the catalyst for the progress, which is a highly engaged employee base combined with an ownership mindset. And as shown on the left-hand side of the page, our employee satisfaction is over 600 basis points higher than the industry average. We believe our employee ownership model drives the increased employee engagement. And as illustrated on the center of the page, we have created a massive economic opportunity for our employees and their families that has been life-changing for many as expressed on the quotes from some of them.
+All of this leads us to the next slide where you can see that the combination of all these factors executed through our economic growth engine is evidence that our model provides durable, long-term performance. Our portfolio is positioned to capitalize on global mega trends such as sustainability, digitalization and quality of life. 
+We expect to leverage our organic growth enablers to deliver, on average, mid-single-digit organic growth through 2027. And as you can see, we outperformed this commitment again in 2023, delivering 10% year-over-year organic revenue growth. In 2023, we also delivered 6% of In-Year growth from M&A. The combined organic and inorganic growth of 16% far surpassed our low double-digit growth commitment. And not only did we surpass our growth targets but we also exceeded our margin expansion initiatives, generating 170 basis points of adjusted EBITDA margin expansion and again, surpassing our long-term targets for this metric.
+With IRX, as our competitive differentiator and over 400 IMPACT daily management sessions or IDMs across our company each week, our high-performance culture encourages a strong focus on execution. In 2023, we delivered adjusted EPS growth of 25% and a free cash flow margin of 18%. These results prove that we are a premier, durable growth compounder.
+On Slide 9, to date, we're on track or ahead of schedule in delivering the 2025 targets set at our previous Investor Day. We have set new aggressive targets for 2027 long-term financial and our results give us confidence in delivering those targets that are on average over the cycle.
+Turning to Slide 10. M&A continues to be at the forefront of our capital allocation strategy. We invested over $450 million across 13 acquisitions in 2023. These acquisitions have been both market-leading products and technologies while accelerating our addressable market with close adjacencies. As of today, we currently have 10 transactions under LOI. Our M&A funnel remains strong and continues to be over 5x larger than it was at the time of the RMT.
+We expect an additional 400 to 500 basis points of annualized inorganic revenue to be acquired in 2024. The 10 transactions currently under LOI are similar in size and nature to the bolt-on deals we have done over the past few years. However, outside of these 10 LOIs, we still have a couple of deals in the funnel where the purchase price exceeds $1 billion.
+I will now turn the presentation over to Vik to provide an update on our Q4 and full year 2023 financial performance.
+
+--------------------------------------------------------------------------------
+Vikram U. Kini,  Ingersoll Rand Inc. - Senior VP & CFO    [4]
+--------------------------------------------------------------------------------
+Thanks, Vicente. On Slide 11, we finished the year strong in Q4 through a balance of commercial and operational execution fueled by IRX despite the constantly changing macroeconomic environment. Total company organic orders and revenue increased 3% and 4% year-over-year, respectively. We remain encouraged by the strength of our backlog, which is up over 8% year-over-year. This provides us with a healthy backlog to execute on entering 2024 and gives us conviction in delivering our full year 2024 revenue guidance.
+The company delivered fourth quarter adjusted EBITDA of $501 million, a 19% year-over-year improvement and adjusted EBITDA margins of 27.5%, a 160 basis point year-over-year improvement and a 100 basis point improvement sequentially from Q3. Free cash flow for the quarter was $552 million, and for the year, we delivered nearly $1.3 billion of free cash flow with an 18% free cash flow margin and a 105% conversion to adjusted net income. Total liquidity of $3.6 billion at quarter end was up approximately $400 million sequentially.
+Our net leverage continues to improve both year-over-year and sequentially. At 0.6 turns, we are at 0.2 turns better than prior year and 0.3 turns better than prior quarter.
+Turning to Slide 12. For the total company on an FX adjusted basis, Q4 orders and revenue both grew 11%. Total company adjusted EBITDA increased 19% from the prior year. The ITS segment margin increased 260 basis points while the PST segment margin was flat year-over-year, and corporate costs came in at $47 million for the quarter. Finally, adjusted EPS for the quarter was up 19% to $0.86 per share. The adjusted tax rate for the quarter was 20.7%, with the full year adjusted rate finishing slightly above 22%.
+On Slide 13, total company full year orders grew 8% and revenue increased 17%, both on an FX adjusted basis. Total company adjusted EBITDA increased 25% from the prior year. The ITS segment margin increased 240 basis points, while the PST segment margin increased 130 basis points. Corporate costs finished the year at $173 million, driven by continued investments to support growth in areas like demand generation and IoT as well as the impact of incentive compensation adjustments.
+Lastly, adjusted EPS for the year was up 25% to $2.96 per share. Moving on to the next slide. Free cash flow for the quarter was $552 million, including CapEx, which totaled $30 million. Total liquidity now stands at $3.6 billion based on approximately $1.6 billion of cash and $2 billion of availability on our revolving credit facility. Leverage for the quarter was 0.6 turns, which was a 0.2 turn improvement year-over-year. And in 2023, we returned $295 million to shareholders through share repurchases and dividends.
+Specifically within the quarter, cash outflows included $130 million in share repurchases, $39 million deployed to M&A and $8 million for our dividend payment. M&A remains our top priority for capital allocation, and we continue to expect M&A to be our primary use of cash as we look ahead.
+I will now turn the call back to Vicente to discuss our segments.
+
+--------------------------------------------------------------------------------
+Vicente Reynal,  Ingersoll Rand Inc. - Chairman, CEO & President    [5]
+--------------------------------------------------------------------------------
+Thanks, Vik. On Slide 15, our Industrial Technologies and Services segment delivered solid year-over-year organic revenue growth of 5%. Adjusted EBITDA increased 26% year-over-year with an adjusted EBITDA margin of 30%, up 260 basis points from prior year with an incremental margin of 48%. We also delivered sequential margin expansion of 120 basis points from Q3 to Q4. It is important to note that we have already achieved our 2025 high 20s adjusted EBITDA margin target for ITS, which is a full 2 years ahead of schedule. We continue to see solid demand for our products with organic orders also up 5%.
+Moving to the product line highlights. Compressors were up low double digits in orders and up mid-single digits in revenue. Industrial vacuum and blower were down low double digits in orders, but up low double-digit in revenue. The order decline was mainly driven by currently debooking an order from an electric truck manufacturer in Europe that had some battery supply issues.
+However, the prospects are starting to look better for this manufacturer in 2024. Also, it is important to highlight that core product lines continued to show strong momentum on a 2-year stack, excluding FX and also excluding the recent acquisition of SPX Air Treatment and Roots blower. On a 2-year stack, compressor orders were up mid-teens and revenue was up high 20s, industrial vacuum blower orders were up low double digits and revenue was up mid-30s.
+As a reminder, for additional detailed information on product lines and regional splits, we have moved the chart, which was previously included on this page to Slide 21 in the appendix. For our Innovation in Action section, we're highlighting a new compressor with advanced 2-stage technology. This product is a great example of how Ingersoll Rand is providing an innovative, digitally enabled, sustainable solution with a 17% energy efficiency improvement versus the competition.
+Turning to Slide 16. Organic revenue in the Precision and Science Technology segment was approximately flat year-over-year. The PST team delivered adjusted EBITDA of $94 million, which was up approximately 2% year-over-year with a margin of 30.1%. Organic orders were down 1.6%, driven by the Life Science businesses. We see organic orders growth stabilizing and we remain positive about the underlying health of the PST business. In fact, PST, excluding the Life Science businesses has seen positive organic orders and revenue growth in 11 out of the last 12 quarters.
+In addition, short cycle orders in the industrial businesses were up mid-single digits in Q4. Overall, the PST segment remains on track to meet our long-term Investor Day growth commitments. For our PST Innovation in Action, we're highlighting our ARO piston pump system. This is a perfect example of leveraging both I2V and demand generation to pivot an existing product line into a high-growth, sustainable end market.
+Over the past 12 months, we have already taken $7 million in orders with a leading OEM solar panel producer, which has the potential for $1 million in annualized aftermarket revenue. As we move to Page 17, we're introducing our 2024 guidance. Total company revenue is expected to grow between 5% to 7%, with the first half growth of 4% to 6% and the second half growth of 6% to 8%. We anticipate organic growth of 2% to 4% where price is approximately 2/3 and volume 1/3. FX is expected to contribute approximately 1% of a tailwind for the year, of which the impact will be realized relatively evenly throughout the year.
+M&A is projected at $150 million, which reflects all complete and closed M&A transactions in 2023 as well as the acquisition of Friulair. Corporate costs are planned at $160 million and are expected to be incurred evenly per quarter throughout the year. Total adjusted EBITDA for the company is expected to be in the range of $1.915 billion and $1.975 billion. At the bottom of the table, adjusted EPS is projected to fall within the range of $3.14 and $3.24, which is approximately up 8% at the midpoint. We anticipate adjusted tax rate to be roughly 23%, gross interest expenses to be about $155 million and CapEx to be around 2% of revenue.
+On the right-hand side of the page, we have included the 2024 full year guidance bridge showing the growth associated with both operational activity and the impact associated with corporate costs, interest income and expenses, FX, share count and changes in the adjusted tax rate. And based on above guidance, adjusted EPS growth is expected to be 6% to 9%. As we sit here in mid-February, we would like to provide some commentary on Q1. We expect our normal seasonality to return in 2024 from a revenue perspective, which means that Q1 will be the lowest revenue quarter of the year.
+In addition, as a reminder, Q1 has a very tough comp, as we delivered 20% organic revenue growth in Q1 of 2023. As a result, we anticipate organic revenue growth to be flattish to slightly up for the quarter, with continued year-over-year margin expansion.
+Turning to Slide 18. As we wrap up on today's call, I want to reiterate that Ingersoll Rand is in a solid position. We continue to deliver record results and both our long-term and '24 guidance is reflective of our performance to date and our increasingly durable financial profile. To our employees, I want to thank you again for another excellent finish to the year.
+We delivered strong results by demonstrating our commitment to meeting our financial targets and executing our economic growth engine through the use of IRX. Thank you for your hard work, resiliency and focused actions. These results show the impact you each have as owners of the company. Our balance sheet is as strong as ever. And with our disciplined and comprehensive capital allocation strategy, we remain resilient and have the capacity to deploy capital to investments with the highest return as we continue our track record of market outperformance.
+We remain nimble, continue to monitor the dynamic market conditions and we're prepared for the challenges that may come. And with that, I'll turn the call back to the operator and open it for Q&A.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) your first question comes from Mike Halloran with Baird.
+
+--------------------------------------------------------------------------------
+Michael Patrick Halloran,  Robert W. Baird & Co. Incorporated, Research Division - Associate Director of Research & Senior Research Analyst    [2]
+--------------------------------------------------------------------------------
+So let's start with where you ended there on the guidance piece. Certainly, I appreciate all the context and help and understand the relatively normal seasonality. But maybe you could just talk to what you're embedding from an underlying assumption perspective when it comes to the broader environment, broader end markets. Is this a year where you just see relatively sequential stability. Any specific pockets you're concerned about or where you see opportunities for acceleration. Less of a Ingersoll-specific question, meaning, I know you have a lot of drivers that you can use to boost growth relative to whatever the end markets are doing, more of just an end market specific and an environment question.
+
+--------------------------------------------------------------------------------
+Vicente Reynal,  Ingersoll Rand Inc. - Chairman, CEO & President    [3]
+--------------------------------------------------------------------------------
+Yes, Mike, so maybe I'll kind of give you a perspective here on how we think about it by region first. I would say that in America, as expected, we're seeing much better momentum. I would say, Mainland Europe -- When I say Americas, I mean not only the U.S. but even also Mexico and South America, where there's a lot of good progress going on with the teams down there.
+Mainland Europe remains relatively stable. I was just in Europe last week and really solid momentum from some good pockets of growth that we're seeing. But I'll say, I'll call it more stable. I'll say, broader Middle East and India, very -- also very good momentum, I mean, particularly in India. And you've seen that we have done quite a few investments in India too as well, not only from an inorganic perspective but also organic. And I'll say that APAC, Asia Pacific is the one that has the most headwinds, specifically, I would say, here in the first half of the year and is driven mainly by tough comps. I mean we saw strong double-digit organic revenue growth in the first half of 2023 in Asia Pacific, mainly driven by China. And at this point in time, I mean, China is not a market that we call it, that is perhaps booming.
+We're not immune to that, but we expect to outperform the market there too as well as the teams have proven that they could do that even in 2023. So that's kind of from a regional perspective, I say from an end market perspective, nothing that I would call out to be highly differentiated in a sense because you have seen us always pivot to these high-growth sustainable end markets. We gave you one very good example here with ARO piston pump. This is a legacy product line that we kind of reinvigorated. We utilized I2V as a way to relaunch that product. And with the use of demand generation, we were able to position that product line into a very good growth end market on photovoltaic cells. So I'd say, Mike, I mean I think the playbook continues to be the same, be agile, very nimble, leverage demand generation and IRX as a way to continue to execute.
+
+--------------------------------------------------------------------------------
+Michael Patrick Halloran,  Robert W. Baird & Co. Incorporated, Research Division - Associate Director of Research & Senior Research Analyst    [4]
+--------------------------------------------------------------------------------
+No, that makes sense. And then a follow-up on the Life Science side. The one area of PST that, like a lot of the folks are seeing some headwinds here. You listen to what the bigger players in the industry are saying, there's more stability front halfs, improvement back half at least modest. Is that still under what your expectations are from a recovery curve at this point?
+
+--------------------------------------------------------------------------------
+Vicente Reynal,  Ingersoll Rand Inc. - Chairman, CEO & President    [5]
+--------------------------------------------------------------------------------
+That's kind of what we think too as well, Mike. Again, as you said, maybe bottoming out here as we kind of come into the first half and then seeing sequential improvement. I don't say -- I mean not in an exponential way. I mean there's not that pent-up demand. But I would say in a very logical way to get back to the good growth that these end markets should continue to see over the long term.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+Your next question comes from Julian Mitchell with Barclays.
+
+--------------------------------------------------------------------------------
+Julian C.H. Mitchell,  Barclays Bank PLC, Research Division - Research Analyst    [7]
+--------------------------------------------------------------------------------
+Just first off, just wanted to look at the sort of cadence through the year, perhaps first off. So based on what you said, is it fair to assume sort of first quarter is about 21% of earnings for the year. And when we're looking at kind of incremental margins, you called out that high 30s figure for the year. Is that kind of fairly steady across both segments as we move through 2024?
+
+--------------------------------------------------------------------------------
+Vikram U. Kini,  Ingersoll Rand Inc. - Senior VP & CFO    [8]
+--------------------------------------------------------------------------------
+Yes. Julian, this is Vik. I'll take the first part of your question, and I'll let Vicente probably talk on the margin front. I think the phasing -- generally, I think you're right -- you're in the right ballpark. Maybe the other way to say it here is, if you look at the phasing in a manner that's consistent with, I'd say, revenue and earnings delivery as we saw in 2023, I think you'd be in the right ballpark in terms of our expectations here for 2024. And then in terms of the incremental margin piece, maybe I can start it or...
+
+--------------------------------------------------------------------------------
+Vicente Reynal,  Ingersoll Rand Inc. - Chairman, CEO & President    [9]
+--------------------------------------------------------------------------------
+Yes. I can take that. I mean -- I think the way I think about that incremental margin, I mean, think about that 35% to 40% incremental margin. And when you look at the main buckets, I'd say, the first bucket of that improvement or good incremental margin comes in from the initiatives that we always do with the I2V, price, very good, continued growth momentum on the aftermarket, particularly the recurring revenues.
+The second bucket will be around the prior M&A improvement activities that we have always spoken about. The third bucket is you probably saw on some of the appendix that we did some proactive restructuring at the end of 2023. This is kind of part of our always continue to be proactive and nimble. And the last fourth bucket, I would say, in terms of this margin improvement is around corporate cost. You saw corporate costs going down roughly $13 million or so.
+
+--------------------------------------------------------------------------------
+Julian C.H. Mitchell,  Barclays Bank PLC, Research Division - Research Analyst    [10]
+--------------------------------------------------------------------------------
+That's helpful. And just as we're starting out the year, looking at orders, naturally they're sort of volatile quarter-to-quarter. Reflecting what you said on a sort of a tough Asia environment in the first half of the year and sort of very tough orders comps, do we think about kind of orders being down perhaps in the first quarter year-on-year and then you pick up after that as the comps and perhaps Asia get better?
+
+--------------------------------------------------------------------------------
+Vicente Reynal,  Ingersoll Rand Inc. - Chairman, CEO & President    [11]
+--------------------------------------------------------------------------------
+We typically don't guide on the orders for the year or on a quarterly basis, but we do definitely expect orders to be up sequentially from Q4 to Q1 on an absolute dollar perspective. And the way we think about it too as well is that we typically book above 1 on a book-to-bill in the first half due typically to larger, longer-cycle projects being booked and then below 1 in the second half. And we don't anticipate 2024 to be any different to that.
+
+--------------------------------------------------------------------------------
+Operator    [12]
+--------------------------------------------------------------------------------
+Your next question comes from Jeff Sprague with Vertical Research.
+
+--------------------------------------------------------------------------------
+Jeffrey Todd Sprague,  Vertical Research Partners, LLC - Founder & Managing Partner    [13]
+--------------------------------------------------------------------------------
+Vicente, can we just come back to Life Sciences for a moment and just level set us here now after kind of a couple of tough years, what percent of PST is that business now? And do you actually expect it to return to growth in 2024?
+
+--------------------------------------------------------------------------------
+Vicente Reynal,  Ingersoll Rand Inc. - Chairman, CEO & President    [14]
+--------------------------------------------------------------------------------
+So the Life Science business is roughly 25% to 30% of the PST segment today. And I think as we think about going into the second half is when we expect that to be getting back to a normal growth.
+
+--------------------------------------------------------------------------------
+Jeffrey Todd Sprague,  Vertical Research Partners, LLC - Founder & Managing Partner    [15]
+--------------------------------------------------------------------------------
+Right. And then just -- thanks for the guidance on price versus volume. Can you just give a little bit of color on what you're expecting, just kind of the price cost equation as we move through the year and maybe particularly in ITS.
+
+--------------------------------------------------------------------------------
+Vikram U. Kini,  Ingersoll Rand Inc. - Senior VP & CFO    [16]
+--------------------------------------------------------------------------------
+Yes, Jeff, this is Vik. I'll take that one. I think simply stated here, I don't think you're going to see anything dramatically different than what you've seen historically, meaning we expect to generate approximately 2% price on a full year basis. We would expect to be both dollar and margin positive from a price/cost perspective each quarter of 2024.
+So again, nothing different in terms of that equation as we move to the year. And obviously, ITS being the bigger segment, clearly, that comment pertains to ITS as well as PST as well.
+
+--------------------------------------------------------------------------------
+Operator    [17]
+--------------------------------------------------------------------------------
+Your next question comes from Rob Wertheimer with Melius Research.
+
+--------------------------------------------------------------------------------
+Robert Cameron Wertheimer,  Melius Research LLC - Founding Partner, Director of Research & Research Analyst    [18]
+--------------------------------------------------------------------------------
+Actually, one more question on Life Science. I mean we've seen you guys use demand generation in just IRX to outgrow tough markets in China and maybe Europe last year. Has that been a factor in Life Science? Is there anything different in that market that constrains it? And I wonder if you could just kind of compare market dynamics for you in Life Sciences to some of the other companies in Industrials, we've seen in a long drag. What does the recovery look like? Is there a bounce back? Has there been a -- I mean maybe just explain the sales dynamic there.
+
+--------------------------------------------------------------------------------
+Vicente Reynal,  Ingersoll Rand Inc. - Chairman, CEO & President    [19]
+--------------------------------------------------------------------------------
+Yes, Rob, I'll say Life Sciences, and I think you were referring to, particularly in China. I mean they have seen similar declines like the balance of the Life Science businesses and biopharma-related markets. And I would say, for the balance of our China exposure, it isn't that much different than the impact we have seen on the ITS side with the one item of note to call out perhaps Seepex, a business that is more impacted by the water market. But that being said, I mean, we're excited with the prospect of Seepex in China. And one example of that is that, again, pivoting to better end markets. So for example, Seepex took the same product and relaunched that to move away from the water market and move more into the lithium battery production with a very unique proposition without having to reconfigure that product too much. So I think we just continue to navigate that. I mean basically, how do we continue to agile and very nimbly move from one market to the other without having to reconstruct the product lines.
+
+--------------------------------------------------------------------------------
+Robert Cameron Wertheimer,  Melius Research LLC - Founding Partner, Director of Research & Research Analyst    [20]
+--------------------------------------------------------------------------------
+So it was a little bit of too. So it's like does demand generation -- has demand generation or other tools allowed you to outgrow the decline in Life Sciences. And then maybe just -- maybe it's the same question as Jeff asked in a way, but does the other side of this look like a bounce back? Or does it just look like a return to normal growth? I don't know whether destock or whatever at your customers had led to below normal sales and you kind of pop back up in '25 or whether you just resume normal growth. I will stop there.
+
+--------------------------------------------------------------------------------
+Vicente Reynal,  Ingersoll Rand Inc. - Chairman, CEO & President    [21]
+--------------------------------------------------------------------------------
+Sure. No, great. To the first question, absolutely, demand generation is really helping us tremendously because then think about -- I mean our products can be applicable to pretty much any end market, and we're being very selective. And with demand generation, we can really reach this highly fragmented customer base in a very cost-effective way, very rapid, very quickly and then provide a better solution to our customers underneath, call it, energy efficiency, water efficiency, digitalization, all these thematics that we think are important.
+For the second question, we kind of -- the way we think about it is more normal. We don't expect this massive bounce back. If that happens, clearly, upside, but the way we like to view it is more normal.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+Your next question comes from Andy Kaplowitz with Citigroup.
+
+--------------------------------------------------------------------------------
+Andrew Alec Kaplowitz,  Citigroup Inc., Research Division - MD & U.S. Industrial Sector Head    [23]
+--------------------------------------------------------------------------------
+Vicente, I think you had an increase in your LOIs in Q4 to 10, I think, from 4 last quarter. Are you seeing the M&A market open up a bit more? Is this more your team just finding more deals? And those couple of deals that you mentioned that are over $1 billion, do you see the larger deal market opening up? Or is it still difficult to get those larger ones over the finish line?
+
+--------------------------------------------------------------------------------
+Vicente Reynal,  Ingersoll Rand Inc. - Chairman, CEO & President    [24]
+--------------------------------------------------------------------------------
+So I would say that, yes, I mean the M&A, we feel that continues to open up. And again, I'll put it in perspective that these 10 transactions in the LOI are similar in size and nature to the bolt-on deals that we have done over the past few years. And these 10 LOIs are also sole sourced, meaning we have been proactively talking to the family on -- and have built some incredible relationships. This is exactly what happened with the Friulair acquisition too as well, which I've been in contact with the founder, his name Luigi. So but -- so again, outside of this 10 LOIs, we still have a couple of those deals in the funnel where purchase price exceeds $1 billion.
+So yes, there's still -- I mean, timing of that, obviously difficult, but we still have a couple of those in our funnel. I will also tell you that we -- actually also, we walked away from one of those $1 billion purchase price transactions, which again speaks to the prudency and the discipline of our continued model that even after 6 to 9 months of continued diligence, we decided that it was just not the best case for us to proceed. So we remain highly disciplined in this environment, and we see just a lot of good opportunities out there.
+
+--------------------------------------------------------------------------------
+Andrew Alec Kaplowitz,  Citigroup Inc., Research Division - MD & U.S. Industrial Sector Head    [25]
+--------------------------------------------------------------------------------
+That's very helpful. And then can you give us more color in terms of the end markets, you answered the question before. But if I look at Americas and EMEA, pretty, continued, durable growth. Is it more than 20% of your business that's longer cycle, larger compressors? Is it more of the short-cycle stuff that's supporting your growth? And what do you think the sustainability of the 2 markets is?
+
+--------------------------------------------------------------------------------
+Vicente Reynal,  Ingersoll Rand Inc. - Chairman, CEO & President    [26]
+--------------------------------------------------------------------------------
+Andy, I think -- we think that maybe over the past couple of years, it was a lot more on the longer cycle. We see now perhaps as we kind of continue to see PMIs do better is that shorter to medium cycle, we'll continue to see maybe a better momentum. So inflecting, we see some of that even already here. And you saw we spoke about that, particularly, let's say, even PST, we said the industrial shorter cycle up mid-single digits year-over-year and then also sequentially. So I think -- yes, I mean, I would say that our teams continue to stay pretty agile in these -- in continuing to pursue energy efficiency in the compressors with our story around how we can save tremendous amount of energy. That is a very good thematic that continues to be out there, the thematic around reshoring, very strong, continues to be the case in countries even like Mexico or even South America. But -- so I think the same thematics are still happening that we've been talking about for the past couple of years, Andy.
+
+--------------------------------------------------------------------------------
+Operator    [27]
+--------------------------------------------------------------------------------
+Your next question comes from Nigel Coe with Wolfe Research.
+
+--------------------------------------------------------------------------------
+Nigel Edward Coe,  Wolfe Research, LLC - MD & Senior Research Analyst    [28]
+--------------------------------------------------------------------------------
+So all the big questions I think have been asked. But maybe just give us a bit of color on what you're seeing in China, looks like that was down in the quarter. So maybe just quantify that and kind of like what's your sort of base case view on China? And then perhaps as part of that first half versus second half, it looks like core growth, flat to 2% in the first half of the year, and then we're going to [lift] the mid-single-digits in the back half of the year. Is that simply easier comps? Or are we seeing some acceleration, I don't know, maybe in China or perhaps in Life Sciences. Any color there?
+
+--------------------------------------------------------------------------------
+Vicente Reynal,  Ingersoll Rand Inc. - Chairman, CEO & President    [29]
+--------------------------------------------------------------------------------
+Yes. I mean -- so China -- I was actually in China a few weeks ago earlier here in January with the team, and we were doing the pre-celebration of the Chinese Happy New Year but in addition to just reviewing how the business is performing. And to keep that in mind, I mean I was -- I think over the past 6 to 9 months, I've been to China now 3 or 4 times. So I think it's just one that we continue to stay really close to understand how our teams continue to control what we can control.
+So from an orders perspective, yes, I mean, China in the fourth quarter was down mid-single digits. But keep in mind that this is on top of like a low double-digit orders growth that they saw in Q4 2022. So again, I think on a 2-year stack, they still saw high single-digit order momentum, which is pretty impressive when you consider everything that is going on in China today. I will categorize the environment in China this time that I went to much better than what I saw in 2023 in the sense that there seems to be the teams are reenergized about maybe what's happening in terms of the stimulus and how the teams continue to leverage our technology into other end markets that they see some good pockets of growth.
+So I was very encouraged to see how the team continues to navigate that difficult market by being very nimble and agile in terms of pivoting to those areas of good growth.
+
+--------------------------------------------------------------------------------
+Vikram U. Kini,  Ingersoll Rand Inc. - Senior VP & CFO    [30]
+--------------------------------------------------------------------------------
+Yes. Nigel, on the second part of your question about the kind of the growth cadence first half versus second half. Yes, probably, couple of factors I would point to; one being first and foremost, we do walk into the year with a still healthy backlog, including a good percentage of that, that's longer cycle in nature. So that obviously gives us some good visibility into the back half of the year when a lot of those projects tend to more naturally ship. And then yes, I do think there's a lot of truth in the statement you made about, clearly, comps get a little bit more moderate in the back half of the year kind of across the board. But clearly, whether it be China as well as the Life Sciences side of the equation on the PST business.
+So I think it's a couple of different factors. But again, like we said before, we think the phasing of delivery of revenue and earnings is actually very consistent in '24 versus what you've seen historically.
+
+--------------------------------------------------------------------------------
+Nigel Edward Coe,  Wolfe Research, LLC - MD & Senior Research Analyst    [31]
+--------------------------------------------------------------------------------
+That's great color. My follow-up question is the strength in European compressor orders is remarkable considering what's going on in the economy there. So if you had to rank order these 3, Scope 1 emission targets, CO2 pricing and high energy prices, what do you -- obviously, IRX on top of that. But if you had to rank those 3, what would you say is the most important factor.
+
+--------------------------------------------------------------------------------
+Vicente Reynal,  Ingersoll Rand Inc. - Chairman, CEO & President    [32]
+--------------------------------------------------------------------------------
+I would say high energy prices and Scope 1, which are kind of interrelated one with the other one. And -- but yes, I'd say high energy prices, #1; Scope 1 in terms of targets that many of the companies have put out there; and then the third would be around the CO2.
+
+--------------------------------------------------------------------------------
+Operator    [33]
+--------------------------------------------------------------------------------
+Your next question comes from Joe Ritchie with Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Joseph Alfred Ritchie,  Goldman Sachs Group, Inc., Research Division - VP & Lead Multi-Industry Analyst    [34]
+--------------------------------------------------------------------------------
+So nice end to the year, obviously, incremental margins were great. You hit your margin targets 2 years ahead of time. So if you think about this ITS business now, and I know that you have this incremental margin target for the year of 35% to 40%. I guess I'm just curious -- like how much of that would you say is volume dependent at this point? I know IRX is all about continuous improvement, but just your ability to just deliver continued margin expansion if the volumes ultimately turn out to be weaker than expected.
+
+--------------------------------------------------------------------------------
+Vicente Reynal,  Ingersoll Rand Inc. - Chairman, CEO & President    [35]
+--------------------------------------------------------------------------------
+Joe, I'd say that -- I mean even when you think about our guidance, I mean, it just shows that lower growth but still generating a very good margin. And that's driven by the activities that we have done, call it i2V also price and even aftermarket. So I think those are 3 core initiatives that we have continued to do really well. We always said that the ITS was very well ahead because that was part of the integration between Gardner Denver and IR on how we did those 3 initiatives prioritize there. What I can tell you, I mean, the PST team, like even 2 weeks ago, they had like a worldwide I2V event and it was just highly, highly encouraging to see how our new leader is just driving that type of methodology into a segment that in the past, they did it but not in a way that we like that to be done. 
+And in addition, I think what you saw here in the fourth quarter is that we took some proactive, surgical -- what we call surgical restructuring at the end of the year. And again, that's a prudency for us to continue to protect the P&L. So I think that's controlling what we can control and taking the actions to ensure that we can deliver that solid margin improvement.
+
+--------------------------------------------------------------------------------
+Joseph Alfred Ritchie,  Goldman Sachs Group, Inc., Research Division - VP & Lead Multi-Industry Analyst    [36]
+--------------------------------------------------------------------------------
+That's helpful. Vicente, and look, it sounds like you've been on the road, globe-trotting in the last several weeks. I'm curious just from a regulatory standpoint, are there any kind of change in regulations that you guys are seeing across any particular region that might be impacting your business or could impact your business going forward in the next, we'll call it, next 12 to 24 months?
+
+--------------------------------------------------------------------------------
+Vicente Reynal,  Ingersoll Rand Inc. - Chairman, CEO & President    [37]
+--------------------------------------------------------------------------------
+I mean, nothing that I would say of significant dramatic change that is new. I mean we know about clearly the energy efficiency standards that are coming into effect by the federal government in the U.S. There's some refrigeration standards that are -- that will drive basically our air treatment business. I would view it in a positive way, driven first in Europe and then in the U.S. too as well. But those are kind of known -- that we have known for a little while and -- but they're not new.
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+Your next question comes from Steve Volkmann with Jefferies.
+
+--------------------------------------------------------------------------------
+Stephen Edward Volkmann,  Jefferies LLC, Research Division - Equity Analyst    [39]
+--------------------------------------------------------------------------------
+Maybe just a couple of longer-term ones here. Just kind of going back to orders and backlog, now that the world is sort of normalizing again, over some period should we expect backlog to decline? Or do you think it's kind of at the rate that it should be going forward?
+
+--------------------------------------------------------------------------------
+Vicente Reynal,  Ingersoll Rand Inc. - Chairman, CEO & President    [40]
+--------------------------------------------------------------------------------
+Yes. I would categorize that -- I mean -- so good news is that clearly, we're still a pretty high backlog, which is encouraging to see. I think over time, perhaps, yes, it will get normalized. But again, I think that when we think about the business that -- if we continue to get this book-to-bill of 1 -- of approximately 1 that we continue to expect to see here in 2024, I think backlogs seem to be continuing at a pretty higher level than what we have done historically.
+
+--------------------------------------------------------------------------------
+Vikram U. Kini,  Ingersoll Rand Inc. - Senior VP & CFO    [41]
+--------------------------------------------------------------------------------
+The only thing I would say there is, with the amount of, and Vicente said, with some of the longer cycle, we do fundamentally feel that compared to years in the past, there is just a higher amount of our backlog. That's the longer cycle projects, which then clearly leads to the level of backlog you have now.
+So I think that you have seen a little bit of a structural change in the composition of the backlog as compared to more historic times.
+
+--------------------------------------------------------------------------------
+Stephen Edward Volkmann,  Jefferies LLC, Research Division - Equity Analyst    [42]
+--------------------------------------------------------------------------------
+Got it. Okay. And then switching gears a little bit. companies that are acquisitive and sort of have this flywheel that you guys have occasionally, something comes over the transom that isn't quite what you thought it was going to be, and you may have a little disappointment in some pieces of some business or something. So I'm just curious, any lessons learned, anything like that happening? And more importantly, should we expect some level of divestitures to be kind of part of this machine as we go forward?
+
+--------------------------------------------------------------------------------
+Vikram U. Kini,  Ingersoll Rand Inc. - Senior VP & CFO    [43]
+--------------------------------------------------------------------------------
+Steve, I'll start on that. So you've seen us now since the merger done, we've done over 40 transactions. And obviously, not all of them have been 100% the same. But what we would say here is, and we've acknowledged this before, probably the ones that maybe were maybe slightly below expectations, comparatively speaking, are probably the ones where IRX and that integration process probably didn't get embedded from day 1, if not before.
+So if the lesson learned here is, we've got a playbook, whether it's an ITS acquisition or PST acquisition, we're going to continue to deploy that playbook on the IRX side because we fundamentally view that as the catalyst for success in terms of the integration and really embedding those businesses within the core.
+
+--------------------------------------------------------------------------------
+Vicente Reynal,  Ingersoll Rand Inc. - Chairman, CEO & President    [44]
+--------------------------------------------------------------------------------
+Yes. And the only thing that I would add to that as well is that I think we said this before, but my staff meeting, which happens typically on Fridays, it's run as an IDM part of the IRX and one of the areas of focus is basically we have a dashboard of all the M&As that are getting integrated, where we can clearly see if there's any issues or gaps. And that was an implementation that we did a few -- quite a few months ago, I'm going to say 18 months ago as we saw maybe some businesses that were not properly integrated. So I think it's just part of that, as Vik said, continuous improvement, good evolution and having the news travel fast so that we can react and course correct if something is not going the right way.
+
+--------------------------------------------------------------------------------
+Operator    [45]
+--------------------------------------------------------------------------------
+Your next question comes from Chris Snyder with UBS.
+
+--------------------------------------------------------------------------------
+Christopher Snyder,   -     [46]
+--------------------------------------------------------------------------------
+I wanted to also ask on the M&A engine and maybe a more high-level one. So revenue in 2024 is going to be about 40% above 2021. Does that make it more difficult for the company to add this 400 to 500 basis points M&A contribution every year? And does it change anything around the process of doing so just as the numbers have, I guess, gotten 40% bigger versus 3 years ago to keep that same run rate.
+
+--------------------------------------------------------------------------------
+Vicente Reynal,  Ingersoll Rand Inc. - Chairman, CEO & President    [47]
+--------------------------------------------------------------------------------
+Yes, Chris, I would say that -- I mean, is it become more difficult, I would say that when you think about it back in 2021, I think our addressable market back in that Investors Day, we said it was maybe, what, $25 billion, $30 billion. And you saw our most recent Investor Day, our addressable market being $55 billion. So clearly, when we make an acquisition, we look at it also from a perspective of are we able to increase the addressable market and by increasing the addressable market, we're doing it in a highly fragmented market that gives us a greater pool of transactions to be able to be acquired. We're always very thoughtful on how we -- on this kind of flywheel, on the M&A engine as just being one that is just not -- it's an ongoing engine that can continue to grow.
+And I think that's in terms of statistics and data points that's why we track a number of transactions by [tollgate] and with the probability. So I think the cadence of that M&A, it's pretty solid. And in terms of changing in the process, I mean nothing that I will say has been dramatic change. We continue to always make some tweaks and improvements like I think about a year ago, we spoke about how we look at about 100 micro trends and that leads into new M&A transactions that we can actually possibly do.
+So we're always trying to continue to evolve our process to make it better on an ongoing basis. So changing the process, yes, because we are always continually improving the way we do things.
+
+--------------------------------------------------------------------------------
+Christopher Snyder,   -     [48]
+--------------------------------------------------------------------------------
+I appreciate that. And then maybe just follow up on productivity and efficiency of the business. Obviously, margins have been really strong here in the last 3 to 4 years. Do you feel like the efficiency of manufacturing has returned to pre-COVID levels. Obviously, there's a lot of disruption coming out of the pandemic, which I'm sure was a headwind to margins in some capacity. Do you feel like that is fully back at this point?
+
+--------------------------------------------------------------------------------
+Vicente Reynal,  Ingersoll Rand Inc. - Chairman, CEO & President    [49]
+--------------------------------------------------------------------------------
+I don't think so. Only because -- I mean I think still there's a little bit of supply chain disruption here and there that happens, right? And so giving you, for example, I mean, the situation with the Red Sea, the situation in the Panama Canal, I mean a lot of that creates supply chain disruption. And we're -- we, as a company that we're so global and being so good on terms of assembly, any time a supply chain disruption, it creates inefficiencies in the factory.
+So I'd say that it is not back to the normal stability that we have seen maybe pre-COVID. That's my view. And I think also we're pretty critical, Chris, in terms of how we want to continue to improve our factories and our operations. Is that a lean mindset that of continuous improvement that always view that, hey, we always have to do better than what we did in the past.
+
+--------------------------------------------------------------------------------
+Operator    [50]
+--------------------------------------------------------------------------------
+Your next question comes from Joe O'Dea with Wells Fargo.
+
+--------------------------------------------------------------------------------
+Joseph John O'Dea,  Wells Fargo Securities, LLC, Research Division - Senior Equity Analyst    [51]
+--------------------------------------------------------------------------------
+I wanted to just start on the growth algorithm. And if we think about a couple of points of price and a point of volume and just how you're thinking about the overall macro and the type of growth that you have kind of underlying on the volume side. Really, just trying to understand how much demand generation is embedded in this initial guide? Is that one point of volume reflective of outgrowth? Or is there potential sort of upside on the demand generation side of things?
+
+--------------------------------------------------------------------------------
+Vikram U. Kini,  Ingersoll Rand Inc. - Senior VP & CFO    [52]
+--------------------------------------------------------------------------------
+Yes, Joe, I'll start with that one. I think we always view that there's upside on the demand gen side and frankly, even on the volume side. Let me kind of unpack that a little bit. I think, Vicente, mentioned earlier, when you look at the regional trends here, with Americas is kind of at the top of the stack; EMEA relatively more stable; and APAC, which is largely China for us, probably facing the most headwind, at least as we enter the year that's kind of the balanced equation that we looked at as we thought about the growth algorithm as you said.
+Now that being said, we entered the year with healthy backlog, solid backlog, demand generation without question is part of the equation here. And clearly, we would say not too dissimilar from, frankly, even years past. If there's upside opportunity in the context of the guide or in the context of the year, it really probably more so becomes that organic volume piece, probably more so as the year progresses. 
+So again, I don't think the equation for us is dramatically different than you've seen historically. But we are conscious and taking into consideration some of the regional trends that we're seeing, particularly as we enter the year, and we're going to continue to monitor those and pulse those as we get through the quarter and into second quarter and the back half of the year.
+
+--------------------------------------------------------------------------------
+Joseph John O'Dea,  Wells Fargo Securities, LLC, Research Division - Senior Equity Analyst    [53]
+--------------------------------------------------------------------------------
+Understood. And then on ITS margins in the 30% in the fourth quarter, if you could kind of unpack that a little bit and bridging that sequential improvement from 3Q to 4Q. And then also just to clarify, it sounds like the 35% to 40% incrementals applies to both segments. And so it's not like that exit rate sets up a tough incremental comp. I'm not sure if there was any restructuring that sort of hit the ITS side or if that was more on the PST side, but just some details there would be helpful.
+
+--------------------------------------------------------------------------------
+Vikram U. Kini,  Ingersoll Rand Inc. - Senior VP & CFO    [54]
+--------------------------------------------------------------------------------
+Yes. Sure. Maybe I'll take those in pieces here. So If my memory serves me correctly, we went from that 28.8% EBITDA margin to about 30% so little over 100 basis points sequential margin expansion from Q3 to Q4. I'd point to a couple of things here. One, frankly, the revenue and volume levels tend to pace through the year, a lot of our productivity measures are tied to volume.
+So when you see a heavier shipment quarter like you saw in Q4 as compared to Q3, you should expect things like some of the productivity measures the I2V to follow. I'd say that's probably one of the single biggest drivers. I think price cost continue to remain quite positive and overall, the strong solid execution as we exited the year. The other thing that I think we continue to see good, what I'd say, momentum on is the aftermarket side. 
+And that really sets up nicely. Even during the Investor Day, we indicated that aftermarket as well as the whole recurring revenue side of the equation is a big focal point for us, and we would expect to continue to see that not only ramp as we think about the next few years but also that being margin accretive in the overall equation. So again, I think that's probably the way that we think about the equation in terms of what kind of drove Q4 specifically. 
+Now in terms of the whole incrementals and how we think about 2024, like we said, 35% to 40% is the kind of the overall average. The way I'd probably think about it here is ITS is probably playing maybe towards the lower end of that, probably in the 30s realm. PST, obviously, probably has a little bit more outsized opportunity, but I think that also goes with the fact that we've said that while we're pleased with PST delivering 30% EBITDA margins in the full year of 2023, we know that, that business can get up into that mid-30s realm and as such, there should be a little bit more of an outpaced opportunity.
+So there's a little bit of puts and takes there as well as, as Vicente mentioned earlier, a little bit of upside on the corporate cost as we think year-over-year. So hopefully, that kind of gives you a little bit of a sense of how we're thinking about the year playing itself out.
+
+--------------------------------------------------------------------------------
+Operator    [55]
+--------------------------------------------------------------------------------
+Next question comes from Nathan Jones from Stifel.
+
+--------------------------------------------------------------------------------
+Nathan Hardie Jones,  Stifel, Nicolaus & Company, Incorporated, Research Division - Analyst    [56]
+--------------------------------------------------------------------------------
+A couple of fairly narrow questions. I know one of the strategic additions you've made in M&A has been to add dryer into the portfolio. So I was just hoping to get an update on the benefits that you're seeing there, revenue synergies that you're generating there, whether or not you think that portfolio is built out or it's still an opportunity to add more of that capability?
+
+--------------------------------------------------------------------------------
+Vicente Reynal,  Ingersoll Rand Inc. - Chairman, CEO & President    [57]
+--------------------------------------------------------------------------------
+Yes, Nathan, it's definitely a very exciting addition to -- and you have seen that we made quite a few acquisitions on that. I mean not only the SPX Flow Air Treatment side, Oxywise, we acquired Holtec we acquired a couple of years ago and now Friulair a well. And then in China, even also Hanye and the reason for this is that because air treatment is very good from the perspective of being attached to a compressor. If you think about the attachment rate, it should be like 70% attached to a compressor.
+So clearly, that's -- in terms of a KPI of a metric that we use with our teams is exactly that. One is the attachment rate when you say a compressor how often are you attaching that air treatment to that. And that definitely drives some good growth momentum. And then to think about it too as well, air treatment is roughly 50% of aftermarket. So it generates a very, good, solid aftermarket. So a combination of those 2 factors, we like it a lot. And then the third item of why we like it is because you can actually optimize energy efficiencies much better when you have the combination of the compressor and the air treatment talking to each other in a common way and being remotely connected and then fine-tuning that connectivity. So I think there's multiple levers of strategic growth that we see on this dryer portfolio.
+
+--------------------------------------------------------------------------------
+Operator    [58]
+--------------------------------------------------------------------------------
+Your next question comes from David Raso with Evercore ISI.
+
+--------------------------------------------------------------------------------
+David Michael Raso,  Evercore ISI Institutional Equities, Research Division - Senior MD & Head of Industrial & Machinery Research Team    [59]
+--------------------------------------------------------------------------------
+Just a couple of quick questions. A clarification on the M&A comment. I thought I heard the word incremental 400 to 500, but you already have 2% to 2.5% of acquired revenues booked that will flow through this year. Was that truly 400 to 500 above what you already booked or just getting up to the framework of 400 to 500 basis points of acquired revenues. If you can just clarify that?
+
+--------------------------------------------------------------------------------
+Vikram U. Kini,  Ingersoll Rand Inc. - Senior VP & CFO    [60]
+--------------------------------------------------------------------------------
+Yes, David, let me take that. So I think taken in pieces here. So you obviously have the carryover as well as the Friulair acquisition. So you see in our guidance the approximately $160 million of revenue contribution. That's the carryover and the completed to date, obviously, we'd expect to book -- to close more acquisitions as the year goes by. But embedded in the guidance is that $160 million. The comment about 400 to 500 would be the acquisitions that we expect to make in the year and the annualized revenue contribution. So for all the deals that we expect to make here based on the funnel and all the comments that Vicente made, we would expect that to be 400 to 500 basis points on an annualized basis. So you should take those kind of 2 statements separate from each other. But again, I think the short answer here is we expect to continue to operate well in line with our stated economic growth engine and how you've seen us operate in years past.
+
+--------------------------------------------------------------------------------
+David Michael Raso,  Evercore ISI Institutional Equities, Research Division - Senior MD & Head of Industrial & Machinery Research Team    [61]
+--------------------------------------------------------------------------------
+I just wanted clarification on that. And on the call out to that EV truck manufacturer in Europe on the vacuum and blower order weakness, you made a comment like prospects are improving potentially for that again. Just so I'm clear, do you think that order could come back on the books because it seems to be of some size, must be $20 million, $30 million or so, not small. Is that something that can come back on the books?
+
+--------------------------------------------------------------------------------
+Vikram U. Kini,  Ingersoll Rand Inc. - Senior VP & CFO    [62]
+--------------------------------------------------------------------------------
+Yes, let me take the first part of that and I'll let Vicente answer it. The way I would describe it is, interestingly enough, we debooked it in Q4 of '23 and the original order happened to have come in Q4 '22. So interestingly enough, it kind of -- it hit us both ends, both in the quarter as well as the comp. Vicente, I want you speak to the prospects going forward.
+
+--------------------------------------------------------------------------------
+Vicente Reynal,  Ingersoll Rand Inc. - Chairman, CEO & President    [63]
+--------------------------------------------------------------------------------
+Yes. And the prospects going forward is that, I mean we're still in touch with them. I mean, basically, they had a situation where the battery supplier went bankrupt and that led to these truck manufacturer not being able to produce the trucks. Needless to say, what we're seeing now is that it's been acquired, the assets have been acquired. They have great technology. I mean this is for the last mile delivery trucks in Europe, which is very highly needed and so the conversations continue to happen, which obviously means that there could be some good prospects here as we go into 2024.
+
+--------------------------------------------------------------------------------
+Operator    [64]
+--------------------------------------------------------------------------------
+Your final question comes from Nicole DeBlase from Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Nicole Sheree DeBlase,  Deutsche Bank AG, Research Division - Director & Lead Analyst    [65]
+--------------------------------------------------------------------------------
+Maybe just starting with the free cash question. So conversion of 100%, all the CapEx plans. How are you guys thinking about working capital for 2024?
+
+--------------------------------------------------------------------------------
+Vikram U. Kini,  Ingersoll Rand Inc. - Senior VP & CFO    [66]
+--------------------------------------------------------------------------------
+Sure. I think, Nicole, I think broad strokes here, we still see an opportunity here. I think is the long and short of it. While we were pleased with our kind of exit momentum ending out '23, particularly on the inventory side, which was very much a source of cash in the quarter. We frankly still sit at elevated levels, comparatively speaking to, I'd say, the pre-supply chain dynamics and things of that nature.
+So I think that's definitely an opportunity as well as I'd say some of the just core -- I'll just call it blocking and tackling, whether that be just kind of the collections and things of that nature, fair to say that we still have a component of our portfolio whether it'd be part of the PST organization as well as a lot of some of the bolt-on M&A that's not in the shared service environment, which obviously, for us, is a big catalyst of working capital improvement. So you put that all together, I think that still lends itself as a good source of opportunity for '24 and beyond.
+
+--------------------------------------------------------------------------------
+Nicole Sheree DeBlase,  Deutsche Bank AG, Research Division - Director & Lead Analyst    [67]
+--------------------------------------------------------------------------------
+And just it doesn't look like you guys have any buybacks in the guidance based on the share count outlook. So how is your view on potential buyback activity in 2024?
+
+--------------------------------------------------------------------------------
+Vikram U. Kini,  Ingersoll Rand Inc. - Senior VP & CFO    [68]
+--------------------------------------------------------------------------------
+Yes, that's correct. We do not have any, I would say, incremental buybacks as part of the guidance. Now that being said, I think the way you should expect us to operate here in 2024 is similar to the prior years, meaning a requisite amount approximately, we've always said approximately $250 million is probably a good proxy and a placeholder in terms of expectations for the year. But you are correct that it's not formally in the guidance.
+
+--------------------------------------------------------------------------------
+Operator    [69]
+--------------------------------------------------------------------------------
+There are no further questions at this time. I will now turn the call back to Ingersoll Rand's CEO, Vicente Reynal for any closing remarks.
+
+--------------------------------------------------------------------------------
+Vicente Reynal,  Ingersoll Rand Inc. - Chairman, CEO & President    [70]
+--------------------------------------------------------------------------------
+Yes. Thank you, Briana. And as we wrap up here, I just want to pass one more thank you to our employees who continue to think and act like owners because they are owners of the company. And it's very exciting to see as I travel around the world, the high level of engagement and energy that we have across our organization. I think our economic growth engine is powered by that momentum on the ownership mindset and leveraging our IRX. So again, very encouraged, very happy and to see the performance and look forward to another great year here in 2024. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [71]
+--------------------------------------------------------------------------------
+This concludes today's conference call. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2024 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

@@ -1,0 +1,179 @@
+ticker,sub_sector,sector_yf
+AAL,Airlines,Industrials
+AAPL,Consumer Electronics,Technology
+ABNB,Travel Services,Consumer Cyclical
+ACN,Information Technology Services,Technology
+ADBE,Software - Application,Technology
+ADI,Semiconductors,Technology
+ADP,Software - Application,Technology
+ADSK,Software - Application,Technology
+AKAM,Software - Infrastructure,Technology
+ALLE,Security & Protection Services,Industrials
+AMAT,Semiconductor Equipment & Materials,Technology
+AMD,Semiconductors,Technology
+AME,Specialty Industrial Machinery,Industrials
+ANET,Computer Hardware,Technology
+AOS,Specialty Industrial Machinery,Industrials
+APH,Electronic Components,Technology
+APP,Advertising Agencies,Communication Services
+AVGO,Semiconductors,Technology
+AXON,Aerospace & Defense,Industrials
+BA,Aerospace & Defense,Industrials
+BR,Information Technology Services,Technology
+CARR,Building Products & Equipment,Industrials
+CAT,Farm & Heavy Construction Machinery,Industrials
+CDNS,Software - Application,Technology
+CDW,Information Technology Services,Technology
+CHRW,Integrated Freight & Logistics,Industrials
+CHTR,Telecom Services,Communication Services
+CIEN,Communication Equipment,Technology
+CMCSA,Telecom Services,Communication Services
+COHR,Scientific & Technical Instruments,Technology
+COIN,Financial Data & Stock Exchanges,Financial Services
+CPAY,Software - Infrastructure,Technology
+CPRT,Specialty Business Services,Industrials
+CRM,Software - Application,Technology
+CRWD,Software - Infrastructure,Technology
+CSCO,Communication Equipment,Technology
+CSGP,Real Estate Services,Real Estate
+CSX,Railroads,Industrials
+CTAS,Specialty Business Services,Industrials
+CTSH,Information Technology Services,Technology
+DAL,Airlines,Industrials
+DASH,Internet Retail,Consumer Cyclical
+DD,Specialty Chemicals,Basic Materials
+DDOG,Software - Application,Technology
+DE,Farm & Heavy Construction Machinery,Industrials
+DELL,Computer Hardware,Technology
+DOV,Specialty Industrial Machinery,Industrials
+EA,Electronic Gaming & Multimedia,Communication Services
+EBAY,Internet Retail,Consumer Cyclical
+EFX,Consulting Services,Industrials
+EME,Engineering & Construction,Industrials
+EMR,Specialty Industrial Machinery,Industrials
+EPAM,Information Technology Services,Technology
+ETN,Specialty Industrial Machinery,Industrials
+FAST,Industrial Distribution,Industrials
+FDS,Financial Data & Stock Exchanges,Financial Services
+FDX,Integrated Freight & Logistics,Industrials
+FFIV,Software - Infrastructure,Technology
+FICO,Software - Application,Technology
+FIS,Information Technology Services,Technology
+FISV,Unknown,Unknown
+FIX,Engineering & Construction,Industrials
+FTNT,Software - Infrastructure,Technology
+FTV,Scientific & Technical Instruments,Technology
+GD,Aerospace & Defense,Industrials
+GDDY,Software - Infrastructure,Technology
+GE,Aerospace & Defense,Industrials
+GEN,Software - Infrastructure,Technology
+GLW,Electronic Components,Technology
+GNRC,Specialty Industrial Machinery,Industrials
+GOOGL,Internet Content & Information,Communication Services
+GPN,Specialty Business Services,Industrials
+GRMN,Scientific & Technical Instruments,Technology
+GWW,Industrial Distribution,Industrials
+HII,Aerospace & Defense,Industrials
+HOOD,Capital Markets,Financial Services
+HPE,Communication Equipment,Technology
+HPQ,Computer Hardware,Technology
+HUBB,Electrical Equipment & Parts,Industrials
+HWM,Aerospace & Defense,Industrials
+IBM,Information Technology Services,Technology
+IEX,Specialty Industrial Machinery,Industrials
+INTC,Semiconductors,Technology
+INTU,Software - Application,Technology
+IR,Specialty Industrial Machinery,Industrials
+IT,Information Technology Services,Technology
+J,Engineering & Construction,Industrials
+JBHT,Integrated Freight & Logistics,Industrials
+JBL,Electronic Components,Technology
+JCI,Building Products & Equipment,Industrials
+JKHY,Information Technology Services,Technology
+KEYS,Scientific & Technical Instruments,Technology
+KLAC,Semiconductor Equipment & Materials,Technology
+LDOS,Information Technology Services,Technology
+LHX,Aerospace & Defense,Industrials
+LII,Building Products & Equipment,Industrials
+LITE,Communication Equipment,Technology
+LMT,Aerospace & Defense,Industrials
+LRCX,Semiconductor Equipment & Materials,Technology
+LUV,Airlines,Industrials
+MA,Credit Services,Financial Services
+MCHP,Semiconductors,Technology
+MCO,Financial Data & Stock Exchanges,Financial Services
+META,Internet Content & Information,Communication Services
+MPWR,Semiconductors,Technology
+MSCI,Financial Data & Stock Exchanges,Financial Services
+MSFT,Software - Infrastructure,Technology
+MSI,Communication Equipment,Technology
+MTD,Diagnostics & Research,Healthcare
+MU,Semiconductors,Technology
+NDSN,Specialty Industrial Machinery,Industrials
+NFLX,Entertainment,Communication Services
+NOC,Aerospace & Defense,Industrials
+NOW,Software - Application,Technology
+NSC,Railroads,Industrials
+NTAP,Software - Infrastructure,Technology
+NVDA,Semiconductors,Technology
+NXPI,Semiconductors,Technology
+ODFL,Trucking,Industrials
+ON,Semiconductors,Technology
+ORCL,Software - Infrastructure,Technology
+OTIS,Specialty Industrial Machinery,Industrials
+PANW,Software - Infrastructure,Technology
+PAYX,Software - Application,Technology
+PCAR,Farm & Heavy Construction Machinery,Industrials
+PH,Specialty Industrial Machinery,Industrials
+PLTR,Software - Infrastructure,Technology
+PNR,Specialty Industrial Machinery,Industrials
+PTC,Software - Application,Technology
+PWR,Engineering & Construction,Industrials
+PYPL,Credit Services,Financial Services
+QCOM,Semiconductors,Technology
+QRVO,Semiconductors,Technology
+RHI,Staffing & Employment Services,Industrials
+ROK,Specialty Industrial Machinery,Industrials
+ROL,Personal Services,Consumer Cyclical
+ROP,Software - Application,Technology
+RSG,Waste Management,Industrials
+RTX,Aerospace & Defense,Industrials
+SATS,Telecom Services,Communication Services
+SMCI,Computer Hardware,Technology
+SNA,Tools & Accessories,Industrials
+SNPS,Software - Infrastructure,Technology
+SPGI,Financial Data & Stock Exchanges,Financial Services
+STX,Computer Hardware,Technology
+SWK,Tools & Accessories,Industrials
+SWKS,Semiconductors,Technology
+T,Telecom Services,Communication Services
+TDG,Aerospace & Defense,Industrials
+TDY,Scientific & Technical Instruments,Technology
+TEL,Electronic Components,Technology
+TER,Semiconductor Equipment & Materials,Technology
+TMUS,Telecom Services,Communication Services
+TRMB,Scientific & Technical Instruments,Technology
+TT,Building Products & Equipment,Industrials
+TTD,Advertising Agencies,Communication Services
+TTWO,Electronic Gaming & Multimedia,Communication Services
+TXN,Semiconductors,Technology
+TXT,Aerospace & Defense,Industrials
+TYL,Software - Application,Technology
+UAL,Airlines,Industrials
+UBER,Software - Application,Technology
+UNP,Railroads,Industrials
+UPS,Integrated Freight & Logistics,Industrials
+URI,Rental & Leasing Services,Industrials
+V,Credit Services,Financial Services
+VLTO,Pollution & Treatment Controls,Industrials
+VRSK,Consulting Services,Industrials
+VRSN,Software - Infrastructure,Technology
+VRT,Electrical Equipment & Parts,Industrials
+VZ,Telecom Services,Communication Services
+WAB,Railroads,Industrials
+WDAY,Software - Application,Technology
+WDC,Computer Hardware,Technology
+WM,Waste Management,Industrials
+XYL,Specialty Industrial Machinery,Industrials
+XYZ,Software - Infrastructure,Technology
+ZBRA,Communication Equipment,Technology

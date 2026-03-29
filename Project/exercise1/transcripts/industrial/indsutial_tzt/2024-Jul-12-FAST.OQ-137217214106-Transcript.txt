@@ -1,0 +1,472 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q2 2024 Fastenal Co Earnings Call
+JULY 12, 2024 / 2:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Daniel Florness
+   Fastenal Co - President, Chief Executive Officer, Director
+ * Holden Lewis
+   Fastenal Co - Chief Financial Officer, Senior Executive Vice President
+ * Taylor Ranta Oborski
+   Fastenal Co - Financial Reporting & Regulatory Compliance
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * David Manthey
+   Robert W. Baird & Co. - Analyst
+ * Nigel Coe
+   Wolfe Research LLC - Analyst
+ * Stephen Volkmann
+   Jefferies LLC - Analyst
+ * Tommy Moll
+   Stephens Inc - Analyst
+ * Ryan Merkel
+   William Blair & Company LLC - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good morning, and welcome to the Fastenal second quarter 2024 earnings results conference call. (Operator Instructions) As a reminder, this conference is being recorded.
+I would now like to turn the call over to Taylor Ranta of Fastenal Company. Thank you, you may begin.
+
+--------------------------------------------------------------------------------
+Taylor Ranta Oborski,  Fastenal Co - Financial Reporting & Regulatory Compliance    [2]
+--------------------------------------------------------------------------------
+
+          Welcome to the Fastenal Company 2024 second quarter earnings conference call. This call will be hosted by Dan Florness, our President and Chief Executive Officer; and Holden Lewis, our Chief Financial Officer.
+The call will last up to one hour and will start with a general overview of our quarterly results and operations with the remainder of the time being open for questions and answers. Today's conference call, the proprietary Fastenal presentation and it's being recorded by Fastenal. No recording, reproduction, transmission or distribution of today's call is permitted without Fastenal's consent.
+This call is being audio simulcast on the Internet via the Fastenal Investor Relations homepage, investor.fastenal.com. A replay of the webcast will be available on the website until September 1, 2024, at midnight Central Time.
+As a reminder, today's conference call may include statements regarding the company's future plans and prospects. These statements are based on our current expectations, and we undertake no duty to update them.
+It is important to note that the company's actual results may differ materially from those anticipated. Factors that could cause actual results to differ from anticipated results are contained in the company's latest earnings release and periodic filings with the Securities and Exchange Commission, and we encourage you to review these factors carefully.
+I'd now like to turn the call over to Mr. Dan Florness.
+
+--------------------------------------------------------------------------------
+Daniel Florness,  Fastenal Co - President, Chief Executive Officer, Director    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, and good morning, everybody, and welcome to the second quarter 2024 earnings call. Before I start on the quarter, I just wanted to share a couple of things. First off, I wanted to share a story about an [Onsite] of ours in Sweeny, Texas and I was speaking with Steve Diekman, our Regional Vice President based out of Houston, and for those of you that -- I suspect most people on the call are aware that Houston periodically gets hurricanes, and they had a hurricane.
+And typically, what happens when there's a hurricane, and this might be Steve Diekman in Houston and might be Bob Harper down in Florida. Oftentimes they'll get a call from Europe from [Casey] and to see these industries before, this everything's gone.
+And we often remind them of we got their back. And what that means is, when you're in the chaos of the moment, you're forced to make decisions on the fly and there's a lot of things going on and somebody with 2020 hindsight a week later might pick apart a decision you make at 3:00 in the morning to solve a problem. My comment to Steve and Bob, as always, we've got your back, make great decisions to take care of our customers and to protect your employees, period.
+So -- and the second thing, and this happened a few years ago, read an article about a retirement community in Florida during the hurricane. They were without power and without resources for a few days. And when you read something like that, you are kind of like, how the hell does that happened in today's world?
+And so, one thing I often will throw in there and say, hey, make sure your branches are paying attention to facilities around their area. There might be a hospital, there might be retirement home, whatever it is, call them up to see if they're okay, so they need something. I don't care if they're a customer of ours or not. Be there to help because that's what we are, we're a supply chain when people need stuff.
+So we have an Onsite in Sweeny, Texas with Phillips 66, it's a refining facility. Refining facilities can be demanding customers. You think about what they we do, it's a facility where really bad things can happen if they're not on their A-game. And so, they need something, they don't need it tomorrow. They don't need it next week, they need it.
+And so, Wade, one of our employees at the Onsite. He comes into work on Sunday evening, doesn't normally come into work on Sunday evening. He came to be there all night long because if they need something, he's there to supply that need.
+So the hurricane hit on Monday about 2:00 in the morning, I think it lasted about six hours in that area. Good chunk of Houston is without power right now. But our customers in that area gets served by Fastenal. If you go to our branches, you'd find a lot of our branches right now have no power.
+Their point-of-sale system and their lights are being run by generators, which means when there's 106-degree heat index, it gets a little warm in there. So in the afternoon, they happened to their pick-ups, and they go call on their top 15 customers, they'll call their other customers is there anything we need?
+Most other businesses are hunkered down -- maybe not being there in the same way, we're all there for a pragmatic reason on the way you're going to get AC at 1:00 PM in the afternoon in 106-degree heat indexes be in your truck. But goes to your customer, let them know we're there to serve, great thing about Fastenal and thank you to Wade for doing the night shift on Monday morning.
+Secondly, I want to touch on is I want to congratulate our technology team. Last fall, we did a lot -- we're starting some projects around AI or as I prefer to refer to it internally, FI. It's not artificial intelligence, it's Fastenal intelligence because the source data is our data and it's a really robust system that we decided to go out and build.
+And our goal is to roll it out in the second quarter for our folks starts using it. Rolled out on June 28. It's out there, our folks are using it. And I had the ability to test it some in early June. What amazed me, it's scary good what this technology can do. And the way it's set up is we have a general information -- it's our chat bot Blue that we created about five years ago
+In the old system had 130,000, 140,000 Q&A payers, and based on a probability match, you got what you got. Now, you actually get a well thought out answer and it tells you the source of your information and you can look internally at Fastenal only data. So it's Fastenal intelligence.
+And if you want to go deeper, you can go externally if you want. But you know the source, and you know how it is, the source of information is the quality of information. And sometimes you get what you get when you're on the wild web.
+But it's great information on general supply chain questions. We have embedded Bob Kierlin's [book departed] fast on people. So there's great leadership inside. Think you're asking Bob a question. It's published right now in 30-plus languages. And the next piece we're working on is going to deploy here in Q3 is an AI-assisted sourcing tool.
+And conceptually, what we're after is an employee to be able to look -- hop on this tool and identify what is the side the customer is asking for? What else is it? So I can help rationalize clear product substitutions, depending on if you need it right now, maybe this isn't available for three days.
+But we have three things that could substitute for it what do you need, and then understanding the supply chain. This is readily available. This is difficult to get and you could have that discussion with your customer and then understand the market for that, what's the price in the market, what should you expect to pay for it? Maybe it's something we haven't sold before.
+But it really is a tool that's being built, going to roll it out in the third quarter. We're excited about it, and we'll see how it goes from there, but Fastenal intelligence, not artificial intelligence.
+Third, take a look at the [flip book]. Talk a little bit about the quarter. Tough quarter, net sales grew about 2%. Underlying market remains challenging. EPS was $0.51, down about 2%. The item I shared with the Board yesterday, the team within Fastenal looks in a mirror and says, what are we being paid to do? Are we being paid to defend margin? We're growing 2%. Or are we being paid to figure out how to not grow 2%?
+The bias goes towards the latter, but we put emphasis on the former as well. And so, I think we found the appropriate balance. That mean we did everything perfectly? No. There's always room for improvement. But I think we're appropriately balancing where we're going and how to not grow 2% with defending the margin at 2%
+As you see in the table in the next slide, I'll get to that in a few minutes, but we continue in that sub-50 ISM, the Purchasing Managers' Index, and that's 19 of the last 20 months. We saw a blip in March that proved to be a [head fake]. It's an uncommonly long duration that weighs on US Industrial Production and consequently affects our daily sales rates because 75% of our revenue is industrial.
+Our efforts to accelerate our customer acquisition remain encouraging. Year, year-and-a-half ago, had some pretty frank discussions on this call about some missteps that we saw occurring in 2021 and 2022, where our focus on a common goal became blurred.
+I think there was a few -- little bit too much of what I'm doing and not what we're doing. And when everyone individually is successful, but we're not successful, something's wrong with the alignment. So aligned all the sales organization under Jeff Watts at the time. Jeff's a proven strong leader of the organization. I have to say, Jeff's done a wonderful job in the last 12 to 18 months of pulling this thing together.
+But it wasn't just Jeff, it's Jeff and his team. It's Casey Miller stepping up in the US. It's Miguel and Tony stepping up international. It's [Bill Perez-Kowalski] stepping up, and everybody else that supports them, including me, stepping up their game to support the sales team as we align on a common goal. And I think you're seeing that in the second straight quarter of strong Onsite [FMI] signings and low double-digit growth in national contract counts.
+As I mentioned earlier, we believe we have the right balance for managing our costs, and we continue to maintain this balance. But I have reemphasized with our leadership team and, as well as Holden and everybody else. This isn't a two-person endeavor, this is a 23,000 person endeavor.
+We need to be really tight with spending in the current environment. The one thing that helps us in the latter half of '23, excuse me, and the first half of '24 is we have some wiggle room because of declining incentive comp. That wiggle room keeps getting thinner and thinner. And so, we need to be more dialed in.
+Again in all frankness, we felt in the first quarter as we were exiting the second quarter was going to play a little differently. We realized as we went through April, that was not to be the case. In early May, we tighten it down a bit and we've tightened down some more here in July.
+As you would expect from a distribution business, we continue to generate a very healthy operating cash flow and we have an incredibly flexible and strong balance sheet. The page 4 is probably a weird chart. I have I told them, hey, can we just put the table in? Because I have this nice table of ISM data going back -- he's going to go back 50, 60 years or whatever the heck it is, but I haven't gone back a decade.
+I think we showed that -- and I think it's really good for our investor and our employees to appreciate the environment that we're in. And so, we had all these numbers in there, and then Holden came in a couple of days ago and said, we actually can't publish that because that's a subscribed service.
+I said, well, can you just put in blanks and put a red square wherever the sub-50 is so you can at least see magnitude. He's like, yeah, we can do that. So what you see here is a lot of nothing, except for the fact you can see the duration of sub-50 ISM over the last decade plus 12 years. And you can see that since November of 2022.
+Except for March of this year, we've been sub-50. So we had 16 consecutive months and now 19 out of 20 months. And if you look at that little table in the bottom left, there's eight periods that Holden highlighted with extended sub-50 PMI ratings. The third one of July of '81 to June of '83 was the longest period. I remember that. I was in college, just getting out of high school.
+You don't realize when you're in college, how bad the economy is, other than -- because I can find a part-time job and fortunately, school was a little cheaper back in the early 80s than it is today. But I remember being pretty tough for my parents and family farm.
+The second one is August 2000 to January 2022, about 18 months there, and that was the dot-com meltdown. And from a duration standpoint, the third one is right now and that was the 16 months that -- so it's 19 months, 18 months and then 16 months duration before we had a blip. But you can see all these periods would have impacted Fastenal negatively. Every one of these eight that we cite, and some were severe, some were long in duration. Early 80s was both.
+I'll let the listener conclude on what you think that should mean to an industrial distributor. Internally, we say, okay, nobody jump out the window. Let's focus on what we're doing to add business. Let's focus on what we're doing to grow the business. And for that customer, that's business down, support the help hell out of them.
+Page 5. 107 signings in the second quarter and active sites finished at 1,934. So we're approaching that 2,000 active Onsites, 12% above where we were a year ago and we grew low single-digits. A lot of our older Onsites are negative right now. If you have the bulk of a customer's business and their business is down 10%, 20%, 30%, 40%. Our revenue will follow suit, if it's OEM fasteners, it follow suit in magnitude. If it's MRO, it followed suit directionally
+FMI Technology. When I stepped into this role in 2015, I remember saying to the group. In 2014, we signed 49 devices day, and we frankly pulled way too many out. There's two things we need to do. We have to start pulling out 20%-plus of our installed base. And we have to grow that 49 a day to 100 a day and we need the infrastructure to do it, and we slowly built it and slowly built.
+7,188 devices in the second quarter, that's a 112 per day. Our install base is now 119,000 weighted devices, an 11% increase from last year. So we're taking market share. We're planting flags and we're making the business more resilient and efficient.
+And interesting thing happens. A lot of customers love the technology because they believe in their facility. It steps up their internal game because when they see that OEM fasteners in this Kanban bin, that has RFID chips and it's not messy, it's not chaotic, it's well managed.
+Maybe you should do that throughout the production line. Maybe you should do that once it replaces and it challenges everybody in the facility to step up their game and that includes Fastenal. So in the -- we have about 42% of our sales are now going through an FMI Technology.
+And earlier I mentioned the impact of the economy. I'll share a few statistics that we get. One thing with FMI, it get a lot of statistics on what's going through all these things. So in our FASTStock, and that's where we're going now with an Android device that were scanning bins and we're managing it with a combination of technology and labor.
+In January of 2024, we did 16,387 orders per day through scanning technology and our average order was $224. I already shared that from February to March, it dropped from $200 -- it was $225 in February. It dropped to $216 in March. About 60% of that was volume while 40% of that was price. Since then, it's been $216, $214, $217.
+So our dollars per order is down about $7 from $224. I didn't calculate the percentage here, so I apologize for that. But our orders per day have grown to 17,640 because we're deploying, we're deploying, we're deploying. So we have 1,253 more orders per day, a 7.5% increase.
+Interestingly enough, when I look at our customer acquisition. We were -- a number we've always tracked and it's our core accounts. It was maybe more meaningful statistic when we were branch-based and opening branches.
+But last year, our core accounts with some of the chaos and things we were doing, and some execution missteps and some intentional steps are cores per day from January to June were down about 4%. This year, they're up about 7%. Part of that is us working through some indigestion.
+Part of that is Jeff, in our sales team getting traction. And part of it is just overall execution by everybody supporting them. But bottom line is it's $217 every time we scan a bin and not $224, but we're scanning 7.5% more bins.
+If I look at vending -- and I look at vending, I'm not looking at FASTBin because it's not mature enough to really look at the data because it moves around too much because we're deploying so fast, but we have a lot of vending machines out there.
+In January -- now this is not an order number. This is a monthly number. In January, we did $1,578 per weighted device per day. And recall when we started vending years ago and I'm old enough and I've been around long enough to remember those days. We talked about $2,000 when we talked about it with the analyst community. We talked about where can we get that to?
+We started in the less than $1,000 category. We got it up into that $1,000 to $1,100 and we were stuck there for the longest time. And I have to say our teams and our FMI teams that support them led by Jeff, who have done a wonderful job of challenging and optimizing those machines over time that now we're doing close to $1,600, but we didn't do close to $1,600 in June. We did $1,454 per device.
+So about $124 less, but about almost 8% less revenue per device, that's the economy. Because the -- we've added more devices, as I mentioned, our FMI Technology is up about 11% -- over 11% from a year ago. But the customer needs fewer things. One advantage to Fastenal in the marketplace is by having our type of supply chain.
+Not only are we a great supplier and supply chain partner to our customers, we can help them dial their expenses down faster when their business slows down and it doesn't pile up because everything's on autopilot. And I believe that makes us a better partner.
+Our eBusiness rose about 25%. The eProcurement side is really the driver of that. Our eCommerce side is okay, it's not great. But some of the things we're doing with AI is intended to improve that over time on the unplanned spend side.
+Finally, on Digital Footprint, 59.4%, that's taking all of our eCommerce, all of our FMI, eliminating the double counting saying what percent of our business has gone through one of those two. It was 59.4% in the second quarter.
+Actually, in June, it hit 60%. We had expected maybe we'd get about 66% this year. We now think it's about [53%]. And that's not because we're not acquiring customers, it's because customers are spending less, and it shows up in our numbers.
+With that, set up and turn it over to Holden.
+
+--------------------------------------------------------------------------------
+Holden Lewis,  Fastenal Co - Chief Financial Officer, Senior Executive Vice President    [4]
+--------------------------------------------------------------------------------
+
+          Great. Thanks, Dan, and good morning, everyone. I will begin my comments on slide 6. I think Dan covered the current business conditions. I won't add a lot there, but I can add some additional color from regional leadership.
+We continue to experience sluggish business activity that has persisted long enough at this point to be spurring an uptick in layoffs and shift reductions. There were more and longer shutdowns around the July fourth holiday. Some of those, frankly, are continuing.
+And overall industrial production continues to exhibit modest declines as we saw in April and May with the key machinery component being weaker than the overall index. And we're feeling that.
+If I look at our business, total manufacturing grew 2.7%. Our fastener product line was down 3% with contraction in MRO and OEM products. All other end markets declined 1%, reflecting continued contraction in non-residential construction and reseller end markets.
+This was partly offset by strong growth in warehousing customers, which combined with good FMI installs, went a long way to driving our 7.1% growth in safety products. The profile of the second quarter in terms of performance by end market product and customer size was largely unchanged from the preceding quarter.
+We did have negative pricing in the period of 30 to 60 basis points. Fastener prices remain down, which is not new, but we also experienced some slippage in price from non-fastener products. I don't want to overstate the impact. I mean, our price cost was very modestly positive in the second quarter of 2024.
+However, it did ease from where it was in the first quarter of 2024, that's partly from comparisons. And the softer market has made things a bit more challenging. Even so, we believe we can improve our own discipline in this area and intend to address the matter in the third quarter of 2024.
+Setting aside the cycle, we are increasingly encouraged over efforts to accelerate customer acquisition. The first half of 2024 has produced strong Onsite and FMI signings in a highly successful customer Expo. We are also experiencing accelerating growth now in the double-digits and improved mix in a number of our national account contracts.
+Regional leadership attributes these improvements versus 2023 to better alignment between our teams, a sharpened focus on selling and the relative stability of the business environment, which is allowing teams to focus on winning business.
+Given our traditional lack of forward visibility, it is unclear when business activity will improve. It's also unclear how impactful holiday shutdowns or the hurricane in Texas will be on July. Even so, barring further erosion in macro conditions, the strong signings activity of the first half of 2024 should benefit sales trends in the second half of 2024 and into 2025.
+Now to slide 7. Operating margin in the second quarter of 2024 was 20.2%, down 80 basis points year-to-year. Recall in the April earnings call that we discussed a likely impact in the second quarter of 2024 from expenses related to our customer Expo and actions taken to support certain warehousing customers in anticipation of additional future business.
+The combined impact was roughly 30 basis points in the second quarter of 2024 as expected. Some modest impact will carry into July, but the effect on margins in the third quarter of 2024 should be well below what we incurred in the second quarter.
+Gross margin in the second quarter of 2024 was 45.1%, down 40 basis points from the year ago period. This is primarily due to product and customer mix. SG&A was 24.9% of sales in the second quarter of 2024, an increase from 24.6% from the year ago period. Total SG&A was up 3% due to deleveraging of employee related expenses, customer Expo expenses, higher costs for selling related vehicles as we refresh the fleet and higher general insurance costs.
+We continue to believe we are effectively spending where we need to spend to support future growth and scrimping where we can scrimp. And that is as growth picks up, we will leverage the P&L. Putting everything together, we reported second quarter 2024 EPS of $0.51, down 2% or $0.52 in the second quarter of 2023.
+Now turning to slide 8. We generated $258 million in operating cash in the second quarter of 2024 or 88% of net income. While below the prior period when we were deliberately reducing layers of inventory, the current year's conversion rate is above historical second quarter rates.
+With good cash generation in a soft demand environment, we continue to carry a conservatively capitalized balance sheet with debt being 6.3% of total capital, down from 9.4% of total capital at the end of the second quarter of '23.
+Working capital dynamics were consistent with recent trends. Accounts receivable were up 2.8%, driven primarily by sales growth and a shift towards larger customers which tend to have longer terms. Inventories were down 3.9%, which continues to reflect primarily the softer marketplace. The reduction of inventory layers built a year ago demands supply constraints and modest inventory deflation.
+While we will continue to focus on continuous improvement as it relates to inventory management, the rate of decline in our inventory balances will likely moderate going forward as the process of rightsizing our stock is now largely complete. Net capital spending in the second quarter of 2024 was $52.6 million, largely flat was $53.9 million in the second quarter of '23.
+For the full year, we have increased our anticipated net capital spending to a range of $235 million to $255 million, which is up $10 million from the prior range. We anticipate higher spending for vending devices where our mix of signings has been more heavily weighted towards higher cost and scaled units.
+The projected increase in net capital spending for the full year of 2024 is driven by higher outlays for hub automation and capacity, the substantial completion of an upgraded distribution center in Utah and increase in FMI to spend -- and FMI spend to support increased signings and higher information technology purchases.
+Now before turning to Q&A, I wanted to offer a higher level perspective on the quarter. The market's tough and the various cyclical forces at play are impacting our growth and profitability. That's not something we control. What we do control is our ability to grow share in the marketplace.
+A year ago, we weren't as effective as we believe we could be. Today, it's becoming increasingly clear that the changes we made in leadership approach and focus are favorably impacting our ability to win new customers.
+Progress is not always a straight line, of course, but we believe we will build on the successes we've achieved in the first half of 2024, and that it brightens our short and intermediate-term outlook regardless of the cycle. Of course, we're most excited for what it means for our growth when activity levels among our existing customer base stabilizes.
+Before we turn it over to Q&A, I going to pass it back to Dan.
+
+--------------------------------------------------------------------------------
+Daniel Florness,  Fastenal Co - President, Chief Executive Officer, Director    [5]
+--------------------------------------------------------------------------------
+
+          Thanks, Holden. And earlier this morning, as you all know, we'll put out our earnings release and just before market opened, we put out a second release. Normally, we would have put that release out after the market closed, but it's a Friday and we didn't want to -- I'm not a politician, I don't bury news into the weekend. I aspire to be a leader and we put news out, good and bad and this is good news.
+I mentioned earlier about the transition that we had with Jeff walks stepping into the Chief Sales Officer role. One thing I've learned from Jeff being in that role, first off, the sales leaders have stepped up. Their game to support Jeff, and that explained the role.
+But of equal importance, maybe more important, everybody else has embraced Jeff and Jeff has embraced them back from the standpoint of he's not a salesperson trying to figure out his way outside of sales. He's a business leader. He always had a great relationship with our finance team, with our HR team, with technology, with supply chain.
+But what he did is he took a big step in the last year, year-and-a-half and said, I want to embrace more, and I want to learn more. And he humbled themselves to listen and learn. He challenged some things back, as a result, we're a better organization.
+And I'll give you an example of (inaudible) team oversees, our supply chain and distribution. A number of years ago, and we're always doing this. We did a very significant reclass. And what that is as you're deciding what the stock and distribution and we remove some stuff.
+And when Tony stepped into that role, we all challenged him, but Jeff continued to challenge them. But we all challenged them about think about supply chain not as what we stock in distribution, a distribution center. Think about supply chain as how we get product to the customer and where we stage it because we'll be a better organization.
+I don't care if our inventory goes up or down in distribution. Holden cares about our total investment, so do our shareholders, but we really care about how to best serve our customer. And Tony went to work on it and again, was challenged by a lot of people. So we're doing actually a do-over reclass, and we're adding about 18,000 SKUs into distribution in the next six months or so.
+Between now and year-end, we'll probably add around $17 million of inventory to our balance sheet once in place. Some of that will start to burn through. We think that will drop by about a third by March. And we think ultimately 18 months from now, the net impact is zero because we're restaging. We're moving stuff around and we're normalizing the quantity on hand.
+We believe the annual improvement to cost of goods is more than the initial investment in inventory. So that $17 million we think is worth [about $20 million] because when you buy it that way, you're not hurried, you're not scrambling, you buy it more effectively because you can decide where you're sourcing it as opposed to an emergency spend.
+From a brand perspective, not only will they have these 18,000 SKUs available, their workload will actually go down. We cut about [3 million] peels a year at the branch and Onsite level. 300,000 of those POs relate to this product. So we'll cut our peal workload by about 10% at the branch and Onsite level and enhance our gross margin and our service to our customer at the same time. We think this is a winner.
+When I think about what [Jeff's] doing, couple of years ago, I really sat down with the Board and said, I'm turning 60, November of 2023. You really have to be -- you have to get to know our entire team better. I challenge them to -- we scheduled some field trips. We were doing field trips last several years.
+I challenge them to come to our employee Expo in December, our customer show in April and beat our leaders. And I really ask them to get to know Jeff what's better. And we announced this morning that Jeff has been elevated to President of Fastenal. I'm excited for Jeff. I'm more excited for Fastenal because my motivation is simply this. It should be to our motivation is simply this. It a means to grow faster, and I believe Jeff will help that happen.
+I also I sat down with John Soderberg. I talked earlier about some of the things John has done and his team have done as it relates to Fastenal intelligence about artificial intelligence. And I sat down with John and I said, John, Jeff and I are going to drive you crazy, and I apologize for that.
+But we're going to punch you from both sides, and we believe we can move even faster. And so, I'm excited for everything. But Jeff, congratulations. John will try not to be too crazy, and to everybody else supporting Jeff and the organization. Thank you.
+With that, we'll turn it over to questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions)
+Tommy Moll, Stephens.
+
+--------------------------------------------------------------------------------
+Tommy Moll,  Stephens Inc - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Good morning and thank you for taking my questions. I wanted to start with a follow up on the pricing commentary you provided. The deflation in Fastenal has been ongoing for some time and is well known. But the new news today, I believe is in the safety category. So I was just curious if you could give us any context for what you've seen there. And then when you referenced taking steps to be a little more disciplined in the coming quarter? If you could give any insight on that. Thank you.
+
+--------------------------------------------------------------------------------
+Holden Lewis,  Fastenal Co - Chief Financial Officer, Senior Executive Vice President    [3]
+--------------------------------------------------------------------------------
+
+          Yes, yes. And again, bear in mind that I don't think it had a meaningful adverse impact in the second quarter. But we look at trends too. And the reality is our price cost was fairly neutral versus being somewhat positive last quarter. And I think the pricing in the marketplace was a contributor to that. As you indicated, and I'm not overly concerned about the Fastenal side.
+Prices down, but service cost and frankly, I think the organization has done a nice job managing those two dynamics in that product line. And the reality is we have a unique value proposition there and that does make it easier, but we also have a unique value proposition in safety. And in light of that, we just -- I just don't think we were disciplined about, how we're thinking about price in a challenging market and the safety world. And then I would say we weren't terribly disciplined in parts of other product categories either.
+Now when I think about how we address that, the first step is just to elevate the issue. And then I think Dan and I and Jeff and everybody involved in sales leadership have been raising the awareness as you're pursuing business in a soft market, we need to be fairly mindful of the solutions that we're bringing to the table and what we should be compensated for bringing those solutions to bear. And I think we've done a lot of talking about that and raising that awareness.
+But the second thing is to have tools that can provide insights into the field real tangible financial tools. And over the last three, four, five years, we spent a lot of time building and refining those tools learning how to operate those tools and navigate them. And you know, that's intended to provide greater insight into what the market cost for something is, what pricing is, what costing is et cetera.
+And we use those tools to trying to incentivize behavior among our blue team colleagues. And we're going to use those tools in the third quarter of 2024 due to do exactly that. And so at the end of the day, I think that we need more discipline among our contract sellers and more disciplined in our field personnel and they need to trust the tools because the tools are in great shape and we're just going to we're just going to use the levers that we have at our disposal to take an organization that's more aware of the challenge that this marketplace has given us and respond accordingly.
+
+--------------------------------------------------------------------------------
+Tommy Moll,  Stephens Inc - Analyst    [4]
+--------------------------------------------------------------------------------
+
+          Thank you, Holden. As a follow-up, I wanted to ask about the nexus between some of the warehousing customers where you've been ramping and the gross margin trends. It sounds like the impact from the warehousing ramps was as planned in Q2 and should ease into Q3. But any other context or any way you can quantify that would be helpful. And then if you've set that against your typical gross margin trends Q2 to Q3 and maybe even into Q4. How does that net out in terms of what you might forecast for this year versus the typical just given some of these new dynamics.
+
+--------------------------------------------------------------------------------
+Holden Lewis,  Fastenal Co - Chief Financial Officer, Senior Executive Vice President    [5]
+--------------------------------------------------------------------------------
+
+          Now recall that I had indicated that some of the gross margin trends that were impacting Q2 were going to be largely contained to Q2 and some of those may have bled into July a bit. But for the most part, I think that statement remains true if we remove that dynamic, then I think the gross margin on that process is unremarkable for safety products, frankly.
+Going forward now, do I think the investments that we've been making and the actions we've been taking puts us on pace to get additional revenue from that customer set in the back half of the year I do, but it shouldn't have an appreciable mix impact on the safety margin as a category. That answer the question.
+
+--------------------------------------------------------------------------------
+Tommy Moll,  Stephens Inc - Analyst    [6]
+--------------------------------------------------------------------------------
+
+          Yeah. And maybe just to tie it all together, if you think about and this is consolidated results, I'm talking to here your typical progression for gross margins from Q2 to Q3. How would you characterize that typical progression and is there anything this year where there's a noteworthy good guy or a bad guy.
+
+--------------------------------------------------------------------------------
+Holden Lewis,  Fastenal Co - Chief Financial Officer, Senior Executive Vice President    [7]
+--------------------------------------------------------------------------------
+
+          Almost feels like a third question, I would tell you that does it just traditional gross margin pattern from Q2 to Q3 for the company. I'm it's typically Q2 and Q3 looks fairly typical or looks fairly similar one another. Relating it back to the question that you originally asked on the warehousing side of the business. I think a lot of that impact that we talked about last quarter, very little of it is going to remain in the gross margin. So I think about seasonality and maybe a touch better than that based on the absence of some of those expenses.
+
+--------------------------------------------------------------------------------
+Tommy Moll,  Stephens Inc - Analyst    [8]
+--------------------------------------------------------------------------------
+
+          Got it. Thank you. Hold, and I'll turn it back yes.
+
+--------------------------------------------------------------------------------
+Operator    [9]
+--------------------------------------------------------------------------------
+
+          Stephen Volkmann, Jefferies.
+
+--------------------------------------------------------------------------------
+Stephen Volkmann,  Jefferies LLC - Analyst    [10]
+--------------------------------------------------------------------------------
+
+          Hey, good morning, guys. Maybe since we're on a P&L I'll just -- I'll stick with it and go to the next level here. Holden, I think you said maybe Bill said several times there, our real focus on SG&A control and I know that some of the unusual SG&A expenses from the second quarter probably go a trail off. So I'm curious how you're thinking about sort of leverage on SG&A, Holden in the second half?
+
+--------------------------------------------------------------------------------
+Holden Lewis,  Fastenal Co - Chief Financial Officer, Senior Executive Vice President    [11]
+--------------------------------------------------------------------------------
+
+          You know, as always looking through it, I'm going to dodge the question a little bit because what I've observed is you're going to tell what you're going to build in for our revenue growth. If I look at Q2 and Q3 SG&A historically, as an example, what I find is that when Q3 revenue growth accelerates versus Q2, our SG&A dollars -- are the dollar growth of our SG&A accelerates as well and vice versa, right.
+And so it's hard for me to answer that question without knowing what you're going to build in or what you're going to build in for your revenue growth and we don't have time for that in this. And so I would encourage you to figure out what you do with the revenue line. And traditionally you'll see SG&A growth between Q2 and Q3 kind of tracks that trend.
+Now I do anticipate that will be tighter in Q3 than we were with Q2 with costs that might mitigate that impact to some degree. But the reality is, I know everyone kind of wants to say, well, let's just look at the dollars in a vacuum and what is historically happened, but when 70% to 75% of your SG&A is labor and there's a significant component of your labor that is variable cost.
+I can't separate the analysis from the analysis of revenue, and so build in your revenue forecast. Take a look at what historically Q2/Q3 is has played out, make your assumptions. And on top of that, I would argue that we expect to be a little bit tighter on costs than perhaps seasonally we have been in the past, and that's how I'd think about our SG&A trajectory in the next quarter or two.
+
+--------------------------------------------------------------------------------
+Stephen Volkmann,  Jefferies LLC - Analyst    [12]
+--------------------------------------------------------------------------------
+
+          Okay. Fair enough. And since you sort of teed me up on this, in terms of thinking about the revenue trend going forward? Should we read anything into kind of the better cadence of the quarter, you know, May better than April, June better than May. Do you think there's any kind of an inflection happening? Or is it more just that your ability to outgrow is kind of starting to gain some traction? Or is it just kind of the numbers are still small and we shouldn't read too much into it.
+
+--------------------------------------------------------------------------------
+Holden Lewis,  Fastenal Co - Chief Financial Officer, Senior Executive Vice President    [13]
+--------------------------------------------------------------------------------
+
+          I believe our ability to gain traction has improved. I think some of the underlying statistics I cited are evidence of that I also said in April that we talked about 50 in ISM in March, and that felt kind of good and three weeks later, two weeks later, I was going to likely all that good ended really fast. But it's a noisy fall.
+Last I've heard there's a US presidential election and you're like most years, it's kind of a boring event. But I think there's going to be a lot of noise in the market and but some of the stuff, the fed's looking at doing is positive. I don't know that that changes things in the next three to six months. But the fact that there are talking about it is positive.
+If you look, if the questions about green shoots, I don't have a lot of green shoots for you on the macro side. Where I do think we're accelerating, though, is on the self-help side, right with the contract signings and the Onsite signings and the FMI signings, the reality is you sign an onsite today. It's not generating revenue tomorrow. There's a period of time it takes for those sorts of things.
+To start, just to start to hit our results, in the first half of 2024, we are feeling the impact of relatively low signings in 2023. I think in the back half of '24, you're going to begin to feel the benefits of the stronger signings in the first half of 2024, whether the FMI whether that be Onsites, whether that be contracts. And so I think we're very encouraged about what we're doing to acquire customers. But I don't have a lot of green shoots at the macro level.
+
+--------------------------------------------------------------------------------
+Stephen Volkmann,  Jefferies LLC - Analyst    [14]
+--------------------------------------------------------------------------------
+
+          All right, thank you guys for.
+
+--------------------------------------------------------------------------------
+Operator    [15]
+--------------------------------------------------------------------------------
+
+          Nigel Coe, Wolfe Research.
+
+--------------------------------------------------------------------------------
+Nigel Coe,  Wolfe Research LLC - Analyst    [16]
+--------------------------------------------------------------------------------
+
+          Thanks. Good morning, everyone. I want to go back to the price deflation on the safety and other products. I mean, obviously you addressed the question from Tommy, but is this just a function of a more competitive environment, so you're seeing a bit more pressure from competitors maybe because they've got more products with excess inventories or is this just more elective from your RVPs trying to gain share. I mean, obviously, you've been very successful in contract signings, Onsite, et cetera. So I was wondering if this is a bit more offensive or defensive?
+
+--------------------------------------------------------------------------------
+Holden Lewis,  Fastenal Co - Chief Financial Officer, Senior Executive Vice President    [17]
+--------------------------------------------------------------------------------
+
+          I don't know that I have a great way to parse that out. We are in the marketplace trying to win business. I don't think that we need to compete on price. We historically haven't competed on price, but the reality is the marketplace is challenging and that introduces different stresses than would be the case when it's not right. And so I can't tell you it's 60 40 one way or the other. I just I don't I'm not in those minds when they're having those conversations, but I don't have any reason to believe that the two things aren't related, to be honest.
+
+--------------------------------------------------------------------------------
+Daniel Florness,  Fastenal Co - President, Chief Executive Officer, Director    [18]
+--------------------------------------------------------------------------------
+
+          We are hungry to grow and that influences decisions. Our customers are hungry to save costs that influences decisions. And that isn't necessarily a negative, oftentimes where the source of saving cost and that helps us some of our traction with national consigning. Some of our traction with FMI might be a customer that's a little bit slower right now and they're looking for ways to save costs and where the ticket and we're seeing that in our success.
+
+--------------------------------------------------------------------------------
+Holden Lewis,  Fastenal Co - Chief Financial Officer, Senior Executive Vice President    [19]
+--------------------------------------------------------------------------------
+
+          So to the degree that part of the question is Fastenal consciously willing to accept lower margins in order to win business?
+I would tell you the answer is no. There's individual decisions being made in the field based on conversations that are being had and judgments that that makes sense that individual in that situation at that time. So there's not a -- we aren't winning business because we said, don't sweat the margin. We think the margin the return on our business is very important.
+But you know, there is nonetheless a challenging marketplace and different individuals react differently to that marketplace than I just think that you're getting. Can you some analysis where the nexus between both the market and the conversations with customers?
+
+--------------------------------------------------------------------------------
+Nigel Coe,  Wolfe Research LLC - Analyst    [20]
+--------------------------------------------------------------------------------
+
+          Yes. No, that's a great answer. Thanks for that. And my follow-up is on the on-site performance and the material on site looks like mature Onsites sales are maybe down low single digits, and that's around. Obviously, we saw this trend develop last quarter and you made some management changes around that. Just wondering maybe just a bit more detail on what you've seen in these mature Onsites and so pathway to improve performance?
+
+--------------------------------------------------------------------------------
+Holden Lewis,  Fastenal Co - Chief Financial Officer, Senior Executive Vice President    [21]
+--------------------------------------------------------------------------------
+
+          That's production. Dan said it I think in his preamble, right, when you have one customer, the defeat of your business hinges on what the experience of that one customer is and as a business were 75% manufacturing within our onsite world, I bet you it's substantially above that level. And so if there's a manufacturing environment that's challenging.
+The Onsites are going to feel that to a greater degree, the Onsites are going to be more heavily oriented towards production. That's why you're seeing our OEM Fastenal grow in the mix, along with Onsites growing in our sales mix and so, I think you have a combination of the impact of macro on that particular customer category combined with the fact that again, it does take a little while for the signings success that we're having today to translate into revenues tomorrow.
+So I think you're bearing a disproportionate burden of the macro in the first half of this year doesn't appear in the second half of the macro's going to be a lot better. But I do think that some of the signings that we've enjoyed in the first half were going to begin to grow in that environment. And that side probably characterizes.
+
+--------------------------------------------------------------------------------
+Daniel Florness,  Fastenal Co - President, Chief Executive Officer, Director    [22]
+--------------------------------------------------------------------------------
+
+          I'll comment on the mature on-site. I'll just throw a little nugget, and that is our Eastern and Western United States business units have been separate business units since 2007 a year ago. We pulled them together back into one and Casey Miller overseas that $6 billion business in the US. Casey was a regional vice president in the Kentucky Tennessee area originally from Kentucky lives in Nashville now.
+And our Casey's business and by extension Eastern US, which he led for the last eight years, is great at customer acquisition, great at it. One observation you made as you've gotten into the Western business unit because the Western business unit wasn't as great at customer acquisition, but they were great at maturing and farming those relationships.
+And so the one benefit of combining the US into one business unit, I think the Eastern Western halves of our business, you can really learn a lot from each other. And I think that's a positive and a win for our customers, our employees, and our shareholders.
+
+--------------------------------------------------------------------------------
+Nigel Coe,  Wolfe Research LLC - Analyst    [23]
+--------------------------------------------------------------------------------
+
+          Great. Thanks, Dan.
+
+--------------------------------------------------------------------------------
+Daniel Florness,  Fastenal Co - President, Chief Executive Officer, Director    [24]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [25]
+--------------------------------------------------------------------------------
+
+          David Manthey, Baird.
+
+--------------------------------------------------------------------------------
+David Manthey,  Robert W. Baird & Co. - Analyst    [26]
+--------------------------------------------------------------------------------
+
+          Good morning and congratulations to Jeff on the new title. Just one question this morning. I'd like to zoom out and maybe ask you about some secular factors here. Could you refresh us and how you think about outgrowth versus industrial production and your contribution margin expectations. Here I'm thinking not about the next year, but long term over the cycle? Thanks.
+
+--------------------------------------------------------------------------------
+Holden Lewis,  Fastenal Co - Chief Financial Officer, Senior Executive Vice President    [27]
+--------------------------------------------------------------------------------
+
+          I would say historically, I'll say recent history last decade or so, we have typically found that our outgrowth against industrial production has been in the 5 percentage-point to 6 percentage-point range. One of the reasons that we have made -- that we made, the changes that we made 12, 15, 18 months ago was because, frankly, we had slipped in that regard and it's probably been running in the 3% to 4% range, which is below what we are typically accustomed to.
+The changes that we've made, we're very confident will move us back to that 5% to 6% range. But quite frankly, I think our objective over time and look we have to prove to everybody that we can do this. But I think our objective over time is increase that five to six or something greater than that. Because we think that the value we bring to the market warrants or the ability to grow faster.
+And so what you're seeing in terms of the changes in personnel, the changes in approaches. It's really just the first step to kind of correcting something that maybe we weren't doing as well a year and a half ago. And then we're going to build on that. And I think from a secular standpoint, we'd like to do better than that 5% to 6%, you know, in excess of IP in future from a incremental margin standpoint, a contribution margin standpoint, I think we've always said 21%, 22% type operating margin is the business that's where we think we can operate effectively, while still growing and significantly and gaining market share.
+And in this environment of 2% growth, we've given up some of that margin. But I do believe that as the business gets better when the business gets better, I think we still have the capacity to leverage the P&L and return to that 21%, 22% range.
+
+--------------------------------------------------------------------------------
+David Manthey,  Robert W. Baird & Co. - Analyst    [28]
+--------------------------------------------------------------------------------
+
+          Appreciate it all. And thanks for the update.
+
+--------------------------------------------------------------------------------
+Daniel Florness,  Fastenal Co - President, Chief Executive Officer, Director    [29]
+--------------------------------------------------------------------------------
+
+          Thanks, Dave.
+
+--------------------------------------------------------------------------------
+Operator    [30]
+--------------------------------------------------------------------------------
+
+          Ryan Merkel, William Blair.
+
+--------------------------------------------------------------------------------
+Ryan Merkel,  William Blair & Company LLC - Analyst    [31]
+--------------------------------------------------------------------------------
+
+          Hey, guys. Thanks. Thanks for taking the question. I just have one as well, and it's on the macro. So can you just level set us on the macro? Is it fair that the industrial economy has just slowed sort of slightly versus 1Q or is it more pronounced? That's the first part of the question. And then I'm hearing that it could stay a little weak until after the election. I know that's crystal ball stuff, but what do you think about that?
+
+--------------------------------------------------------------------------------
+Holden Lewis,  Fastenal Co - Chief Financial Officer, Senior Executive Vice President    [32]
+--------------------------------------------------------------------------------
+
+          I will say that in terms of regional feedback, I've probably got a few more comments about extended shutdowns, layoffs, things like that. It doesn't feel to me that the overall level of activity has changed. It does feel to me like our customers have decided to some extent, throw in the towel on the near term and make some adjustments to their cost structures in light of what has been a fairly lengthy downturn.
+So I don't feel like the floor has fallen any further, but I feel like customers are saying this could last longer than we expected and making cost adjustments to react to it. That's how I'd probably characterize it.
+In terms of the crystal ball, I don't know. It's I don't have a good answer for you. I'm afraid, as you know, we don't have a lot of forward visibility. You know that and I'm going to choose not to express an opinion about the elections. Dan, can feel free to. I'm not touching that one with a ten foot.
+
+--------------------------------------------------------------------------------
+Daniel Florness,  Fastenal Co - President, Chief Executive Officer, Director    [33]
+--------------------------------------------------------------------------------
+
+          Yeah, I get that. I was just sort of hearing that from some of the feedback and was just curious. Yes, RVPs, we're hearing that. Yes. I can tell you that Lowe's is from the election, I think his history.
+
+--------------------------------------------------------------------------------
+Holden Lewis,  Fastenal Co - Chief Financial Officer, Senior Executive Vice President    [34]
+--------------------------------------------------------------------------------
+
+          I can tell you that people say it goes up. And yes, I can tell you, Ryan, that we are getting a lot of feedback from the regionals that people are holding their powder until something gets resolved on the election, I'll leave it to the listeners to determine how much they think that is true, not true valid, not valid impact will not impact.
+
+--------------------------------------------------------------------------------
+Daniel Florness,  Fastenal Co - President, Chief Executive Officer, Director    [35]
+--------------------------------------------------------------------------------
+
+          No, I meant the election, but I won't because of the 10 political, I suspect there aren't too many customers out. There are players in the market that are expecting anything to wrap up for you. And so I think it will be fairly subdued reputation for predicting things. So I thought maybe you are good at that. But no, I can't predict that.
+
+--------------------------------------------------------------------------------
+Holden Lewis,  Fastenal Co - Chief Financial Officer, Senior Executive Vice President    [36]
+--------------------------------------------------------------------------------
+
+          Somebody's going to win the elections I suspect.
+
+--------------------------------------------------------------------------------
+Ryan Merkel,  William Blair & Company LLC - Analyst    [37]
+--------------------------------------------------------------------------------
+
+          Well, thanks, guys. I appreciate the color.
+
+--------------------------------------------------------------------------------
+Daniel Florness,  Fastenal Co - President, Chief Executive Officer, Director    [38]
+--------------------------------------------------------------------------------
+
+          It is the performance on the hour. Again, thank you for joining us on the call today. I want to extend to Jeff, his wife, Susan, and there are two children. Congratulations on the new role that new opportunity. And thanks, everybody. Have a good day.
+
+--------------------------------------------------------------------------------
+Operator    [39]
+--------------------------------------------------------------------------------
+
+          Thank you. This does conclude today's teleconference. We appreciate your participation. You may disconnect your lines at this time and enjoy the rest of your day.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2024 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------
