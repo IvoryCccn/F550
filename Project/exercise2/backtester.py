@@ -1,16 +1,17 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Sun Mar  1 15:51:00 2026
-
-@author: fabriziocoiai
+backtester.py  —  Modified for Exercise 2
+Changes vs original:
+  - Added compute_sharpe() static method
+  - Added print_summary() helper for clean comparison output
 """
-# backtester.py
 from __future__ import annotations
 
 from dataclasses import dataclass
 from typing import Dict, List, Optional
 import pandas as pd
+import numpy as np
 
 
 @dataclass
@@ -22,13 +23,7 @@ class BacktestConfig:
 
 
 class EventBacktester:
-    """
-    One-asset backtest that only asks the agent for a decision on event dates
-    (here: SEC filing dates), then holds until next event.
-    """        
-     
-    def __init__(self, prices: pd.Series, cfg: Optional[BacktestConfig] = None):
-        # Convert DataFrame to Series defensively
+    def __init__(self, prices: pd.Series, cfg=None):
         if isinstance(prices, pd.DataFrame):
             if "Close" in prices.columns:
                 prices = prices["Close"]
@@ -36,109 +31,100 @@ class EventBacktester:
                 prices = prices.iloc[:, 0]
             else:
                 raise ValueError(f"prices DataFrame must have Close or be single-column. Got {prices.columns}")
-
         prices.index = pd.to_datetime(prices.index)
         self.prices = prices.sort_index().astype(float)
-        self.cfg = cfg or BacktestConfig()  
-        
-    def run(
-        self,
-        *,
-        ticker: str,
-        agent,
-        valuation_inputs_by_event_date: Dict[pd.Timestamp, object],
-        
-    ) -> pd.DataFrame:
+        self.cfg = cfg or BacktestConfig()
+
+    def run(self, *, ticker, agent, valuation_inputs_by_event_date):
         cash = self.cfg.initial_cash
-        pos = 0.0
-        tc = self.cfg.transaction_cost_bps / 10_000.0
-
-        rows: List[dict] = []
-
-        last_score = None
-        last_conf = None
-        last_thesis = None
-        last_action = "hold"
+        pos  = 0.0
+        tc   = self.cfg.transaction_cost_bps / 10_000.0
+        rows = []
+        last_score, last_conf, last_thesis, last_action = None, None, None, "hold"
 
         for dt, px in self.prices.items():
             dt = pd.Timestamp(dt)
             px = float(px)
 
-            decision = None
-
             vin = valuation_inputs_by_event_date.get(dt)
             if vin is not None:
-                decision = agent.decide(vin)
-                action = decision.action
+                decision    = agent.decide(vin)
+                last_action = decision.action
 
-                if action == "buy":
+                if last_action == "buy":
                     trade_value = self.cfg.trade_size_units * px
                     cost = trade_value * tc
                     if cash >= trade_value + cost:
                         cash -= trade_value + cost
-                        pos += self.cfg.trade_size_units
-
-                elif action == "sell":
+                        pos  += self.cfg.trade_size_units
+                elif last_action == "sell":
                     if self.cfg.allow_short:
                         trade_value = self.cfg.trade_size_units * px
-                        cost = trade_value * tc
-                        cash += trade_value - cost
-                        pos -= self.cfg.trade_size_units
+                        cash += trade_value * (1 - tc)
+                        pos  -= self.cfg.trade_size_units
                     else:
                         if pos >= self.cfg.trade_size_units:
                             trade_value = self.cfg.trade_size_units * px
-                            cost = trade_value * tc
-                            cash += trade_value - cost
-                            pos -= self.cfg.trade_size_units
+                            cash += trade_value * (1 - tc)
+                            pos  -= self.cfg.trade_size_units
 
-                last_score = decision.score
-                last_conf = decision.confidence
+                last_score  = decision.score
+                last_conf   = decision.confidence
                 last_thesis = decision.thesis
-                last_action = decision.action
 
-            pv = cash + pos * px
-
-            rows.append({
-                "date": dt,
-                "ticker": ticker,
-                "price": px,
-                "action": last_action,
-                "position": pos,
-                "cash": cash,
-                "portfolio_value": pv,
-                "decision_score": last_score,
-                "decision_confidence": last_conf,
-                "decision_thesis": last_thesis,
-                })
+            rows.append({"date": dt, "ticker": ticker, "price": px,
+                         "action": last_action, "position": pos, "cash": cash,
+                         "portfolio_value": cash + pos * px,
+                         "decision_score": last_score,
+                         "decision_confidence": last_conf,
+                         "decision_thesis": last_thesis})
 
         df = pd.DataFrame(rows).set_index("date")
         df["returns"] = df["portfolio_value"].pct_change().fillna(0.0)
-        return df    
+        return df
 
-
-def compute_sharpe(df: pd.DataFrame, risk_free_rate: float = 0.05, trading_days: int = 252) -> float:
-    """
-    Compute annualised Sharpe Ratio from a backtest result DataFrame.
-    
-    Parameters
-    ----------
-    df : pd.DataFrame
-        Output of EventBacktester.run() — must contain a 'returns' column.
-    risk_free_rate : float
-        Annual risk-free rate (default 5%, approx US T-bill rate in 2024).
-    trading_days : int
-        Number of trading days per year (default 252).
-    
-    Returns
-    -------
-    float
-        Annualised Sharpe Ratio. Returns NaN if std is zero.
-    """
-    daily_returns = df["returns"].dropna()
-    if daily_returns.std() == 0:
-        return float("nan")
-    daily_rf = risk_free_rate / trading_days
-    excess = daily_returns - daily_rf
-    sharpe = (excess.mean() / excess.std()) * (trading_days ** 0.5)
-    return float(sharpe)
+    @staticmethod
+    def compute_sharpe(df, risk_free_rate_annual=0.05, trading_days_per_year=252):
+        """
+        Annualised Sharpe Ratio.
+        df must contain a 'returns' column.
+        risk_free_rate_annual: default 5% (US 2024 approx.)
+        """
+        rets = df["returns"].dropna()
+        if len(rets) < 2:
+            return float("nan")
         
+        pv = df["portfolio_value"].dropna()
+        if pv.max() - pv.min() < 1e-6:
+            return float("nan")
+        
+        rf_daily    = risk_free_rate_annual / trading_days_per_year
+        excess_rets = rets - rf_daily
+        std = excess_rets.std(ddof=1)
+        
+        if std < 1e-8 or np.isnan(std):
+            return float("nan")
+        
+        return float(excess_rets.mean() / std * np.sqrt(trading_days_per_year))
+
+    @staticmethod
+    def print_summary(label, df, sharpe, decisions=None):
+        init_val  = df["portfolio_value"].iloc[0]
+        final_val = df["portfolio_value"].iloc[-1]
+        total_ret = final_val / init_val - 1
+        print("=" * 60)
+        print(f"  {label}")
+        print("=" * 60)
+        print(f"  Period        : {df.index[0].date()} -> {df.index[-1].date()}")
+        print(f"  Initial value : ${init_val:,.0f}")
+        print(f"  Final value   : ${final_val:,.0f}")
+        print(f"  Total return  : {total_ret:+.2%}")
+        print(f"  Sharpe Ratio  : {sharpe:.4f}")
+        if decisions:
+            print()
+            print("  Decisions made:")
+            for d in decisions:
+                print(f"    [{d['date']}]  {d['action'].upper():4s}  conf={d['confidence']:.2f}  score={d['score']:+.2f}")
+                print(f"      Thesis: {d['thesis']}")
+        print("=" * 60)
+        print()
