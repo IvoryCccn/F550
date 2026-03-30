@@ -114,5 +114,31 @@ class EventBacktester:
         df = pd.DataFrame(rows).set_index("date")
         df["returns"] = df["portfolio_value"].pct_change().fillna(0.0)
         return df    
-        
+
+
+def compute_sharpe(df: pd.DataFrame, risk_free_rate: float = 0.05, trading_days: int = 252) -> float:
+    """
+    Compute annualised Sharpe Ratio from a backtest result DataFrame.
+    
+    Parameters
+    ----------
+    df : pd.DataFrame
+        Output of EventBacktester.run() — must contain a 'returns' column.
+    risk_free_rate : float
+        Annual risk-free rate (default 5%, approx US T-bill rate in 2024).
+    trading_days : int
+        Number of trading days per year (default 252).
+    
+    Returns
+    -------
+    float
+        Annualised Sharpe Ratio. Returns NaN if std is zero.
+    """
+    daily_returns = df["returns"].dropna()
+    if daily_returns.std() == 0:
+        return float("nan")
+    daily_rf = risk_free_rate / trading_days
+    excess = daily_returns - daily_rf
+    sharpe = (excess.mean() / excess.std()) * (trading_days ** 0.5)
+    return float(sharpe)
         

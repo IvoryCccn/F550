@@ -25,6 +25,11 @@ class ValuationInputs:
     market_cap: Optional[float]
     shares_outstanding: Optional[float]
     quarter_table: pd.DataFrame
+    # Exercise 2 additions
+    sentiment_lm: Optional[float] = None        # Loughran-McDonald score
+    sentiment_finbert: Optional[float] = None   # FinBERT score
+    sentiment_gpt: Optional[float] = None       # GPT intensity score (0-10)
+    recent_prices: Optional[List[float]] = None # Last 5 trading days prices
 
 
 @dataclass
@@ -86,11 +91,10 @@ class ValuationAgent:
                 "p_fcf": None,
             }
 
-        eligible = q[q["filed"].notna() & (q["filed"] <= vin.asof)]
-        if eligible.empty:
-            eligible = q
-        last_end = eligible["end"].max()
-
+        cutoff_end = vin.asof - pd.Timedelta(days=45)
+        last_end = q[q["end"] <= cutoff_end]["end"].max()
+        if pd.isna(last_end):
+            last_end = q["end"].max()
         ttm = ttm_from_quarters(q, pd.Timestamp(last_end))
 
         # Point-in-time market cap using point-in-time shares if possible
@@ -213,6 +217,25 @@ class ValuationAgent:
                 metrics=metrics,
             )
 
+        # Recent prices block
+        if vin.recent_prices:
+            prices_str = ", ".join(f"{float(p):.2f}" for p in vin.recent_prices)
+            recent_prices_block = f"Recent 5-day prices (oldest→latest): {prices_str}"
+        else:
+            recent_prices_block = "Recent 5-day prices: not available"
+
+        # Sentiment block (only included if sentiment data is present)
+        if vin.sentiment_lm is not None:
+            sentiment_block = f"""
+Earnings Call Sentiment Indicators (from Exercise 1 NLP analysis):
+- Loughran-McDonald Score: {vin.sentiment_lm:.4f}  (range -1..+1, higher = more positive)
+- FinBERT Score: {vin.sentiment_finbert:.4f}  (range -1..+1, higher = more positive)
+- GPT Intensity Score: {vin.sentiment_gpt:.2f}  (range 0..10, higher = stronger positive sentiment)
+Note: These scores are derived from NVIDIA earnings call transcripts using NLP methods.
+"""
+        else:
+            sentiment_block = ""
+
         prompt = f"""
 You are a valuation-focused equity analyst.
 
@@ -232,8 +255,10 @@ Point-in-time valuation metrics:
 - P/E: {metrics.get("pe")}
 - P/FCF: {metrics.get("p_fcf")}
 
-Rule-based valuation prior (range -1..+1): {prior}
+{recent_prices_block}
 
+Rule-based valuation prior (range -1..+1): {prior}
+{sentiment_block}
 Retrieved filing context:
 {filing_context}
 
