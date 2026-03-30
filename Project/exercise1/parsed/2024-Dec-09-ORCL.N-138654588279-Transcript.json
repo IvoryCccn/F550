@@ -4,5 +4,230 @@
   "quarter": "2024Q3",
   "sector": "IT",
   "filename": "2024-Dec-09-ORCL.N-138654588279-Transcript.pdf",
-  "segments": []
+  "segments": [
+    {
+      "speaker": "John DiFucci Guggenheim Securities",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Operator Thank you for standing by and welcome to the Oracle Corporation second quarter, fiscal year 2025 earnings conference call. (Operator Instructions) Thank you. I'd now like to turn the call over to Ken Bond head of Investor relations. You may begin."
+    },
+    {
+      "speaker": "Ken Bond Oracle",
+      "company": "Corp",
+      "role": "Investor Relation",
+      "speaker_type": "other",
+      "section": "presentation",
+      "text": "Thank you, Rob. And good afternoon, everyone and welcome to Oracle's second quarter fiscal year 2025 earnings conference call. A copy of the press release and financial tables which includes a GAAP to non-GAAP reconciliation and other supplemental financial information can be viewed and downloaded from our investor relations website. Additionally, a list of many customers who purchased Oracle Cloud services or went live on Oracle Cloud recently will be available from our investor relations website as well. On the call today are Chairman and Chief Technology Officer, Larry Ellison; and Chief Executive Officer Safra Catz. As a reminder, today's discussion will include forward-looking statements, including predictions, expectations, estimates or other information that might be considered forward-looking. Throughout today's discussion, we will present some important factors relating to our business which may potentially affect these forward-looking statements. And these forward-looking statements are also subject to risks and uncertainties that may cause actual results to differ materially from statements being made today. As a result, we caution you from placing undue reliance on these forward-looking statements and we encourage you to review our most recent reports including our 10-K and 10-Q and any applicable amendments for complete discussion of these factors and other risks that may affect our future results or the market price of our stock. And finally, we are not obligating ourselves to revise our results or these forward-looking statements in light of new information or future events. Before taking questions, we'll begin with a few prepared remarks. And with that, I'd like to turn the call over to Safra."
+    },
+    {
+      "speaker": "Safra Catz Oracle",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Principal Financial Officer, Director",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thanks Ken, and good afternoon, everyone. Q2 was another excellent quarter with total revenue at the high end of my constant currency guidance and EPS was actually a cent above the high end. These results are being driven by the fact that our largest revenue component, cloud services and license support now represents 77% of total revenue and is also our fastest growing line item, which in turn is driving the acceleration of overall revenue growth. We expect cloud revenue to reach $25 billion this fiscal year. This is happening for several reasons. First, our cloud is faster and thus less affiliated companies. DECEMBER 09, 2024 / 10:00PM GMT, Q2 2025 Oracle Corp Earnings Call expensive than other clouds. We remain the preferred cloud for AI workloads as well as for non-GPU cloud infrastructure services. In addition, our ability to deploy our cloud in many sizes gives our customers flexibility and our multicloud agreements with Microsoft, Google and AWS provide customers more choice in how they can migrate their Oracle databases to the cloud. And our strategic SaaS applications continue to grow rapidly, and we are also seeing more of our industry based cloud applications come online which immediately contribute to revenue growth. You can see all of this in the momentum in the acceleration of our cloud growth and the 50% growth of our $97 billion RPO number remaining performance obligation. And today, we're telling you again, that revenue growth will accelerate further in the coming quarters. Turning to Q2. And I want to remind you that our quarter ended on Saturday a week ago, and here we are announcing our results and that's only possible because we use Oracle fusion. Now as for the numbers, we saw all segments exceeding our internal forecast. Now as the dollar strengthened in the quarter, the 1% currency benefit for total revenue and the $0.02 to $0.03 benefit for EPS that were present in my August guidance retreated with total revenue and EPS in Q2 essentially unaffected by currency movements. As usual, as I go over things today, I'll be discussing our financials using constant currency growth rate and this is how we manage the business. So here it goes. Total cloud revenue that SaaS and IAS were up 24% at $5.9 billion, with SaaS revenue of $3.5 billion, up 10% and IAS revenue of $2.4 billion, up 52% on top of the 50% growth reported last year. As a reminder, we exited the advertising business last quarter which had the effect of lowering the total cloud revenue growth by 2% this quarter. Total cloud services and license support for the quarter was $10.8 billion, up 12% driven again by OCI our strategic cloud applications and autonomous database. Infrastructure subscription revenues which include license support worth $6 billion, up 17%. Record level AI demand drove Oracle Cloud infrastructure revenue up 52%. But excluding legacy hosting infrastructure, cloud services revenue was up 55%. Our infrastructure cloud services now have an annualized revenue of $9.7 billion. OCI consumption revenue was up 58% as demand continues to outstrip supply. Growth in the AI segment of our infrastructure business was extraordinary, GPU consumption was up 336% in the quarter, and we delivered the world's largest and fastest AI supercomputer scaling up to 65,000, NVIDIA H200 GPUs. Cloud database services which were up 28% and now have an annualized revenue of $2.2 billion. As on premise, databases migrate to the cloud on OCI either directly or through our database at cloud services with Azure, Google, and AWS, we expect the cloud database revenues collectively will be the third leg of revenue growth alongside OCI and strategics SaaS. We currently -- we are currently live in 17 cloud regions with database at cloud services and have another 35 planned with Azure, Google, and AWS. Database subscription services which include database license support were up 5%. Application subscription revenues which includes product support were $4.8 billion and up 7%. Our strategic back-office SaaS applications now have annualized revenue of $8.4 billion and were up 18%. Software license revenues were up 3% to $1.2 billion including Java which saw excellent growth. So all in total revenues for the quarter were $14.1 billion, up 9% from last year. Now, shifting to gross profit and operating income. The gross profit dollars of cloud services and license support grew 9% in Q2, as our cloud businesses continue to scale the gross margins of both cloud applications and cloud infrastructure have each been trending higher. We continue to display expense discipline which of course we're known for, especially with R&D sales and marketing and G&A expenses which collectively continue to grow slower than revenue. A trend that I expect to continue. The Q2 operating income grew 10%, and the operating margin was 43%, up 60 basis points from last year. The non-GAAP tax rate for the quarter was actually 20.1% which is higher than my 19% guidance. Even if the higher tax rate lowered EPS by $0.02, we still hit the affiliated companies. DECEMBER 09, 2024 / 10:00PM GMT, Q2 2025 Oracle Corp Earnings Call high end of my constant currency guidance. Absolutely, we did that. The non-GAAP EPS was a $1.47, in US Dollars up 10% in USD and 10% in constant currency. The GAAP EPS was a $1.10 in USD, and that's up 24% in USD and 23% in constant currency. At quarter end, we had $11.3 billion in cash and marketable securities. The short term deferred revenue balance was $9.4 billion, up 8%. With CapEx at $4 billion for the quarter free cash flow was negative $2.7 billion and operating cash flow was positive $1.3 billion. Given the demand that you see in our RPO numbers and the additional demand we see in our pipeline, I expect fiscal year 2025 CapEx will be double what it was in fiscal year FY24. As always, we remain careful to pace and align our CapEx investments appropriately and in line with booking trends. On a trailing 12-month basis, operating cash flow was up 19% at $20.3 billion and free cash flow was $9.5 billion. Our remaining performance obligation or RPO is now at $97.3 billion, up 50% in constant currency and reflects the growing trend of customers wanting larger and longer contract. As they see firsthand how Oracle Cloud services are benefiting their businesses. Further, our cloud RPO grew near -- our cloud RPO grew nearly 80% and now represents nearly three-fourth of total RPO. Approximately 39% of the total RPO is expected to be recognized as revenue over the next 12 months. And we continue to see the growth of current RPO accelerate. We have now about 98 cloud regions live and many more to follow. That we have more cloud regions than any of the other hyper scalar reflects the strategic advantage of our Gen 2 architecture. We can start a new cloud region with a handful of racks and then scale up with customer demands. Additionally, our data centers are highly automated and identical in features and function varying only in scale. This sizing flexibility and deployment optionality of our cloud regions continue to be a significant advantage for us. As we've said before, we're committed to returning value to our shareholders through technical innovation acquisitions, stock repurchases, prudent use of debt, and a dividend. This quarter, we repurchase nearly a million shares for a total of $150 million. In addition, we paid out dividends of $4.4 billion over the last 12 months. And the Board of Directors again declared a quarterly dividend of $0.40 per share. Before I dive into specific Q3 guidance, I'd like to share some overarching thoughts about the financial benefits I expect we will see over the coming quarters and years. To start, we continue to see excellent demand for our cloud services which you see in our RPO growth. And while this growth is stellar, our pipeline is actually growing even faster and our win rates are growing higher with the recent win at meta being a prime example of why we expect that our RPO balance will climb again Q3. Meta was not booked in the Q2 quarter only in Q3. In fiscal year 2024, we signed some big deals, and many have begun to generate revenue. We expect that those will continue to ramp higher in the second half and be a key contributor to revenue growth acceleration this year and next. For fiscal year 2025, we remain very confident and committed to full year total revenue growing double digit, and full year total cloud infrastructure growing faster than the 50% reported last year. Okay. Let me now turn to guidance, which I'll review on a non-GAAP basis. In terms of currency, we've seen a dramatic shift due to significant strengthening of the US dollar. To put this in perspective in Q2 weeks, our expected currency to have a 3% positive effect on EPS for Q3 assuming exchange rates remain the same as they are now. Currency should have a $0.03 negative effect on EPS, and a 2% negative effect on revenue. However, as the dollar strengthened, it may not hold out the whole quarter and may be different. affiliated companies. DECEMBER 09, 2024 / 10:00PM GMT, Q2 2025 Oracle Corp Earnings Call All right. Total revenues are expected to grow from 9% to 11% in constant currency and are expected to grow from 7% to 9% in USD at today's exchange rate. Total cloud revenue is expected to grow from 25% to 27% in constant currency and is expected to grow from 23% to 25% in USD. non-GAAP EPS is expected to grow between 7% to 9% and be between a $1.50 and $1.54 in constant currency. non-GAAP EPS is expected to grow between 4% to 6% and be between a [$1.47 and $1.51 in USD]. I should mention that my Q3, EPS guidance is negatively impacted by a $0.05 -- by $0.05 due to an investment loss in another company that we are a partial owner of. Lastly, my EPS guidance for Q3 assumes a base tax rate of 19%. However, like in Q2 onetime tax events and other things can cause actual tax rates to vary. And with that, I'll turn it over to Larry for his comments."
+    },
+    {
+      "speaker": "Lawrence Ellison Oracle",
+      "company": "Corp",
+      "role": "Chairman of the Board, Founder, Chief Technology Officer",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thank you, Safra. Oracle Cloud infrastructure trains several of the world's most important generative AI models. Our major AI customers include Open AI; xAI; NVIDIA; Cohere; and most recently Meta with their large-scale Llama models. Oracle continues to win large AI training workloads because we're faster and less expensive than the other infrastructure clouds. And we just extended our AI performance advantage by delivering the largest and fastest AI supercomputer in the world, scaling up to 65,000, NVIDIA H200 GPUs. The Oracle Cloud trains dozens of AI models and embeds hundreds of AI agents in cloud applications. Oracle AI agents, automate drug design, image and genomic analysis for cancer diagnostics, audio updates to electronic health records for patient care, satellite image analysis to predict and improve agricultural output, fraud and money laundering detection, dual factor biometric computer log ins, and real time video weapons detection in schools. Furthermore, the vector capabilities of the new AI version of our database Oracle 23 AI enables our customers to easily use their existing data in their existing databases to augment and specialize the training of industry standard generative AI models like ChatGPT, Groq and Llama. The Oracle Cloud and the Oracle 23 AI vector database makes it easy for our customers to build their own AI agents and use their own data to reap the benefits of the AI revolution. Oracle is training AI models and developing AI agents that will improve the rate of scientific discovery and economic development and corporate growth throughout the world. The scale of this opportunity is unimaginable. As Safra said, this fiscal year, total Oracle Cloud revenue should top $25 billion, and this is just the beginning of the beginning. Thank you."
+    },
+    {
+      "speaker": "Ken Bond Oracle",
+      "company": "Corp",
+      "role": "Investor Relation",
+      "speaker_type": "other",
+      "section": "qa",
+      "text": "Thank you, Larry. Rob, if you could please pull the audience for questions. Operator (Operator Instructions) Mark Moerdler, Bernstein."
+    },
+    {
+      "speaker": "Mark Moerdler",
+      "company": "Bernstein",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you very much for taking my question and congratulations on the quarter. I'd like to gain better insight into OCI. OCI is designed differently from its larger peer’s deliverable in just 10 and shortly, three racks of servers. You explain how the architectural difference impacts how you build and deliver OCI racks and how it will impact how many data center regions you could have compared to your peers. And then how might this affect your CapEx growth over the next five years? Thanks. affiliated companies. DECEMBER 09, 2024 / 10:00PM GMT, Q2 2025 Oracle Corp Earnings Call"
+    },
+    {
+      "speaker": "Lawrence Ellison Oracle",
+      "company": "Corp",
+      "role": "Chairman of the Board, Founder, Chief Technology Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Okay. Well, all the data centers are the same racks. So you could think of this completely modular. We have a basic rack and to build a region takes six racks the smallest region we can build. So our racks, started under 50 kilowatts and our biggest data center. So -- so our basic small data centers, 50 kilowatts and our data centers with the largest data center we're currently building now is 1.6 gigawatts. So that's quite a range, 50 -- 50 megawatts to 11.6 gigawatts. And when we build them and we put them in inventory, the racks are pretty much the same. So it's very easy for us to manufacture these it's lower cost to manufacture these, the inventory is less because they're all kind of the same. Furthermore, every cloud region has all of our services. They all have all, but they have all the same services. So it's easy for customers. We don't have to provision like our competitors do. Our competitors have some of their services in some regions and some of their services in other regions. We have all of our services in all of our regions, even though we are both smaller in terms of the smallest region and larger in terms of our largest region than our competitors. When all of our racks are the same and all of our services are the same. They become very easy, or I should say easier to automate, they're all identical. We have one suite of automation tools that works in all 100 of our current regions. And it makes it possible because of the high degree of automation to run not dozens of regions, but hundreds or even theoretically, thousands of regions are individual customers are dedicating their own region. Individual customer are buying complete Oracle regions and installing them. If you what seems like it would be on premise though it is a full Oracle Cloud region just happens to be in a dedicated data center to that customer. We are selling a lot of those as well. So it allows us to address a market that our competitors can't reach. So standardization, automation and the small, -- from the smallest to the largest data centers give us a huge advantage in competing in this marketplace."
+    },
+    {
+      "speaker": "Safra Catz Oracle",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Principal Financial Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "On the CapEx side that what we can do since our competitors always have to land with extremely large footprints before they can even get started. We can land with smaller footprints, have consumption and expand as customers need it. And this allows us to really match our Capital expenditure with ultimately our revenue because it only we don't have to spend a long time with empty centers because we literally can start small and just fill them up as our customers are consuming. And I think this is really something that is expressed also in the profitability of our cloud and keeps showing up because of that."
+    },
+    {
+      "speaker": "Mark Moerdler",
+      "company": "Bernstein",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "It's extremely helpful. I really do appreciate it. Thank you. Operator Siti Panigrahi, Mizuho."
+    },
+    {
+      "speaker": "Siti Panigrahi Mizuho",
+      "company": "Securities",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks for taking my question. It's impressive to see OCI growth 52% and even database as a service up 28%. So as you execute on your multi cloud strategy, can you provide some color on the database migration to cloud or even database as service traction? And what are you hearing from customer as they prepare to migrate On-Prem database to cloud? And how should we think about the contribution to revenue going forward?"
+    },
+    {
+      "speaker": "Safra Catz Oracle",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Principal Financial Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "(multiple speakers) All right. Let me start. As I mentioned, and as you caught in my talking 28% it's now annualized revenue, just the cloud database services of $2.2 billion. And imagine most of -- that is mostly it nearly entirely OCI without even the database app at AWS and Azure and Google. That also though has grown from zero to 100 million plus run rate already past 100 million and will be hundreds of millions probably as an exit. affiliated companies. DECEMBER 09, 2024 / 10:00PM GMT, Q2 2025 Oracle Corp Earnings Call So these cloud regions have only started opening, as I mentioned though, we do now have 17 open and twice as many openings. So I think what you're going to see is the database as it moves as it moves to the cloud is really only at the beginning. In addition, though I want to remind you that clouded customers, and our alloy partners are also contributing to this. And we have an enormous pipeline of customers who want to bring their databases to the cloud. But one of, -- but a number of them want to do it in their own dedicated regions that are just their own for either regulatory reasons or sovereignty reasons. Again and offering that only we have that none of our competitors have."
+    },
+    {
+      "speaker": "Lawrence Ellison Oracle",
+      "company": "Corp",
+      "role": "Chairman of the Board, Founder, Chief Technology Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. Again, Microsoft is the only partner where we, -- where the contract is more than a year old. So Google is much more recent than AWS, even more recent than Google. So we're at the very beginning of multi cloud. And as Safra said, it's going to exit well over $100 million in its first year. The first year starting when we got AWS when we had all three, it will be a multibillion dollar business and it'll be a combination of AWS and Google and Azure plus all of these cloud at customer dedicated region cloud at customer. We're going to have hundreds of those regions. We with the demand for from individual customers, large banks, telecommunication companies, building half a dozen or so data centers, they want us to build a half a dozen data centers sometimes more inside their own dedicated facilities. So they'll run the Oracle Cloud in dedicated regions. And again, we'll end up with hundreds of those and it clearly is going to be a multi, -- a very large, rapidly growing multibillion dollar business for us."
+    },
+    {
+      "speaker": "Siti Panigrahi Mizuho",
+      "company": "Securities",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "That's great color. Thanks, Larry and Safra."
+    },
+    {
+      "speaker": "Safra Catz Oracle",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Principal Financial Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you. Ken, I think I misspoke. Could you actually say the line correctly that I was supposed to say about guidance?"
+    },
+    {
+      "speaker": "Ken Bond Oracle",
+      "company": "Corp",
+      "role": "Investor Relation",
+      "speaker_type": "other",
+      "section": "qa",
+      "text": "Sure, absolutely. non-GAAP EPS is expected to grow between 4% to 6% and be between $1.47 and $1.51 in US Dollar. Thank you."
+    },
+    {
+      "speaker": "Safra Catz Oracle",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Principal Financial Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "-- I don't know what I said exactly, but that is correct. Operator Brad Zelnick, Deutsche Bank."
+    },
+    {
+      "speaker": "Brad Zelnick Deutsche Bank",
+      "company": "AG",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. Thank you. And congrats on the continued acceleration at scale. Larry as Oracle leads with larger and larger GPU clusters. There's healthy industry debate around scaling laws with Elon Musk allegedly pushing the envelope of what's possible. I'm curious to hear your perspective as to whether there's diminishing returns on the amount of compute thrown at model training and Oracle's ongoing leadership in AI infrastructure and GPU super clusters. Thanks."
+    },
+    {
+      "speaker": "Lawrence Ellison Oracle",
+      "company": "Corp",
+      "role": "Chairman of the Board, Founder, Chief Technology Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Well, there's two elements to speeding up training. One is building larger and larger GPU clusters made up of faster and faster GPUs. So it's a GPU cluster itself. The second element something Oracle has been very, very focused on is building networks that rapidly move large volumes of data into those GPU clusters. affiliated companies. DECEMBER 09, 2024 / 10:00PM GMT, Q2 2025 Oracle Corp Earnings Call As you make these GPU clusters larger and faster, it's putting more and more demands on the network to be able to move huge amounts of data into those GPU clusters. So the GPU clusters, I'm sitting there waiting for the data. If they're sitting there, waiting for the data. It becomes very inefficient. You pay if you're paying by the minute and half the time, half of thirty seconds, you don't have the data available. Obviously, that's a scaling problem. I -- and that's an economic problem and that's a performance problem. Oracle differentiate itself in its data centers by investing heavily in building networks. And by the way, switch software, all sorts of network software and network hardware to move data more quickly, we think will be -- The demand is really as the GPU questions get bigger and faster the demand. The critical thing is for us to be able to move the data faster. And we are investing heavily in that, and we think we're going to maintain our advantage there and that will as we make our networks faster. The AI training will get faster. If we don't, if no one makes the networking faster, then I think there's a potential bottleneck, but we're trying to avoid that bottleneck by speeding up our networking."
+    },
+    {
+      "speaker": "Brad Zelnick Deutsche Bank",
+      "company": "AG",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you. Operator Raimo Lenschow, Barclays."
+    },
+    {
+      "speaker": "Raimo Lenschow",
+      "company": "Barclays",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Perfect. Thank you. Can I shift gear a little bit and go back to the SaaS part of the business? And if you look there, if you look at your growth rates, I mean, we're at kind of a late-stage point of the cycle where people usually don't look at that back-office systems, but you guys putting up like really solid growth numbers there, you are outgrowing the peers. Can you talk a little bit of what's going on there? Thank you."
+    },
+    {
+      "speaker": "Safra Catz Oracle",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Principal Financial Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Actually, I don't agree with you that folks aren't looking at their back-office systems. In fact, I think there's enormous amount of pressure to be more efficient for many companies. They, -- the competition is fierce in almost, in basically all industries right now. And as companies, when they look at us, for example, that's why I always point out that it's what is it day nine and that includes three weekends, three weekend days since our quarter closed, that just shows how efficient you can be in running your operations. And a lot of company executives actually come up to me and say we need to do that. We need to do more and spend a lot less doing it. And we see enormous, -- it really enormous pipeline in customers who understand that they can first automate and simplify their own businesses to spend less. So they can invest in the things that differentiate them. But there's also enormous interest in using their data for AI and using those systems. We have, I don't know, dozens and dozens of AI agents that can really help companies spend a lot less and really do a better job serving their customers. So we find enormous interest in this area and no one has the capability and the data and the AI capability that Oracle can bring to a customer. So actually, I think it's been one of the most exciting times in back office and in front office too, we have even our front office systems also taking advantage of so many of our capabilities for our customers. So this has been a great time. And in fact, our booking trends which you don't see yet in revenues because we wait until they're implemented, our booking trends have taken a market step up. We were going over those just today and they've accelerated from last year quite significantly. affiliated companies. DECEMBER 09, 2024 / 10:00PM GMT, Q2 2025 Oracle Corp Earnings Call"
+    },
+    {
+      "speaker": "Raimo Lenschow",
+      "company": "Barclays",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. Thank you. Operator Kirk Materne, Evercore ISI."
+    },
+    {
+      "speaker": "Kirk Materne Evercore",
+      "company": "ISI",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yes, thanks very much. And congrats on the results. Safra, you talked a little bit about the pipeline strength at the end of your prepared comments. Can you just talk about your line of sight in terms of capacity coming online so that you all can recognize some of the revenue that's associated with the demand that you're seeing specifically around on the OCI side. Thanks."
+    },
+    {
+      "speaker": "Safra Catz Oracle",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Principal Financial Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. So the second half of this year is and especially, well, the second half we're in it is going to see a lot of capacity come online that we've been waiting for and that we've been working on. So we expect that you're going to see that turning into revenues, this is everything accelerating even more. And in addition, though we also expect our RPO to start moving up the actual base RPO number, which is of course up 50% year-over-year. But the number itself, we expect it to spike in this quarter and for the end of the year. So we expect both capacity to come online for our customers, which it is. And so it'll burn down some of our RPO, but we also simultaneously expect to sign a number of very large contracts to that will make our RPO number go up too. Operator John DiFucci, Guggenheim Securities."
+    },
+    {
+      "speaker": "John DiFucci Guggenheim Securities",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you. Safra, you've shown us, I'm going to switch gears a little bit and go down to the bottom line here versus the top line. You've shown us for years that Oracle is not going to do what I'll call empty business that, that you don't make good profit on. It's been a while, but you've previously said that OCI gross margins have improved consistently. And I think you just mentioned it again your prepared remarks and I think the last time you actually threw out a number was a while ago, but it was in the low-30s for gross margins for OCI and that was several quarters ago. Can you give us an update on the progress of that? Especially given the massive growth you're seeing."
+    },
+    {
+      "speaker": "Safra Catz Oracle",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Principal Financial Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "It's really amazing, but we are continuing to benefit from a number of things in OCI. So our gross margin percentage continues to improve. And I know that many of you think that GPU business or OCI based infrastructure business, it is not as profitable and yet our margins in that business just continue to improve because of the number of things that Larry mentioned, for example, the way we run our cloud, the way we set up our cloud, everything is automated, everything is run because we are a software company to the core, we're always optimizing our software capabilities which give us really enormous leverage. The -- our operating margins in OCI again improved and it's just going to, it's been really fantastic. So they improve in OCI, our SaaS margins improved, everything is improving with scale for us even in, -- even as we're investing. So we just, -- it just continues to improve."
+    },
+    {
+      "speaker": "John DiFucci Guggenheim Securities",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "That's great to hear and we continue to watch closely. So thank you."
+    },
+    {
+      "speaker": "Ken Bond Oracle",
+      "company": "Corp",
+      "role": "Investor Relation",
+      "speaker_type": "other",
+      "section": "qa",
+      "text": "Thank you John, a telephonic replay of this conference call will be available for 24 hours on our investor relations website. Thank you for joining us the call today. affiliated companies. DECEMBER 09, 2024 / 10:00PM GMT, Q2 2025 Oracle Corp Earnings Call With that, I'll turn the call back to Rob for closing. Operator This concludes today's conference call. Thank you for your participation. You may now disconnect. In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. affiliated companies."
+    }
+  ]
 }

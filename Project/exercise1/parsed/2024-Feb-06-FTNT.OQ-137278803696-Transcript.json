@@ -4,5 +4,366 @@
   "quarter": "2023Q4",
   "sector": "IT",
   "filename": "2024-Feb-06-FTNT.OQ-137278803696-Transcript.pdf",
-  "segments": []
+  "segments": [
+    {
+      "speaker": "Peter M. Salkowski",
+      "company": "Fortinet, Inc.",
+      "role": "SVP of Finance & IR",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Adam Tyler Tindle Raymond James & Associates, Inc., Research Division - Senior Research Associate"
+    },
+    {
+      "speaker": "Hamza Fodderwala Morgan",
+      "company": "Stanley, Research Division",
+      "role": "Equity Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Ittai Kidron Oppenheimer & Co. Inc., Research Division - MD"
+    },
+    {
+      "speaker": "Tal Liani BofA",
+      "company": "Securities, Research Division",
+      "role": "MD, Head of Technology Supersector & Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Operator Good day, and thank you for standing by. Welcome to the Fortinet Fourth Quarter 2023 Earnings Announcement. (Operator Instructions) Please be advised that today's conference is being recorded. I'd now like to hand the conference over to your host today, Peter Salkowski, Senior Vice President of Investor Relations. Please go ahead."
+    },
+    {
+      "speaker": "Peter M. Salkowski",
+      "company": "Fortinet, Inc.",
+      "role": "SVP of Finance & IR",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thank you, Liz. Good afternoon, everyone. This is Peter Salkowski, Senior Vice President of Finance and Investor Relations at Fortinet. I'm pleased to welcome everyone to our call to discuss Fortinet's financial results for the fourth quarter of 2023. Joining me on today's call are Ken Xie, Fortinet's Founder, Chairman and CEO; Keith Jensen, our Chief Financial Officer; and John Whittle, our Chief Operating Officer. This is a live call that will be available for replay via webcast on our Investor Relations website. Ken will begin our call today by providing a high-level perspective on our business. Keith will then review our financial and operating results for the full year and the fourth quarter of 2023 before providing guidance for the first year -- first quarter of 2024 and the full year. We'll then open the call for questions. During the Q&A session, we ask that you please limit yourself to one question and one follow-up question to allow others to participate. Before we begin, I'd like to remind everyone that on today's call, we will be making forward-looking statements, and these forward-looking statements are subject to risks and uncertainties, which could cause actual results to differ materially from those projected. Please refer to our SEC filings, in particular, the risk factors in our most recent Form 10-K and Form 10-Q for more information. All forward-looking statements reflect our opinions only as of the date of this presentation, and we undertake no obligation and specifically disclaim any obligation to update forward-looking statements. Also, all references to financial metrics that we make on today's call are non-GAAP, unless stated otherwise. Our GAAP results and our GAAP to non-GAAP reconciliations are located in our earnings press release and in the presentation that accompany today's remarks, both of which are posted on the Investor Relations website. The prepared remarks for today's earnings call will be posted in the Quarterly Earnings section of our Investor Relations website immediately following the call. Lastly, all references to growth are on a year-over-year basis unless noted otherwise. I will now turn the call over to Ken. affiliated companies. FEBRUARY 06, 2024 / 9:30PM GMT, Q4 2023 Fortinet Inc Earnings Call"
+    },
+    {
+      "speaker": "Ken Xie",
+      "company": "Fortinet, Inc.",
+      "role": "Founder, Chairman & CEO",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thank you, Peter, and thank you to everyone for joining our call. In Q4, total billings grew 8.5% to $1.9 billion, driven by our increased focus on secure ops, SASE and improved execution for our sales team. We closed 6 8-figure deals across 5 industry verticals. All 6 of these transactions, including all 3 of our SASE, secure ops and secure networking solutions, illustrating our value of our integrated platform that spans across on-premise and cloud as well as our FortiASIC technology advantages. Fortinet's total addressable market across secure ops, SASE and secure networking is expected to increase from $150 billion in 2024 to $208 billion by 2027. Our customer base consists of 76% of Fortune 100, including 9 of the top 10 technology companies, 9 of the top 10 manufacturers and 9 of the top 10 health care. Our secure ops billing grew 44%, accounted for 11% of total billings with strong performance from several solutions, including EDR, SIEM, e-mail security and NDR, to automatically detect, investigate and respond to threats. Unified SASE billings grew 19%, accounted for 21% of total billings. We believe Fortinet is the only company with a unified SASE solution all integrated into single FortiOS that includes a full networking and security stack consisting of market-leading SD-WAN, ZTNA, Secure Web Gateway, CASB and firewall-as-a-service designed for on-premise and cloud. Our FortiSASE solution is gaining momentum quickly as we closed our first 8-figure SASE deal for 350,000 seats. In Q4, we added 40 new features to our SASE solution, including support for over 150 PoP solution -- 150 PoP locations worldwide and the ability to protect thin edge devices. We see a huge opportunity to attach FortiSASE to tens of thousands SD-WAN customers. Secure networking accounted for 68% of billings and represents our largest addressable market. Garner expects the secure networking market to overtake the traditional networking market by 2030. Fortinet is the #1 network security vendor with over half the global firewall deployment. In addition to physical firewall, we offer virtual, cloud-native and firewall-as-a-service solution, all based on our FortiOS operation system, consolidate over 30 networking and security function together. Converged security and networking require more specialized computing power than traditional networking. Our FortiASIC-powered FortiGate delivers 3 to 10x more performance as indicated by secure computing rating with every new FortiGate product release. The latest FortiASIC SP5-based FortiGate70G with dual 5G in ruggedized format secure device within operational technology environment, it is off a great start as a Fortune 50 company signed an 8-figure operation technology deal featuring this new FortiGate in the fourth quarter. Also included with our FortiOS operating system is a fully featured access point controller. Recently, we announced a new secure access point product, making us the first vendor to announce a business-grade WiFi 7 product. Fortinet has consistently been an innovative cybersecurity company, and this earnings call won't be complete without a few words about our AI. We have invested heavily in AI across every function and product. For over a decade, Fortinet has used machine learning and AI to provide advanced threat intelligence across more than 40 products from network, endpoint and application security. Our solutions apply AI and machine learning across expanded digital attack surface automatically, containing and remediating incidents within seconds where the industry average for detection and remediation takes several days. We have also been applying gen AI technology across our entire product line, allowing customers to optimize the security effectiveness and operational efficiency. FortiAI is already available on FortiSIEM and FortiSOAR, and more products will be adding this function in the coming months. Before turning the call over to Keith, I would like to thank our employees, customers, partners and suppliers worldwide for their continued support and hard work."
+    },
+    {
+      "speaker": "Keith F. Jensen",
+      "company": "Fortinet, Inc.",
+      "role": "CFO & CAO",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thank you, Ken, and good afternoon, everyone. As Ken mentioned, billings grew 8.5%, driven by improved sales execution and early returns on our SASE and SecOp investments. The quarter benefited from what we saw as a muted seasonal budget flush and certain affiliated companies. FEBRUARY 06, 2024 / 9:30PM GMT, Q4 2023 Fortinet Inc Earnings Call deals that had pushed from earlier quarters closing in the fourth quarter, driving a record 6 transactions, each of which were over $10 million. For these exceptionally large transactions, secure networking was 75% of the billings mix, while SecOps and SASE combined for another 20% plus, illustrating these companies' long-term commitment to both firewall and consolidation strategies. Taking a closer look at 3 of these 8-figure deals. One of these deals included mid-7 figures for SecOps and another mid-7 figures for SASE. The SASE solution covers a planned 350,000-user deployment at a top U.S. school district to provide a safe learning environment for students regardless of their physical location. We won this deal because of our operating systems ability to integrate 30-plus networking and security functions across SecOps, SASE and secure networking into a single unified platform providing consistent policies and automated responses. Our vision encompasses creating a secure foundation for our customers, allowing them to navigate today's evolving digital landscape with confidence while empowering them to embrace innovation without compromising security. Illustrating this vision, in another 8-figure deal, a large U.S. enterprise selected Fortinet to support their hybrid cloud architecture as they transition more of their workloads to the cloud. This competitive displacement reduced complexity and the customers' total cost of ownership while showcasing our ability to consolidate security functions onto our FortiOS platform. In a third 8-figure win, a large financial institution in the U.S. expanded their partnership with us with their first enterprise agreement with Fortinet. This EA includes the recently announced FortiGate Rugged 70G to secure their remote working and ATM environment. Built with AI-powered security, the Rugged 70G brings our customers the latest secure networking innovations while at the same time simplifying infrastructure and driving efficiencies. In addition to exceeding the customers' performance expectations in a multi-vendor bake-off, we were successful by demonstrating the versatility of our single operating system and FortiOS platform across multiple use cases. Over the past several years, we have successfully addressed large customer buying preferences by increasing our investments in EA programs. In the fourth quarter, these contracts represented nearly 10% of our billings with a 3-year CAGR of over 80%. Today, with over 35% of our billings beyond traditional and sometimes cyclical firewalls, Fortinet has become an increasingly diversified business over the past decade. Most recently, the diversification has included prioritizing investments in SASE, SecOps and other software and cloud-based solutions. The key element of this diversification is our single operating system strategy. FortiOS is the foundation of our comprehensive and innovative solutions that drive the convergence of networking and security while also consolidating multiple security capabilities. Attempting to piece together best-of-breed solutions from multiple vendors can result in significant security gaps, slower AI-driven technology adoption and a slower pace of identifying, reporting and resolving security incidents. Organizations increasingly recognize that an integrated security solution run by a single operating system is the best way to improve their security posture. Consolidation allows security solutions to share data and communicate with each other, reducing complexity, improving security effectiveness, easing the need for skilled labor and lowering the total cost of ownership. Consolidation drove our SecOps business to 44% growth, with strong growth from EDR, SIEM, e-mail security and NDR. Importantly, 94% of our SecOps business was from existing customers as companies look to execute their vendor consolidation strategy with Fortinet. Digging a little deeper into the 11% of billings, the SecOps contributed to our business. The mid-enterprise segment is growing the fastest as these companies respond to the cybersecurity labor shortage and look to reduce complexity. Geographically, International Emerging is leading the way for SecOps, likely reflecting stronger economic conditions and extending the success of their 2022 pilot project. Extending the single operating system and consolidation strategy further, our single vendor SASE solution billings increased 19% and accounted for 21% of total billings. Our SASE pipeline is up over 150% as more of our sales reps are building pipeline. As expected, the SMB segment was the largest mix of SASE customers at 55%, increasing 8 points quarter-over-quarter. affiliated companies. FEBRUARY 06, 2024 / 9:30PM GMT, Q4 2023 Fortinet Inc Earnings Call Fortinet has one of the least complex and most customer-friendly SASE pricing models. Our one bundle and one operating system solution provides all the standard capabilities, including secure web gateway and firewall as a service for secure Internet access; zero trust network access and SD-WAN from our points of presence, providing secure private access; as well as CASB and data loss protection. Our single vendor SASE solution also includes integration to SOC as a service and FortiClient, which provides the customer with endpoint protection and vulnerability scanning. Regarding our focus and investments in SASE and SecOps, SD-WAN customers represented 37% of new SASE customers. Over 90% of our global sales force has completed mandatory sales training for both SASE and SecOps. In 2023, 60,000 customers and partners attended at least 1 of our 27 training workshops. Lastly, we've increased our worldwide points of presence coverage to over 150 locations. Turning now to the quarterly financial results. Total billings were $1.86 billion, up 8.5%, driven by improved sales execution and the strong rebound in the large enterprise segment, together with 6,400 new logos. On a billings by geo basis, the U.S. led the way with mid-teens growth driven by strong performance in the U.S. enterprise. In terms of industry verticals, government and financial services, each with growth of approximately 25%, were our top 2 industry verticals. Wealth service provider and retail remained under pressure. The average contract term was 30 months, up 2 months year-over-year and sequentially. Adjusting for the 6 8-figure deals, the normalized contract term was consistent year-over-year and sequentially at 28 months. Turning to revenue and margins. Total revenue grew 10% to $1.42 billion, driven by strong services revenue growth. Service revenue of $927 million grew 25%, accounting for 66% of total revenue, a mix shift of 8 points. Service revenue growth was driven by strength in SecOps, SASE and other security subscriptions. Product bookings were up. However, product revenue decreased 10% to $488 million due to a tough compare. Product revenue grew 43% in the prior year period, benefiting from the drawdown of backlog. Total gross margin of 78.5% was up 90 basis points and exceeded the high end of the guidance range by 200 basis points, driven by the increase in service gross margin and the 8-point mix shift from product revenue to service revenue. Service gross margins were up 140 basis points as service revenue growth outpaced labor costs and benefited from the mix shift towards higher-margin security subscription services. Product gross margins were down 510 basis points as we continue to see margin pressure related to inventory levels and product transitions. Operating margin was very strong at 32%, 3.5 points above the high end of our guidance range. And operating income of $454 million was $40 million above the high end of the implied guidance range, reflecting aggressive cost management. Looking to the statement of cash flow summarized on Slide 17 and 19. Total cash taxes paid in the quarter were $341 million, including $210 million in estimated tax payments that were deferred from earlier quarters in accordance with U.S. and California onetime regulatory relief, resulting in free cash flow of $165 million. Capital expenditures were $27 million. We repurchased approximately 16.8 million shares at a cost of $895 million for an average cost per share of $53.29. Moving to an overview of our 2023 full year results. Billings surpassed the $6 billion mark, totaling $6.4 billion and up 14%. Total revenue grew 20% to $5.3 billion, and we added over 25,000 new customers. Service revenue grew 28% to $3.4 billion, driven by a 33% increase in security subscriptions. Product revenue grew 8% to $1.9 billion on a very tough compare after growing 42% in 2022. Gross margin was up 110 basis points to 77.4%, benefiting from the revenue mix shift to service revenue. Operating margin also increased 110 basis points to a calendar year record of 28.4%, resulting in operating income of $1.5 billion. The GAAP operating margin of over 23% continues to be one of the highest in the industry. Earnings per share increased 37% to $1.63. Free cash flow was a record at over $1.7 billion. Free cash flow margin was 33%. Including real estate investments, the adjusted free cash flow margin came in at 35%. For the year, we repurchased approximately 20 million shares at a cost of $1.5 billion for an average cost per share of $55.25. affiliated companies. FEBRUARY 06, 2024 / 9:30PM GMT, Q4 2023 Fortinet Inc Earnings Call To summarize on Slide 20. Fortinet has returned $5.3 billion to shareholders via share repurchases in the past 3 years. Earlier this year, the Board increased the share repurchase authorization by an additional $500 million, bringing our remaining share repurchase authorization to approximately $1 billion. Moving on to guidance. As we look to 2024, several factors impact guidance, including the firewall industry cycle, remnants of 2022 and 2023 supply chain activity and customer buying behavior. Prior firewall product life cycles have lasted approximately 4 years with 8 quarters of higher growth followed by 8 quarters of slower growth. Looking at our bookings. The current product cycle decline started approximately 4 quarters ago in Q1 of '23, suggesting that we should experience the bottom of the cycle in early 2024. Worldwide supply chain challenges resulted in elevated purchasing and record backlog, distorting year-over-year growth comparisons and creating a period of project and product digestion. The backlog drawdown in the first half of 2023 provides a mid- to high single-digit percentage tailwind to billings and low double-digit tailwind to product revenue growth for that period. The year-over-year product revenue comparisons in the first half of 2024 will be the most challenged, while we expect service revenues to grow sequentially in the low single digits in the first quarter and to grow sequentially at low to mid-single digits for the remainder of 2024. In addition, we expect product revenue growth will continue to be impacted by project and product digestion in 2024, and we believe the selling environment should improve in the second half of 2024 and into 2025. forward-looking information that Peter provided at the beginning of the call. For the first quarter, we expect billings in the range of $1.39 billion to $1.45 billion, which at the midpoint represents a decline of 5.5%; revenue in the range of $1.3 billion to $1.36 billion, which at the midpoint represents growth of 5.4%; non-GAAP gross margin of 76.5% to 77.5%; non-GAAP operating margin of 25.5% to 26.5%; non-GAAP earnings per share of $0.37 to $0.39, which assumes a share count of between 775 million and 785 million; capital expenditures of $220 million to $250 million, including a real estate transaction that closed earlier in the quarter; a non-GAAP tax rate of 17%; and cash taxes of $30 million. For the full year, we expect billings in the range of $6.4 billion to $6.6 billion; revenue in the range of $5.715 billion to $5.815 billion, which at the midpoint represents growth of 9%; service revenue in the range of $3.92 billion to $3.97 billion, which at the midpoint represents growth of 17%; non-GAAP gross margin of 76% to 78%; non-GAAP operating margin of 25.5% to 27.5%; non-GAAP earnings per share of $1.65 to $1.70, which assumes a share count of between 785 million and 795 million; capital expenditures of $370 million to $420 million; non-GAAP tax rate of 17%; and cash taxes of $520 million. I look forward to updating you on our progress in the coming quarters, and I'll now hand the call back over to Peter to begin the Q&A session."
+    },
+    {
+      "speaker": "Peter M. Salkowski",
+      "company": "Fortinet, Inc.",
+      "role": "SVP of Finance & IR",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you. (Operator Instructions) Operator, please open the call for questions. Operator (Operator Instructions) Our first question comes from the line of Fatima Boolani with Citi."
+    },
+    {
+      "speaker": "Fatima Aslam Boolani Citigroup",
+      "company": "Inc., Research Division",
+      "role": "Director & Co-Head of Software Research",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Keith, I really appreciate you fleshing out some of the factors that are going to be creating volatility in your top line performance. But what I wanted to focus on was how you are able to hold the line on the expense structure in light of these volatilities, both on the revenue and billings front. So if you can just help us appreciate how you're able to manage for profitability. And then by extension, these top line affiliated companies. FEBRUARY 06, 2024 / 9:30PM GMT, Q4 2023 Fortinet Inc Earnings Call volatilities, how should we think about the free cash flow cadence against your assumptions on the OpEx structure, along with the fact that you have seen lumpy, very large deals that have positively influenced duration for now?"
+    },
+    {
+      "speaker": "Keith F. Jensen",
+      "company": "Fortinet, Inc.",
+      "role": "CFO & CAO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. I think kind of going backwards in terms of the very large deals that we talked about, I think experience has showed us in the second half or the middle part of last year that we're well served not to get too far ahead of ourselves in terms of forecasting those deals. And it's difficult to understand when they're actually going to close and what the specific terms are going to be with those. So I think we kind of set those aside, and you saw that in some of the performance in the fourth quarter. In terms of margins, I think that sometimes the business model is easier than people think it is when it comes to margin because services provides so much of the business. If the business model is 2/3 services and it's throwing out a very rich margin even in a period of time where you're going through the firewall refresh cycle, you're still seeing your margins hold up fairly nicely. I think there's also significant economies of scale involved in the services line, whether it's the support or the security subscription. And then the last comment I would offer is that I think the breadth of both the SecOps solutions and the SASE solutions together are serving to spread some of the incremental costs for the hosting solutions and bringing those to market. Operator Our next question will come from the line of Hamza Fodderwala with Morgan Stanley."
+    },
+    {
+      "speaker": "Hamza Fodderwala Morgan",
+      "company": "Stanley, Research Division",
+      "role": "Equity Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Ken, over the last several years, we've seen some pretty significant increases in network traffic, whether it be more cloud adoption, more work from home, et cetera. And that led to a pretty healthy firewall refresh over the last several years. I'm curious, and I know it's very early innings, but how do you see sort of the adoption of generative AI, particularly in some of these hybrid context, impacting network traffic going forward? And do you think that that's going to incent more firewall refresh to secure that growing network traffic?"
+    },
+    {
+      "speaker": "Ken Xie",
+      "company": "Fortinet, Inc.",
+      "role": "Founder, Chairman & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Long term, definitely, we see that gen AI will increase the traffic a lot and also made a lot of security operations. It's -- we also see the refresh of the product cycle. We do provide some kind of historic data there, but we also see a lot of new opportunity that is coming with the refresh. Like we mentioned in the script, some of the OT technology area and even supporting some work from home and also some other enterprise internal segmentation are replacing the traditional switch with the network security firewall that we call the convergence also starting to get more and more adopted by the big enterprise. So that's also the new market compared to refreshed traditional firewall. But I agree with you, the next phase connection, the traffic will keep increasing. Especially, more devices will be connected online and also more people work remotely. And at the same time, the AI also kind of generate quite a lot of additional data, which also kind of need to be secured. So we see a pretty good potential for the long-term growth. Operator Our next question will come from the line of Brian Essex with JPMorgan."
+    },
+    {
+      "speaker": "Brian Lee Essex JPMorgan Chase",
+      "company": "& Co, Research Division",
+      "role": "Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I guess maybe for Ken, could you dig in a little bit to the SASE performance of the quarter? If I recall correct -- and I don't know what kind of metrics you can break out to give us a little bit more color behind that. But if I recall, you're doing quite well with kind of the SD-WAN component. And we're trying to kind of pivot to better penetrate the secure service edge component. Maybe a little bit of color as you've pivoted towards, I guess, focusing a little bit more on SecOps and SASE. What does the nature of the deals look like this quarter? What do you see in the pipeline for SASE? And are you getting better traction with secure service edge? And does that include SD-WAN? Or is it relatively agnostic to SD-WAN? affiliated companies. FEBRUARY 06, 2024 / 9:30PM GMT, Q4 2023 Fortinet Inc Earnings Call"
+    },
+    {
+      "speaker": "Ken Xie",
+      "company": "Fortinet, Inc.",
+      "role": "Founder, Chairman & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "You probably can recall, in the last earnings call, we started more focus on SASE, secure ops and started tracking that separately. And also during Keith's script, we also mentioned 90% of our field sales force also been trained, certified for SASE, secure ops. And also all the 6 8-figure deals, include all the 3, secure networking, SASE and secure ops. So we do see it grow faster, especially during the current kind of environmental refresh cycle. We do see the SASE, which is more consumption model, and also secure ops, which can lower the operational cost, probably grow faster than the traditional secure networking area. So that's where we kind of redirect some focus. Resource are more focused on these 2 areas. We see a pretty huge success, grow both the pipeline and also even the deal. We closed some of the first 8-figure SASE deal, which also makes me feel pretty excited. I think it's -- we do see this is -- we have some advantage actually, leverage the -- whether the SD-WAN huge deployment we have or the firewall huge deployment and also the single OS-based SASE solution, which integrate all the SD-WAN, all the SASE function into a single FortiOS, which is a huge advantage for whether the customer himself or even for some service provider offer the SASE service to their customer base. So it's a pretty strong growth. We see it's a pretty good move we had."
+    },
+    {
+      "speaker": "Keith F. Jensen",
+      "company": "Fortinet, Inc.",
+      "role": "CFO & CAO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, Brian, I would kind of follow that up with the results, if you will, what Ken just talked about. And to your point, I think you're kind of asking us if you take -- if you focus more on the SSE element of SASE and less on SD-WAN, what does that mean. And I think that we have a pretty interesting horse race developing internally. If you look at what you would probably think of as the SSE component and the SecOps business, both growing in the 40% range. SecOps won the quarter. We'll see how SASE does, but they're very, very close at this point in time in terms of growth. And then I think the other metric we gave is we talked about the pipeline growth. And that 150% would really be around what you would think of as the SSE component. Operator Our next question will come from the line of Tal Liani with Bank of America."
+    },
+    {
+      "speaker": "Tal Liani BofA",
+      "company": "Securities, Research Division",
+      "role": "MD, Head of Technology Supersector & Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I'll ask 2 questions together. It's easier. CapEx is going up materially next year [this year]. What is the outlook for free cash flow margin? What happens to free cash flow this year? Can you actually drill down to the CapEx? What drives the increase? And then what happens to free cash flow margin? The second question I have is on the business. This quarter, billings were supposed to be weak, but they're very strong. Next quarter, we expected roughly 5%, 6% declines, and that's what you're guiding to. So that means maybe there was some pull forward but kind of in line-ish. So what happens this quarter that billings is so strong versus expectations? What drove the strength? And why isn't it -- why don't we see it continue into the next quarter?"
+    },
+    {
+      "speaker": "Keith F. Jensen",
+      "company": "Fortinet, Inc.",
+      "role": "CFO & CAO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "You want to take CapEx or deals? Tal, thanks for calling in. On CapEx, I think we'll continue to build out both things that we need for our engineering team as we look forward and best places to work in labs and so forth. So I think you're seeing an element of that, but also our ability to continue to deliver hosted -- the wide range of hosted solutions. I think those are the things that are driving CapEx. And as we said before, we know that there's a bias here of making real estate investment decisions so that I as a long-term investor, and with that, the ROI over a longer period of time has always been very enticing to us. And I think to your second question on the spike that we saw in performance that we're very pleased with in the fourth quarter and then how does that -- what does that translate to in the first quarter, a couple of things. One is, as we talked about during the call, the comps in the first quarter of 2024 are probably among the most challenging on the billings line and the product revenue line that we think we're going to see. And then I think also the read through on doing 6 8-figure deals in the fourth quarter and being a record, obviously, put a lot of tailwind to that fourth quarter number. We like 8-figure deals, but I don't know that we're really in the business of forecasting them each and every quarter as we go forward. affiliated companies. FEBRUARY 06, 2024 / 9:30PM GMT, Q4 2023 Fortinet Inc Earnings Call"
+    },
+    {
+      "speaker": "Ken Xie",
+      "company": "Fortinet, Inc.",
+      "role": "Founder, Chairman & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Also, we kind of own probably high percentage of some infrastructure, some real estate than some of our competitors. That actually gave us much lower cost -- operation cost going forward, which also will help drive the future growth, especially on a service like SASE. And that also give us a better margin long term."
+    },
+    {
+      "speaker": "Tal Liani BofA",
+      "company": "Securities, Research Division",
+      "role": "MD, Head of Technology Supersector & Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "And free cash flow specifically because your stock trades on free cash flow, should we expect free cash flow to go down? Or is it -- can you offset the increase in CapEx with something else?"
+    },
+    {
+      "speaker": "Keith F. Jensen",
+      "company": "Fortinet, Inc.",
+      "role": "CFO & CAO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Well, obviously, there's a lot of levers that come into free cash flow. I think that where we look at in terms of where The Street was for free cash flow in 2024 for the full year, I think that's in the ballpark at this early stage. We don't really guide to free cash flow, as you know. But I think the puts and takes, one is CapEx, which is not all that far away from what we saw in 2023. But then you have the operating profits, the billings growth, et cetera. You know all the components that go into it. Operator Our next question will come from the line of Gabriela Borges with Goldman Sachs."
+    },
+    {
+      "speaker": "Gabriela Borges Goldman Sachs",
+      "company": "Group, Inc., Research Division",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I'm looking to better understand the SASE dynamics that you're seeing at the lower end of the market versus the higher end. So maybe any commentary on the SMB part of the SASE pipeline, what you're seeing in terms of willingness and readiness to convert, what you're seeing in terms of competition and what you're seeing in terms of average deal sizes in terms of uplift when you get a SASE deal versus a regular firewall deal."
+    },
+    {
+      "speaker": "Ken Xie",
+      "company": "Fortinet, Inc.",
+      "role": "Founder, Chairman & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. SMB is pretty interesting. We did quite well in the SMB market, even for the traditional firewall, bigger than any other competitors. But also, SMB has a pretty low percentage of a customer actually using any network security because -- whether the management costs or some other people cost, all these kind of things. So that's where SASE [pioneer] definitely help in some SMB customers. But also, we see kind of the long-term combined both whether work from home or where we're pretty strong like a couple of years ago in the retail brand [drove] solution there also helping us kind of like doing well in SMB. And also the new product refresh, which leverage SP5, we're only half the way. Probably towards the second half of this year, we have more product come in using the new SP5. That's also keeping a handsome position there. Yes, it's -- like I said, it's more kind of consumption model. In the current environment, it'd probably be more attractive compared to a CapEx model. So that's where we see both SMB, enterprise, they do have some more interest to do this kind of OpEx model. Maybe Keith and John, any addition?"
+    },
+    {
+      "speaker": "John Whittle",
+      "company": "Fortinet, Inc.",
+      "role": "COO & Corporate Secretary",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I would just say that the success we had in enterprise -- this is John Whittle, by the way. With the number of 8-figure deals and having over 0.5 million customers out there really bodes well both in enterprise and in the SMB market because we've got so many customers out there that are testing our product and so many customers that are providing feedback along the way to improve our products that it's a real testament to the products and gives both enterprises and the SMB comfort in buying our products going forward. And you can kind of put yourself into a customer's shoes and say, okay, some of the most discerning customers are spending 8 figures on these products and services, and we have strength in SMB and upmarket. I think that bodes really well for kind of the smaller segments of the market and the larger segments of the market going forward. I think that's a real headline from this quarter in terms of the real success we had with some of the most discerning customers out there. Operator Our next question will come from the line of Saket Kalia with Barclays. affiliated companies. FEBRUARY 06, 2024 / 9:30PM GMT, Q4 2023 Fortinet Inc Earnings Call"
+    },
+    {
+      "speaker": "Saket Kalia Barclays Bank",
+      "company": "PLC, Research Division",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Keith, maybe for you. I just want to talk about the shape of billings a little bit here in 2024. I think at the midpoint for this year, billings is about 2%, give or take, at the midpoint. How should we sort of think about the exit rate on billings this year? I know that was something we talked about in prior quarters. I'm not sure if that's something that we can -- that we could just revisit. And then maybe relatedly, how -- it was great to get the segment detail, by the way, across the 3 segments. How are we sort of thinking about the rough growth ranges for those 3 segments as part of this guide?"
+    },
+    {
+      "speaker": "Keith F. Jensen",
+      "company": "Fortinet, Inc.",
+      "role": "CFO & CAO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. I think on the billings trend, if you will, I would go back to our prior conversations about the backlog created the headwind, if you will, in the first half of the year. And I think you heard some of the tone of that, if you will, right, before I gave the guidance this year. And that would suggest that our expectations are that billings growth rate should be improving as we move through -- on a quarterly basis as we move through the year. I think we probably made it a little bit tougher on the sales team for the fourth quarter of 2024 by having such a strong fourth quarter of 2023. But I think they're going to do fairly well there. And then I'm sorry, the second part of the question, Saket, was..."
+    },
+    {
+      "speaker": "Saket Kalia Barclays Bank",
+      "company": "PLC, Research Division",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "It was just on the 3 segments, right, secure networking, SASE and SecOps. It was helpful to get sort of the growth ranges for this quarter. I'm not going to hold you to it, but how do you think about sort of the relative growth rates for those 3 segments this year?"
+    },
+    {
+      "speaker": "Keith F. Jensen",
+      "company": "Fortinet, Inc.",
+      "role": "CFO & CAO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And maybe I'll answer that in the context of average contract term or duration because I know there's a lot of concern or questions have been raised about will that shorten the contract term. And you heard the data that we gave during the call. These 2 segments, we have a business that basically runs on average contract terms, call it, 2 years, 2.25, if you will. SASE and SecOps business mix would probably be billing 1 year in advance when you look at the competitors and so forth. So that kind of gives you the range. It's going to take a while for SASE and SecOps to really impact that contract term or duration. And I think the read-through to that in terms of -- we're excited about the opportunity with SASE and SecOps. If we have outsized growth there, we'll be very pleased with it. But I don't know that we're hanging our head on something completely out of the realm of reality, if you will, for 2024 from SASE or SecOps."
+    },
+    {
+      "speaker": "Ken Xie",
+      "company": "Fortinet, Inc.",
+      "role": "Founder, Chairman & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. For the 3 segments, I don't have the latest market data. But from Q3, the firewall market is kind of flat year-over-year. Q4, we probably will read out the company reporting. But it's -- we do see probably still under some pressure [ACA] especially in the first half of this year. But I do believe the long-term converging story will hold quite well because the company also needs to manage like a counter application level, which is network security to do that. So that's where long term, we do see the firewall market or the network security market will continue to grow. I feel probably around 10% year-over-year in the next maybe 3 to 5 years. SASE and Secure Ops come from a little bit smaller base, which also grow faster. And we also have a lot of existing customers about this together with us. They probably already are firewall customer or SD-WAN customer. They can easily adopt additional solution, additional product so that we see the other 2 sectors grow faster than the company average and probably will continue to grow faster in the next few quarters. Operator Our next question will come from the line of Andrew Nowinski with Wells Fargo. affiliated companies. FEBRUARY 06, 2024 / 9:30PM GMT, Q4 2023 Fortinet Inc Earnings Call"
+    },
+    {
+      "speaker": "Andrew James Nowinski Wells Fargo",
+      "company": "Securities, LLC, Research Division",
+      "role": "Senior Equity Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "So I was just wondering if you could -- and we've talked a lot about your other pillars. I was wondering if we could touch on SecOps and maybe what's driving that. Is that related to the recent SEC regulation? And then second, I was wondering, if you look at your billings guidance for the year, where do you see the most risk as it relates to that guidance in terms of the 3 pillars and the performance you're expecting from those 3 pillars?"
+    },
+    {
+      "speaker": "Ken Xie",
+      "company": "Fortinet, Inc.",
+      "role": "Founder, Chairman & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. The secure ops is actually helping customers, more like better security and more efficient and also lower the total management cost. That's where you need to have multiple solutions, multiple products integrated together, automated together. So that's where we see during the current environment, a lot of the companies, big and small, they do see the secure ops really the area they probably worked on the investment there. And also, we do see the merging of networking and security together, which also secure ops play a quite important role to make sure the 2 operations can be operated together, which we are leading this area. So that's where secure ops will see pretty strong growth. SASE is more like a consumption model. We also see kind of the current environment well. Even the cost could be a little bit higher than our plans. But it gives the customer flexibility and so that we see that. Maybe John want to add some."
+    },
+    {
+      "speaker": "John Whittle",
+      "company": "Fortinet, Inc.",
+      "role": "COO & Corporate Secretary",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I think for SecOps, what we're seeing is the threat landscape out there is driving a lot of the customer behavior as well. You see these ransomware attacks that are really debilitating to customers. And so prevention is important, but time to detection and time to remediation is critical, and it's real money. And these are really important issues for our customers. And also, I would note, we've really been building this solution over many, many years, but we really just started to focus on it as a separate pillar 3 months ago. And then we had a record Q4. And so I think that degree of focus internally, coupled with how we can actually help our customers, putting our customers first, really is driving a lot of the success there. And that new focus -- we're pretty much sticking to the plan. The plan is working. We're sticking to the plan, and so we see a lot of opportunity there. Operator Our next question will come from the line of Brad Zelnick with Deutsche Bank."
+    },
+    {
+      "speaker": "Brad Alan Zelnick Deutsche Bank",
+      "company": "AG, Research Division",
+      "role": "MD of Software Equity Research & Senior US Software Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I think I've got one for John Whittle and one for Keith. First, just for you, John. Given your recent appointment as Fortinet's first ever COO, can you talk about your perspective stepping into the role and how you plan to help drive Fortinet's business forward? And Keith, for you, in your guidance comments, you said for the full year that you expect the selling environment to improve in the back half and into 2025. And I'm not saying I disagree with you, but I'm just curious why you say that and if it's just relative to the comments that you also made on the firewall cycle dynamics or if it's something else more broadly in the economy that you're expecting."
+    },
+    {
+      "speaker": "John Whittle",
+      "company": "Fortinet, Inc.",
+      "role": "COO & Corporate Secretary",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks for the question. I'm really excited about the role. I've been working here for 17 years through a lot of growth. And my focus over those 17 years has really been learning from Ken and Michael and the team. And it's like an [NBA on] steroids. They're brilliant business people in addition to focusing on the innovation and the technology, which I think is a core differentiator for Fortinet. We are an innovation-first company. And I think our culture is really around what I call almost a straightforward meritocracy. And Ken and Michael drive this throughout the organization. It's very straightforward. It's work hard, work smart, innovate and put the customer first and deliver results. And so I really like the culture. Obviously, I've been here 17 years. Some people say I need to get more accretive with my career. But I really -- it really gets me excited to make a difference, and it's a positive difference. We're protecting our customers so they can get about their business. So I really like that. And in terms of how I can contribute, up until now, I've focused on legal and corp dev. I'm taking over corporate real estate. I'm adding affiliated companies. FEBRUARY 06, 2024 / 9:30PM GMT, Q4 2023 Fortinet Inc Earnings Call systems, manufacturing and logistics. And so I have a broad set of responsibilities. I also have always worked very closely with the sales teams. I will not be managing the sales teams, but I will continue to work closely. Teamwork is one of our top 3 culture items here. And we're not really boxed in here in a way. We really work together. And so we've got great sales leaders, and I look forward to working with them. We've got a huge opportunity to grow. We want to grow and capture that opportunity by putting the customer first. I want to support that, and to the extent I can help the team, I want to do that. To Fatima's question earlier, we're also very disciplined on the cost side. And as Keith said, we have this services model where we have a lot of visibility based on the deferred revenue on the top line, but we also are very disciplined at kind of managing and monitoring the costs on a real-time basis. And sometimes you can control the costs more quickly than other things. And so what I've noticed is we're very good at kind of managing that on a real-time basis, and we'll continue to do that as well."
+    },
+    {
+      "speaker": "Ken Xie",
+      "company": "Fortinet, Inc.",
+      "role": "Founder, Chairman & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you, John. John also helped us form the company culture on our beginning, which is the teamwork and also openness and also innovation. So we'll continue to maintain this culture and keep in growing the company together."
+    },
+    {
+      "speaker": "Keith F. Jensen",
+      "company": "Fortinet, Inc.",
+      "role": "CFO & CAO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And then quickly, Brad, on the other. I mean yes, obviously, the view of the firewall cycles has some part of it. But I think probably more to the point is the digestion of products and projects. And if you look back to where the peak was of firewall purchasing and you kind of play that out, you should be coming to its logical end of deployment cycles. Operator Our next question will come from the line of Keith Bachman with BMO."
+    },
+    {
+      "speaker": "Keith Frances Bachman BMO Capital",
+      "company": "Markets Equity Research",
+      "role": "Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Peter and Keith, thank you again for the disclosures on the segments within billings. It's very helpful. Two questions. One is on strategy and one is on guidance. Ken, on the strategy question, I wanted to ask you on your perspective on the unified SASE, excluding the SD-WAN and SecOps. There's 2 broad variables that I think about. One is go to market and one is product or R&. D, you've clearly increased the go-to-market efforts surrounding unified SASE and SecOps. I'm wondering, do you feel the need to also incrementally focus on the product side or incremental R&D, if you will, to strengthen the portfolio for things such as improving your positioning within the Gartner Magic Quadrant or however you want to think about it? So is it more go-to-market that you think incremental efforts? Or it's both incremental, both the R&D side and as well as the go-to-market? And just in the interest of time, I'll ask my second question. Keith, on the guidance, just given the performance in the quarter, and I'm really focused on the year, not the March quarter, it does seem very conservative. You very much outperformed your expectations associated with the December quarter. And you're guiding for kind of 2%. And even if you normalize for the backlog burn, you're sort of mid-single digits, maybe a little bit better than that. And so I guess I'm just trying to reconcile. It seems like very conservative guidance. And perhaps the way to ask the question is, how do you think about the product side as we get to the back half of the year? Do you think that industry demand returns to normal levels? Or do you feel like there's some pressure on the product side? Or anything else you want to draw comments on associated with what seems to be a conservative billings guide."
+    },
+    {
+      "speaker": "Ken Xie",
+      "company": "Fortinet, Inc.",
+      "role": "Founder, Chairman & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, very good question about SASE. Definitely, we want to do both, even more than that. So we definitely see the opportunity changing our go-to-market strategy because a few months ago, we were more dependent on the service provider carrier trying to do SASE, help them to do the SASE. Now it's more go-to-market direct ourselves. At the same time, working with our service provider, but also more important, the internal R&D and internal investment in the infrastructure. Like we mentioned, now we have over 150 PoPs worldwide, probably can match any other competitor. At the same time, the function, the innovation and also put out SASE in a single OS, and then a lot of functions starting to use ASIC will accelerate. And that will also make our SASE solution much better, more advantage compared to other competitors and also more easy to deploy, more easy to manage. affiliated companies. FEBRUARY 06, 2024 / 9:30PM GMT, Q4 2023 Fortinet Inc Earnings Call So we see definitely huge opportunity for SASE. It's not just SASE using a traditional cloud approach, but also on-premise SASE, the private SASE. So we see a lot of opportunity for SASE going forward, both on the technology, which we also work with our innovation on developing technology, and at the same time, the go-to-market strategy, once we focus, we see huge success behind."
+    },
+    {
+      "speaker": "Keith F. Jensen",
+      "company": "Fortinet, Inc.",
+      "role": "CFO & CAO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And just on the guidance, Keith, I appreciate the thought after kind of a tough middle of the year last year for us. So for me, I think keep in mind that we do probably have between $150 million and $200 million of headwind related to backlog or year-over-year comparisons, if you will, the backlog impact in the year. I think also in some of the commentary that we provided right before guidance where we talked about the relative impact specifically to product revenue and what you should see from service revenue for the year, you can kind of get a sense of what we're thinking about for product revenue. I think we -- I do see that -- some opportunities on the service revenue line with things that come from SecOp and SASE in the year, but I think all in all, I think where we're at right now in terms of the full year guidance number is an appropriate number for us. Operator Our next question will come from the line of Ittai Kidron with Oppenheimer. Ittai Kidron Oppenheimer & Co. Inc., Research Division - MD A couple for me. First, on the comp side. As you move into '24, can you share a little bit more color on the changes you're making or have made to the sales comp? And what kind of incentives have you laid in place in a way that's different than '23? Then on the competitive front, just given where you're positioned on SecOps and SASE, I think you've talked about kind of more enterprise on the SecOps and more SMB is the largest category in SASE. Can you talk specifically on who do you see more competition in those categories? Because you don't seem to kind of stretch the entire customer profile so -- or regions, frankly. So we'd love to get a little bit more color into who do you see more versus less in those categories."
+    },
+    {
+      "speaker": "Ken Xie",
+      "company": "Fortinet, Inc.",
+      "role": "Founder, Chairman & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. We kind of keep in improving the sales comp plan and also try to line up what's the company goal and what's the [fuel cells] and also how we can move kind of tied together and success together. So that there is some modification of the comp plan, which move towards the company long term, both on the growth and the margin and also the fact more on some kind of service-based kind of model there behind. So that's also kind of keep in investing in the sales force and also kind of making the structure more efficient. That's the other area and also training the sales and make sure -- because a lot of new areas, whether SASE and SecOps, do need a lot of training. That's also the big enhancement we kind of go through right now."
+    },
+    {
+      "speaker": "Keith F. Jensen",
+      "company": "Fortinet, Inc.",
+      "role": "CFO & CAO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. I'd probably add to that, just a couple of things on the comp plan conversation. This is the time of year where comp plans go out, and I think every company makes -- needs to make some changes. I think the real thing that jumps out at me this year is that I think after the 2023 results, the quotas are probably a little bit lower on an individual basis than they have been in the past, and we probably put some things to work in the other direction on it. But to Ken's point, we really want to make sure that we're investing in building on the sales team. And making the adjustments in the quota for 2024, I think, is appropriate. On the SMB and SASE, it's probably the SASE and SecOps conversation. And I think it goes back to some of Gabriela's question before. At this stage, they're really shaping up in terms of having different customer mixes. The SMB portion of SASE was about 55% of the business. And we're not surprised to see us having very, very early success there. We're pleased with the development and the feedback we're getting from third parties about the success of the SASE product. But that, together with our SD-WAN customers, is the logical place to see success. On the flip side, SecOps is almost the opposite with large enterprises providing about 55% of the business. And I think the read-through affiliated companies. FEBRUARY 06, 2024 / 9:30PM GMT, Q4 2023 Fortinet Inc Earnings Call to that is all about consolidation. Where you're really going to have success is -- and it ties into the mix of repeat customers, i.e., firewall customers are now buying the SecOp product being very, very high. And that's what we would expect on both of those business segments."
+    },
+    {
+      "speaker": "Ken Xie",
+      "company": "Fortinet, Inc.",
+      "role": "Founder, Chairman & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "For our team sales and also sometimes even for partner, if they sell all 3 solutions, secure networking, SASE and secure ops, they get more comp compared to only sell 1 or 2 solutions. So that's the additional incentive we offer to the field. Ittai Kidron Oppenheimer & Co. Inc., Research Division - MD Maybe as a follow-up, Keith, how much of the opportunity here in SecOps and SASE is outside of our customer footprint? Is the vast majority of traction here just with your existing installed base? Or it also pulls you outside?"
+    },
+    {
+      "speaker": "Keith F. Jensen",
+      "company": "Fortinet, Inc.",
+      "role": "CFO & CAO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. Given, as John pointed out, we have over 500,000 customers, so I'm okay with the installed base, right? And I don't think that's anything new. For several years, we've talked about new logos representing large numbers, hundreds -- thousands of new logos. But they've never really been more than 10% of the business. So I don't think that this is really going to change with that. I expect that the firewall is such a compelling product because of the price and performance advantage, because of how more and more security have been embedded into the operating system and the ASIC empowers that, that -- I'm not a salesperson. If I was, I'm probably looking for those opportunities in the white space accounts. And then you want them, like any other enterprise company, to come back and sell more into that company. And that's really what you're seeing with the SecOps and SASE products that Ken and John have been talking about. Operator Our next question will come from the line of Adam Tindle with Raymond James. Adam Tyler Tindle Raymond James & Associates, Inc., Research Division - Senior Research Associate Okay. Let me see if I can get everybody involved here. So Ken, I wanted to start with SASE and SecOps was obviously a key pivot point on the last call. As you focus on that more internally, could you summarize your competitive advantage technologically in those areas? And John, logistics from a sales perspective, I know it's been kind of kicked around. A percent of quota retirement might be related to those areas. What did you land on for logistics? And lastly, for Keith, expectations for sales productivity as a result of that pivot towards SASE and SecOps. Just wondering your early observations on what you've seen because it looks like you do expect total margins down, but I think it's somewhat related to gross margin, not much efficiency drain. So just what you're seeing from a sales productivity perspective as you pivot to those areas."
+    },
+    {
+      "speaker": "Ken Xie",
+      "company": "Fortinet, Inc.",
+      "role": "Founder, Chairman & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. For SASE, we are the only company, we believe, who has all the SASE function, SD-WAN, all the CASB, web firewall service, all in a single operating system, can be deployed on-premise using ASIC to accelerate or using cloud format there. So that's a huge advantage, both for the customer, for the service provider. I think on the secure ops side, we also -- most of the product we internally develop, whether from endpoint or from all these different like e-mail application, web, all this is because when we internally develop, it integrates, automates much better than other competitor, more comp acquisition, which is a separate product that's more difficult to integrate, automate together. So that's the 2 huge advantage we have. We usually call the secure ops more like a fabric approach. We've been doing that for 10 years, which is pretty successful. But now we have the same kind which customer wants to hear is the secure ops, which they see the huge advantage. That drives a huge growth going affiliated companies. FEBRUARY 06, 2024 / 9:30PM GMT, Q4 2023 Fortinet Inc Earnings Call forward, and also the field training also kind of help a lot. So that's the advantage we have, whether it's SASE, single OS approach, can use ASIC to accelerate, and then the secure ops is integrated, automated together much better than other competitors gave us huge advantage."
+    },
+    {
+      "speaker": "John Whittle",
+      "company": "Fortinet, Inc.",
+      "role": "COO & Corporate Secretary",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "In terms of the quota retirement question, Keith may have additional comments on that, but there's really no change there."
+    },
+    {
+      "speaker": "Keith F. Jensen",
+      "company": "Fortinet, Inc.",
+      "role": "CFO & CAO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. I think [OTE] and numbers -- targets are very much the same. I think on sales productivity, in terms of what we saw in 2023, as we move through the year, obviously, productivity kind of came down. It seems to have leveled off now as we exit 2023. And I think that the modeling, if you will, is pretty much a similar expectation for 2024 in terms of where we exited 2023. On the -- I think in terms of what SASE and SecOps dramatically changed those numbers, I kind of go back to the earlier conversation about contract term. Sure. At some level, if the mix shifts and becomes 50-50 or 60-40, the direction, yes, then we probably have something to talk about, although I'd probably be talking a lot more about the fantastic growth in the SecOps and SASE than the fact that I had to pay salespeople to make that growth happen. Operator That concludes today's question-and-answer session. I'd like to turn the call back to Peter Salkowski for closing remarks."
+    },
+    {
+      "speaker": "Peter M. Salkowski",
+      "company": "Fortinet, Inc.",
+      "role": "SVP of Finance & IR",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you, Liz. I'd like to thank everyone for joining today's call. Fortinet will be attending an investor conference hosted by Morgan Stanley during the first quarter. The fireside chat website link will be posted on the Events and Presentations section of the Fortinet Investor website starting soon. If you have any questions, please feel free to reach out. Have a great rest of your day. Thank you. Operator This concludes today's conference call. Thank you for participating. You may now disconnect. In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. affiliated companies."
+    }
+  ]
 }

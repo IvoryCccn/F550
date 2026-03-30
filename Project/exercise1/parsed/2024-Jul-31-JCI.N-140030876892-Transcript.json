@@ -4,5 +4,462 @@
   "quarter": "2024Q2",
   "sector": "Industrials",
   "filename": "2024-Jul-31-JCI.N-140030876892-Transcript.pdf",
-  "segments": []
+  "segments": [
+    {
+      "speaker": "Joe Ritchie Goldman",
+      "company": "Sachs",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Joe O'Dea Wells Fargo - Analyst"
+    },
+    {
+      "speaker": "Brett Linzey",
+      "company": "Mizuho",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Operator Good morning and welcome to the Johnson Controls third-quarter 2024 earnings conference call. (Operator instructions) Please note today's event is being recorded. I would now like to turn the conference over to Jim Lucas, Vice President, Investor Relations. Please go ahead."
+    },
+    {
+      "speaker": "Jim Lucas Johnson Controls International",
+      "company": "PLC",
+      "role": "Vice President, Investor Relations",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Good morning, and thank you for joining our conference call to discuss Johnson Controls fiscal third-quarter 2024 results. The press release and related tables that were issued earlier this morning as well as the conference call slide presentation can be found on the Investor Relations portion of our website at Johnson Controls.com. Joining me on the call today are Johnson Controls' Chairman and Chief Executive Officer, George Oliver; and Chief Financial Officer, Marc Vandiepenbeeck. Before we begin, let me remind you that during our presentation today, we will make forward looking statements. Actual results may differ materially from those indicated by forward-looking statements due to a variety of risks and uncertainties. Please refer to our SEC filings for a detailed discussion of these risks and uncertainties. In addition to the inherent limitations of such forward-looking statements. We will also reference certain non-GAAP measures. Reconciliations of these non-GAAP measures to the most directly comparable GAAP measures are contained in the schedules attached to our press release and in the appendix to this presentation, both of which can be found on the Investor Relations section of Johnson Controls' website. I will now turn the call over to George."
+    },
+    {
+      "speaker": "George Oliver Johnson Controls International",
+      "company": "PLC",
+      "role": "Chairman of the Board, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thanks, Jim, and good morning, everyone. Thank you for joining us on the call today. Let's begin with slide 3. We were very pleased to deliver fiscal third quarter results that exceeded almost all of our targets. Organic sales growth was 3%, which was in line with our guidance of low single digits. We delivered a robust 150 basis points of segment margin expansion to 17.9%, which exceeded our guidance of 17%. affiliated companies. JULY 31, 2024 / 12:30PM GMT, Q3 2024 Johnson Controls International PLC Earnings Call We were also proud of our free cash flow generation during the quarter, which was more than $500 million higher than the comparable period one year ago. Service led the way, once again with 9% growth, which continues to validate our transformation efforts is encouraging as we continue to build momentum toward meeting our full year financial objective. Orders grew 5% during the quarter. We expect some quarterly fluctuation in our order pattern, given the strong demand for our data center solutions. With the investments we have made over the last few years and technologies for data centers, the launch of a dedicated organization in our one-of-a-kind offerings, we remain well positioned in this fast-growing segment with solutions that are clearly resonating with customers. We have built a leading position in data centers in North America due to a unique and compelling customer value proposition. As our customers expand internationally to meet the rapidly growing demand for data centers, we grow alongside them as they choose to partner with Johnson Controls around the world. Our backlog grew 10% in the quarter as we continued to see demand for our solutions, both systems and services. The growth in orders and backlog give us increased confidence in our ability to continue delivering sustainable long-term growth. As part of our ongoing business transformation, we announced two divestitures, our Residential and Light Commercial HVAC business in our Air Distribution Technologies business. These two transactions represent roughly 20% of current sales. At the same time as our earnings results, we announced this morning that I informed the Board, it is time to initiate our CEO succession plan. Following recent significant milestones in our portfolio transformation and as we move to the next phase of growth, I believe that now is the right time to begin the process of identifying the next leader of the new Johnson Controls. Accordingly, the Board has engaged a nationally recognized search firm and begun a comprehensive search for the company's next CEO. Once my successor has been named, I will remain Chair of the Board to help facilitate a smooth transition. I am confident in our position as Johnson Controls enters its next chapter, and I remain committed to supporting the full team as we work to ensure Johnson Controls realizes its full potential. Along with the initiation of the company's succession plan, we also announced that as part of our ongoing Board refreshment efforts, and following a constructive dialogue with Elliott Management. Patrick Decker has been appointed to our company's Board of Directors effective immediately. Patrick brings experience to our Board and having led a transformation of his prior company and his appointment reflects our commitment to continuously refreshing our Board to ensure the skills and experiences of our directors appropriately reflect our ongoing transformation. Lastly, before moving to the next slide, we are tightening our full year adjusted EPS guidance to a range of $3.66 to $3.69 from a range of $3.60 to $3.75. Mark will give additional details later in the call. We have made tremendous progress on our business transformation into a simpler, higher growth company, positioned to deliver more consistent, predictable results. Turning to slide 4, we have made good progress on simplifying our portfolio. Most recently, on July 23, we reached an agreement to sell our Residential and Light Commercial HVAC business to the Bosch Group in an all-cash transaction. The transaction includes 100% of our North America Ducted business and our 60% interest in our Global Residential joint venture with Hitachi. The total transaction is valued at approximately $8.1 billion, which results in approximately$6.7 billion of consideration to Johnson Controls. We are expecting net proceeds of approximately $5 billion after tax in transaction expenses, the majority of which will be used to accelerate returning capital to shareholders and also address leverage. The Residential and Light Commercial HVAC transaction is expected to close in approximately 12 months, subject to required regulatory approvals in other customary closing conditions. We expect to report the operating results of the business in discontinued operations beginning in the fiscal fourth quarter of 2024. In addition, on June 18, we agreed to sell our Air Distribution Technologies business to Truelink Capital. The sale of Air Distribution Technologies is also an important step in simplifying our manufacturing footprint with the elimination of nearly 30% of our affiliated companies. JULY 31, 2024 / 12:30PM GMT, Q3 2024 Johnson Controls International PLC Earnings Call manufacturing facilities. Taken together, these two transactions represent significant milestones in our portfolio transformation. We are now even better positioned going forward as a pure-play provider of comprehensive solutions for commercial buildings. Our efforts are turning into results and the value of our transformation is coming into focus. Slide 5 presents a pro forma look at the new Johnson Controls, representing the composition of our company going forward. Following completion of the two divestitures described earlier, we will be a simpler, higher growth company focused almost exclusively on our engineered solutions offerings. These solutions include commercial HVAC, fire, controls, security and services following the smart building trifecta of energy-efficient equipment, clean electrification and digitalization. The benefits of our transformed portfolio include an enhanced margin profile, less complexity and a more focused operating model. In addition, these divestitures further increase our exposure to the fast-growing data center vertical to nearly 10% of sales from 7% as of fiscal year 2023. We expect this percentage to further increase over time given the robust demand we are seeing in this key vertical. While we will continue to look at opportunities to further enhance the portfolio, we believe that the largest elements of the portfolio transformation are now complete. Turning to slide 6 to discuss our focused business model and how we plan to deliver more consistent, predictable outcomes for our customers and maximize value for shareholders over the life cycle of buildings. Johnson Controls has a unique value proposition for our customers that directly translates to shareholder value creation. Our ability to serve our customers over the life cycle of the building allows us to deliver a safe, healthy and sustainable buildings. As a simpler and more streamlined company, we are now better positioned to leverage our integrated domain expertise, coupled with our extensive branch network to significantly expand margins. Our journey with the customer provide system and service solutions that maximize the opportunities around the lifecycle of the asset, delivering outcomes to the customer to save energy, reduce emissions and optimize building lifecycle costs, all while improving the overall occupant experience. Most importantly, our ability to drive direct outcomes ensures that we have long-term customers that use several of our services, which creates a compounded impact for the customer and for our shareholders. In fact, a dollar of systems revenue has the potential to generate up to 10 times of revenue over the lifecycle of the solution. It all starts with our local teams supported by our centralized engineering teams to provide operational excellence throughout the construction of the new building, starting with the product and technology development through the installation of the new systems. This grows the installed base. Throughout system deployment, our teams are building customer intimacy and confidence in our team to ensure we are creating linkage with our service offerings. We have redoubled our focus to build this additional relationship and greatly improved our operational execution over the past few years to drive an enhanced margin profile and grow service. Simply put, service and maintenance delivers recurring revenue for us, and this provides resilient revenue throughout economic cycles. Moving to parts and repairs, our service organization is digitally enabled and unlocks additional value by collecting data from the connected equipment within the building. Leveraging this data lets us detect issues before they occur, leading to reduced downtime and cost savings for the customer. The last part of the cycle is the building retrofit, including the monetization and technology refresh of existing systems. We work closely with the building owner to discuss lifecycle planning and the prioritization of the building needs. We have found this to be the perfect opportunity for Johnson Controls to sell additional domains. affiliated companies. JULY 31, 2024 / 12:30PM GMT, Q3 2024 Johnson Controls International PLC Earnings Call By compounding the effects of this cycle, we are able to deliver solutions to our customers leading to significant margin expansion. The ongoing transformation of our portfolio into a quality pure-play provider of comprehensive solutions for commercial buildings means that we can service these buildings to deliver outcomes that matter. Accordingly, we are extending our journey with our customers while capitalizing on attractive opportunities in the market. Together, this delivers value across our stakeholder base for customers, employees and for our shareholders. With that, I'll turn it over to Marc."
+    },
+    {
+      "speaker": "Marc Vandiepenbeeck Johnson Controls International",
+      "company": "PLC",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks, George, and good morning, everyone. Let me start with a summary on slide 7. Total revenue of $7.2 billion grew 3% organically as strong high single digit service growth more than offset continued weakness in China system business. Segment margin expanded a robust 150 basis points to 17.9% as we delivered another strong quarter of productivity and converted a higher-margin backlog. Adjusted EPS of $1.14 was up 11% year-over-year and exceeded the high end of our guidance range by $0.04. Operations contributed $0.18 of the growth in the quarter as improved productivity and the conversion of higher-margin backlog more than offset higher corporate costs related to additional IT investments, cybersecurity enhancement costs and increased centralization of functional costs. Below the line, we saw favorability from a lower share count. As we continue to build a more consistent and predictable business, we are pleased with the strong adjusted EPS performance in the quarter. On the balance sheet, we ended up the third quarter with approximately $900 million in available cash and net debt decreased to 2.3 times, which is within our long-term target range of 2 to 2.5 times. Year-to-date, adjusted free cash flow improved approximately $700 million year-over-year to $1.3 billion. We remain on the path to driving higher free cash flow conversion more consistently. Let's now discuss our segment results in more details on slides 8 through 10. Beginning on slide 8. Organic sales in our global product business grew 3% year-over-year with price offsetting a modest volume decline. Commercially HVAC remained a bright spot for the business growing mid-single digits against a tough comp of mid teens growth a year ago. Fire & Security declined low single digits, as a decline in fire suppression more than offset growth in fire detection and security video surveillance. Industrial Refrigeration grew approximately 20% with strong double-digit growth in both North America and EMEALA. Overall, Global Residential grew mid-single digits in the quarter. Global Ductless Residential grew low single digits as a strong double digit growth in APAC more than offset continued declines in Europe. In conjunction with improvement in North America Residential Market of Global Ducted Residential business grew 10% with strong double-digit growth in both North America and EMEALA. Adjusted segment EBITDA margin expanded 240 basis points to 24.5% as positive price cost and improved productivity more than offset mix headwinds from ongoing weakness in China. Now moving to slide 9 to discuss our Building Solutions performance. Order momentum remained healthy with 5% growth in the core. Overall, service order grew 12% with a broad-based growth across the region. Systems order grew 2% at North America offset decline in APAC. Organic sales increased 4% in the quarter, led by service growth of 9%. Systems revenue grew 1% as decline in APAC more than offset growth in North America and EMEALA. Building Solutions Backlog continues to remain at record levels, growing 10% to $12.9 billion. Service backlog grew 7% and system backlog grew 10% year-over-year. Let's discuss the Building Solutions performance by region on slide 10. Orders in North America increased 5% in the quarter with mid-single digit growth in both systems and services. As a reminder, our quarterly order growth can fluctuate based on the timing of certain large projects, particularly in the data center vertical. affiliated companies. JULY 31, 2024 / 12:30PM GMT, Q3 2024 Johnson Controls International PLC Earnings Call We remain confident in our competitive position in the data center and our pipeline remains quite robust. Sales in North America were up 8% organically with continued strength across HVAC & Controls up, over 20% year-over-year. Overall, our system business grew 9%, while service grew 6%. Segment margin expanded 150 basis points year-over-year to 15.9%, driven by the continued execution of higher margin backlog, improved productivity and solid service contribution. Total backlog ended the quarter at $9 billion, up 14% year-over-year. In EMEALA, orders were up 11% with over 25% growth in service. Systems, although were flat as we continue to remain focused on driving higher-quality growth with higher margin and improved cash flow conversion. Across the portfolio, we saw strong double-digit growth in controls, fire and security. Sales in EMEALA grew 8% organically with broad-based growth across the portfolio. Momentum continues to build within our service business, up 15% year-over-year, driven by strong double-digit growth from both our recurring and shorter cycle transactional businesses. Our system business grew low single digits, led by strength in controls. Segment EBITDA margin expanded 170 basis points to 10.3%, driven by the positive mix from the growth in service and the conversion of higher-margin system backlog. We've made tremendous progress in improving the profitability in EMEALA as well as the mix of higher-margin service. A more disciplined funnel in systems gives us further confidence in continued momentum in margin improvements. Backlog was up 12% year-over-year to $2.5 billion. In Asia-Pacific, orders declined 2% as we have focused on deploying resources to the most attractive part of the market and remain selective on the jobs we quote and ultimately book. Given our strong installed base in the region and our continued focus, we saw high single digit growth in service. Sales in Asia Pacific declined 19% as the Systems business continued to be impacted by ongoing weaknesses in China. Our Service business grew 8% in the quarter with strong double-digit growth in our recurring revenue contracts. Segment EBITDA margin declined 220 basis points to 11.7% as weakness in China offset positive mix from our service business. Backlog of $1.4 billion declined 12% year-over-year. Now let's discuss our fourth quarter and fiscal year 2024 guidance on slide 11. We entered the fourth quarter with solid momentum, led by our resilient service business and continued demand in our North America system business. Our margin reach backlog remains at historical level and our Global Products book-to-bill business have stabilized and returned to growth. We are introducing fourth quarter sales guidance of approximately 7% growth, a strong demand in North America and EMEALA is somewhat muted by one more quarter of slower recovery in the system business in China. Global Products momentum is expected to continue as our book-to-bill does remain positive throughout the third quarter and the tough comparison in China EBIT. For the fourth quarter, we expect segment EBITDA margin to be approximately 19% and adjusted EPS to be in the range of $1.23 to $1.26. For the full year, we are updating adjusted EPS guidance to a range of $3.66 and $3.69. We now expect organic sales to grow approximately 3% and segment EBITDA margin to expand approximately 110 basis points. Our working capital metrics continue to improve and our free cash flow performance year-to-date has been strong. We continue to invest capital in attractive areas, including data center manufacturing expansion and ongoing ERP consolidation. While this will be a slight headwind, we expect adjusted free cash flow conversion of approximately 85% or better for the full year. With our recent announced planned divestiture, I want to highlight some financial details and future reporting on slide 12. As George mentioned, at the beginning of the call, we were extremely pleased with our announced sale of the Residential and Light Commercial HVAC business. This came just a few weeks after we announced that we tend to sell Air Distribution Technologies business. Together, these two transactions represent hopefully 20% of the sale and the majority of the portfolio we have previously highlighted as non-core. We expect to report the Residential and Light Commercial business as discontinued operation with our fiscal fourth quarter results and will provide our official fiscal year 2025 guidance on a continuing operation basis. affiliated companies. JULY 31, 2024 / 12:30PM GMT, Q3 2024 Johnson Controls International PLC Earnings Call While the two transaction would be dilutive to EPS prior to any cost offset, we have actions in place to address the stranded costs, and we are working on accelerating some of these actions prior to closing. Through the combination of share repurchase, debt paydown and the restructuring, we have a plan in place to fully offset the stranded costs. We will provide more details when we report our fiscal fourth quarter results, Before we open up the line for questions, I want to conclude with a summary of our recent transformation on slide 13. We have spent the last few years transforming the company into a comprehensive solution provider for commercial buildings, and this continues to be a differentiator for Johnson Controls. We took a major step in simplifying the portfolio with our two recently announced divestiture, and we believe our one operating model will enable us to deliver more consistent, predictable results. We operate in many attractive markets, which allows us to build our backlog with margin-rich jobs that have a service still throughout the life cycle of building. Our systems backlog, coupled with our resilient Service business, positions us for sustainable and continued margin expansion. As our margins continue to improve, coupled with our commitment to disciplined capital allocation, we would expect double digit EPS growth. As George mentioned, earlier, the result of our portfolio transformation is now a faster growing, more profitable, less complex and more operationally focused Johnson Controls, and we are excited for the next chapter. With that operator, please open the line for questions. Operator Thank you. We will now begin the question and answer session. (Operator instructions) Scott Davis, Melius Research."
+    },
+    {
+      "speaker": "Scott Davis Melius",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hey, good morning, George and Marc and Jim and congrats, George on the announcements."
+    },
+    {
+      "speaker": "George Oliver Johnson Controls International",
+      "company": "PLC",
+      "role": "Chairman of the Board, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks, Scott. Morning, Scott."
+    },
+    {
+      "speaker": "Scott Davis Melius",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I wanted just to dig in on the data center kind of impact on backlog a bit is. I would assume that a big chunk of that backlog growth is data center, but maybe you could give us some color on the impact materiality of that growth in that vertcial. Thanks."
+    },
+    {
+      "speaker": "George Oliver Johnson Controls International",
+      "company": "PLC",
+      "role": "Chairman of the Board, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. Let me give you a framework and then Mark can talk a little bit more about the, how is being built in backlog and converting. We're already now, we said in the prepared remarks that we're about 7% a year ago. When we look at the business today is about 10% of sales on a pro forma basis continues to be very strong. We are working across all of the hyperscalers colos. We've got a global team now making sure that our leadership technology in all of our domains that we're positioned now to be able to provide the best solutions globally. So that pipelines continue to build. And I think as we think about our orders and backlog, certainly this is going to be a higher mix of backlog playing out. In many cases, it is multi-year backlog. And for us, we look at the next 12 months as far as how we book the backlog. And then as we think about the growth, Scott, going forward, this going to be strong double digit growth in '24. It's going to be, for this year, a strong double digits and continuing to accelerate over the next few years given the work that we're doing. affiliated companies. JULY 31, 2024 / 12:30PM GMT, Q3 2024 Johnson Controls International PLC Earnings Call Marc, do you want to talk about the mix a bit?"
+    },
+    {
+      "speaker": "Marc Vandiepenbeeck Johnson Controls International",
+      "company": "PLC",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. So, Scott, if you look at that growth in backlog of 10% to almost $13 billion in backlog. The mix remains consistent year-over-year because a lot of those data center as George mentioned are multiyear. There is clearly more data center work in that $12.9 billion. But that mix will continue to evolve more towards the data center as we churn that backlog. We will maintain our definition of backlog as what we see in revenue for the next 12 months. And with that consistency, you'll see a change over time more tilted towards the higher growing segments of the market."
+    },
+    {
+      "speaker": "Scott Davis Melius",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. That's helpful. And guys I'm just looking at this slide 6 and the 10:1 numbers on service and digital versus the OE side. I don't remember seeing that before. Maybe you've put it up, and I just have missed it. But is this kind of a theoretical number or you actually have expectation that these are achievable type ratios going forward,?"
+    },
+    {
+      "speaker": "George Oliver Johnson Controls International",
+      "company": "PLC",
+      "role": "Chairman of the Board, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "The algorithm that we've been working from multi-years now as we've been building the Service business, depends on, starts with the installed base, Scott, relative to not only what we're putting into the installed base, but going after the existing installed base. When we can right out of the gate get connectivity. ultimately that first level service and then now with OpenBlue and with connectivity with the use of data. There's significant value propositions that we add, we add on to the, what would be historical maintenance and break fix. And so as we now are seeing that over the last couple of years, we're getting to that level of multiple relative to what we see on a run-rate basis that over the life cycle can achieve that level of revenue. So that is real data with customers that we've had connectivity. We've had installed base connectivity. We're using data and we're now adding on additional services that is absolutely real."
+    },
+    {
+      "speaker": "Marc Vandiepenbeeck Johnson Controls International",
+      "company": "PLC",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And that revenue multiplier evolves based on market verticals and product lines. So, and we've tried to try lay that out on the chart. HVAC is a multiplier that's a little lower than (inaudible) while you go through security controls and then fire provides the higher level of multi-play over the lifecycle of the product. So depending on the market vertical, depending on the product that multiplier of expands, but this is a real experience data that we blew through over the past few years, and we believe we can continue to deliver that through that operating model we've now implemented,"
+    },
+    {
+      "speaker": "George Oliver Johnson Controls International",
+      "company": "PLC",
+      "role": "Chairman of the Board, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I think it's important important, Scott, there we're, it's really tied to outcomes versus just the traditional buy- the-drink type service. And so as we're now converting not only the technology and the product, but with our OpenBlue and data that really changes the game. And then from a attrition standpoint, it significantly reduces the attrition, which continues to build our base and going forward, service going forward. Operator Julian Mitchell, Barclays."
+    },
+    {
+      "speaker": "Julian Mitchell",
+      "company": "Barclays",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks. Good morning and congrats, George, on a very good run. In terms of, I suppose just first off, I wanted to start with the overall kind of top line growth outlook and sort of two elements of that. I think one is the total company this year is growing about 3%. When we look at the sort of the go forward business, the $22 billion revenue base or so, is that sort of 3% rate abnormal in any respect when you're looking at the backlog and assuming no big changes in interest rates or US policy kind of as we're looking ahead. affiliated companies. JULY 31, 2024 / 12:30PM GMT, Q3 2024 Johnson Controls International PLC Earnings Call And related to that, the Fire & Security business is something that you've known for a long time. It looks like sales are flat there this year and that will be about 45% of the go-forward revenue, I think. What you think Fire and Security can grow at sort of medium term?"
+    },
+    {
+      "speaker": "Marc Vandiepenbeeck Johnson Controls International",
+      "company": "PLC",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Great question. So let's start first with the 3% for the full year. Really, we had a lot of cyber headwind in the first quarter that if you did somewhat that overall growth rate year-on-year. So I'll tell you for a longer-term algorithm, 3% is absolutely what, absolutely not what our expectation would be. It would be closer to mid-single digits and that's really on the basis of a mid to high single-digit growth in our service business and a mid single digit growth into our Systems business overall. So those fundamental driving a better mix of roll out different depending on the different product line. And right now, HVAC is benefiting from a lot of tailwind coming from decarbonization, data center and other market verticals that have really prop up the growth there. And you're right. We've seen a little bit of softness overall in the market on Fire and Security this year. We are seeing a particularly in a book-and-bill business, some sign of recovery, and we think we can maintain that mid single-digit growth over time for that business as the service and recurring component aspect of that business will continue to be higher than mid-single digit target. Operator Nigel Coe, Wolfe Research."
+    },
+    {
+      "speaker": "Nigel Coe Wolfe",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks, good morning. And George, you had one hell of a career. So congratulations and good luck with the next steps. So just on that topic, do you have a timeframe in mind for this succession? I know, you obviously want to find the right person there is for the search? But any timeline? And then maybe just touch on Patrick's appointment to the Board obviously, you know, Patrick very well. What sort of skills kind of made him the right person for the Board? And I wonder if maybe he's under consideration for next year?"
+    },
+    {
+      "speaker": "George Oliver Johnson Controls International",
+      "company": "PLC",
+      "role": "Chairman of the Board, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "The timing of this. I mean, we've made great progress on our portfolio with the moves we've recently made. I think it's clear. We have a lot of confidence now in the strategy playing out. We're starting to see that the results from that. And we've also put a strong leadership and team, and I'm very confident of their capabilities and the work that they're doing that's going to position the company to continue to be successful. Now the Board, working with the Board, we've had succession plans that we've been building over time. So that's well underway and now we're looking at both internal and external candidates. The Board is engaged directly with the national recognized search firm and making sure we're also looking and developing at our internal candidates. So it's hard to define the time line, but we are moving forward. And as far as myself, I couldn't be more committed and more passionate and energized relative to where we are. Committed to make sure that we see through a very smooth transition to my successor and then I'll continue on as our Chairman of the Board. So that's kind of where we are. We'll keep you up-to-date as we make progress through the year and through the remainder of the year and keep you updated. Operator Steve Tusa, JPMorgan. affiliated companies. JULY 31, 2024 / 12:30PM GMT, Q3 2024 Johnson Controls International PLC Earnings Call"
+    },
+    {
+      "speaker": "Steve Tusa",
+      "company": "JPMorgan",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi, good morning and congrats, George. The free cash flow in the quarter was pretty good. How do you see that playing out in the in the fourth, I know 85% conversion would suggest, I think somewhat of a step down in the fourth, and you're already on a trailing basis, you've got, you're already very close to 100% conversion. So just curious as to how sustainable this this good result is?"
+    },
+    {
+      "speaker": "Marc Vandiepenbeeck Johnson Controls International",
+      "company": "PLC",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Well, great question, Steve. So you're right. We saw really solid improvement year-on-year and the momentum year-to-date has been quite strong. We're seeing working capital fundamentals continuously improving and continue to trending very positively. The work we've done on lowering inventory and improving our S&OP, [S&OP] process have allowed us to really drive overall more predictability to the working capital. As far as that 85%-plus conversion for the year. We continue to invest aggressively in parts of the market that are attractive to us, particularly increasing the capacity in our data center as we expand more lines in our factory in North America and elsewhere as well as continued involve the investment in our ERP landscape. We do believe that the momentum allows us to probably do better than 85%, and structurally in long term, we'll be able to continue to improve on that. But as of today, I'll tell you 85%-plus is where we're comfortable."
+    },
+    {
+      "speaker": "Steve Tusa",
+      "company": "JPMorgan",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "And then just as far as the guide is concerned next year, anything, any details that you can give as far as your strategy, there's obviously going to be a bit of a dislocation and moving these things to disc-ops with a lag in the capital deployment. How do you plan to address that on earnings?"
+    },
+    {
+      "speaker": "Marc Vandiepenbeeck Johnson Controls International",
+      "company": "PLC",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, we'll start providing guidance next quarter on continued operation. And you're right, there is going to be a little bit of noise, but we are very comfortable that the overall algorithms we have committed to for next year will hold true as we navigate to that continued operation. As you know, some of that Residential and Light Commercial business had solid cash flow. But the momentum that we see in our core business, thanks to that singular operating model is really providing strong tailwinds that will allow you to continue to improve on our free cash flow conversion and our overall free cash flow performance. Operator Noah Kaye, Oppenheimer."
+    },
+    {
+      "speaker": "Noah Kaye",
+      "company": "Oppenheimer",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks. So in the release, there's a cloud of the gain, the significant gain on us on the insurance recoveries from that AFF settlement. Can you just walk us through where your expectations are in terms of actual cash outflows relative to the $750 million settlement that was previously disclosed, now that you've gotten some benefit from insurance and maybe talk through the timing of those outflows?"
+    },
+    {
+      "speaker": "George Oliver Johnson Controls International",
+      "company": "PLC",
+      "role": "Chairman of the Board, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Let me just frame this up here. We did just going back, we reached a settlement with the plaintiffs relating to the PFAS liability. This settlement obviously resolved a significant amount of our PFAS liability. Just also, you might recall that when it comes to July 23, that we're going to discontinue the production of the sale of our fluorinated firefighters fighting foams by June 2024, which is what we've done. So that's behind us. And we have a significant amount of insurance through more than 20 insurers that is applicable to these clients. And so that's the framework. And you've seen that we did we receive 251 from our insurers and maybe Marc, you can talk about as we explore, we expect going forward. affiliated companies. JULY 31, 2024 / 12:30PM GMT, Q3 2024 Johnson Controls International PLC Earnings Call"
+    },
+    {
+      "speaker": "Marc Vandiepenbeeck Johnson Controls International",
+      "company": "PLC",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So from a timeline, Noah, we took the charge in Q2 for $750 million, that's part of the settlement. And in the third quarter, we had [receipts] from the first few agreements resolved with an insurer of about $351 million. So we recovered almost half right off the bat and those payments will go back to the water provider according to our agreements. There's more payments that are going to come in over the next few quarters and we believe that we will cover from an insurance standpoint and the net effect overall will be de minimis. The timing between the recoveries and we see in payments may slip from one quarter to the other, but overall, we think we're in good shape. Operator Joe Ritchie, Goldman Sachs."
+    },
+    {
+      "speaker": "Joe Ritchie Goldman",
+      "company": "Sachs",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks, and good morning, everybody, congratulations, George on the [successive] announcement. Marc, I wanted to just one quick clarification on the 4Q guide is discontinued ops out of the 4Q guide? And if so, what is the impact of that? And then going forward into fiscal year '25, how should we think about GP margins at this point. You guys put up a great number this quarter. Just trying to understand kind of like the puts and takes of the moving pieces with some of that portfolio divestitures."
+    },
+    {
+      "speaker": "Marc Vandiepenbeeck Johnson Controls International",
+      "company": "PLC",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure. Thanks, Joe, The fourth quarter guide, we just gave it for the full payment of the company. We'll start breaking it down at the next quarter. So that guide really holds together, with the perspective that we are going to continue to see sequential improvement, both for the business that we have a contemplating to divest as well as the core of our businesses. Now if you look at the global product margin and if you reflect on the year, Global Product really has benefited from improved processes from an SOE S&OP process that really drove massive improvement in our material handling and our inventory, and that improve inventory management created massive absorption benefit as well as productivity and net-net better conversion costs. That's meant that any incremental volume you saw created good leverage and solid leverage in that business. Now that performance in Q3 that we see continuing improving in Q4, as you look into '25, we will go back to a more regular seasonality, right? So you will see the first half of the year performance more in the mid teens given the volume that businesses in the first six months of the year. And then I think we are now a very comfortable seeing that business clocking in the 20s in the second half of the year as a natural seasonality and volume ramp up in the second half. Operator Joe O'Dea, Wells Fargo. Joe O'Dea Wells Fargo - Analyst Hey, good morning, congrats, George, and congrats to all of you on the portfolio announcements over the course of the quarter. Just curious if you can outline on ADT, the anticipated proceeds as well as any revenue margin kind of EPS related to that exit? And then separately, just wanted any clarity on destock this year. What you saw during the quarter? Confidence that you think that's behind you? And any sizing of the overall headwind global products in 2024 from some of those destock pressures?"
+    },
+    {
+      "speaker": "Marc Vandiepenbeeck Johnson Controls International",
+      "company": "PLC",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. Let me start with ADT and then I'll give some color on the stock. But George, you can add some more. So that business, we signed on June 18, we expect to close the transaction actually this quarter. We've not disclosed the financial terms of the business because it is a smaller transaction and really not that material. I think what's important to remember, this is really part of our simplification journey. We really eliminating, I'm sorry, about 30% of our manufacturing footprint, but we're also eliminating a whole series of SKU and complexity. This is a very commodity business, an affiliated companies. JULY 31, 2024 / 12:30PM GMT, Q3 2024 Johnson Controls International PLC Earnings Call accessory business and it's evolved a lot over the past decade since we acquired that business. But it's an important step in our journey as a (inaudible) provider and the net effect of that divestiture after we buy back some shares is immaterial to the overall company. Joe O'Dea Wells Fargo - Analyst Apologies, please proceed."
+    },
+    {
+      "speaker": "Marc Vandiepenbeeck Johnson Controls International",
+      "company": "PLC",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "On destocking. I think we see a stock level getting back hopefully to normalization. There is some pockets of the market that are still simplifying a little bit their stock level. But overall, I think that for the most part that large destocking is behind us and we feel very confident, particularly when our product have been refreshed that we have a new norm and a new standard on our stock levels and the distribution seems to be holding up pretty good."
+    },
+    {
+      "speaker": "George Oliver Johnson Controls International",
+      "company": "PLC",
+      "role": "Chairman of the Board, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, being very familiar with these businesses, when you look at what we've done around, Marc mentioned it, as it relates to productivity with material planning and the like. And then the work that our team has done really simplifying our SKU base. We've done a really nice job now, not only reducing the inventory, but really decreasing our lead times. And so I think we're well positioned now from a commercial standpoint to be able to pick up volume because of our short lead times while we're continuing to reduce inventory. So we're back to where we were prior to this ramp up because of all the disruption in the supply chain. I feel confident that now on a run rate basis from a growth standpoint, we're starting to see the growth come back and we're doing it with less inventory. Operator Jeff Sprague, Vertical Research."
+    },
+    {
+      "speaker": "Jeff Sprague Vertical",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Good morning, everyone and George, good luck on whatever's next. Just want to come back to the portfolio changes. Obviously, you're not going to report Q4 or 2024 on the basis with which you guided, given things going the disc ops. So maybe you could just actually share with us, given where your guidance stands today and what you're doing on stranded and other costs, what the reset 2024 base looks like on an equivalent basis relative to your current guide? And then when you do have the proceeds to deploy, should we expect you to kind of solve to your same leverage ratios that we see today, kind of split between share repurchase and debt reduction to kind of maintain the same leverage or will you do something different with how you structure the balance sheet? Thank you."
+    },
+    {
+      "speaker": "Marc Vandiepenbeeck Johnson Controls International",
+      "company": "PLC",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Got you, Jeff. So on disc ops, this is not changing any of our commitment and is actually, we feel very comfortable with where we've guided from a full portfolio as well as where we think the continued operating business will go. As far as the use of proceed and what we plan on doing, so we expect the transaction to close in the next 12 months. And we plan to return most of the net proceeds to shareholder to a share repurchase program very similarly to what we did a few years ago when we divested our Battery Power Solutions business. As far as addressing of leverage, it will very much depend on the timing of the closing. We're thinking 12 months, but it could go 3 months either way. And so we could easily see ourselves growing into existing debt level and not have to redeploy much or we could see ourselves in the transaction closed much, much quicker than we are anticipating having to address some leverage at that point. Our goal is to remain committed to our investment grade rating, and we'll work with the agency depending on the time line as to what's most appropriate to be able to meet that commitment. And I'll leave it at that. affiliated companies. JULY 31, 2024 / 12:30PM GMT, Q3 2024 Johnson Controls International PLC Earnings Call Operator Andy Kaplowitz, Citigroup."
+    },
+    {
+      "speaker": "Andy Kaplowitz",
+      "company": "Citigroup",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Good morning, everyone, George, congratulations."
+    },
+    {
+      "speaker": "George Oliver Johnson Controls International",
+      "company": "PLC",
+      "role": "Chairman of the Board, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks, Andy."
+    },
+    {
+      "speaker": "Andy Kaplowitz",
+      "company": "Citigroup",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Could you update us on what you're thinking regarding the ability to start growing backlog and earnings in Asia Pac? And what your expectations are for Q4 bookings and backlog? Backlog was up slightly sequentially in Q3. And I know you've talked about expecting a bigger uptick by the end of the year, while telling us the China is still muted. So do you still see bookings beginning to accelerate in Q4 and you still see recovery in that region in FY25?"
+    },
+    {
+      "speaker": "Marc Vandiepenbeeck Johnson Controls International",
+      "company": "PLC",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "No, great question. And you partially answered it yet. Yes, we continue to see sequential improvement. There is a slower recovery than we had initially anticipated. So one of the reason we tightened the guide for the year and why you see a revenue growth a little lower than we had anticipated, but that momentum is continued to build. And the order intake we saw in Q3 was sequentially a good improvement from Q2, and we see that sequential improvement continue in Q4. While we expect one more challenging quarter in the fourth quarter here, we still probably declining revenue year-on-year in the low single digits. That all the momentum is going to turn positive, positioning as well as we enter 2025. So we absolutely see that business recovering in 2025, particularly on a year-on-year compare. The comps are going to become easier given the challenging year we just went through. The backlog, as you mentioned, has been sequentially improving over the last few quarter, and we continue to redeploy the resource in this most attractive part of the market. But we continue to remain very disciplined in the type of job and the counterparty we deal with in the market in China as that market continued to be pretty challenging. Operator Andrew Obin, Bank of America."
+    },
+    {
+      "speaker": "Andrew Obin Bank",
+      "company": "of America",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi, yes, good morning. George, congratulations."
+    },
+    {
+      "speaker": "George Oliver Johnson Controls International",
+      "company": "PLC",
+      "role": "Chairman of the Board, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks, Andrew."
+    },
+    {
+      "speaker": "Andrew Obin Bank",
+      "company": "of America",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Just a question, just maybe a little bit more detail. You highlighted more disciplined approach in EMEALA systems. What did you do? And what's your ability to apply this approach elsewhere in the portfolio?"
+    },
+    {
+      "speaker": "Marc Vandiepenbeeck Johnson Controls International",
+      "company": "PLC",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Great question. So the discipline that we've put in place is really part of our overall operating model. And our operating model really started as we refined it in North America a couple of years back. And you can see North America really benefiting from that discipline over time and that focus. There's really two things that are happening. We centralize more the decision making process as which verticals and which markets we really approach. And we are really focused that commercial organization towards those parts of the market where we see a very much affiliated companies. JULY 31, 2024 / 12:30PM GMT, Q3 2024 Johnson Controls International PLC Earnings Call more attractive margin as we can sell value. And we have customers that are interested in our product and see value over that cycle. But also parts of the market where you see a stronger service attach. And when you do that, you're able to actually drive a modest growth in the System business for a much larger growth in our Service business as that service attach yields better outcome overall. So that's, that operating system has been really fully deployed in North America. That's probably where the maturity is at the highest. EMEALA is still going through that. I see EMEALA closing the gap with its regional peers. Asia had a strong operating model. I think the market moved on us very fast, and then we are repivoting as quick as we can. But you'll see, as I mentioned on the prior question, you'll see APAC repivoting very quickly and that operating model maturing across the board outside of North America, including EMEALA . Operator Deane Dray, RBC Capital Markets."
+    },
+    {
+      "speaker": "Deane Dray RBC Capital",
+      "company": "Markets",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you. Good morning, everyone, and add my congrats to George."
+    },
+    {
+      "speaker": "George Oliver Johnson Controls International",
+      "company": "PLC",
+      "role": "Chairman of the Board, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks, Deane."
+    },
+    {
+      "speaker": "Deane Dray RBC Capital",
+      "company": "Markets",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I don't think you've given much detail here, but could you share us with any of the economics of the divestiture of Air Distribution Technologies?"
+    },
+    {
+      "speaker": "Marc Vandiepenbeeck Johnson Controls International",
+      "company": "PLC",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, as I mentioned, Deane, while this is a critical step in our simplification journey. The financial terms are not disclosed because they are really, t's a really smaller transaction, and not very material for the overall value of the enterprise. We struck what we feel is a very attractive deal for the enterprise with [tooling] capital. We're hoping to close that business very, very quickly and hopefully within the next few weeks."
+    },
+    {
+      "speaker": "Deane Dray RBC Capital",
+      "company": "Markets",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it. Thank you. And then second question, George, there's been a lot of interested in your peers regarding not just data center, but liquid cooling technologies and data center. You've seen your peers make direct investments in technologies, businesses. Is this something that you all are looking at as well. You've got certainly components that are part of these technologies, but there's a big developing opportunity, high growth, and it seemed like it would be a good fit."
+    },
+    {
+      "speaker": "George Oliver Johnson Controls International",
+      "company": "PLC",
+      "role": "Chairman of the Board, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Absolutely. We're incredibly well positioned with all of our hyperscaler and colos customers. And from an R&D standpoint, understanding what their next generation is. How do we leverage our, what we would say is a leadership portfolio with a lot of IP. And then as we go to liquid cooling, with the cooling distribution unit at the end of, it's still going to require a lot of the cooling technology that we deploy, but making sure that we're going to be positioned either producing those units and or partnering to make sure that we have the full solution and how we position with our hyperscalers and colos. And so we see this playing out as a incredible opportunity for us, and one that we've been investing in not only in our core technology, but our application of that technology with overall liquid cooling. Operator Gautam Khanna, TD Cowen."
+    },
+    {
+      "speaker": "Gautam Khanna TD",
+      "company": "Cowen",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hey, thanks. Good morning and congrats, George. affiliated companies. JULY 31, 2024 / 12:30PM GMT, Q3 2024 Johnson Controls International PLC Earnings Call"
+    },
+    {
+      "speaker": "George Oliver Johnson Controls International",
+      "company": "PLC",
+      "role": "Chairman of the Board, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks."
+    },
+    {
+      "speaker": "Marc Vandiepenbeeck Johnson Controls International",
+      "company": "PLC",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Good morning, Gautam."
+    },
+    {
+      "speaker": "Gautam Khanna TD",
+      "company": "Cowen",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I wanted to ask on that CEO search, what George, from your perspective, like what kind of attributes are you looking for from whoever succeeds you? What do you think they need to bring?"
+    },
+    {
+      "speaker": "George Oliver Johnson Controls International",
+      "company": "PLC",
+      "role": "Chairman of the Board, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Well, I mean as we think about the company and the simplification of the company, it's important that we bring a lot of domain expertise and industrial expertise. And we're a company that is a product technology company. We're a service company and how we deploy that technology. Certainly we're solutions and how we actually go to market. So there's a lot of experiences there that we would be be looking for to complement. As we did the Board refreshment with Patrick, just to talk to that a little bit. We are constantly looking for qualified Board candidates and how we think about refresh and succession. And Patrick is a fantastic addition, a world-class executive with experience transforming Xylem, and similar experience gone from an industrial products company into an advanced technology service solution enterprise. So as we think about CEO succession and the like, obviously, strong operating experience, strong domain experience and the ability to be able to take the incredible foundation that we've built here to the next level, leading the new Johnson Controls. Operator Nicole DeBlase, Deutsche Bank."
+    },
+    {
+      "speaker": "Nicole DeBlase Deutsche",
+      "company": "Bank",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yes, thanks, good morning, guys, and I'll add my congrats to George on the announcement today. Just wanted to ask about orders. So you guys mentioned, lumpiness around data center, maybe contributing to the 5% organic growth this quarter. I guess, how do you think about the potential opportunity for order acceleration from here based on what you're seeing in the pipeline today as we've tried to calibrate expectations for the next few quarters? Thanks."
+    },
+    {
+      "speaker": "Marc Vandiepenbeeck Johnson Controls International",
+      "company": "PLC",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "As you know, we try to shy away from providing guidance on all those. But what I can tell you is, you're absolutely right. We see lumpiness in the orders, particularly coming from the data center vertical. That also mean that there is going to be a quarter where you're going to see very large order, and we continue to see an increased pipeline in that particular vertical. That gives us confidence that you will see a pretty large order quarters over the the next few few coming quarters. This particular last quarter, we have a tough compare year-on-year. We had very solid orders, particularly in the data center vertical in the third quarter of last year. But again, that pipeline remains healthy and that lumpiness will probably not go away anytime soon."
+    },
+    {
+      "speaker": "George Oliver Johnson Controls International",
+      "company": "PLC",
+      "role": "Chairman of the Board, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And I think just to add on to that, when you look at value proposition that we bring to data centers with our portfolio multi technologies in the way that we've been building out capacity to be able to serve our customers as they achieve their growth. These become multiyear agreements. And so as we're positioning, you can get very large orders multiyear. And that's what we're seeing as we're partnering and making sure that we're positioned to get more than our fair share, bringing our technologies and capabilities with the full solution to our customers globally. affiliated companies. JULY 31, 2024 / 12:30PM GMT, Q3 2024 Johnson Controls International PLC Earnings Call Operator Brett Linzey, Mizuho."
+    },
+    {
+      "speaker": "Brett Linzey",
+      "company": "Mizuho",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hey, good morning and congrats to George. Just wanted to come back to the fourth quarter guide. So the 19% EBITDA margin, wanted to understand your level of visibility there. Is this something that you're converting out of backlog and you have line of sight to? Just any color towards that 60% incremental margin?"
+    },
+    {
+      "speaker": "Marc Vandiepenbeeck Johnson Controls International",
+      "company": "PLC",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. No, we absolutely have strong visibility to it. And if you look year-on-year, for sure that 19% looks a pretty heavy with 250 to 300 basis points year-on-year improvement. But now if you look at it sequentially, when we went from Q2 to Q3 and Q3 to Q4, jumping from almost 18% to 19% is absolutely part of that sequential run rates. The same fundamental we saw up from Q2 to Q3, I think, a strong backlog, having really our book to bill business, both in the field and our global product continuing to driving more volume and the comments I've made on Global Products and the incredible work that's been done there to take care of the best cost and conversion cost, allowing us to really drive a lot of bottom line benefit for small volume increment, gives us very strong confidence that we can achieve that margin rate in the fourth quarter. Operator Thank you. And this concludes our question and answer session. I would like to turn the conference back over to George Oliver for any closing remarks."
+    },
+    {
+      "speaker": "George Oliver Johnson Controls International",
+      "company": "PLC",
+      "role": "Chairman of the Board, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you, operator, and I'd like to thank the entire Johnson Controls team for their incredibly hard work and dedication in getting us to where we are today. Our transformation into a pure play provider of comprehensive solutions for commercial buildings is substantially complete, and we're well positioned to now deliver long-term sustainable value for our shareholders as a simpler, higher growth company. We know we're on the right path as our strategy is already delivering results, and we are looking forward to this next chapter for our company. I am proud of the growth Johnson Controls has been able to achieve and couldn't be more excited about where we go next. So with that, operator, that concludes our call today. Operator Thank you, sir. Ladies and gentlemen, this concludes today's conference call. We thank you all for attending today's presentation. You may now disconnect your lines and have a wonderful rest of the day. In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. affiliated companies."
+    }
+  ]
 }

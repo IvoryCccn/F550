@@ -4,5 +4,342 @@
   "quarter": "2024Q2",
   "sector": "IT",
   "filename": "2024-Aug-28-HPQ.N-141082730417-Transcript.pdf",
-  "segments": []
+  "segments": [
+    {
+      "speaker": "Irvin Liu Evercore",
+      "company": "ISI",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Operator Good day, everyone, and welcome to the third-quarter 2024 HP Inc earnings conference call. My name is Tesere and I'll be your conference moderator for today's call. (Operator Instructions) As a reminder, this conference is being recorded for replay purposes. I would now like to turn the call over to Orit Keinan-Nahon, Head of Investor Relations. Please go ahead."
+    },
+    {
+      "speaker": "Orit Keinan-Nahon HP",
+      "company": "Inc",
+      "role": "IR",
+      "speaker_type": "other",
+      "section": "presentation",
+      "text": "Good afternoon, everyone, and welcome to HP's third-quarter 2024 earnings conference call. With me today are Enrique Lores, HP's President and Chief Executive Officer; Karen Parkhill, HP's Chief Financial Officer; and Tim Brown, who is the Interim Chief Financial Officer. Before handing the call over to Enrique, let me remind you that this call is a webcast and a replay will be available on our website shortly after the call for approximately one year. We posted the earnings release and accompanying slide presentation on our Investor Relations webpage at investor.hp.com. As always, elements of this presentation are forward-looking and are based on our best view of the world and our businesses as we see involve risks, uncertainties and assumptions. For a discussion of some of these risks, uncertainties and assumptions, please refer to HP's SEC reports, including our most recent Form 10-K. HP assumes no obligation and does not intend to update any such forward-looking statements. We also note that the financial information discussed on this call reflects estimates based on information available now and could differ materially from the amounts ultimately reported in HP's SEC filings. During this webcast, unless otherwise specifically noted, all comparisons are year-over-year comparisons with the corresponding year-ago period. In addition, unless otherwise noted, references to HP channel inventory refer to Tier 1 channel inventory. For financial information, that has been expressed on a non-GAAP basis, we've included reconciliations to the comparable GAAP information. Please refer to the tables and slide presentation accompanying today's earnings release for those reconciliations. With that I'd now like to turn the call over to Enrique."
+    },
+    {
+      "speaker": "Enrique Lores HP",
+      "company": "Inc",
+      "role": "President & Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thank you, Orit, and thank you all for joining today's call. Let me start by welcoming our new CFO, Karen Parkhill, who joined HP earlier this month. Her expertise and background are a great addition to our leadership team, and we are delighted to have her on board. And a big thank you to Tim Brown for stepping in as interim CFO over the last three quarters. Today, I will cover our third quarter results, a few of the new innovative experiences we have introduced, how we are tracking against our affiliated companies. AUGUST 28, 2024 / 9:00PM GMT, Q3 2024 HP Inc Earnings Call strategic priorities, and our expectations for Q4. Karen will provide additional details on our financials and outlook. Starting with our results, let me first focus on revenue. I am pleased to share. We are building solid momentum. The Company returned to revenue growth for the first time in nine quarters, up 2% year over year. This was driven by strong performance in personal systems and our key growth areas. Commercial PC recovery was strong, in line with our expectations and a signal of ongoing market stabilization. That said, the recovery of our print market was slower than expected, which impacted print revenue. Non-GAAP operating profit was down 7% and non-GAAP EPS was within our previously provided outlook range but below our expectations. We have been taking decisive actions to address this. We see an immediate opportunity to drive additional structural cost savings in Q4 as part of our future ready program. We are accelerating our plan, raising our exit goal for fiscal year '24. We expect to reach 80% of the three-year structural cost run-rate target by the end of this year. We will also keep executing our plan to strengthen momentum and drive long-term profitable growth. This includes investments in support of our growth businesses. And these combined efforts will help us win in the market to drive profitable growth and build a stronger HP. Turning to new innovations, Q3 was another strong quarter. We continue to deliver industry-leading experiences by putting our customers at the center of everything we do. In the AI PC category, we are charging ahead. Our next-gen AI PCs and empowering everyone from knowledge workers to data scientists to unlock the power of AI. In May, we launched our first generation using the latest Qualcomm processor. As the world's thinnest next-gen AI PCs with the longest battery life, they are made for mobility. And in July, we introduced a new premium model powered by the latest AMD processor. It is the most powerful AI PC in the industry with up to 55 TOPS of NPU performance. It delivers personalized experiences like real-time translation, personal communication coaching, and quick professional video creation and to help protect against AI-assisted cyber-attacks, the new OmniBook Ultra includes the industry-leading protections and capabilities of HP Wolf Security. We are doing even more to raise the bar for data scientists and AI developers. Our HP AI studio is the world's most comprehensive workstation solution for AI development. In Q3, we made it even stronger by being the first and only to build Gen AI trust into our solution. This means developers can more effectively detect, correct, and monitor inaccurate outputs from AI models, making it faster and safer for companies to deploy AI-powered applications In workforce solutions, our proprietary workforce experience platform is exceeding our expectations. Customers are now leveraging our AI capabilities to manage over 250,000 devices on growing. We also recently added several managed devices wins and deployments, including larger companies like Eaton. Our continued partnership with this global intelligent power management company will help support their IT journey in serving more than 90,000 employees around the world. We set a new standard for industrial printing at DRUPA, introducing advanced digital presses and intelligent automation solutions. These included autonomous mobile robots that save up to two hours of production a day per press. We also enhanced our print OS platform, giving customers the ability to monitor their entire production floor from job submission to delivery. We were honored to take home more best of awards than any other exhibitor at the show. We also announced a new partnership with Canva. Their 185 million monthly users can now similarly design and create online and print affiliated companies. AUGUST 28, 2024 / 9:00PM GMT, Q3 2024 HP Inc Earnings Call locally. We also secured major deals with print and digital industry leaders like RR Donnelly, All4Labels and SYNTHES. We are excited about what's ahead. In September, we will host our second annual HP Imagine event. Here, we will unveil even more new experiences that help our customers drive growth and professional fulfillment. In Q3, we further invested in our long-term success. We acquired Cybercore Technologies, a leading provider of secure supply-chain management and cyber solutions for the US Federal Government. The addition of Cybercore to the HP family will help further strengthen our security expertise and enhance our offerings. And just yesterday, we announced we have received a $50 million award from the US Department of Commerce. This funding from the chiefs and science act will help modernize and expand at our microfluidics semiconductor fab in Corvallis, Oregon. It will also help us further explore the potential of our microfluidics technology in new areas such as life sciences. In Q3, we released our annual sustainable impact report, highlighting the important progress we have made. In 2023, our initiatives helped us reach a 27% reduction in value chain greenhouse gas emissions. We continue to rollout easily recyclable packaging created from recycled content. In 2023, we reached a 62% reduction in single-use plastic packaging and our digital equity efforts have reached 45 million people since 2021. We know there is always more that can be done, but we are proud of our progress, and we are honored to be ranked first in our industry on Time Magazine's, world's most sustainable companies list. Now let me share more details on the performance of each of our businesses in the third quarter. In personal systems, revenue was up 5% year over year, the second consecutive quarter of year-over-year growth. Operating profit was 6.4% in line with our expectations. Globally, our PC share was flat year over year, but up 1.3 points quarter over quarter. This was driven by growth in high-value categories, including workstations and consumer premium. We continue to see strong progress in key growth areas with revenue up year over year in personal systems services and in hybrid systems, driven by strong demand for video collaboration. And we grew gaming revenue quarter-over-quarter in line with normal seasonality. We remain very excited about the AI PC opportunity. Shipments are ramping and initial reactions are overwhelmingly positive. We have a strong portfolio with an unprecedented level of HP engineering. Our growing ecosystem of developers and AI software providers are a huge competitive advantage. Forbes declared HP won the AI PC crown, and they are right. Our focus is on delivering new AI experiences for our customers. Overall, our AI PC expectations across shipments, higher ASPs and premium mix remains on track with our expectations for the second half. Shifting to print, net revenue was down 3% year over year. We delivered print operating profit of 17.3%, which was below our expectations. We saw softer demand, unfavorable geo mix, and a more aggressive pricing environment. Even in this type of challenging environment, I expect us to do better. And as I said earlier, we are taking actions to accelerate our structural cost savings for this year. We have made progress on gaining profitable share with growth year over year and quarter over quarter in home and in office when excluding China. We gained share in our strategic areas, especially in big tanks, A3 and A4 value. Key growth areas in print continue to make progress. Consumer services revenue and subscribers grew year over year. Industrial graphics did as well, and we have strong momentum coming out of DRUPA. And supplies continued to perform as expected. Overall, we generated strong free-cash flow of $1.3 billion in the quarter and returned $0.9 billion to shareholders. We remain committed to our capital allocation strategy. Our Board of Directors urged us to increase the total share repurchase authorization to $10 billion. This reaffirms our commitment to deliver strong and sustained capital returns to our shareholders. Looking forward to Q4, we expect the demand environment will remain dynamic and that our markets will continue to be competitive. affiliated companies. AUGUST 28, 2024 / 9:00PM GMT, Q3 2024 HP Inc Earnings Call We expect the PC commercial momentum to continue and our key growth areas to make progress. At the same time, the competitive pricing environment will remain in Q4, and the print market recovery will continue to be slower. As a result, we decided to moderate our expectations for Q4 and the full year. We will maintain investments and progress in high value on key growth areas and accelerate our cost reduction plan. We are confident in our strategy and well equipped to drive meaningful progress as we round out fiscal year '24. Across our entire portfolio, leveraging AI and enabling hybrid work experiences will remain central to creating solutions that deliver growth and fulfillment for all HP customers. I will pause here and turn it over to Karen."
+    },
+    {
+      "speaker": "Karen Parkhill HP",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you, Enrico, for the warm welcome. I'm thrilled to join HP, and I'm eager to meet you our analysts and investors in the months ahead. So I have been here just a few weeks. I'm incredibly impressed by the innovation all around me. HP is an iconic company, and I'm excited to work with Enrique gate and our leadership team to create an even stronger future ahead, building upon our market-leading portfolio, attractive growth businesses and culture keenly focused on delivering value for our shareholders. Now onto the quarter, starting high level, we are building on the progress we made in the first half, and as Enrique said, are pleased with our return to revenue growth for the first time in nine quarters. Solid performance in personal systems, which grew for the second quarter in a row and in our key growth areas drove our Q3 revenue growth. And double-digit sequential growth in personal systems drove strong free cash flow in the quarter. We also returned nearly $870 million to our shareholders through repurchases and dividends and remain focused on returning approximately 100% of our free cash flow this fiscal year. Looking across the company the print market was softer than we expected at the beginning of the quarter. And both print and PS saw a dynamic pricing environment that puts some pressure on our margins as did our focus on continuing to invest for long-term sustainable growth. As a result and as Enrique mentioned, we are accelerating our future-ready plan and intend to deliver savings sooner than expected. As a reminder, our plan incorporated our goal to deliver gross annualized structural cost savings of $1.6 billion by the end of fiscal year '25 with approximately 70% or $1.1 billion achieved by the time we exit the fiscal year. Given our focus to mitigate near-term market challenges and just as importantly, maintain investments to drive longer-term growth, we have accelerated our efforts and now expect our cumulative savings target exiting the fiscal year to be approximately $1.3 billion or 80% of the planned target. Now, let's take a closer look at the details of the quarter. Net revenue was up 2% nominally and up 3% in constant currency. And constant currency revenue increased in all regions with Americas, AMEA and APJ, each growing 3%. Gross margin at 21.5% in the quarter was up slightly year over year. Our cost saving efforts offset both competitive pricing in the face of rising commodity costs and a mix shift given the strong PS performance. Non-GAAP operating expenses were up year over year from continued investment in key initiatives and our people. And of course, we continue to drive cost reductions, including the future-ready cost savings. All in non-GAAP operating profit was $1.1 billion, down 7% year over year. Below the profit line, Non-GAAP net OI&E was down year over year, benefiting from less short term financing activity and lower interest expense from the debt tender we completed last year. Finally, with a diluted share count of roughly 1 billion shares, our non-GAAP diluted net earnings per share was $0.83, a year-over-year decrease of $0.03 and GAAP diluted net earnings per share was $0.65. Now, let's turn to segment performance. Personal systems revenue was up 5%, both nominally and in constant currency with higher commercial volumes and increased ASPs as we worked to adjust pricing where possible to mitigate increased commodity costs. affiliated companies. AUGUST 28, 2024 / 9:00PM GMT, Q3 2024 HP Inc Earnings Call Total units were up 1% year over year, with strength in commercial. And sequentially, revenue was up 11% and units were up 14%, with seasonal strength and overall share gains. Of note, hybrid systems revenue grew in the double digits year over year including strong growth in video collaboration. Drilling more into the details. Consumer revenue was down 1% with units down 6% and commercial revenue was up 8% on 6% unit growth. Improved pricing in consumer, along with favorable commercial mix and a shift to premium consistent with our strategy drove higher overall ASPs. In fact, we continue to see commercial representing greater than 70% of personal systems revenue. And while calendar Q2 market share was flat year over year, we gained share sequentially driving improvements in high-value categories. And of course, we remain focused on driving profitable revenue and share growth in both our consumer and commercial markets. Personal systems operating margin of 6.4% was down slightly year over year. We had higher commodity costs and purposely continued our strategic investments, offset in part by future-ready savings. In print, our results reflected the slower pace of market recovery and an incrementally aggressive pricing environment as our Japanese competitors continued to benefit from the weaker yen. Overall, the market came in below expectations, particularly in China. Total print revenue was down 3% on a reported basis and 2% in constant currency. And while hardware units declined 2% year over year, total print market share increased both year-over-year and sequentially. And momentum in industrial graphics continued with supplies and services driving the fourth straight quarter of year-over-year revenue growth. By customer segment, commercial revenue decreased 5% with units down 4%. And as mentioned, we felt the impact of market declines, most notably in China and competitive pricing. Consumer revenue returned to growth, increasing 2% on flat units with favorable mix offsetting pricing. Of note, hardware units grew 5% sequentially, driven by strength in consumer. And supplies revenue was down 2% nominally and 1% in constant currency, in line with our outlook. Print operating margin of 17.3% was down year over year with headwinds from pricing and increased investments, not fully offset by savings from our future-ready actions. On our future-ready transformation plan, we continue to drive greater effectiveness and efficiency across the company. For example, we're using generative-AI capabilities to reduce customer call times in Workforce Solutions. And in our commercial organization, our move to more end-to-end processes is enabling much faster deal close for contractual customers and allowing customers to more easily buy and renew on hp.com. There is more to come as we accelerate and complete this program, particularly in print, where we are driving further reductions across the core, including business consolidation, supply chain optimization and reductions in platforms. Now, let me move to cash flow and capital allocation. We generated more than $1.4 billion in cash from operations and $1.3 billion in free cash flow. We continue to improve our cash conversion cycle this quarter, driving inventory days down with seasonally higher volumes in Personal Systems, offset in part by an increase in strategic buys as we focused on reducing the near-term impact of rising commodity costs. Lastly, we returned close to $870 million to shareholders through both share repurchase and dividends and finished the quarter within our target leverage range. Just as a reminder, unless higher ROI opportunities arise. And as long as our gross leverage ratio remains below two times, we expect to return approximately 100% of our free cash flow to our shareholders over time. Looking forward to the fourth quarter and our fiscal year end, we will continue to navigate a dynamic environment and have therefore modeled multiple scenarios based on several assumptions. In Personal Systems, we expect Q4 revenue to increase sequentially low to mid-single digits. We are expecting continued strength in commercial, but given the lingering softness in the consumer market, we are expecting less seasonal growth than we have seen historically. We anticipate Personal Systems operating margin to remain in the upper half of our long-term target range of 5% to 7% in Q4 as we work to offset increased commodity costs through pricing and disciplined cost affiliated companies. AUGUST 28, 2024 / 9:00PM GMT, Q3 2024 HP Inc Earnings Call management while continuing to invest in strategic priorities. In print, we see improving trends in the market, but the pace of recovery is slower than we expected with continued competitive pricing pressure. For Q4, we expect print revenue to increase low to mid-single digits sequentially, driven by typical seasonal strength as well as strong momentum in our industrial business, coming out of DRUPA. We expect supplies revenue in FY24 to decline low-single digits and we anticipate Q4 print margins to be near the top of our 16% to 19% range, given seasonal strength and acceleration of future ready cost savings. Taking all of these considerations into account, we are moderating our guide for Q4 and fiscal year 2024, and we are narrowing our non-GAAP EPS outlook range to $0.1, which is reflected in our updated outlook. We expect fourth quarter non-GAAP diluted net earnings per share to be in the range of $0.89 to $0.99 and fourth quarter GAAP diluted net earnings per share to be in the range of $0.74 to $0.84. For the full year, we now expect non-GAAP diluted net earnings per share to be in the range of $3.35 to $3.45 and FY24, GAAP diluted net earnings per share to be in a range of $2.62 to $2.72. Lastly, we continue to expect free cash flow to be in the range of $3.1 billion to $3.6 billion for FY24. As a reminder, our free cash flow outlook includes approximately $300 million of restructuring cash outflows. At this point, we want to open the lines for your questions. But before we do, I want to express my gratitude to my HP colleagues for their help in making my onboarding as smooth as possible. And in particular, I want to thank Tim Brown for his leadership in the interim and his continued help these past few weeks with me. Tim is also on the call with Enrique and me to help answer your course. Operator David Vogt, UBS. Unidentified Participant Yes, hi. This is Andrew for David. I wanted to ask about the print margins in fiscal '24. Can you disaggregate some of the pressure you saw in this quarter? What was the -- what were the primary drivers? What were the bigger drivers? And why do you expect that to reverse next quarter? Is it entirely on the cost cuts from the future-ready plan? Or are there other drivers that you're expecting to improve margins in Q4."
+    },
+    {
+      "speaker": "Karen Parkhill HP",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks for your question, Andrew. Our Q3 print margin was below our expectations, although I would note that supplies did come in as expected in the quarter. So our margin was impacted by more aggressive pricing as we talked about as well as a challenging market environment, particularly in China. And that was driving unfavorable geographic mix. And against that environment, we took the opportunity to place hardware units that are profitable long term, but dilutive to the current overall margin rates. And despite the headwinds, we also maintained our investment in the key growth areas that are going to generate long-term value. And then as we look ahead to Q4, we expect to be seasonally stronger on revenue. We're also, as we talked about taking more aggressive actions to drive that margin improvement. We said we're accelerating our future-ready plan. We're driving further reductions across the core. That includes business consolidation, reduction in platforms and supply chain optimization. And with all of this taken together, we're confident in our ability to deliver the print margins near the top end of our 16% to 19% target range. Unidentified Participant Thanks. affiliated companies. AUGUST 28, 2024 / 9:00PM GMT, Q3 2024 HP Inc Earnings Call Operator Samik Chatterjee, JP Morgan."
+    },
+    {
+      "speaker": "Samik Chatterjee",
+      "company": "JPMorgan",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks for take my question. I have a couple if I can just start with maybe AI PCs, which you referred to in terms what you're seeing with customers and the launches that you have done. If you could share how you are seeing that flow-through when you look at the segments between consumer, PS and commercial, what are you seeing in terms of activity there? Where do you expect it will make a more material impact in the coming quarters? How do you sort of see that feeling into maybe a bit of the recovery on the consumer PS side as well. Any thoughts on that would be appreciated and I have a follow-up."
+    },
+    {
+      "speaker": "Enrique Lores HP",
+      "company": "Inc",
+      "role": "President & Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure. Thank you. Let me let me take that question. So first of all, when we talk about consumer -- AI PC, we used IDC description. We had said that we expected sales to be around 10% during the second half, and we think we are going to be slightly above that number. So they are performing well. Where we really are also focused in what we call next-generation AI PCs that we have just started to launch, we announced our first product with Qualcomm and with AMD only a few weeks ago, and shipments are starting to -- are beginning now. So we haven't seen a significant impact from those yet. The reaction has been positive. The experiences that we are able to generate are very compelling. We had an event with many of our software providers a few weeks ago in New York when we were able to display that. So the reaction is positive, but the impact on our results has been very very small yet. In terms of adoption, we've seen that in the very short term, adoption in consumer will be faster because adoption in commercial is always limited by the evaluation process that many of our customers have to go through. And those evaluation processes are only starting. So it's going to take some time until they have an impact in our results. And in terms of the projections that we have for the future, we maintain the projections that we have been sharing over the last quarters. We expect next-generation AI PCs to represent around 50% of shipment in 2027, three years after launch. And they drive an average selling price increase between 5% and 10%. This has been the projections we have been hearing before, and we are confident that we will continue -- we will deliver on those in the future."
+    },
+    {
+      "speaker": "Samik Chatterjee",
+      "company": "JPMorgan",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "For my follow up, I can just ask you in the print business. I understand, these sort of headwinds and the competitive landscape that you're calling out, but how should we think about what are you seeing in terms of market share play out, particularly as the competitive landscape sounds like it's tougher. Would you look at it from a market share perspective and say the Japanese competitors are more competitive? And you are giving up some share in certain segments or do you think it's more just the underlying market, that's a challenge here relative to market share?"
+    },
+    {
+      "speaker": "Enrique Lores HP",
+      "company": "Inc",
+      "role": "President & Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Let me take this opportunity to share a bit more about what we are seeing on the print market? And then how do we project these going forward? As we said in the prepared remarks, clearly the print market was challenged, and we didn't see the recovery that we were expecting. But within that, we saw some signs of positive change. For example, we saw positive growth from the home space. The decline in the office category was lower than the declines we had seen in previous quarter. And as Karen said before, we have seen supplies performing as expected, but especially usage is a good predictor of what is going to be happening in the future. This is why we've seen that there's lower recovery is temporary, and we expected to see changing going forward. The majority of it was in the office space, and this is really what drove it from a demand perspective. affiliated companies. AUGUST 28, 2024 / 9:00PM GMT, Q3 2024 HP Inc Earnings Call From a pricing perspective, what we have seen is a continuation of what we have shared before. Many of our competitors are taking advantage of the weak yen, and this is allowing them to be more cost -- more aggressive from a price perspective. We have been working to reduce the cost structure of our products to be able to place profitable unit. And this is what we did this quarter. We placed units. We hold our share. We grew share in the home space. And as we continue to drive cost, we will continue -- if we see the opportunity, we will continue to place profitable unit, which continues to be our goal. Operator Erik Woodring, Morgan Stanley."
+    },
+    {
+      "speaker": "Erik Woodring Morgan",
+      "company": "Stanley",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hey, guys. Thanks so much for taking my questions. I have two as well. Maybe Enrique, for you, it's something that you didn't necessarily allude to in depth in your prepared remarks on the PC side was the kind of commercial/enterprise recovery that we've been talking about for a few quarters. So can you maybe one just help us understand, as you look at commercial -- consumer versus SMB versus large enterprises, kind of how you would characterize PC demand across each of those end markets? And second to that, how does that influence your view that whether there is or is not a large commercial refresh cycle still in front of us or is that behind us? We would just love to know where do you think we are in that phase? And then I have a follow up. Thank you."
+    },
+    {
+      "speaker": "Enrique Lores HP",
+      "company": "Inc",
+      "role": "President & Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So let me go there. I think the market evolution and our results confirm is that we have seen our recovery of the PC market. And this recovery is mostly driven by the commercial side of the business. Trying to provide some more specifics on about your question, we saw a market for enterprise growing close to 5%, government between 6% and 7%, SMB 3%, and education 1%. We saw significant growth on the on the commercial space, especially in enterprise. And this is really supported by the trends that we had discussed before. The installed base has been aging, and the companies are seeing the need to refresh at. Windows 11 is starting to have an impact. And especially since Microsoft announced when they will start supporting Windows 10. And it's not only we have seen in sales, we continue to see that in the funnel of new opportunities that we see that continues to grow and is much stronger this year than it was last year. So we've seen that the refresh is still ahead of us. We have only started to see that, and we continue to believe that these opportunities he's coming."
+    },
+    {
+      "speaker": "Erik Woodring Morgan",
+      "company": "Stanley",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you. That was really helpful, Enrique. Maybe, Karen if -- first, nice to meet you. Looking forward to working together. It's great that you guys are accelerating some of these cost savings initiatives this year. If I just look year to date, revenue -- through the first three quarters, revenue was down about $400 million year over year. OpEx is up about $300 million year over year. So can you just help me understand how much of these cost savings as we look forward you want to flow through to the bottom line versus it seems you are more prone maybe to make investments for longer term growth. Can you just help me understand with this new view on your cost savings, how do you expect to balance that drop-through versus reinvestment? Thank you."
+    },
+    {
+      "speaker": "Karen Parkhill HP",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, thanks for the question, Eric. And I look forward to meeting you in person too. In terms of flow through, our savings are flowing through and reflected really in our ability to deliver the margins within or above our target ranges for both PS and print, despite the fact that we've got this challenging macro backdrop. Just a reminder, our savings are reflected in both OpEx and COGS and we are reinvesting. And so as we reinvest, we're seeing a bit of a affiliated companies. AUGUST 28, 2024 / 9:00PM GMT, Q3 2024 HP Inc Earnings Call geography shift in our P&L with some higher gross profit offset by higher operating expenses because much of our investments are going to be in the OpEx area. We've talked about the fact that we're focused on driving these savings so that we can both offset our headwinds and continue to invest in our important growth drivers for the future, and you can expect that to continue."
+    },
+    {
+      "speaker": "Erik Woodring Morgan",
+      "company": "Stanley",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks so much. Operator Toni Sacconaghi, Bernstein."
+    },
+    {
+      "speaker": "Toni Sacconaghi Bernstein",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hello, Enrique, and welcome, Karen. I have two questions as well. Just for the full year, I think, one of your objectives was to grow revenues for the full year. Do you still expect that to be the case? And if I could just follow up on the last question, if I look at what your guidance does imply for this year, revenues are close to flat and operating profit dollars are expected to be close to flat, despite reaching $1.3 billion in run rate saving. So should we be thinking future-ready as really just providing air cover to make investments rather than structurally changing your profit profile because certainly the 2024 results don't really seems to suggests that there are any expected overall improvement in operating profit despite the cost cutting? And I have a follow-up."
+    },
+    {
+      "speaker": "Karen Parkhill HP",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Okay. Thanks for your question, Tony. And as we as we look ahead in Q4, we are expecting some seasonal growth ahead. Personal Systems, we expect to increase sequentially low to mid-single digits. And we said, given the lingering softness in consumer, we're expecting some less seasonal growth than we've had historically. And for print, obviously, we've got improving trends in the market, but the pace is slower than we initially expected. And we've got some continued pricing pressure. So we expect print revenues to increase low to mid-single digit. And that's driven by typical seasonal strength, along with some seasonality coming out of industrial with DRUPA. And obviously, we expect supplies to increase sequentially in line with last year. I would say on the future ready, we are focused on driving savings to offset our headwinds and ensure that we can maintain our investments. And what you saw this quarter was having some headwinds hit us, taking some action that's going to help us more in the quarter ahead than it did in this quarter, and purposely continuing our investment because we're focused on the longer term."
+    },
+    {
+      "speaker": "Enrique Lores HP",
+      "company": "Inc",
+      "role": "President & Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So what is important is as we look at year to date operating profit growth for the different businesses versus the plan that we had at the beginning of the year, we have seen operating profit growth in personal systems and this is a combination of both the future-ready savings and the progress that we have seen in the market. We have not seen operating profit growth in print. And we -- this is not what we were expecting at the beginning of the year. But this is a major change that we have seen. And a major driver for that is a smaller market that we see, especially in office and the more aggressiveness that we see, especially driven by the weakness in yen. We've seen both in short term price. We don't see this as structural changes, but definitely they are impacting our performance in 2024. affiliated companies. AUGUST 28, 2024 / 9:00PM GMT, Q3 2024 HP Inc Earnings Call"
+    },
+    {
+      "speaker": "Toni Sacconaghi Bernstein",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you for that. And just to follow up, Karen, I would imagine that capital allocation is probably one of the biggest decisions that you need to think about as the new CFO. I saw the increase in authorization to $10 billion. I think last time HP increased the authorization in February 2020 was actually the $15 billion. A, should we read anything into that? And Karen, as a new CFO, what do you have a firm opinion yet on what capital return should be on an ongoing basis and whether 100% is really the right thing for the business over the next three to five years."
+    },
+    {
+      "speaker": "Karen Parkhill HP",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks for that question is Tony. First of I would say don't read anything into the new authorization. And we did have a $15 billion authorization that we are near expiration and pleased that the Board increased the authorization to $10 billion at this stage. And it shows our commitment to continuing to return roughly 100% of our free cash flow to our shareholders. And I think that is the right commitment for our shareholders at this stage. We're not changing any of that commitment. Longer-term, we are still committed to that capital allocation policy of returning 100% and of course, we said unless higher ROI opportunities arise and as long as our gross leverage remains below two times, but what you've seen is us really returning roughly 100%. And we're committed to that this year too."
+    },
+    {
+      "speaker": "Enrique Lores HP",
+      "company": "Inc",
+      "role": "President & Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Let me emphasize that, Tony, nobody should read anything on the number 10 billion is close to a third of our market cap. It's a very big number. And this is going to take us several years to get there. So nothing important behind the number except our commitment to continue to do it."
+    },
+    {
+      "speaker": "Toni Sacconaghi Bernstein",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you. Operator Wamsi Mohan, Bank of America."
+    },
+    {
+      "speaker": "Wamsi Mohan Bank",
+      "company": "of America",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you so much. Two for me as well. First, if we just look over the last three quarters and it's kind of been asked in different ways, but I just thought I'd ask it a little differently here. If you look at the last three quarters, you show revenue overall company level revenue acceleration. But in the same timeframe, you'll also see EPS growth deceleration and decline the last reported quarter. Are you hitting some type of inflection where the cost savings impact is no longer able to offset, arguably where you've been operating in terms of maybe unsustainably high print margins this year. And as we carry the thought process into next year, does it really mean that given some of the efforts that Karen alluded to in terms of acceleration of cost savings into this year that there was incremental flow through into next year? And can we see revenue and EPS growth be in sync or is there something more structural that's kind of causing this dislocation. And I have a follow up."
+    },
+    {
+      "speaker": "Enrique Lores HP",
+      "company": "Inc",
+      "role": "President & Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "We've don't think there is anything structural. I think it's more of the result of what we see from a competitive perspective. And I will go back to some of the data we're sharing with Tony before. Year to date, PCs are growing operating profit. We are not seeing that growth in print and digitally driven by the softness that we see on the off-lease space and the aggressive pricing that we see because of the weakness of the yen. On the positive side, we have seen the home business recoveries. And probably more important than that is the fact that supplies, and our supplies business is performing as we were expecting. So really no changes in supplies and always supplies is a good indicator of what we expect to see in the print side going forward because talks about the you said that our customers are using and how really the devices and the printers have been utilized. affiliated companies. AUGUST 28, 2024 / 9:00PM GMT, Q3 2024 HP Inc Earnings Call If you look at the guide at the midpoint of the guide, we expect EPS to grow this year. So from that perspective, we expect growth, but yes, it's slightly lower than we were expecting because of the competitive environment that we are facing, especially in print."
+    },
+    {
+      "speaker": "Wamsi Mohan Bank",
+      "company": "of America",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. Thanks, Enrique. And look forward to working with you, I guess if I could just follow up on this -- on the free cash flow. When you look at the lower -- coming in at the lower end of the EPS range, your free cash flow range has been unchanged. You also called out some acceleration of the future-ready program. So should we take that there is no incremental cash impact because of future-ready program in this fiscal year end and should we think also that despite that wider range, you're more likely to come in at the lower end of that free cash flow range as well? Or are there other puts and takes that would maybe drive it higher than that? Thank you."
+    },
+    {
+      "speaker": "Karen Parkhill HP",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks, Wamsi. I would just start with, we're pleased that our free cash flow this quarter. It did come in better than expected, and it really reflects the strength of that sequential growth, NPS that drives working capital improvements. Remember that our PS cash conversion cycle is negative. And so we're going to continue to expect a projected sequential PS revenue improvement, and you can expect that to contribute to Q4 free cash flow as well. So our outlook remains unchanged to deliver $3.1 billion to $3.6 billion. for the full year. We're confident in our ability to deliver the remainder that we've got in Q4 and keep in mind that our free cash flow is stronger in the back half. And so we just expect that strength to continue."
+    },
+    {
+      "speaker": "Tim Brown HP",
+      "company": "Inc",
+      "role": "Interim Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I think, what's important to put in context, the change of overall guide for the year. We're talking about $0.05, which represent $60 million to $70 million. So you put that in the context of the cash flow guide, you will see though the impact of the small change that we are driving is really small."
+    },
+    {
+      "speaker": "Enrique Lores HP",
+      "company": "Inc",
+      "role": "President & Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Just related to the future ready, I don't know if this is part of your question, Wamsi, but the cash outlays for future ready expect to be roughly the same as we've been saying about $300 million."
+    },
+    {
+      "speaker": "Wamsi Mohan Bank",
+      "company": "of America",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. Thank you so much. Operator Michael Ng, Goldman Sachs."
+    },
+    {
+      "speaker": "Michael Ng Goldman",
+      "company": "Sachs",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hey, good afternoon. Thank you very much for the question. I was just wondering if you could expand around some of the comments you made around placing more hardware prints, potentially at the expense of margin. And can you talk a little bit more about the strategy there? And then maybe you can just update us on some of the print KPIs. What's the current percentage of revenue that's profit upfront and what are some of the latest figures on the instant ink or other plan like all in a hardware subscription today?"
+    },
+    {
+      "speaker": "Enrique Lores HP",
+      "company": "Inc",
+      "role": "President & Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "First of all, our strategy has not changed. And it continued to be placed profitable units. And as we have said before, we were expecting to be able to be more aggressive in the second half as we were driving a cost reduction at the hardware level. And this is what we did. And this is why, at the overall print level, we grew market share this quarter, and especially in the home space and also in A3 and A4 affiliated companies. AUGUST 28, 2024 / 9:00PM GMT, Q3 2024 HP Inc Earnings Call value. So this is what drove our ability to place more units and to gain some share even if the environment was more competitive than what we were expecting. We continue to make good progress in driving the business model changes that we have been sharing before. Instant ink revenue continues to grow. Net subscribers continue to grow. The number of subscribers in the all-in program continues to grow. So we continue to make very good progress on that front. And also, we continue to be in the 50% range of profit upfront unit, similar to what we have shared before. So good performance in that level and nothing relevant to share in those areas."
+    },
+    {
+      "speaker": "Michael Ng Goldman",
+      "company": "Sachs",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great, thanks. And if I could just follow up on the Personal Systems revenue seasonality, up low to mid sequentially. Appreciate there are some lingering headwinds in consumer. Is something getting worse sequentially? And is some of that consumer weakness concentrated in certain regions or industry verticals? Thank you."
+    },
+    {
+      "speaker": "Enrique Lores HP",
+      "company": "Inc",
+      "role": "President & Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "No, I think, it is a consequence of the softness that we see. And it really is -- when we compare to previous quarters, we think that the Q4 is going to be a stronger quarter than Q3 from a consumer PC perspective. But we think that the growth is going to be lower than what we had seen in previous years, given that we expect to see the softness in consumer, nothing is behind that, that is assumption."
+    },
+    {
+      "speaker": "Michael Ng Goldman",
+      "company": "Sachs",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you, Enrique."
+    },
+    {
+      "speaker": "Enrique Lores HP",
+      "company": "Inc",
+      "role": "President & Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you. Operator Amit Daryanani, Evercore ISI."
+    },
+    {
+      "speaker": "Irvin Liu Evercore",
+      "company": "ISI",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you for the question. This is Irvin Liu on for Amit. I have one and a follow-up. So on the Personal Systems side, can you just give us a sense on how durable your recent price increases are? Understandably, some of this was commodity driven, but in the event that we see some of these commodity prices stabilize, how do you think about your ability to maintain your ASPs?"
+    },
+    {
+      "speaker": "Enrique Lores HP",
+      "company": "Inc",
+      "role": "President & Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I would say we are still in the process of adjusting our price perhaps. As I have shared in previous calls, we cannot adjust prices immediately because there are contracts that have been signed are deals that have been done. So it takes us sometimes to adjust. And also this quarter, given the competitive environment that we are seeing, probably we were not able to adjust them as much as we wanted. So you should expect us that we will continue to do that in the coming quarters. If we look at the PC business, from a historical perspective, we are always able to adjust prices, but it takes some time until we fully adjust them based on all the drivers that I mentioned before."
+    },
+    {
+      "speaker": "Irvin Liu Evercore",
+      "company": "ISI",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it. Thank you. For my second question, I was hoping you can provide us an update on what you're seeing in the Federal Government customer vertical. I think during the first half of the year, budget discussions did weigh on your business a little bit. But with that sort of in the rearview mirror, how has your federal business trended? And how should we think about budget flush dynamics through the balance of the year? affiliated companies. AUGUST 28, 2024 / 9:00PM GMT, Q3 2024 HP Inc Earnings Call"
+    },
+    {
+      "speaker": "Enrique Lores HP",
+      "company": "Inc",
+      "role": "President & Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. I mentioned that slightly before, when I talked about government, the Federal Government is part of that and it was actually the segment where we saw the strongest growth this quarter, it grew between 6% and 7% and we think that -- we think that this is going to continue in the second half. It will be a source of growth in the commercial -- in the commercial space. And for example, we signed a deal -- we have been signing deals with many of the large businesses. We signed one with NASA that we are especially proud of because it was a big replacement and a great mix of both workstations and notebooks. So very good deals and very good funnel in this space."
+    },
+    {
+      "speaker": "Irvin Liu Evercore",
+      "company": "ISI",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks for the color."
+    },
+    {
+      "speaker": "Enrique Lores HP",
+      "company": "Inc",
+      "role": "President & Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you. Operator Krish Sankar, TD Cowen. Unidentified Participant Hi, thanks so much for taking my questions. This is Steven calling on behalf of Krish. Enrique, the first question for you regarding personal systems and the commercial refresh cycle. With the Windows 10 end-of-life schedule to occur in about a year from now or four quarters, I was wondering just based on historic patterns whenever certain Windows is in its end of life. Any thoughts on how the refresh cycle might look from a quarterly basis? Do you expect fairly steady purchases from now until to next year? Or is there sort of like a stronger ramp-up towards that deadline? And also related, do you think, I guess the ramp volumes of Intel's new Lunar Lake if customers might be waiting for that in conjunction with the replacements?"
+    },
+    {
+      "speaker": "Enrique Lores HP",
+      "company": "Inc",
+      "role": "President & Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure. Let me let me go through both. So first of all, the majority of the refresh is still ahead of us. If we compare to previous cycles, it has probably started in a slightly slower way, but we are clearly picking-up momentum. And when we look at the funnel of opportunities that we have and the growth of the funnel compared to where we were a few quarters ago is definitely growing and definitely supporting the opportunity that we see. And in terms of customers waiting for the Intel refresh, this is not something that we are seeing the opposite. We are starting to see good momentum in commercial as the results this quarter reflect and the projections that we have shared for Q4 and for the coming quarters. Operator Ladies and gentlemen, that concludes the question-and-answer session. I would like to turn the call-back over to Enrique Lores for any closing remarks."
+    },
+    {
+      "speaker": "Enrique Lores HP",
+      "company": "Inc",
+      "role": "President & Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So, let me just start by -- close by saying thank you to all for having joined today. A big welcome to Karen to the business and to the team. A big thank you to team for the great work that they have done over the last quarters. And going back to the business, I think Q3 confirms the momentum that we have. We are pleased to see the company growing again after nine quarters. So I think that's a great change. And we also know that the competitive environment continues to be difficult, especially in print, especially in office and that -- and we are accelerating our cost actions to compensate for that. affiliated companies. AUGUST 28, 2024 / 9:00PM GMT, Q3 2024 HP Inc Earnings Call But we remain very confident in the long-term opportunity that the company has, especially integrating AI into our portfolio and redefining the future of work. This is where the company is focused, and this is where we are really investing to continue to have profitable growth in the future. But thank everybody and looking forward to seeing all of you in the coming weeks. Thank you. Operator This concludes today's conference call. You may now disconnect. In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. affiliated companies."
+    }
+  ]
 }

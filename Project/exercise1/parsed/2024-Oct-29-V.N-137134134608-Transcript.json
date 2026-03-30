@@ -4,5 +4,414 @@
   "quarter": "2024Q3",
   "sector": "Industrials",
   "filename": "2024-Oct-29-V.N-137134134608-Transcript.pdf",
-  "segments": []
+  "segments": [
+    {
+      "speaker": "Darrin Peller Wolfe",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Operator Welcome to Visa's fiscal fourth quarter and full year 2024 earnings conference call. (Operator Instructions) Today's conference is being recorded, if you have any objections, you may disconnect at this time. I would now like to turn the conference over to your host, Ms. Jennifer Como, Senior Vice President and Global Head of Investor relations. Ms. Como, you may begin."
+    },
+    {
+      "speaker": "Jennifer Como Visa",
+      "company": "Inc",
+      "role": "Senior Vice President and Global Head of Investor Relations",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thank you. Good afternoon, everyone and welcome to Visa's fiscal fourth quarter and full year 2024 earnings call. Joining us today are Ryan McInerney, Visa's Chief Executive Officer; and Chris Suh, Visa's Chief Financial Officer. This call is being webcast on the investor relations section of our website at investor.visa.com. A replay will be archived on our site for 30 days. A slide deck containing financial and statistical highlights has been posted on our IR website. Let me also remind you that this presentation includes forward-looking statements. These statements are not guarantees of future performance and our actual results could differ materially as the result of many factors. Additional information concerning those factors is available in our most recent in a report on Form 10-K and any subsequent reports on Forms 10-Q and 8-K which you can find on the SECs website and the Investor Relations section of our website. Our comments today regarding our financial results will reflect revenue on a GAAP basis and all other results on a non-GAAP nominal basis. Unless otherwise noted, the related GAAP measures and reconciliation are available in today's earnings release and related materials available on our IR website. And with that, let me turn the call over to Ryan."
+    },
+    {
+      "speaker": "Ryan McInerney Visa",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Good afternoon, everyone. Thank you for joining us. Our fourth-quarter results were very strong with $9.6 billion in net revenue, up 12% year-over-year, and EPS up 16%. Our key business drivers were relatively stable compared to Q3. In constant dollars, overall payment volume grew 8% year-over-year. US payment volume grew 5% and international payment volume grew 10%. Cross-border volume, excluding intra-Europe, rose 13%, and processed transactions grew 10% year-over-year. As I reflect on this quarter and the full fiscal year, I'm incredibly proud of the more than 31,000 Visa employees who have been focused on delivering our strategy and enabling our clients with compelling solutions, which resulted in the company's strong performance. affiliated companies. OCTOBER 29, 2024 / 9:00PM GMT, Q4 2024 Visa Inc Earnings Call We have continued to grow our consumer payments business through an intense focus on product design and innovation. In new flows are targeted strategy for non-consumer payments is paying off. And in value added services, we have deepened our relationships with our clients through multiple different solutions and continued to expand our services to non-Visa transactions. We have done all this while further increasing our suite of solutions. Now let's dive into some of the highlights for the fourth quarter and the year. In consumer payments, we continued to increase credentials and acceptance. We have over [4.6 billion] credentials, up 7% year-over-year and 11.5 billion tokens with more than 30% of our total transactions tokenized. Global merchant locations crossed 150 million. The Olympics and Paralympics certainly helped with more than 7 million Paris 2024 branded cards issued and more than 130,000 merchant locations added in Europe, and I am particularly excited about new acceptance use cases. For example, we renewed an agreement with Cantaloupe, a leading provider of self-service commerce across sectors such as food and beverage automated retail with over 1 million active devices globally and more than 1 billion transactions annually. And in the Netherlands, we reached agreement with the country's largest grocer, Albert Heijn to expand in store acceptance to all Visa products. We also recently renewed our agreement with AppFolio in the US for rental payments acceptance. AppFolio is one of the largest software providers in the property management space and services 8 million-plus units across more than 20,000 clients. Throughout the year, we have continued to innovate in order to expand Visa's capabilities to non-card payments. This quarter, we announced Visa A2A, bringing the power of Visa's brand infrastructure and rules as well as consumer protections to enable simpler, safer and more secure account-to-account payments. We are excited to be collaborating with several banks, including NatWest and Nationwide Building Society and several leading fintechs, including Modular, to deliver an industry driven solution to unlock the full potential of account to account transactions in the UK. And Visa A2A is open, open to any eligible bank open banking provider and verified biller. Initially, this is targeted at bill payments and we plan to launch in 2025 in the UK. We are very excited to bring this to market. In prior quarters, I've mentioned, our account-to-account fraud risk-scoring solution, Visa Protect for A2A payments. It was recently announced as Juniper Researches Platinum Winner for Fraud and Security Innovation of the Year award and we will be piloting on 10 new RTP networks in 2025. We're also seeing very strong interest in our new flexible credential, which enables multiple payment options from one Visa credential. We have hundreds of issuers in the pipeline and several launches planned for 2025 in the US, Asia Pacific, Europe, and CEMEA. Last quarter, I mentioned the expansion of tapping use cases on a mobile device. Tapped to add card is now enabled by issuers in more than 15 countries across our five regions. We know the transit is a key activator for tapping and global top to ride transactions exceeded 2 billion for the first time in fiscal year 2024, up 25% year-over-year. We added more than 110 new transit systems throughout the year in cities such as Boston, Athens, Beijing, Las Vegas and Lima to total over 870 globally. And more than 40% of these new systems also use our value added services Excel Upton solutions tap to pay penetration globally, excluding the US was at 82%, up 6 points from 2023. And in the US, it was at 54%, up 13 points from last year with 29 out of the top 30 US. Merchants accepting Tap to Pay. Now pivoting to some deal highlights. We had some significant renewals this quarter around the globe. First with one of our largest clients in Latin America, Grupo Pramerica in credit, debit and commercial across eight countries. Second with our largest Asia Pacific clients, SMCC across consumer and commercial credit. Third, with our largest CEMEA client, Alrajhi across consumer commercial and value added services, including Cybersource and Visa risk manager, our network agnostic risk product, and across both Asia-Pacific and CEMEA, with Standard Chartered Bank, a credit renewal across key markets in Asia, a debit renewal affiliated companies. OCTOBER 29, 2024 / 9:00PM GMT, Q4 2024 Visa Inc Earnings Call with key markets in Africa as well as a new expansion in the Middle East for credit. In addition, they will continue to use our value added services. In North America, we had three very important renewals. In Canada, we renewed our relationship with the country's top issuer RBC across consumer credit and debit, small business credit and commercial credit. In the US, we recently extended our long-standing partnership with US Bank to grow our relationship across their consumer and commercial portfolios. And we have renewed with USAA across both their consumer debit and credit portfolios. Finally in Europe, building upon our strong relationship in Italy and across 11 other markets. We are pleased to have renewed the strategic agreement with Intesa Sanpaolo, expanding our collaboration in Italy with the largest bank in the country for innovative solutions amongst businesses and consumers. In addition, together, we will enable new value added services for their Visa customers. Across all of our regions and all of our fintech partners from early-stage to mature, we signed over 650 commercial partnerships, up 30% from last year. As you can see, we have continued to grow our businesses through active engagement with our clients and a relentless focus on new product innovations. Now moving to new flows where our targeted strategy for capturing newer areas of growth is paying off. This quarter, new flows revenue grew 22% year over year in constant dollars. Visa Direct transactions grew 38% for the quarter to 2.8 billion and commercial volumes grew 5% year over year. We finished the year with almost 10 billion Visa Direct transactions and 1.7 trillion in Commercial Payments volume. Commercial credentials grew at 18% year over year, significantly faster than the 7% growth for total credentials that I mentioned earlier. We are very focused on growing B2B in new verticals such as travel. We are pleased to announce that we signed a virtual card issuing deal with JPMorgan Chase in Europe. This is a significant opportunity for Visa to further build on our strong issuing relationship in North America as well as further grow in the B2B travel vertical. Additionally, in Europe, we will be partnering with Adyen so that they can offer online travel agencies or OTAs Visa. Another area of focus is the cross-border B2B space where we offer significant value for complex payments through both Card and Visa B2B Connect. For Visa B2B Connect, we increased the number of banks that have signed on by almost 40% year over year, and the number of transacting bank tax is up nearly 60%. In Korea, we reached two agreements with Hana Card. The first is a commercial and consumer credit and debit issuance partnership with enhanced multi-currency capabilities targeted towards the cross border needs of its customers. The second is an agreement with Hana Card and the government trade agency KOTRA so that small business exporters can receive cross-border B2B payments via card. In Canada, we are very pleased to have won the multicurrency credit issuance with fintech loop, a cross-border banking platform for Canadian-based SMBs. In addition, our cross-border capabilities to currency cloud will provide FX solutions across accounts, digital wallets and international payments. In Australia, we reached a multi-currency commercial debit agreement with OFX, a leading global money transfer company that offers foreign exchange services, international payment and spend management controls. Now moving to Visa Direct, where we have continued to grow through new and expanded relationships. In Europe, we expanded our existing cross-border P2P partnership with Resolute to now allow real-time card transfers for their business customers via the Visa Direct platform form in over 78 countries supporting over 50 currencies. In the US, we are excited about an expanded partnership with daily pay, whose users are currently accessing earnings on demand to be a Visa Direct to now seamlessly send those earnings as international remittances to friends and family around the world. In Brazil, we reached a new agreement with Travelex Banco de Cambio, one of the largest foreign exchange banks in the country and the affiliated companies. OCTOBER 29, 2024 / 9:00PM GMT, Q4 2024 Visa Inc Earnings Call first to specialize in FX operations regulated by the Central Bank. The client will use Visa Direct for import and export payments and for remittances to a broad range of destinations. So across our new flows, we have seen our specific strategies succeeding in the marketplace and now on to value added services where revenue was up 22% in the fourth quarter and full year in constant dollars. Let's look at the progress we have made across our value added services, our issuance solutions, our core banking and issuer processing platform. Pismo has a good pipeline and its solutions are resonating with clients with nearly 12 billion API calls a month. Recently, Pismo renewed its agreement with Itau in Brazil. And in 2025, we plan to expand business offerings to clients in more than five countries across four regions. In risk and identity solutions, we recently announced our intent to acquire feature space, a developer of real-time artificial intelligence payments protection technology., it will enable Visa to provide enhanced fraud prevention tools to our clients and protect consumers in real time across various payment methods. And worldwide, already a Visa partner and leading European acquirer will soon be launching an optimized fraud management solution, utilizing decision manager to provide businesses with AI based e-commerce fraud detection capabilities. In acceptance, food delivery platform, foodpanda has been a long-standing Cybersource client in Asia across several markets. They will also soon be using our AI powered data token solution, which we had earlier this year, enabling customers to control how their data is used to experienced tailored shopping experiences. In advisory services, Visa consulting and analytics delivered more than 3,000 consulting engagements during the year, and we estimate that we help clients realize over $5 billion of incremental revenue as a result. So our value added services have continued to show strong momentum across both Visa and non-Visa transactions and nonpayment value added services. Before I close, I wanted to make a few comments on the recent lawsuit by the Department of Justice. We believe the lawsuit is meritless and shows a clear lack of understanding of the payments ecosystem in the United States. We will defend ourselves vigorously and are confident in our ability to demonstrate that Visa competes for every transaction in a thriving debit space that continues to grow and see new entrants. In closing, I'm proud of our team and all that we have accomplished. We delivered on our financial expectations while also investing in Visa's future through important product innovation. Back at 2020, at our Investor Day, we set a goal for new flows and value-added services revenue to represent more than 30% of net revenue by the end of 2024. I am pleased to say that we have exceeded that goal and we will be hosting another Investor Day on February 20, 2025 here in San Francisco when we can talk more about our strategy to continue growing value, added services, new flows, and consumer payments. I see tremendous opportunity ahead and fuel cost confident in our plans to get us there. Now over to Chris."
+    },
+    {
+      "speaker": "Christopher Suh Visa",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thanks Ryan. Good afternoon, everyone. We closed the year with another strong quarter. In Q4, we saw relatively stable growth across payments volume, cross border volume, and process transactions when compared to Q3. In constant dollars, global payments volume was up 8% year-over-year and cross border volume excluding Intra Europe was up 13% year-over-year process transactions grew 10% year over year. Fiscal fourth quarter, net revenue was up 12% above our expectations primarily due to lower than expected incentives stronger than expected other revenue and FX being less of a drag than expected. Net revenue was also up 12% in constant dollars. EPS was up 16% year over year and 17% in constant dollars, higher than expected from the strong net revenue performance and a lower than expected tax rate. Let's go into the details. In the US, total payments volume grew 5% year over year in line with Q3 credit and debit also each grew 5% card, present volume grew 2% and card not present volume grew 6%. Consumer spend across all segments from low to high spend has remained relatively stable to Q3. Our data does not indicate any meaningful behavior change across consumer segments from last quarter. affiliated companies. OCTOBER 29, 2024 / 9:00PM GMT, Q4 2024 Visa Inc Earnings Call Moving to international markets. Total payment volume was up 10% in constant dollars stable to Q3. In most major regions, payments volume year over year growth rates in constant dollars were strong for the quarter with Latin America up 24%, CEMEA up 19%, and Europe up 12%. Asia Pacific payments volume saw a marginal improvement from Q3 in constant dollars for the quarter but was still less than 1% year over year growth primarily due to the macroeconomic environment most notably in Mainland China. Asia Pacific payments volume growth excluding mainland China was relatively consistent to Q3. Now to cross border volume, which I will speak to today in constant dollars and excluding Intra Europe transactions. Total cross border volume was up 13% in Q4 below Q3 in line with our expectations, Q4 cross border e-commerce measured as card not present volume excluding travel and crypto purchases grew 15% which was faster than cross border travel volume growth at 12% in line with our expectations. Indexed to 2019, cross border travel was relatively consistent with Q3. As we look at the travel corridors, the primary driver of the lower year over year cross border travel volume growth was Asia Pacific inbound and outbound, which continued to be impacted by the same primary factors we've been mentioning all year, macroeconomic conditions, currency weakness and flight bookings being below pre-COVID levels. We also saw a step down in CEMEA outbound travel volume growth compared to Q3 due to Ramadan timing. Normalized for this, the CEMEA growth was stable. Now, let's review our fourth quarter financial results. I'll start with the revenue components. Service revenue grew 8% year-over-year versus the 7% growth in Q3 constant dollar payments volume due to mix and improving utilization of card benefits. Data processing revenue grew 8% versus 10% process transaction growth primarily due to fees and penalties being lower than the prior year. International transaction revenue was up 9% versus the 13% increase in constant dollar cross border volume excluding Intra Europe impacted by lapping higher currency volatility from last year, even with the average quarterly volatility being slightly higher in Q4 versus Q3. Other revenue grew 30%, primarily driven by strong marketing services revenue growth related to the Olympics consulting and to a lesser extent pricing, client incentives grew 6% as expected. Q4 was the annual low point for year over year growth due to lapping significant renewals from the prior year. In addition, it was further lowered from some one-time adjustments due to client performance. While Ryan mentioned a significant amount of renewal activity in his remarks, the majority of that impact will begin in Q1 of '25. Now on to our three growth engines. Consumer payments revenue growth was driven by relatively stable payments volume, cross border volume, and process transaction growth. New flows revenue grew 22% year over year in constant dollars helped by a one-time rebate adjustment due to deal timing. Visa direct transactions grew 38% year over year helped by growth in Latin America for interoperability among P2P apps. Commercial volume rose 5% year-over-year in constant dollars below Q3 primarily due today's mix. Value added services revenue grew 22% in constant dollars to $2.4 billion led by strong growth in marketing services and consulting and issuing solutions. Operating expenses grew 11% led by increases in marketing and personnel expenses. FX was a minimal drag instead of the half point benefit we had expected. Our acquisition of Pismo represented an approximately half point drag as well. Non-operating income was $69 million. Our tax rate was 16.5% due to an update in our tax position across jurisdictions. EPS was $2.71 up 16% over last year with an approximately one point drag from exchange rates and an approximately half point drag from Pismo. In Q4, we bought back approximately $5.8 billion in stock and distributed over $1 billion in dividends to our stockholders. We also funded the litigation escrow account by $1.5 billion which has the same effect as a stock buyback. At the end of September, we had $13.1 billion remaining in our buyback authorization. As we closed out fiscal 2024 and readied for fiscal 2025, I reflected on our full year performance affiliated companies. OCTOBER 29, 2024 / 9:00PM GMT, Q4 2024 Visa Inc Earnings Call relative to what we had expected at the start of the year. With the strong Q4 full year, net revenue grew 10% in line with our expectations and EPS grew 15% above our expectations, a testament to Visa's diversified business model. Volatility started strong in Q1 but then declined and remained at lower than expected levels throughout most of the year. For incentives, we anticipated year over year growth will be lower than fiscal 2023 due primarily to smaller impacts from renewals in fiscal 2024. The growth rate ended up being even lower than we expected due to client performance adjustments and deal timing. On the business driver front process transactions grew 10% as expected. Payments volume grew 8% in constant dollars below expectations due to a combination of weakness in Asia Pacific as we have discussed and in the US from ticket size not improving as expected and to a lesser extent from the Reg II impact. Total cross border volume growth excluding Intra Europe was 15% in constant dollars. generally in line with our original expectations, though the growth in cross border travel volume was lower, primarily due to Asia Pacific travel and card not present excluding travel volume growth performed better than we expected. As we've seen this year volumes and transactions can swing quarter to quarter, as these drivers fluctuate, we work carefully to manage our business to deliver on our expectations. So as we thought about our budget and guidance philosophy, going into fiscal 2025, it's largely the same approach and represents our best view based on today. So let's get into the guidance details and a quick note when I reference 2024 and 2025 I'm referring to our fiscal years. As we regularly say we are not economic forecasters, so we're assuming the macroeconomic environment stays generally where it is today. As such, we expect payments volume and process transaction growth to remain strong and generally in line with full year 2024 levels. For cross border volumes, we expect the Q4, '24 trend to generally continue with card not present excluding travel volume growing slightly more than travel volume. Now let's cover our underlying assumptions for net revenue growth. First volatility, we're expecting that the full year currency volatility levels are roughly in line with the Q4, '24 average which implies that volatility will no longer be a drag starting with Q2, '25. Next pricing, we will continue to price to value in 2025 with the pricing impact being generally the same as 2024, however, the cadence is expected to be different as we expect the vast majority of the incremental pricing impact will take effect in April versus being more balanced between October and April as it was in 2024. On incentives, first, there were a significant amount of renewals in Ryan's remarks that will be impacting Q1, '25 incentives. In total, we expect more than 20% of our payments volume to be impacted by renewals in 2025 compared to less than 15% that was impacted in 2024. Second, remember that in the first and second quarters of 2024 we called out client performance and deal timing as helping incentive. And in Q4, we had additional one time performance adjustments. Adding this up 2025 year over year incentives growth is expected to be significantly higher than 2024. We expect to close on Prosa and Featurespace in 2025. And when we do, we will update our estimates for the acquisition impacts. We pull these assumptions together on an adjusted basis defined as non-GAAP results in constant dollars and excluding acquisition impacts. You can review these disclosures in our earnings presentation for more detail. In 2025 we expect full year adjusted net revenue growth to be in the high single to low double digits with incentives being the key driver of the difference between '24 and 2025. As always revenue performance is sensitive to several factors, so to the extent that that there are deal delays or significant deal performance adjustments and or macro volatility and driver performance that is better than expected adjusted net revenue growth would be on the higher end of the range. In terms of quarterly variability, we expect the second half revenue performance to be better than the first due to some of the dynamics, I affiliated companies. OCTOBER 29, 2024 / 9:00PM GMT, Q4 2024 Visa Inc Earnings Call have spoken about volatility pricing and to a lesser extent incentive. Now, moving to expenses, we currently expect to grow adjusted operating expense in the high single digit to low double digits as we continue to fund new flows and value added services projects, our sales efforts and growth initiatives in specific countries. Non-operating income is expected to be between $150 million and $200 million. As a result of lower interest rates, our tax rate is expected to be between 18% and 18.5%. On capital return, the Board has declared an increase to our quarterly dividend by 13% and we intend to return excess free cash flow to shareholders through buyback. All this results in adjusted EPS growth to be in the high end of low double digits. Now moving to Q1, for the first three weeks of October 21 with volume growth in costs and dollars us payments volume was up 6% with debit up 7% and credit up 6% year over year. Cross border volume excluding intra Europe grew 13% year over year. Process transactions grew 11% year over year. Now the financial expectations. We expect Q1 adjusted net revenue growth in the high single digits. Three things to note when we look at the step down in adjusted net revenue growth from the fourth quarter in 2024 to the first quarter in 2025. First incentives, there are a number of factors impacting incentives especially in Q1 and H1. So let me go through each part. As I mentioned earlier, Q4 incentives growth was even lower than expected with the combined impact of the lapping of significant renewals in 2023 and the one-time adjustments due to client performance. As I also mentioned in 2025 we expect a significantly higher amount of our payments volume to be impacted by renewals approximately 20% compared to under 15% in 2024. This is a combination of the large amount of renewals in Q4, '24 that will go into effect plus the amount of renewals we expect in 2025. In addition, the timing of the deal terms in 2025 is such that we expect about 60% of the 2025 renewal volume to go into effect in Q1. Putting those all together, we expect a significant step up in the dollar amount of incentives from Q4 of '24 to Q1 of '25. Second, the timing of pricing actions. As I mentioned, whereas in 2024, the pricing impact was similar quarter to quarter, this year we expect less pricing impact in the first half than the back half with Q1 having the smallest impact. Third other revenue as we do not have a major event in Q1 like the Olympics or FIFA, we anticipate lower growth in consulting and marketing services related revenue compared to Q4. We expect adjusted operating expense growth to be in the high single digit to low double digits on a year over year basis, remember that the first quarter of 2024 had a lower operating expense growth rate both from lapping FIFA related expenses in 2023 and from the allocation of Olympic related marketing spend to other quarters. Non-operating income is expected to be between $35 million and $45 million and our tax rate is expected to be around 18.5%. This puts our first quarter adjusted EPS growth in the low double digits. As always if the environment changes and there are events that impact our business, we will remain flexible and thoughtful and balancing short and long term considerations. As we are several weeks into fiscal 2025 Visa's underlying business continues to be healthy and the growth opportunities are significant. We look forward to discussing this and our long term growth algorithm at the upcoming Investor Day. And now Jennifer, I'll hand it back to you."
+    },
+    {
+      "speaker": "Jennifer Como Visa",
+      "company": "Inc",
+      "role": "Senior Vice President and Global Head of Investor Relations",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks, Chris. And with that, we're ready to take questions. Operator (Operator Instructions) Harshita Rawat, Bernstein. affiliated companies. OCTOBER 29, 2024 / 9:00PM GMT, Q4 2024 Visa Inc Earnings Call"
+    },
+    {
+      "speaker": "Harshita Rawat Bernstein Institutional Services",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Good afternoon, Thank you for taking my question. A lot going on in the US regulatory fund with regards to the DOJ lawsuit, Reg II, MDL, CCA. Can you share your overall thoughts on the regulatory and litigation environment in the US, And Chris just as a follow up, can you help us maybe size your revenue exposure to US debit both including as well as excluding Visa DPS? Thank you."
+    },
+    {
+      "speaker": "Ryan McInerney Visa",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, thanks for the question. As you note a lot going on, not just in the US, but all over the world, I think regulators appropriately are looking at the payments ecosystem and want to ensure that there's fair competition that there's multiple options both for consumers and merchants and that's a process of engagement that we have in the US to your question, but also with regulators, elected officials all around the world. And we feel very good about our ability to manage through that complexity, we feel very good about the ability to continue to run and grow our business. And we feel very good about the ability to continue to innovate and to continue to serve our clients. And in terms of revenue exposure, that's not something that, we disclose and as it relates to us debit or other parts of the business like that. But in terms of our ability to compete, we feel really good about it."
+    },
+    {
+      "speaker": "Jennifer Como Visa",
+      "company": "Inc",
+      "role": "Senior Vice President and Global Head of Investor Relations",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Next question. Operator Ramsey El-Assal, Barclays."
+    },
+    {
+      "speaker": "Ramsey El-Assal",
+      "company": "Barclays",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi. Can you give us your updated thoughts on the competitive environment, especially as it pertains to or specifically as it pertains to pay by bank? We're seeing Walmart move forward with a new product and chatter around some other offerings. We've seen these products in the past, but I'm just wondering if there's anything that sort of changed on the ground to make these a little more interesting for consumers. I know you guys are involved as well serving that part of the market now. So curious to get your comments."
+    },
+    {
+      "speaker": "Ryan McInerney Visa",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, there's a lot going on with account to account payments in the US and around the world as you know, it as well pay by bank is not a new capability, it's not a new capability. In the United States is not a new capability for Walmart. Actually, I think as of today, you can load three different bank accounts into your Walmart.com wallet to pay for things. And as you alluded to, they've also put some news out that they're going to have a new partnership that I think is going to further enhance that. We expect that account to account payments will continue to proliferate here and around the world. We think there's a lot that we can add in terms of value to account to account payments I mentioned some of those things in my prepared remarks. But as I've talked about several times on this call. It's a very competitive environment in which we operate, but we feel very good about our products, our innovation, our ability to provide value to end users in terms of buyers and also sellers and therefore our ability to continue to grow the business."
+    },
+    {
+      "speaker": "Jennifer Como Visa",
+      "company": "Inc",
+      "role": "Senior Vice President and Global Head of Investor Relations",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Next question. Operator Sanjay Sakhrani, KBW. affiliated companies. OCTOBER 29, 2024 / 9:00PM GMT, Q4 2024 Visa Inc Earnings Call"
+    },
+    {
+      "speaker": "Sanjay Sakhrani",
+      "company": "Keefe, Bruyette & Woods North America",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank You. I had a question on commercial volumes. I know they decelerated these days mix. But I'm just wondering, what kind of growth rate we should expect on a go forward basis? I mean, I know there's some macro impact and maybe just talk about that specifically? Thanks."
+    },
+    {
+      "speaker": "Christopher Suh Visa",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Hi Sanjay, this is, Chris. Yeah, as you noted, we did see a day's mix impact in Q4 with commercial volumes. But if I just back way up, we're excited about the opportunity in new flows. We're optimistic about the big opportunity ahead and over time, we do anticipate that we'll see a continued growth of commercial volumes ahead of consumer volumes over time."
+    },
+    {
+      "speaker": "Jennifer Como Visa",
+      "company": "Inc",
+      "role": "Senior Vice President and Global Head of Investor Relations",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Next question. Operator Paul Golding, Macquarie."
+    },
+    {
+      "speaker": "Paul Golding Macquarie",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks so much. With the Featurespace acquisition in process, I just wanted to ask how you see AI playing into the business model. Do you see it more as driving vast or incremental business model uplift revenue or cost improvement or is it more of a competitive differentiator that will just keep you ahead of your competition? Thanks."
+    },
+    {
+      "speaker": "Ryan McInerney Visa",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, thank you. In short, I see it as both, but let me unpack a couple of things that you said. First in terms of Featurespace, we're very excited about the opportunity to close on the Featurespace acquisition. As I travel around the world, financial crime, fraud is at the top of mind of clients, partners, regulators all around the world. And Featurespace is a world leader in providing AI driven solutions to combat that fraud to reduce that fraud, to enable our clients and partners to continue to serve their customers in a safe way. So we're very excited about that. As it relates more broadly to especially generative AI at Visa. I see it really in two different buckets. The first is we are adopting it aggressively across our company to drive productivity and we've seen some great results from everywhere to our engineering teams, to our accounting teams, to our sales teams, our client service teams. And we're still in the early stages of, I think the very significant impact this will have on the productivity of our business. I also see it as a real different differentiator to the products and services that we're putting in market. You've heard me talk about some of the new risk capabilities, risk management capabilities, for example, that we've deployed in the account to account space which are all enabled with generative AI, you mentioned Featurespace. We've had some really good success in other parts of both our value added services business, and the broader consumer payments business as well. And we've got a product pipeline that is very heavily tilted towards, we think very exciting generative AI capabilities that hopefully you'll hear more from us on soon. One of those I mentioned in my prepared remarks, which was the data token that we're starting to pilot with foodpanda, which is one example of that. Thank you."
+    },
+    {
+      "speaker": "Jennifer Como Visa",
+      "company": "Inc",
+      "role": "Senior Vice President and Global Head of Investor Relations",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Next question. Operator Tien-tsin Huang, JP Morgan. affiliated companies. OCTOBER 29, 2024 / 9:00PM GMT, Q4 2024 Visa Inc Earnings Call"
+    },
+    {
+      "speaker": "Tien-tsin Huang JP",
+      "company": "Morgan",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you. Just wanted to ask how growth in '25 might look different than '24 across consumer payments, new flows and value added services?"
+    },
+    {
+      "speaker": "Christopher Suh Visa",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, hi, this is Chris. So we don't guide by consumer payments, new flows and value added services. But let me just give you a little bit more color on how we think about the guide that we did give. At the highest level, we took the same approach to guidance as we did a year ago, which is really to provide guidance based on our best estimate of what we expect to happen throughout the year. And so, if we take all our assumptions and those assumptions play out, as we've articulated, we'd expect total revenue growth adjusted net revenue growth to be in the middle of the range that we provided, and obviously, if those assumptions, those variables turn out to be better, that could push us to the high end of revenue growth and vice versa, if those assumptions turn out to be slightly worse. The key variables that I would call out are there's three probably four here to talk about. So one is incentives, our plan is based on our best estimate of renewals and deal activity. But as we saw in FY24 those results can vary quarter to quarter with client performance and timing of deals and lower growth could push revenue growth toward the upper end of the range. Two, would be cross border volumes, higher or lower growth in cross border volumes would also contribute toward higher, lower within that revenue range. Third, would be volatility. We've assumed FY25 full year on average to the levels that we saw in Q4 and any significant swing could impact revenue in '25. And of course, across all of it is the assumption on the macro economy. As we've always said, we're not forecasters of the economy, but in the event, in the US or globally, if PC grows faster than currently forecasted, then we should also see stronger growth as well. And so, all these factors can play a role. We feel good about the plan that we shared here for the full year at the start of the year. And we'll obviously continue to update you as the year unfolds."
+    },
+    {
+      "speaker": "Jennifer Como Visa",
+      "company": "Inc",
+      "role": "Senior Vice President and Global Head of Investor Relations",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Next question. Operator Rayna Kumar, Oppenheimer."
+    },
+    {
+      "speaker": "Rayna Kumar Oppenheimer",
+      "company": "& Co., Inc.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Good afternoon. Thanks for taking my question. Last week, the CFPB issued a final open banking rule for the US. Can you talk about what opportunities this could present for Visa from [Tink's] perspective and what potential headwinds it could create? Thank you."
+    },
+    {
+      "speaker": "Ryan McInerney Visa",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "My understanding is that the new rules that they, I guess finalized are largely consistent with the CFPB's initial proposal. And you know, we are strong advocates for consumers having more control and more access to the financial data, but ensuring that it's in a safe and secure way. We're still evaluating all the details of the potential impacts from the more detailed regulations across the industry. But I -- it goes without saying our own capabilities will comply with the CFPB's rules as well as our clients. Very high bar for security and privacy. Widening the aperture a little bit to the opportunities that it creates. I think, in an environment that open banking is even more available in the United States like it is in places like Europe. What we found is that the Visa brand can be a meaningful differentiator. The Visa brand can give confidence to end users and data providers and that if we can bring our capabilities to market like we've done in Europe. affiliated companies. OCTOBER 29, 2024 / 9:00PM GMT, Q4 2024 Visa Inc Earnings Call With Visa A2A, we can give more confidence to the whole ecosystem and help resolve a lot of the complexities that exist in open banking. So we remain excited about the opportunities to add value especially in the US where we're still in the pretty nascent stages of all this."
+    },
+    {
+      "speaker": "Jennifer Como Visa",
+      "company": "Inc",
+      "role": "Senior Vice President and Global Head of Investor Relations",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Next question. Operator Andrew Schmidt, Citi."
+    },
+    {
+      "speaker": "Andrew Schmidt",
+      "company": "Citi",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi, Ryan. Hey Chris, thanks for taking my questions this afternoon. I wanted to ask about value add services growth, it's really good to see the consistency there. Maybe you could just talk about the predictability and then maybe comment a little bit more on the planning process of how you sort of feed the engine and continue to drive that growth. I know there's an organic and inorganic components of penetration aspects to this. But if you could help unpack that, I know it's a lot of things in there if you could help unpack that, it'd be great. Thanks so much."
+    },
+    {
+      "speaker": "Ryan McInerney Visa",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, we too are very excited about the consistent growth. We've been able to deliver year after year with the value added services businesses. And we deliver that through planning, sales planning, client planning, product road mapping, all the things that you would expect we do business by business and the issuer solutions business, the acquirer solutions business, risk and advisory business, and so on and so forth. And when you think about the opportunity, here's how I would encourage you to think about it, which is the same way. We kind of plan to go to market. We deliver value added services for Visa transactions and these are offerings that are built to enable Visa to be the best way to pay and be paid market by market around the world, and we're continuing to invest to add new functionality to improve the payment, success and the security on the network. So these are products and services like Visa Account Updater, the risk products that we talk a lot about like Visa Secure, the dispute tools that we deliver, like Visa Resolve Online, the benefits that we offer. So that's kind of one component of the opportunity. The second part of the opportunity is services for non-Visa transactions. This is an area you've heard me and us talking a lot more about in recent quarters, this includes acceptance services like Cybersource, Authorize.net, Verifi, risk tools like Decision Manager, processing solutions like DPS like Pismo. And again, these are all capabilities that we're bringing to market for our clients that add value for all different types of payment transactions. And then the third sets of opportunities that we're going after our services beyond payments. This is a much broader category, it includes things like our consulting and analytics teams, our marketing services teams, open banking services such as Tink, we were talking about earlier in terms of their data aggregation solutions. We're now offering core banking platform services as part of the Pismo acquisition as well. So that hopefully gives you a sense of how we look at the opportunities, we look at the competitive sets, we build and deliver products. We build and deliver our sales motions and go to market and ultimately deliver the consistent growth that you referenced."
+    },
+    {
+      "speaker": "Jennifer Como Visa",
+      "company": "Inc",
+      "role": "Senior Vice President and Global Head of Investor Relations",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Next question. Operator Dave Koning, Baird. affiliated companies. OCTOBER 29, 2024 / 9:00PM GMT, Q4 2024 Visa Inc Earnings Call"
+    },
+    {
+      "speaker": "Dave Koning",
+      "company": "Baird",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yeah. Hey guys. Thank you. On the cross border line revenue growth was stable at 9% this quarter, same as last quarter, but reported volumes accelerated a percent. And I would think FX volatility was less bad, so that probably helped a little bit and mix seemed about the same. So I was wondering, is there anything else any other little headwinds emerging there? What, maybe -- what created the GAAP?"
+    },
+    {
+      "speaker": "Christopher Suh Visa",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, sure. So a couple of things. So as you pointed out, international revenue grew slower than total cross border volumes, it really did have to do with the volatility. So Q4 volatility did improve from Q3 a bit, but it was lower than the volatility that we saw last year. And secondly, the associated volume, the cross border volume 13% in Q4 as expected, but also lower than the volume growth that we saw in Q4 a year ago. And so when you combine those things, that had the impact of the differential that you see between volumes and revenue."
+    },
+    {
+      "speaker": "Jennifer Como Visa",
+      "company": "Inc",
+      "role": "Senior Vice President and Global Head of Investor Relations",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Next question. Operator Tim Chiodo, UBS."
+    },
+    {
+      "speaker": "Tim Chiodo",
+      "company": "UBS",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. Thank you for taking the question. So I wanted to dig into two specific aspects of value added services. So first being DPS and the second being Cybersource. I believe those two combined make up a reasonably large portion of the transaction based value added services. I think the last disclosure on DPS was about $2.5 trillion in volume and Cybersource in the roughly $1 trillion. I was hoping you could give sort of relative growth rates relative to the rest of value added services and maybe some updated stats if possible. Thanks."
+    },
+    {
+      "speaker": "Ryan McInerney Visa",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, thanks for the question. We're super proud about the progress that we're making in DPS and in Cybersource. DPS being primarily in the US, and in Cybersource being a really out scale global platform now. But we don't provide transaction, volume growth or break out of metrics at that level of reporting. So appreciate the interest. Sorry, not to be able to provide in more detail."
+    },
+    {
+      "speaker": "Jennifer Como Visa",
+      "company": "Inc",
+      "role": "Senior Vice President and Global Head of Investor Relations",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Next question. Operator Bryan Keane, Deutsche Bank."
+    },
+    {
+      "speaker": "Bryan Keane Deutsche",
+      "company": "Bank",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi guys. Good afternoon. Wanted to ask about the pickup you've seen in October for volume growth, especially in debit. Looks like it's perked up a little bit to 7%. Anything you're seeing there in new wins or is that potentially a better economic environment driving that? And then just quickly secondly, on the price, the value, just a change in timing. What was the reason for the change? What -- why is the timing different this year?"
+    },
+    {
+      "speaker": "Christopher Suh Visa",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure. Okay. I'll start with your question about October and then, and then I think Ryan will handle your second part of your question. So in terms of October. So as we've consistently said, three weeks, don't make a trend. It was true in July when we started a little bit slower and then Q4 ended up being stable and it's, and we think it's true now, as we see a strong start to October. Now that said, here's a couple of things that we see in terms of relative strength between the month of October and how we ended Q4. Two things that I point to one is, day's mix. So the growth in the month of September was lower due to today's mix. Last year, September had an extra Friday and Saturday, which are two of the highest spend days of the week. affiliated companies. OCTOBER 29, 2024 / 9:00PM GMT, Q4 2024 Visa Inc Earnings Call And this September that was replaced with a Sunday and Monday, which are two of the lower spend days, and so that had an impact on September growth. And then secondly, in the US, in addition to that day's mix point, we are starting to lap the modest impact of Reg II that we started to talk about a year ago in Q1. And so those combined things are contributing to what we see is the start of October. But as we said, it's three weeks, let's see how the quarter plays out."
+    },
+    {
+      "speaker": "Ryan McInerney Visa",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Hey, Bryan. Yeah, as you noted and we've said many times we price to value. So when we price the value, we have to ship products, we have to ship services. We have to deliver solutions that are adding value and increasing value to our clients. And our product pipeline in 2025 is a bit more backloaded especially as we bring some new and exciting products and services to the market. And so that really drives the difference in pricing cadence in 2025."
+    },
+    {
+      "speaker": "Jennifer Como Visa",
+      "company": "Inc",
+      "role": "Senior Vice President and Global Head of Investor Relations",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Next question. Operator Jason Kupferberg, Bank of America."
+    },
+    {
+      "speaker": "Jason Kupferberg BofA Global",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks guys, just looking at the US card, present volume growth. I think we've been in the 2% range here for the past two or three quarters. So wondering if you're expecting that to accelerate in fiscal '25. And Chris, can you just quantify with that favorable adjustment to Q4 new flows revenues were? Thank you."
+    },
+    {
+      "speaker": "Christopher Suh Visa",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Got it, Jason, you cut out a little bit at the end. What was the second part of your question, Jason?"
+    },
+    {
+      "speaker": "Jason Kupferberg BofA Global",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "The one time helper to new flows revenue in Q4, if you could quantify that?"
+    },
+    {
+      "speaker": "Christopher Suh Visa",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Okay. Got it. I'll start with the second one since you just asked it. Yeah, we feel great about the momentum of new flows. Q3 was 18%, now the 22% in Q4. As I said on the call though Q4 was helped by this one time rebate adjustment due to deal timing. So we had expected a client to earn a rebate, which was contingent on them achieving a milestone, and they didn't achieve it. So as such, we recorded a one-time adjustment to that rebate which landed in Q4. And I think your first question was around a card present and just sort of volumes as we look forward into FY25. And maybe that's where I'll go out, I'll just broaden it a little bit and said for our call, we, our overall assumptions on underlying drivers is that in '25 they may relative typically stable to the trends that we see both for the full year on payment volume and payment transactions relative to '24 and then on cross border to the trends that that we see in in Q4. And they will remain relatively strong and healthy. And like I said, we'll continue to update you throughout the course of the year."
+    },
+    {
+      "speaker": "Jennifer Como Visa",
+      "company": "Inc",
+      "role": "Senior Vice President and Global Head of Investor Relations",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Next question. Operator Craig Maurer, FT Partners"
+    },
+    {
+      "speaker": "Craig Maurer FT",
+      "company": "Partners",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi, thanks everybody, for taking my questions. Wanted to ask first, haven't asked in a long time about your thoughts on operating leverage. And your growing expenses at a similar rate to revenue in the forecast for fiscal year '25. And going forward long term, is there a commitment to grow revenue faster than expenses or are we looking at limited operating leverage in the future? affiliated companies. OCTOBER 29, 2024 / 9:00PM GMT, Q4 2024 Visa Inc Earnings Call And secondly, considering the fiscal year '25 guide, what are your assumptions around APAC embedded in the guide? Do you need acceleration in China to achieve that or is it basically assuming the same steady no growth situation there? Thanks."
+    },
+    {
+      "speaker": "Ryan McInerney Visa",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Well, I'll take the first question. You can take the second question, Chris. On your first question, as I said on this call and earlier calls, we have an enormous set of opportunities that we're pursuing and the way we're running the business day in and day out, quarter in quarter out, year in year out is, we're going through the assessment of those opportunities, we're figuring out the product pipeline that we can deploy. We're looking at inorganic and organic opportunities. And we're putting together a plan that we think maximizes the long term growth that we can deliver. That's the way we approach it, that's the way we think about it. And you see the results that we've delivered and you heard what Chris' comments were on the guide for this year. So that's kind of where we are with that"
+    },
+    {
+      "speaker": "Christopher Suh Visa",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I'll address your comments on AP specifically. So again at a global basis, we expect overall trends to be relatively similar to where we're ending FY24. And the situation in AP so much of that has been driven by the macro-economic conditions in China. And as we've consistently said, we don't forecast the economy. And so again, in the context of relatively stable drivers, we'll see how AP performs, but again, it'll really be dependent on the health of the overall economy."
+    },
+    {
+      "speaker": "Jennifer Como Visa",
+      "company": "Inc",
+      "role": "Senior Vice President and Global Head of Investor Relations",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Next question. Operator Trevor Williams, Jefferies."
+    },
+    {
+      "speaker": "Trevor Williams Jefferies",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. Thanks a lot. Yeah, I wanted to follow up on value added services. I think the general framework you've given is roughly two-thirds of vast revenue is transaction linked in some form, of that portion that's tied to transactions or volume. How much of that today needs to be over VisaNet for you to be earning those vast revenue streams? Ryan, it sounds like most of it today is still running over your network, but maybe the off network piece should be increasing as a percentage of the mix over time, but anything more specific, there would be helpful? Thanks."
+    },
+    {
+      "speaker": "Ryan McInerney Visa",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, I mean, the largest component of our vas revenue today is that first bucket of services I mentioned for Visa transactions, And obviously we've been doing that the longest time. And just to comment on that what that really does is it drives additional yield on top of our Visa transactions. So we're adding more value to the transaction, We're adding more value to the client and ultimately driving additional yield on top of the Visa payment volume growth that we see. But as I said we also see we make meaningful progress building out our platforms to service non-Visa transactions. Cybersource I mentioned, Verifi I mentioned, Pismo I mentioned, Decision Manager I mentioned these are all becoming meaningful platforms for us with a meaningful opportunity. And you can just imagine the TAM that we're able to go after when we're not just delivering services for visa transactions, but we're able to work with clients to deliver services on top of a much broader array of payment transactions is just significant. So we're we remain very excited about both."
+    },
+    {
+      "speaker": "Jennifer Como Visa",
+      "company": "Inc",
+      "role": "Senior Vice President and Global Head of Investor Relations",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Last question, please. Operator Darrin Peller, Wolfe Research. affiliated companies. OCTOBER 29, 2024 / 9:00PM GMT, Q4 2024 Visa Inc Earnings Call"
+    },
+    {
+      "speaker": "Darrin Peller Wolfe",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hey, thanks guys. Look just coming off of the, I think it was 12% growth in incentives and rebates in '24. And now you're saying obviously higher '25 it's obviously great to see the activity should help us see in growth. Maybe just help us understand a little more around you mentioned a lot of renewals. But what about just net new business and market share gains? How does that build in? And I guess related to that? Looks like this year is a big year of that contra revenue growth rate. So, does that have an impact on how you think about this year's growth versus long term? We think it could be actually more so even better this year being a little bit of an outline here in terms of growth and incentives and rebates if we're thinking about that correctly? Thanks guys."
+    },
+    {
+      "speaker": "Ryan McInerney Visa",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, Darrin. I mean, I don't think we're going to get into like the outer years, but I'd say a couple of things. One is we're winning, like we're winning region by region and market by market around the world. You look at the size and sophistication of some of those names that I mentioned in my prepared remarks and I've mentioned for the last couple quarters. We are winning and we feel really good about that market by market around the world. The second thing is, as we've also talked about in the past. We can't necessarily predict the time of when these renewals are going to happen, when the competitive situation is going to happen in our client. We have to be ready at any given time to give our best and hopefully ultimately win. And as you were alluding to, there's been kind of a string of those recently and more of them this quarter that we're excited about. So we'll continue to deploy a great product. We'll continue to, we've got a great team that I acknowledged during the prepared remarks that serving these clients, which is ultimately a big reason. They choose to both continue to do business with us and expand the business that they're doing with us. Expand the consumer business, expand in the commercial business, expand into new flows, and we feel really good about it."
+    },
+    {
+      "speaker": "Jennifer Como Visa",
+      "company": "Inc",
+      "role": "Senior Vice President and Global Head of Investor Relations",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And with that, we'd like to thank you for joining us today. If you have additional questions, please feel free to call or email our Investor Relations team. Thanks again, and have a great day. Operator Thank you all for participating in Visa's fiscal fourth quarter and full year 2024 earnings conference call. That concludes today's conference. You may disconnect at this time, and please enjoy the rest of your day. In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. affiliated companies."
+    }
+  ]
 }

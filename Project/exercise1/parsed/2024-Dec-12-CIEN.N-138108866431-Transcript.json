@@ -4,5 +4,390 @@
   "quarter": "2024Q3",
   "sector": "IT",
   "filename": "2024-Dec-12-CIEN.N-138108866431-Transcript.pdf",
-  "segments": []
+  "segments": [
+    {
+      "speaker": "Tal Liani Bank",
+      "company": "of America",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Operator Good day, and welcome to the Ciena fiscal fourth quarter and year-end 2024 financial results conference Call. (Operator Instructions) Please note this event is being recorded. I would now like to turn the conference over to Gregg Lampf, Vice President of Investor Relations. Please go ahead."
+    },
+    {
+      "speaker": "Gregg Lampf Ciena",
+      "company": "Corp",
+      "role": "Investor Relations",
+      "speaker_type": "other",
+      "section": "presentation",
+      "text": "Thank you. Good morning, and welcome to Ciena's 2024 fiscal fourth quarter and year-end results conference call. On the call today is Gary Smith, President and CEO; and Jim Moylan, CFO. Scott McFeely, Executive Adviser, is also with us for Q&A. In addition to this call and the press release, we have posted to the Investors section of our website an accompanying investor presentation that reflects the discussion as well as certain highlighted items from the fiscal quarter and year. Our comments today speak to our recent performance, our view on current market dynamics and drivers of our business, as well as the discussion of our financial output. Today's discussion includes certain adjusted or non-GAAP measures in the end of results of operations. A reconciliation of these non-GAAP measures to our GAAP results is included in today's press release. Before turning the call over to Gary, I'll remind you that during this call, we'll be making certain forward-looking statements. Such statements, including our quarterly and annual guidance and our long-term targets, commentary on market dynamics, and the discussion of our opportunities and strategy are based on current expectations, forecasts, and assumptions regarding the company and its markets, which include risks and uncertainties that could cause actual results to differ materially from the statements discussed today. Assumptions relating to outlook whether mentioned on this call are included in the investor presentation that we will post short after are an important part of such forward-looking statements, and we encourage you to consider that. Our forward-looking statements should also be viewed in the context of the risk factors detailed in our most recent 10-Q filing and [our] 10-K filing, which we expect to file with the SEC by December 24. Ciena assumes no obligation to update the information discussed in this conference call, whether as a result of information, future events or otherwise. As always, we'll allow for as much Q&A as possible today. We ask to limit yourselves to one question and one follow-up. Before I get started, I wanted to remind everyone of our webinar entitled Expanding Leadership Optical Ciena's Strategy for Growth in AI and Data Center Markets. This can be found on the Events and Presentation page of the Investors section of our website. The webinar affiliated companies. DECEMBER 12, 2024 / 1:30PM GMT, Q4 2024 Ciena Corp Earnings Call and recorded Q&A that is very well received and should be helpful resources as you consider Ciena's positioning and opportunities. With that, I'll turn it over to Gary."
+    },
+    {
+      "speaker": "Gary Smith Ciena",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Good morning, everyone. Today, we reported strong fiscal fourth quarter results, including revenue of $1.12 billion. Notably, orders in the quarter were once again above revenue representing the second quarter in a row of book-to-bill above 1, and recall that we had expected orders to be below revenue when we spoke with you in September. We had several significant achievements in the quarter. First and foremost, WaveLogic 6 Extreme became generally available, locking our position as the only provider of 1.6 terabit capable coherent modems in the market today, further extending our technology leadership. We also took revenue for WaveLogic 6e in Q4, having shipped to multiple customers, many of which have announced their trials and deployments, including Verizon, euNetworks, and One New Zealand. Notably, Q4 was our largest quarter ever for shipments of line systems, led by our next-generation intelligent line system, RLS, primarily to large cloud providers. We also, in the quarter, continued to gain strong momentum with pluggables. At the end of Q4, total shipments to date of WaveLogic 5 Nano were more than 43,000. And also in Q4, we announced our WaveLogic 6 Nano 1.6 terabit coherent light pluggable which is designed to optimize performance and efficiency of data center and campus networks as they scale to support traffic from growth in cloud, machine learning, and AI. Moving back to our Q4 financials. We reported adjusted gross margin of 41.6%, which was lower than expected due to a larger than typical provision for excess and obsolescence in our inventory. Jim will provide additional detail on this momentarily. The full fiscal year, we delivered revenues of $4 billion. Also in both the fourth quarter and fiscal year, we had two 10% customers: a Tier 1 North American service provider and a major cloud provider. I think this is further evidence that purchasing patterns of North American service providers continue to improve with supply and demand coming into balance as they work through inventory buildup from prior periods. During Q4, service provider orders in North America actually outpaced revenue for the first time in nearly two years. Also, in addition to our 10% cloud customers in Q4, 4 of our top 10 customers for the year were indeed cloud providers. Let me now touch on the broader market landscape and really what's driving our business today and going forward. As always, bandwidth demand remains the most consistent driver for our business and growing at about 30% per year over the last couple of decades consistently. With cloud and AI, now the lead drivers of demand, we believe bandwidth growth will rise above those historical levels over the coming years. And to be clear, AI is not just a data center phenomenon to monetize the massive AI super cycle of compute investments, traffic is already flowing out of the data center and impacting all parts of the network today. And we are beginning to see evidence of this in our business today in several ways, across service providers and cloud providers. Our strategy is to take full advantage of the growth of cloud and AI traffic across multiple network segments and is threefold. First of all, we continue to extend our leadership and grow market share in our core business, inclusive of subsea, long haul Metro DCI, and increasingly, MOFN opportunities. Today, cloud providers are making significant investments in large-scale infrastructure projects to support AI growth and deliver the necessary scaling and densification of fiber infrastructure across the network. For this, they require a next generation of intelligent line systems like our RLS photonic platform and wavelength solutions such as Waveserver, really to address the need for scalability, resilience and automation. affiliated companies. DECEMBER 12, 2024 / 1:30PM GMT, Q4 2024 Ciena Corp Earnings Call And in fact, we support every major cloud provider with our RLS platform, which we codesigned with our cloud provider customers and is now their line system of choice. On service providers, we have won every major next-generation optical infrastructure RFP recently issued by North American service providers proving that our coherent optics and optical systems are increasingly the de facto choice in these advanced network architectures as well. This is in part in the service provider world, driven by the increasing two significant opportunities for them, MOFN and multicloud networks. As a reminder, with MOFN, service providers are building dedicated private optical networks for cloud providers, enabling them to quickly extend their reach and better service customer demand. For multi-cloud networks, service providers are building out the robust networks that connect to and between cloud providers, enterprises, and other service providers. Secondly, we aim to grow our addressable market into adjacencies where our foundational optical technologies provide a significant competitive advantage. And let me start with data center applications, which is a significant growth opportunity for Ciena with respect to AI within the metro data center campus as well as over time, inside the data center itself for our interconnects portfolio. As a general industry term, interconnects are really the infrastructure technologies that provide the critical connectivity between and within data centers and include both pluggables and component technologies. This is an area where we are once again collaborating directly with cloud providers just as we did very successfully with RLS, help them address their data center traffic flows. A large near-term opportunity for our interconnects portfolio exists around the data center or in the metro data center campus for coherent technology. By this, we mean opportunities beyond our traditional DCI capabilities that extend into campus and short-reach applications typically in the 2 to 20 kilometer range. At pluggables, including our recently announced 1.6 terabit coherent light, are a strong technology fit for these applications. In the coming years, we will also expect to see coherent optics begin playing a role inside the data center where we can address this need with our interconnect portfolio in the form of plugs and components as legacy IMDD technology begins to reach certain limitations. We are obviously recognized as having the world's leading coherent technology, and we are, therefore, incredibly well positioned to drive its adoption and capture these future opportunities as they materialize. We also anticipate growing opportunities in metro routing and broadband access, again, leveraging our optical expertise and foundation. In the Metro IP and optical convergence, this will become essential for some service providers to achieve greater scale and cost efficiencies. And our coherent routing solution is ideally suited to address these needs. In broadband access, as public funding and deployments begin to materialize in the next few years, PON technologies like our industry first pluggable OLT will be key to offering customers more deployment flexibility and scale. On the last dimension of our strategy is really around operational transformation as service providers continue to evolve in the cloud and AI era. They are accelerating their digital transformation strategies in order to automate and optimize their network and service life cycle operations. We see evidence of this opportunity for us with the recent performance of our Blue Planet intelligent automation portfolio. Blue Planet had its strongest ever financial performance in FY24 in several key wins for which initial deployments helped drive a strong increase in revenue in the second half. We are confident this momentum will continue. Before handing over to Jim, I'd summarize by saying that we are incredibly confident in our future, both in terms of our technology leadership position and the industry dynamics that are playing to our strengths. Specifically, we have been investing to address long-term opportunities particularly those associated with the growth of cloud and AI. And these investments are proving to be fully aligned with market dynamics and our customers' priorities, both now and into the future. affiliated companies. DECEMBER 12, 2024 / 1:30PM GMT, Q4 2024 Ciena Corp Earnings Call As a result, we expect to deliver accelerated revenue growth and improved operating leverage over the next few years. With that, I'll hand it over to Jim for a more detailed readout of our financial performance in Q4 and FY24 as well as our outlook for next year and an update on our three-year targets. Jim?"
+    },
+    {
+      "speaker": "James Moylan Ciena",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Senior Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks, Gary. Good morning, everyone. Before I get into the financials, I want to emphasize what Gary just said. First, we are seeing very positive market dynamics, including powerful trends in cloud and AI. Second, our commitment to investment and innovation has given us industry technology leadership in key product areas. Finally, our TAM is expanding as we attack new market opportunities. All of this gives us a very high level of confidence in our future. And we believe that our performance in the fiscal fourth quarter is an indication of that momentum. Specifically, we reported Q4 revenue of $1.12 billion and our book-to-bill was above 1. In fact, book-to-bill was above 1 for the entire second half of fiscal 2024 and our backlog grew by approximately $150 million for this period. This resulted in an ending backlog of $2.1 billion at the end of the year. And we are off to a very strong start in orders for Q1. Adjusted gross margin in Q4 was 41.6%. This reflects a $39 million charge for excess and obsolescence or E&O as we call it, to our inventory. This is higher than typical for quarterly E&O and this incremental amount accounted for an approximately 200 basis points reduction in our Q4 adjusted gross margin. This charge is the result of a combination of factors. First, forecast product mix changes now reflect a greater proportion of cloud-related business. Secondly, our supply chain transformation initiative, which we've talked about over the past few quarters, including new systems and processes has given us better visibility into our inventory positions across the supply chain. And finally, we've had during this period of supply chain disturbance, we've enjoyed extended lead times and that has had an effect on our ability to match demand with supply. Q4 adjusted operating expense was $355 million. With respect to profitability measures in Q4, we delivered adjusted operating margin of 10%, adjusted net income of $79 million, and adjusted EPS of $0.54. In addition, we generated $349 million in cash from operations in the quarter. Free cash flow was $266 million, and quarterly adjusted EBITDA was $137 million. During Q4, we repurchased approximately 2.1 million shares for $132 million. This completed $1 billion share repurchase program, which was authorized by our Board in 2021. As you saw in October, our Board has authorized another $1 billion share repurchase program, which we plan to execute over the next three fiscal years. With respect to the full fiscal year performance, annual revenue was $4.0 billion. Adjusted gross margin was 43.6%, and adjusted OpEx totaled $1.36 billion. On profitability for the fiscal year, adjusted operating margin was 9.7%, adjusted net income was $266 million, and adjusted EPS was $1.82. In addition, free cash flow in fiscal year '24 was $378 million, and adjusted EBITDA was $481 million for the year. Strength of our balance sheet remains a significant differentiator as we ended the year with approximately $1.33 billion in cash and investments. Inventory was $820 million at the end of the year, down nearly $120 million for the quarter and approximately in line with what we expected at the start of the year. Now turning to guidance. With respect to the long term, we have previously described our long-term average annual revenue growth target of 6% to 8% as being our best view of the future. For all the reasons we've discussed on this call, we're very confident in our business going forward and therefore, are providing a new set of long-term targets for the three-year period encompassing fiscal 2025 through fiscal 2027. We are seeing plans for strong CapEx investments by our cloud provider customers as they continue to invest in networks to support AI affiliated companies. DECEMBER 12, 2024 / 1:30PM GMT, Q4 2024 Ciena Corp Earnings Call training and increasingly infancy. And we expect service provider order pattern to continue to improve. Their inventory is basically at normal levels, and we believe their orders and actual consumption are coming into balance. Accordingly, we now expect average annual revenue growth of approximately 8% to 11% over the next three years. We will also drive operating leverage due to the combination of higher gross margin and moderation of the rate of our OpEx growth. We are targeting adjusted operating margin of 15% to 16% for fiscal year 2027. And we expect to generate meaningful annual free cash flow over the next three years of approximately 55% to 60% of adjusted operating income. Moving to fiscal year 2025. We expect revenue growth in fiscal year '25 to also be in the range of 8% to 11%. We expect gross margin for the full year to be in a range of 42% to 44%, with quarterly gross margins starting in the low 40s and approaching the mid-40% range as we exit the year. This reflects our expectation for product mix to be more heavily weighted toward line systems earlier in the year and more balanced as we exit the year. We expect adjusted operating expense in fiscal '25 to average $350 million to $360 million per quarter. We expect quarterly adjusted OpEx to start slightly lower in the first half and increase throughout the year to reach that average for the year. Finally, in the year, we plan to repurchase approximately $330 million in shares under our recently authorized plan. Finally, with respect to Q1, we expect to deliver revenue in a range of $1.01 billion to $1.09 million. Adjusted gross margin in the low 40s range and adjusted operating expense of approximately $350 million. In conclusion, as we look ahead, we believe the increasing influence of cloud and AI will continue driving bandwidth growth across the network, and we are ideally positioned to support that demand. We continue to invest in leveraging our optical leadership to grow our core business while expanding our market opportunity. The combination of positive market trends and technology leadership gives us strong confidence in our ability to deliver accelerated revenue growth and improved operating leverage in the coming years. With that, I'll turn the call over to Q&A with questions from our analysts. Operator? Operator (Operator Instructions) Amit Daryanani, Evercore."
+    },
+    {
+      "speaker": "Amit Daryanani Evercore",
+      "company": "ISI",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I guess maybe just to start with the fiscal '25 guide for 8% to 11% growth, extremely impressive. We're setting what folks looking for. Maybe you folks would just help us understand how do you see the cloud market versus North America telco versus international kind of stacking up. Could you just dig into a little bit on what's embedded in this 8% to 11% assumption across the segments? That would be helpful."
+    },
+    {
+      "speaker": "Gary Smith Ciena",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Hi, Amit. Let me start with that. I would say that in my first sort of comment to it, what we're seeing as we said a little bit in the prepared comments, we're seeing the service provider, first of all, market come into balance in terms of supply and demand and that's manifesting as orders. We saw that in Q3. We saw it in Q4, and we're seeing it in Q1 now. So I think the stability of that market will steadily improve, and we've got good visibility to that. Coming on top of that, which is driving the growth, outsized growth for both this year and beyond, it's really the cloud -- traffic cloud and AI layering on top of that service provider base. So I would say the service provider strength absolutely in North America. We're seeing steady improvement in Europe and international markets, places like India and then it's the cloud and AI growth on top of that. We're beginning to see dedicated capacity for machine to machine, and we're beginning to see the buildouts beyond that as well to deal with things like inference and longer distance training. So that's really what's driving the perspective over the next one to three years. affiliated companies. DECEMBER 12, 2024 / 1:30PM GMT, Q4 2024 Ciena Corp Earnings Call"
+    },
+    {
+      "speaker": "Amit Daryanani Evercore",
+      "company": "ISI",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it. That's really helpful. And then if I just kind of focus on this gross margin, the obsolescence risk impact that you folks had in the quarter. Just say that after that one, is there any risk, there's a little bit more of that to happen in Q1 as well? Or are you doing that issue as well behind you at this point? And then as I think about the gross margin improvement in fiscal '25, starting that you do in Q1 to beyond, how much of that improvement is mix normalizing versus revenue leverage kind of kicking in? If there's a way to parse that out, that would be helpful. Thank you."
+    },
+    {
+      "speaker": "James Moylan Ciena",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Senior Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. I mean, first, I'd say that we typically have these E&O charges. It's just a function of the lead times that we have to buy our components under and the forecasts we're getting from customers and sometimes all of that changes. So we typically had $10 million or $12 million a quarter. I think this quarter was certainly influenced by several things that we don't think are repeatable. We have a new forecast. We don't do the long-term forecast every quarter. We've done a complete transformation of our supply chain, and that's -- we now have extremely good visibility into where all this is. So we don't expect this to recur. We think that our charges are going to go back down to the sort of normal level that I described. With respect to the second question, it's all about mix. And there are many dimensions of mix, but the most important dimension of mix is the line system as opposed to the capacity adds in our revenue for a quarter. As we've said, our reconfigurable line system is really becoming an industry standard across both cloud providers and service providers. And so we are selling a lot of it now. That speaks to the future very positively because you have to populate these line systems over time. And when they do get populated, that will be at higher gross margin. So the trend in our gross margins should be up during this year and even next year and the following years."
+    },
+    {
+      "speaker": "Amit Daryanani Evercore",
+      "company": "ISI",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Perfect. Thank you and congrats on a nice set of numbers here. Operator Simon Leopold, Raymond James."
+    },
+    {
+      "speaker": "Simon Leopold Raymond",
+      "company": "James",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "At first, I wanted to see if you could maybe unpack a little bit of the trending between your direct cloud sales and then the managed optical fiber network trend, MOFN. What I'm wondering here is what drives an operator to choose one option or the other? And how do you see, if at all, a divergence between those two buying patterns?"
+    },
+    {
+      "speaker": "James Moylan Ciena",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Senior Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "First of all, let me start by saying that the cloud providers much prefer to go direct to us and build out their own networks but there are places where they can't, including some countries where they're restricted by regulation to do so. But we've seen in the past, I guess, a year or so, six months that this trend of MOFN and other forms of asking service providers to build their capacity has increased a bit. And it's because they're simply doing the service -- the cloud providers are simply doing so much that they can't do it all and help. So they're going to service providers to do moments even in the US, for example."
+    },
+    {
+      "speaker": "Gary Smith Ciena",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, that's absolutely right. And we see it, Simon, in -- we see it obviously in our results, but we also see it in a number of bid activities out there around the MOFN network at just the fact of it is they're trying to go so fast. The cloud providers that they have to push on every tool in their toolbox, build direct where they can open where they can augment. And in some countries, obviously, that's their only choice is the most in network base. affiliated companies. DECEMBER 12, 2024 / 1:30PM GMT, Q4 2024 Ciena Corp Earnings Call"
+    },
+    {
+      "speaker": "Simon Leopold Raymond",
+      "company": "James",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "And then just as a follow-up, I appreciate you've told us a little bit about the 10% customers for the fiscal year in the quarter. What's your thinking on customer concentration in the forecast for fiscal '25? What are you assuming? Do you expect a similar top two? Or do you expect basically more diversification in the next fiscal year? Any color you can offer on how that's trending?"
+    },
+    {
+      "speaker": "James Moylan Ciena",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Senior Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. We have -- I guess, we have four customers, two service providers, and two cloud providers that in any given quarter can be a 10% customer, and they move around a little bit. But I personally don't think the combination of the makeup of our 10% customers is going to change a lot. It's going to be one or two a quarter, maybe three. We've had three in the past, but I don't think it's going to change. But the actual customer that it is -- will change. Operator George Notter, Jefferies."
+    },
+    {
+      "speaker": "George Notter",
+      "company": "Jefferies",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I was thinking about your guidance for gross margins, 42% to 44%, I think, for fiscal '25. But when I adjust for E&O, looking at fiscal '24, I get you guys at about 44.5% gross margin. I hear what you're saying in terms of the mix shift of new systems versus line cards, but I think what you're telling us is this is going to be the heaviest mix towards new systems that you guys have ever been at in terms of a company. Is that the right interpretation here? Or is there just conservatism in the guide? Or what can we learn on that front?"
+    },
+    {
+      "speaker": "James Moylan Ciena",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Senior Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "It is absolutely going to be the heaviest concentration of line systems next year, particularly in the first two quarters that we have seen. It is becoming an industry standard, George, the cloud providers and service providers want this line system. It offers the best combination of capability, the ability and being able to handle the massive volumes that are needed as the network demand continued."
+    },
+    {
+      "speaker": "George Notter",
+      "company": "Jefferies",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it. Okay. And the other one I had was just on headcount if I've got my math correct, I think you guys book head count down a pretty good chunk sequentially. First time we've seen head count come down by this magnitude in a very long time. Am I looking at that correctly? And if so, what's driving that?"
+    },
+    {
+      "speaker": "James Moylan Ciena",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Senior Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. Remember about midyear, when we took our revenue call down, we also took our OpEx down. So we did that by a combination of terminations and dropping our plans for adding headcount. And so our head count did take a drop as we move through the year. We don't expect next year's head count is going to grow significantly. However, OpEx will be up mainly because we're not hanging out 100% under our incentive compensation plans this year, and we expect to pay out 100% next year. And also there's a merit increase in there. So those are the two big reasons why our OpEx is up from '24 to '25."
+    },
+    {
+      "speaker": "George Notter",
+      "company": "Jefferies",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Super. Thanks so much and congrats on the results. Operator Meta Marshall, Morgan Stanley."
+    },
+    {
+      "speaker": "Meta Marshall Morgan",
+      "company": "Stanley",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Just as you were thinking about the three-year, I guess, I just wanted to get a sense of how are you judging customers' ability to kind of install all of this equipment kind of as quickly as kind of their purchasing it, I mean particularly on the part of the telcos where we've seen kind of some limits before kind of in their ability to install. Maybe that's the first question. affiliated companies. DECEMBER 12, 2024 / 1:30PM GMT, Q4 2024 Ciena Corp Earnings Call And then the second question is -- as we look at kind of the OpEx step up, I know you guys have made some meaningful investments kind of in routing over the last couple of years. Just how are you judging some of those investments maybe versus some of the more nearer-term kind of opportunities you're seeing with the cloud?"
+    },
+    {
+      "speaker": "Gary Smith Ciena",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Hey, Meta. That's a very good question around -- because it does talk to the ability of both service providers and cloud players to absorb, i.e., deploy all of this equipment. And I think we've got much closer over the last two to three years, given all of the supply chain imbalances and the rest of it to exactly how are they consuming it and deploying. We've also ramped our services capability in that time too. And from a service provider point of view, we are doing more of those deployments than ever. We are very close to the major Tier 1 service providers, and we're a critical part of their deployment services. So, A, we have good visibility. And number two, we're helping them ramp. We're also doing that with the cloud providers. and that may not be something that's well known and understood. Obviously, you're talking about installations around the globe, very complicated submarine cables and different countries around the world with service provider combinations as well, so quite complicated. We are project managing some of those for them. And we're actually deploying and helping with the planning on many of the cloud providers as well. So, A, again, we have good visibility; and B, we're helping accelerate those network deployments. And particularly, as Jim talked about, we're seeing an uptick in the whole line -- automated line deployments that we've never seen before to this scale. And the first half of the year, particularly, which will weigh on margins in the first half but it's a good news story and that we'll lay in track for the future with it. So I think we have good visibility matter, and we're confident in the capability of them to deploy. Second part of the question, in terms of operating expenses, as you know, during the course of the last few years of both COVID supply chain whiplash, we've continued to invest in this kind of architecture and the technology that we're rolling out now. So I think as I think about the next few years outside of, as Jim said, expenses in terms of cost of living expenses, it's really about operating leverage now. And we've made the investments. We've got the technology coming to market at the right time. Now it's about over the next one to three years, driving operating leverage, which gets us back to that 15% to 16% operating margin."
+    },
+    {
+      "speaker": "James Moylan Ciena",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Senior Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And the great news is that as a result of these investments, we have the best optical technology, the best line system and the best operating system. So we've successfully invested and our growth rate for the next three years reflects that. Operator David Vogt, UBS."
+    },
+    {
+      "speaker": "David Vogt",
+      "company": "UBS",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Two, if I may. Maybe, Gary, I missed it earlier, but I wanted to ask about the longer-term opportunities specifically short reach coherent, which you talked about, whether it's in campus or inside the data center. Can you kind of help us better understand sort of the timing and the magnitude of this opportunity? And if I would assume some of that revenue opportunity is embedded in the rolling three-year guide, and I'll give you my second comment as well our question. I heard Jim mention operating leverage in the out years. And to go back to George's question, should we expect gross margin expansion higher in fiscal '26 and fiscal '27 as well to support the 15% to 60% operating margin in the out year that you laid out earlier? affiliated companies. DECEMBER 12, 2024 / 1:30PM GMT, Q4 2024 Ciena Corp Earnings Call"
+    },
+    {
+      "speaker": "James Moylan Ciena",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Senior Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, let me take the second part first. And the answer is yes. We do expect that our margins will improve to something approaching historical numbers that will get us to 15% to 16%, that, along with operating leverage will get us a 15% to 16% operating margin that we predicted. Scott?"
+    },
+    {
+      "speaker": "Scott McFeely Ciena",
+      "company": "Corp",
+      "role": "Executive Advisor",
+      "speaker_type": "other",
+      "section": "qa",
+      "text": "Yeah. And then David, if you think about our opportunities outside of our system business, it starts with our coherent plugs those are seeing significant ramp in the back part of this year, and we expect it to grow in '25, and that really speaks to sort of the Metro DCI opportunities that we really didn't have exposure to historically. So that's new incremental business for us stepping closer in and around the data center from there. We've been saying for some time now, we do believe that coherent technologies have a play there in the future as data rates go up and the reach requirements expand a little bit. We think the next opportunity is in the campus. So think about that as the 2 to 20 kilometers type range. And our WaveLogic 6 technology WaveLogic 6 Nano has that coherent light or LR capability as the industry talks about that DSP is sampling today. We would expect to be in customers' network slate in '25 with that and start to see the revenue flow into our P&L in '26. So that piece of it is included in our long-term targets. Beyond that, we do see that trend continuing to be inside the data center as the data rates increase. That is a little bit from a timeline perspective, a little bit beyond our three-year guide. Operator Atif Malik, Citi."
+    },
+    {
+      "speaker": "Adrienne Colby",
+      "company": "Citi",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi. It's Adrienne Colby for Atif. Thank you for the question. I was hoping to go back to margins. I was wondering if you could comment about strategic opportunities for supply chain or portfolio optimization, if there's an opportunity for incremental benefits over the summer, one of Ciena's partners commented on standing relationship. So interested if there's a potential benefit to margins there."
+    },
+    {
+      "speaker": "Scott McFeely Ciena",
+      "company": "Corp",
+      "role": "Executive Advisor",
+      "speaker_type": "other",
+      "section": "qa",
+      "text": "Yeah. I mean, I think we're constantly looking at our supply chain to see how we optimize it. I think the reality of the last few years has been one where we are in a constrained environment from a supply chain perspective. That has actually gotten in the way of us getting at our typical cost reduction activities, fact that we have been carrying a bit of elevated inventory as well has been a headwind in that dimension. We do expect as we go through '25 and further into our three-year plan that we'll get back on to our typical year-over-year cost reduction activities, and that will absolutely help in the margin expansion that Jim talked about."
+    },
+    {
+      "speaker": "Adrienne Colby",
+      "company": "Citi",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "And as a quick follow-up, can you comment on exposure to tariffs with the incoming administration? I know that you use a lot of third-party contract manufacturers. But even if you can just talk about it qualitatively, that would be helpful."
+    },
+    {
+      "speaker": "James Moylan Ciena",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Senior Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. What I'd say is that this is entirely speculative because we don't have a new administration yet, and we don't know exactly what they're going to do. We have not factored into our numbers, any effect from tariffs. We do have exposure to tariffs from Mexico on Mexico, I should say. And if that were to happen, we'll have to work hard to mitigate the effects. Operator Ruben Roy, Stifel. affiliated companies. DECEMBER 12, 2024 / 1:30PM GMT, Q4 2024 Ciena Corp Earnings Call"
+    },
+    {
+      "speaker": "Ruben Roy Stifel Financial",
+      "company": "Corp.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I just had one question, I guess, a quick follow-up for either Gary or Scott. Just following along to some of the previous questions around the data center or cloud service provider contribution to revenue. Gary had mentioned in and around coherent [twin] light optics, the plugs and components. And I think the component part of it is more of a recent potential road map extension. So just wondering if you could comment a little bit on how you're thinking about the components. I think, Gary, you mentioned as you think about getting into the data center, that could be an opportunity. Wondering if you're thinking about DSPs in kind of more standard DCI inside coherent DSPs as an opportunity over the near to medium term."
+    },
+    {
+      "speaker": "Scott McFeely Ciena",
+      "company": "Corp",
+      "role": "Executive Advisor",
+      "speaker_type": "other",
+      "section": "qa",
+      "text": "Yes. I think two parts to it. One is sort of places where we play today. Obviously, some of the industry likes to have an insurance policy, I'll call it, where they can procure finished goods systems from us. Some would prefer to disaggregate that and buy it in another way. We've been very clear with that set of customers that we are willing to transact as they see fit. The reality of it is today, all of them have actually prefer to buy finished goods from us. Now that finished goods can come in the form of systems or as we've seen in the second half of the year, plug sold independently from our systems as well. So they are today, taking advantage of our optical technology in both of those forms, plugs or in systems. As we go further towards the data center and ultimately, as I said, getting inside the data center, it's more and more of a buying path for those consumers to want to consume as components. And we're capable and willing to do that. But as we sit here today, it's not part of our revenue."
+    },
+    {
+      "speaker": "Ruben Roy Stifel Financial",
+      "company": "Corp.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it. I guess just for a quick follow-up on that. In terms of -- we've been hearing more about DCI and contribution to revenue. Can you just give us a comment on competitive environment? Are you seeing kind of competitive modules becoming, I guess, more prevalent in the bake-offs? Or is that not the case?"
+    },
+    {
+      "speaker": "Scott McFeely Ciena",
+      "company": "Corp",
+      "role": "Executive Advisor",
+      "speaker_type": "other",
+      "section": "qa",
+      "text": "I think on the -- let me separate it out from the parts of the network where we see data center interconnect in longer reaches. So outside of sort of the metro kind of campus area. I don't think the competitive dynamics have changed there at all. We continue to have outside share there, largely because of our relationships around the world and our technology leadership. And that is consumed in our line systems that is consumed in products like our Waveserver and that continues to show increased market share period-over-period. The place that's -- we're relatively new to in terms of gaining market share is in the Metro DCI area. So think of it less than 100 kilometers. We typically haven't been a player there or not a large player there with our WaveLogic 5 plugs that we introduced in the market a couple of seasons ago, we've become an increasing layer there where we shipped, as I said in the script, over 43,000 plugs into that application and it's growing rapidly. We had a very strong Q4 there. And from a '25 perspective, we expect to continue to take share in that application. And we will be introducing, of course, the first 800-gig plug into that market. And we've been fortunate enough to win the early competitive bids that are out there for that technology, and we'll be taking revenue on that generation in '25 as well. Operator Samik Chatterjee, JPMorgan."
+    },
+    {
+      "speaker": "Samik Chatterjee",
+      "company": "JPMorgan.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Congrats on the results and the guide. I guess if I can start off with the fiscal '25 guide and just sort of ballparking here in terms of 10% revenue growth, which plus orders and revenue should be around this sort of $1.1 billion level every quarter that you did in 4Q. affiliated companies. DECEMBER 12, 2024 / 1:30PM GMT, Q4 2024 Ciena Corp Earnings Call How -- maybe if you can sort of talk about the interplay between how you're thinking about interplay between old and backlog through the year? Because are you assuming that you continue to sort of build backlog through the year, and typically, your orders do sort of pick up towards the back half of the year. So if that means, do you have more upside for the year? And then I have a follow-up."
+    },
+    {
+      "speaker": "James Moylan Ciena",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Senior Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "We feel really good about order intake for the year, first of all, and it started off very strong for the first six, seven weeks of this quarter. Now it's hard to predict what's going to happen to our backlog. If you go back historically, before all of the extended lead times and the supply chain disruption, our lead time. I mean, our backlog at any point in time was roughly 1.5 quarters. That's just a rough way of driving it, and there was a lot of stuff in there, including long-term service contracts, et cetera. During the supply chain situation, it went up to four quarters worth of revenue. And it's come back down to something like a little over 1.5 times, maybe 1.6 quarters of revenue. We're just not sure what's going to happen to backlog. It's going to depend upon what our lead times are, how customers behave and all of that. And so I think it's going to become less important, frankly, for you to look at our backlog and more important for you to consider what's happening with our order flow and our revenue. So what I'd say is we don't know the answer to your question, Samik, but we do expect really good orders for this year."
+    },
+    {
+      "speaker": "Gary Smith Ciena",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Samik, the other thing that I would add to that, and you're seeing it manifest to some extent in our guide for Q1 is we typically have seasonality in Q1. I think it talks to the new dynamic where we're increasingly more indexed towards the cloud players than the service providers who are quite generally seasonal around Q1. And I think we're seeing strong order flows in Q1. You've seen the revenue guide for Q1 as well. Now whether that continues into the next three years. But I do expect less seasonality in the business, generally speaking, because of our increasing exposure to cloud and AI traffic growth."
+    },
+    {
+      "speaker": "James Moylan Ciena",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Senior Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Just one other related comment on this. It's not directly related, but it's certainly part of the mix. We did have a pretty significant reduction in inventory this past year. We think inventory will go down again this year, but by a smaller number, maybe $50 million to $100 million. We are on a track to getting to inventory turns of 4 to 4.5 times. That's not going to happen by the end of this year, potentially by the end of '26, we'll be at that point."
+    },
+    {
+      "speaker": "Samik Chatterjee",
+      "company": "JPMorgan.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "And for my follow-up, if I can just ask you on slide 10, I was looking at some of the TAM addressable market assumptions that you have. And I was curious on two things. One, I mean, as much as you're seeing accidented bandwidth growth and you have a lot more revenue coming from the market expansion opportunities that you're pursuing. Why isn't sort of the estimate for core business addressable market going higher, it is indicated to be 2% as it was before? Why aren't we seeing more of an uplift in the coal business addressable market? And then it seems like your addressable market expansion CAGRs came down by about a few percentage points because of a reduction of about $2 billion. So maybe if you can just parse out the impact there as well."
+    },
+    {
+      "speaker": "James Moylan Ciena",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Senior Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "What I would say is that I think it is possible that our base business grows faster than that. It depends upon how much artificial intelligence flows extend through the service provider networks. And we don't know the answer to that. affiliated companies. DECEMBER 12, 2024 / 1:30PM GMT, Q4 2024 Ciena Corp Earnings Call And I should say the cloud provider networks as well. But those numbers we take from industry analysts, we don't develop them ourselves and it's very much in keeping with what they've said in the past. It's a base business is a sort of low to mid-single-digit growth business, could be higher in the future, but that's what you're saying, and we are okay with that. We can do very well in that context."
+    },
+    {
+      "speaker": "Gary Smith Ciena",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Samik, another way I would sort of getting our head around that is that it's typically in our traditional business being about 2% to 3% growth. And yet we've grown at 6% to 8%. And I think we continue to take share, and we're confident we can continue to take share into that business. I think the point I would make is that I think the other areas, both within cloud build-out and the MOFN piece are not really encapsulated in those numbers, frankly, from an outside analyst point of view because we're seeing way more overlay activity across both service providers and cloud infrastructure build-outs as well. And I don't think that's really reflected in those external perspectives yet."
+    },
+    {
+      "speaker": "James Moylan Ciena",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Senior Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "One other comment I'd make is, remember, these are industry analyst numbers, they're not our numbers per se. But with the slide and be subsidies to the right. We still think they're coming. They've been allocated by the government, and they're going to come, but they seem to continue to slide, which is not unexpected given the fact that there's a lot of work from the time the government allocates the money until it gets to the customers, they have taken PON forecast down pretty meaningfully over the next two or three years. Operator Tal Liani, Bank of America."
+    },
+    {
+      "speaker": "Tal Liani Bank",
+      "company": "of America",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I wanted just to ask about the margins. The orders you're talking about with cloud, is the proportion of pluggables higher than historical? I'm just -- my question is if the contribution of pluggables is going to go up over the next few years. What needs to happen to offset the margin pressure? Is it true that they carry lower margin? And what needs to happen to offset the margin pressure from pluggables. And that's my first question. My second question is, I'm trying to understand what drives -- I fully understand the cloud, cloud deployments, I know everyone knows what drives deployments of your solutions. I'm more struggling on the carrier side, on the telco side. They are under such pressure of spending and they talk about much lower spending cycle in the next few years. What drives their deployments?"
+    },
+    {
+      "speaker": "James Moylan Ciena",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Senior Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. I'll address the plugs question. I would say that our plug margins today are a bit below our average margins. But we're not at full ramp on those and we're selling WaveLogic 5 Nano plugs. When we get to WaveLogic 6 Nano plugs and as we ramp our volumes and by the way, we do believe that our pluggables volumes are going to increase pretty meaningfully next year, perhaps double. And -- but as we get up to rent and as we get into WaveLogic 6 Nano, the 800 gig ZR, then we will get better margins on those."
+    },
+    {
+      "speaker": "Scott McFeely Ciena",
+      "company": "Corp",
+      "role": "Executive Advisor",
+      "speaker_type": "other",
+      "section": "qa",
+      "text": "The other thing, Tal, is taking a broader perspective on those cloud providers and a demand that they're putting on us. It's coming at us in the form of our photonic line systems and wavelengths in the various different forms depending on where that bandwidth is in the network. So we see it in longer reaches in our Waveserver product portfolio, and we see it in the plugs. By far, the biggest weight, if you like, in terms of the margin dynamic there is the line systems."
+    },
+    {
+      "speaker": "Gary Smith Ciena",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And on the carrier spending, Tal, I would say this, I mean our perspective is you've seen two years of very anemic spending and really underinvesting, running the networks hot by the service providers generally around the world. We're seeing that sort of come into balance from a supply-demand point of view, but we're not expecting it to -- we're expecting it to improve certainly in North America and affiliated companies. DECEMBER 12, 2024 / 1:30PM GMT, Q4 2024 Ciena Corp Earnings Call a little bit in Europe. We're not really expecting it to get back the kind of levels of spend that it was. We're not expecting that, which I think is consistent with your sort of perspectives to it. But given the additional growth and TAM expansions, we've got, that's what's driving -- that's in the assumption there. What we are seeing with certain carriers around the world is MOFN opportunities driven by cloud and that really is cloud, but the revenues go through from the service providers. So that is what's driving growth. Also with sort of multi-cloud type provisioning. You saw it with the Lumen announcement this year. You've got carriers around the world, taking these innovative kind of approaches. So I do think that we're not expecting service provider spend to accelerate dramatically at all, but just to recover and get back into some kind of balance which we're seeing. And then on top of that, you've got the cloud growth that specific builds in MOFN and into cloud that's driving the revenue there."
+    },
+    {
+      "speaker": "James Moylan Ciena",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Senior Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And remember, they're the connection between the cloud and end users, whether it's enterprises or individuals. So they have to keep their networks viable and strong and grow their networks just to handle that demand."
+    },
+    {
+      "speaker": "Gary Smith Ciena",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "As omnipotent as these cloud players are, they can't connect to everybody in the world. Operator This concludes our question-and-answer session. I would like to turn the conference back over for closing remarks."
+    },
+    {
+      "speaker": "Gregg Lampf Ciena",
+      "company": "Corp",
+      "role": "Investor Relations",
+      "speaker_type": "other",
+      "section": "qa",
+      "text": "Thank you, everyone, for joining us today. We appreciate it. We look forward to catching up with everyone over the following days and weeks. Don't forget that webinar and recorded Q&A that I mentioned and happy holidays, everyone as well. Thank you. Operator The conference has now concluded. Thank you for attending today's presentation. You may now disconnect. In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. affiliated companies."
+    }
+  ]
 }

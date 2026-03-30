@@ -4,5 +4,278 @@
   "quarter": "2024Q2",
   "sector": "IT",
   "filename": "2024-Aug-01-GEN.OQ-140666158939-Transcript.pdf",
-  "segments": []
+  "segments": [
+    {
+      "speaker": "Saket Kalia Kalia Barclays Capital",
+      "company": "Inc",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Operator Good afternoon, everyone. Thank you for standing by. My name is Tamia, and I will be your conference operator today. This call is being recorded. (Operator Instructions) After the speakers' remarks, there will be a question and answer session. At this time for opening remarks, I'd like to pass the call over to Jason Starr, Head of Investor Relations."
+    },
+    {
+      "speaker": "Jason Starr Gen Digital",
+      "company": "Inc",
+      "role": "Head of Investor Relation",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thank you Tamia. Good afternoon. Welcome to Gen's first quarter of fiscal year 2025 earnings call. Joining me today are Vincent Pilette, CEO, and Natalie Derse, the CFO. As a reminder, there will be a replay of this call posted on the Investor Relations website along with our slides and press release. I'd like to remind everyone that during this call, all the references to the financial metrics are non-GAAP and all growth rates are year over year unless otherwise stated. A reconciliation of non-GAAP to GAAP measures is included in our press release and earnings presentation, both of which are available on our IR website at investor. gendigital.com. We encourage investors to monitor this website as we routinely post investor oriented information such as news and events and financial filings. Today's call contains statements regarding our business financial performance and operations including the impact of our business and industry that may be considered forward-looking statements, and such statements involve risks and uncertainties that may cause actual results to differ materially from our current expectations. Those statements are based on current beliefs, assumptions, and expectations as of today's date, August 1, 2024. We undertake no obligation to update these statements as a result of new information or future events. For more information, please refer to the cautionary statements in our press release and the risk factors in our filings with the SEC and in particular our most reach reports on Form 10-K and Form 10-Q. And now I'll turn the call over to Vincent."
+    },
+    {
+      "speaker": "Vincent Pilette Gen Digital",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thanks, Jason, and welcome, everyone, to our Q1 earnings call. We have started fiscal '25 on a good note was operating KPIs supporting our long-term aspirations. We grew cyber safety bookings 4% in constant currency and reached a record direct customer count of 39.3 million, up 1.1 million year-over-year. Additionally, ARPU is up sequentially and year over year in constant currency and retention reach 78%, a Gen record, supported by record level in LifeLock and Avast. Our consistent focus on executed trend resulted in another double-digit growth quarter for earnings per share at $0.53, in Q1, up 15% in constant currency. I'm proud of our team for delivering these results and for our continued focus on evolving cyber safety for consumers in a very dynamic threat landscape. Before Natalie walks you through the details of our results. I would like first to remind everyone about our strategic opportunity and the steady progress we're making to achieve our cyber safety mission. Whether it is a biometric payment at the retail store or our personal affiliated companies. AUGUST 01, 2024 / 9:00PM GMT, Q1 2025 Gen Digital Inc Earnings Call performance data, combined with the recommendation algorithms to buy sportswear, it seems like not a day goes by where we don't do something digitally without sharing more personal information. And while these experiences can be convenient, our growing digital life leads to the proliferation of sensitive personal information, which is difficult to properly safeguard as it is increasingly out of our control. We depend on our banks, our government institutions and mobile providers and our retailers to protect our data. And yet, as we can all see by the ever increasing number of data breaches in all industries, it is tremendously hard for them to do. In just the first half of 2024, we have seen more than 2,000 reported breaches per month across the globe. And those are just the reported breaches, not to mention the many that occur across very small businesses, the local doctor offices, schools and shops that also get access to our sensitive personal data. Recent global breaches highlighted the growing threat of cyber-attacks, which are often targeted at exploding human vulnerabilities. In the aftermath of such events, there was a surge in impersonation scams, suspicious e-mails and text messages designed to trick people into sharing personal information. The rapid development of generative AI has made it easier for criminals to create more personalized and believable scans, including deepfake clones. The potential scope of these threats is broadening, resulting in significant economic and reputational damages. It is clear to anyone paying attention that these threats are creating a dynamic threat landscape, making consumers worldwide more valuable than ever to real threats to their privacy, identity, and financial assets. And the even more careful individual people, we struggled to control where their personal data lives and will have little to no visibility into our governments, companies and small businesses protect their data, identity and reputation, which I believe are amongst the most valuable assets. I strongly believe that it is not a question of if your personal data will be compromised, if it hasn't occurred already yet, but when. And that is why the team at Gen has made protecting you, your data, and your digital identity, our lives to work. It is a never ending mission that we deliver to constant innovation. Today, we already have the most comprehensive product portfolio that meets the consumer needs for security, identity, privacy, and reputation. Our flagship cyber safety membership offerings, Norton 360, Avast One and Avira Prime continued to gain traction and regularly receive industry recognition and awards for the way we protects against the merits of cyber threats. We don't just stop at delivering to consumers industry-leading technology. We know that providing our customers with best-in-class services sets us apart from our competitors. Solution like LifeLock and ReputationDefender delivered personal live service to help protect, and restore your identity and reputation in the event you become a victim. By focusing on the customer journeys with us, both products have achieved top ratings with LifeLock recognizes the best identify theft service in the marketplace and ReputationDefender with a near perfect reading for reputation management. As the leader of the industry, we are constantly investing in innovation to stay ahead of potential threats and provide our customers who is the best possible cyber safety protection. Yesterday, we launched Norton Ultra VPN, which offers more comprehensive online protection with three different plans catering to individuals, couples, and families. Norton Ultra VPN provides the best online privacy, dark web monitoring, VPN protocol support and worldwide content access. In addition, it offers protection against scams, viruses, malware, and ransomware, as well as a password manager and parental control. We believe it is the best and the next generation of VPN solution offering a modern and personalized approach to cyber safety and adds another entry door into total comprehensive cyber safety. We're so excited to bring Norton Ultra VPN to consumers. Not only is this is a great product that meets the customer needs, but it also affiliated companies. AUGUST 01, 2024 / 9:00PM GMT, Q1 2025 Gen Digital Inc Earnings Call represents the promise of all the hard integration work we put into bringing two companies technology together under a new single common architecture. Norton Ultra VPN is built on the new Gen stack, which help us not only with the innovation and the future we delivered, but also with the speed with which we were able to bring it to market. And in the future, as we take those capabilities and combine them with our ever expanding AI tools, we currently to see what we can deliver in terms of customer experience and ease of use. Over time that will result in improved customer loyalty and greater engagement leading to more value add cross-sell and upsells. The last one -- the last point I want to touch on today, is that most everyone has heard about cybercrimes and cybersecurity, but most people are not fully aware of the very real risk that they are exposed to and often not adequately protected from. At Gen, we are hard at work every day, communicating, educating, and earning the trust of consumers around the world. So we have a host of industry leading brands that enables us to serve the needs of hundreds of millions of diverse customers across our over 150 countries. We feel it is also our responsibility to constantly educate and inform people about cyber risk to the impact through initiatives such as our recent scam artists campaign. This campaign uses art and psychology to demonstrate the emotional impact of cybercrimes and helps people take the right steps to proactively protect themselves online. This quarter, we also launched our personal data exposure scam by LifeLock, which is a comprehensive scam of millions of data points online combining with our privacy monitoring and dark web algorithms. By simply entering an e-mail address individuals can obtain a free report card detailing all their supposedly private information that may be actually publicly available. These tools are free to everyone and give consumer visibility to the digital footprint so they can better protect themselves. For this type of cyber safety awareness initiatives are beginning to pay off as we grew cyber safety bookings and revenue by 4% in Q1. We had strong momentum in the identity and privacy business lines with bookings up 6%, supported by double-digit new customer acquisition in that segment and accelerating privacy cross-sell growth. This success reflects the increasing consumer awareness of identity risk from recently reported breaches. Also, the identity market remains mostly US-based today, we continue to make steady traction in our efforts to expand identity protection globally, introducing Norton 360 Advance to eight markets in Europe, providing customer additional identity protection services such as dark web monitoring, social media monitoring, stolen wallet assistant and ID restoration. Now despite the importance of comprehensive cyber safety, most consumer mistakenly believe it won't happen to them or still believe that they digitalized our safe basically choosing to self-insured. And two third of cyber safety customers have on the basic security or even just device security. But in today's user centric, cloud-based digital world, information and identity risk transcend personal devices. We believe that comprehensive cyber safety is paramount and yet still massively underpenetrated. And with our technology, portfolio, focus on innovation, trusted brands, and channel expansion, we are well positioned to drive its adoption. This is on never ending mission. So in summary, we are pleased with our Q1 results and promising start to fiscal 2025. We are confident that our customer centricity, innovation, and disciplined execution will enable us to deliver on our goals for not only this year, but also on our plan to accelerate long-term profitable revenue growth to further increase shareholder value. And with that, let me pass it onto Natalie to review our performance in details. affiliated companies. AUGUST 01, 2024 / 9:00PM GMT, Q1 2025 Gen Digital Inc Earnings Call"
+    },
+    {
+      "speaker": "Natalie Derse Gen Digital",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you, Vincent, and hello, everyone. For today's call, I will walk through our fiscal Q1 2025 results, followed by our outlook for Q2 and full year fiscal year 2025. I will focus on non-GAAP financials and year over year growth rates unless otherwise stated. Before I begin, I want to highlight that as disclosed in today's presentation and our recent Form 8-K, we made a revision to our historical practice of when we recognize revenue for certain customers changing from successful build to date to renewal date. The impact of the revision is immaterial further For comparative purposes, we have corrected for this in prior periods reported. Please refer to the supplemental information section of today's slide presentation available on our IR website as well as our Q1 Form 10-Q for more details. Now turning to Q1 results. Q1 was another quarter of solid execution with financial results at the midpoint of our guidance and reflects our 20 consecutive quarter of growth. Q1 bookings were $913 million, up 3% in USD and 4% in constant currency. Cyber safety bookings, which exclude our legacy business lines also grew 4% year-over-year in constant currency. Total Q1 revenue was $965 million, up 2% in USD and up 3% in constant currency. Cyber safety revenue grew 4% year-over-year in constant currency, driven by our privacy and identity business lines, as well as continued cross-sell penetration into the Norton base. In the US, we also grew 4% with expanding demand for privacy and identity protection services, attracting new customers through direct and partner channels and scaling cross-sells with our existing customers. We also continued to further penetrate international markets with varying degrees of market maturity as we continue to seed new acquisitions and expand the reach of our cyber safety services. We will continue to execute on all levers at our disposal to drive broad-based growth in a profitable manner. Direct revenue was $850 million, up 3% in constant currency, supported by improvements across our key performance metrics of direct customers, average revenue per consumer, our retention rate. Let me share some specifics. A key ingredient to our growth strategy is driving net new customers. And in Q1, we expanded our customer base for the fourth consecutive quarter, increasing to $39.3 million, up $192,000 sequentially and up $1.1 million year over year. We continue to invest in a broad range of marketing channels to reach new audiences, generate more traffic to our sites while optimizing conversion. We are acquiring new customers with healthy ROIs as we further penetrate international markets with our mobile offerings. Leveraging our brand trust and awareness, combined with our highly rated award winning product portfolio, we will continue to push through with our diverse set of acquisition channels to grow our customer base. On monetization, our monthly direct ARPU was USD7.23, up $0.01 sequentially and down $0.01 compared to last year's result. However, please note this result absorbs $0.04 of negative FX headwind year over year and $0.02 sequentially. Operationally, ARPU remains stable to slightly up across our customer cohorts by brand and market. And as we grow our customer base, we have demonstrated the ability to further monetize through cross-sells and upsells. With the Norton base cross-sell penetration has grown from 15% to 20% over the past year. We have leveraged at best practices to offer the most suitable complementary products during the right moments of truth that will further protect customers and our growing digital needs. We also continue to refine our upsell playbook to guide our customers toward higher tiered memberships with more comprehensive protection, an exciting opportunity for growth as we look to the next few years. The expanded value proposition provided to our affiliated companies. AUGUST 01, 2024 / 9:00PM GMT, Q1 2025 Gen Digital Inc Earnings Call customers is also reflected in the retention increases to date. In Q1, our direct retention rate was nearly 78%, improving year-over-year and progressing towards our goal to 80%. As we move through the Gen stack simplification, and we see more opportunities to drive higher customer loyalty and increased lifetime value, leveraging better targeting capabilities to create more personalized customer experiences through their journey, in turn, activating the growth flywheel as we've previously shared. Turning to our partner business. Partner revenue was $101 million in Q1, up 4% year-over-year as reported and up 6% in constant currency. Our employee benefits channel pipeline is robust, as organizations increasingly recognize the importance of protecting their workers from the identity and cyber risks they face. We continue to strengthen strategic partnerships with telcos, financial services, and insurance providers to expand our identity offerings. And we are also driving higher penetration of our private browsers and search partnerships. Scaling our partner business to $0.5 billion in annual revenue as a key component to achieving our overall growth plan. And we are confident in the progress we're making. Rounding out our revenue, our legacy business lines contributed $14 million this quarter, down from $17 million the prior year. As a reminder, we expect our legacy revenues to continue declining double digits year-over-year and represent less than 2% of our revenue. Turning to profitability. Q1 operating income was $564 million, up 4% year-over-year and up 5% in constant currency, translating to an operating margin of 58.4%. We continue to make disciplined investments in targeted growth opportunities to reach new customers through full funnel marketing efforts and expand our international presence. We're also solidifying our technology capabilities, including the new gen stack simplification to quickly adapt to ever-changing cyber threats and drive innovation through new offerings such as Norton Ultra VPN to add to our comprehensive cyber safety product portfolio. Within our core, we will continue to drive efficiencies and productivity that can be reinvested into additional growth levers. Q1 net income was $335 million, up 11% year-over-year. Diluted EPS was $0.53 for the quarter, up 13% year-over-year and up 15% in constant currency. Interest expense related to our debt was $146 million. Our non-GAAP tax rate remained steady at 22% and our ending share count was $627 million, down $16 million year-over-year, reflecting the impact of share repurchases. Turning to our balance sheet and cash flow. Q1 ending cash balance was $644 million. We are supported by over $2 billion of total liquidity consisting of our ending Q1 cash balance and a $1.5 billion revolver. Q1 operating cash flow was $264 million and free cash flow was $262 million, which included approximately $187 million of cash interest payments this quarter. As a reminder, early on in Q1, we successfully repriced our existing Term Loan B, removing the credit spread adjustment and lowering the credit spread associated with it from 200 basis points or so for 275 basis points. And as we see every year, we expect Q2 to be the lowest quarter of the year for operating cash flow, given the concentration of tax payments that are due. Turning to capital allocation, we remain balanced with our capital deployment on our committed to returning a 100% of excess free cash flow to shareholders. We voluntarily repaid $30 million of our Term Loan B as well as $58 million per our maturity schedule and are now 3.5 times net levered. We also deployed $272 million for share repurchases this quarter, the equivalent of 11 million shares as part of the expanded $3 billion buyback program approved by the Board in May of 2024. Since the start of fiscal year '23, we have remained committed to a balanced capital allocation strategy, paying down $2 billion worth of debt and deploying a total of $1.6 billion of share repurchases over that time period. affiliated companies. AUGUST 01, 2024 / 9:00PM GMT, Q1 2025 Gen Digital Inc Earnings Call We paid $82 million to shareholders in the form of our regular quarterly dividend of $0.125 per common share. For Q2 fiscal 2025, the Board of Directors approved a regular quarterly cash dividend of $0.125 per common share to be paid on September 11, 2024, for all shareholders of record as of the close of business on August 19, 2024. With our strong cash flow generation, we will continue to balance debt paydown and opportunistic share buyback deployment to help achieve our goals of delivering EPS growth of 12% to 15% and driving net leverage below 3 times EBITDA by fiscal year 2027. Now turning to our Q2 and fiscal '25 outlook. For Q2, we expect non-GAAP revenue in the range of $965 million to $975 million, translating to 3% to 4% growth in cyber safety. And Q2 non-GAAP EPS to be in the range of $0.53 to $0.55, up 13% to 17%. First fiscal year 2025, we are reaffirming our prior guidance. We expect full year revenue in the range of $3.89 billion to $3.93 billion, translating to 3% to 4% growth in cyber safety, expressed in constant currency, supported by expected cyber safety bookings growth of 3% to 5%. We expect non-GAAP EPS to be in the range of $2.17 to $2.23 per share, representing an annual increase of 12% to 15% in constant currency. Please note that we expect continued FX headwinds to impact our reported revenue primarily from the Japanese yen, which is depreciated over the last year. In summary, our Q1 results keep us on target for our 2025 plan, and we remain well-positioned to achieve our longer-term goals. Our key performance indicators continue to trend in the right direction. We are executing our plan and our strategic growth framework provides us guide points along the journey. We look forward to reporting on our progress over the year. As always, thank you for your time today, and I will now turn the call back to the operator to take your questions. Operator? Operator (Operator Instructions) Dan Bergstrom, RBC."
+    },
+    {
+      "speaker": "Dan Bergstrom RBC Capital Markets",
+      "company": "Wealth Management",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi, it's Dan Bergstrom for Matt Hedberg, thanks for taking our questions. It was nice to see the uptick in retention this quarter. I guess what are some initiatives there that are working well for you from a retention perspective? And then is there may be a good way to think about retention in the sense of -- was there some low-hanging fruit following the merger and incremental gains from here, maybe a little more challenging? Or is it more of a steady march to that 80% target?"
+    },
+    {
+      "speaker": "Vincent Pilette Gen Digital",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. Thanks for your question. This is Vincent. And I'll take that answer. So just as a context, for those who were not here 18 months ago, when we merge with Avast, our retention rate on an aggregated basis for all the brands and the new gen co was around 75%. And we identified about 5 points overall improvement that would drive all the way to our target 80% of retention rate for gen. A big portion of that improvement was Avast. Avast itself was around 65% retention, and we thought we could bring that business to a 75% retention rate overall. And so initially, yes, we had a few low hanging fruit, as you know, or as you remember, the Norton LifeLock combined was a retention rate closer to 85%. And we had a lot of good practices around the whole customer journey, breaking it down by the different experiences as customer would have and trying to get the best optimal output for dose. We applied those expertise and practices to the entire portfolio and improve for Gen a first 2 points from 75% to 77%. affiliated companies. AUGUST 01, 2024 / 9:00PM GMT, Q1 2025 Gen Digital Inc Earnings Call And then we said that the remaining will be over the next few quarters, maybe next couple of years as we really roll out the new gen stack. So this quarter, we reached 78% with actually and Avast record retention rate of 72%, but also improve a lot of retention rate to a record level as well. And I think you see here two -- the benefit of two dynamic. The first one is the rollout of the new gen stock. We see much more aligned to a suite with high engagement in app communications and that engagement and the ability to demonstrate the value to the customers has led to improved retention rate. And then the second component to this is the work we've done and the work we are doing in breaking down the journey of the customers through our cyber safety cycles and really providing the right value at the right time using some of the AI and data analytics that we have built. Then we're going to continue to roll those two, the new gen stock migration towards a suite approach on one side and then to build up of new features. And AI have enabled communications into that suites."
+    },
+    {
+      "speaker": "Dan Bergstrom RBC Capital Markets",
+      "company": "Wealth Management",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "That's very impressive. And then you called out cross-sell a number of times in the prepared remarks, and it is one of those five or five drivers through Investor Day. How should we think about cross-sell in the context of maybe what you've accomplished so far using, let's say, Avast as a template this time? And then what could still be done here on Norton, LifeLock from a cross-sell perspective?"
+    },
+    {
+      "speaker": "Vincent Pilette Gen Digital",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. So as we discussed six, eight months ago now, and that is there, right, we say one of the five drivers was to increase the cross-sell and basically behind that. it basically means moving customers that have entered cyber safety from a point product to a broader comprehensive cyber safety privacy and some of the identity features have been a very strong cross-sell this quarter. Before that, it was really about taking the products from the Avast portfolio that was more point products specifically and cross-selling into the Norton base and using their practice of cross-selling, if you want, again, at the right time and using as much as we can, data scientists to deliver the right message at the right time. I think we've seen a trend of moving more and more towards that either total comprehensive cyber safety or towards more that privacy identity angle -- and we'll see -- you'll see us continue to develop that. We have more room into Norton where we've made progress, but it will be a three-year road map, as you know. And then we still have a lot of room and what you did mention, which is the upsell, which is the migration towards the overall suite. Today, we're slightly above 40% in the total portfolio. And I think we have an opportunity to go to where we had brought the Northern LifeLock portfolio, which was 60%. So both cross-sell and upsell have made progress. Identity and privacy where essentially the focus and cross-sell plus upsell is the big opportunity moving forward."
+    },
+    {
+      "speaker": "Dan Bergstrom RBC Capital Markets",
+      "company": "Wealth Management",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you. Operator Peter Levine, Evercore."
+    },
+    {
+      "speaker": "Vincent Pilette Gen Digital",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Peter, hey. affiliated companies. AUGUST 01, 2024 / 9:00PM GMT, Q1 2025 Gen Digital Inc Earnings Call"
+    },
+    {
+      "speaker": "Peter Levine Evercore",
+      "company": "ISI",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. Thanks for taking my questions. Natalie, just the first one for you is as you think about the guidance for the remainder year what assumptions are baked into that? And then how do you think about the health of the consumer? Any color that you can give us around kind of what you're seeing from your pipeline in terms of just the overall health of the consumer into fiscal '25 versus where you were, call it, 6 to 12 months last year."
+    },
+    {
+      "speaker": "Natalie Derse Gen Digital",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, thanks for the question. So the guide is very much in line with the plans that we've articulated for you guys. It's -- the five for five is the structural growth framework and not that every one of those levers hit the same order of magnitude the same quarters and the same years. But that is our strategic growth framework, and we've got the business aligned to that. In terms of, yes, the teams focused on gross acquisition. Very, very important to get the health of the top of the funnel. We've spent a lot of time and focus on figuring out all the different cohorts that we've got in our customer base and how we retain them at the highest rates possible. And then ARPU, right, we've got to make sure that we continuously stay focused on having the most robust product roadmap that can fuel our growth opportunities in both cross-sell as well as upsell. And again, continuously communicate with our customers that we have the most relevant, most comprehensive cyber safety protection in the market. And so all of those things coming together as we navigate through the year, is what helps us shore up our not only the Q2 guide, but our reiteration of the full year guide. And then in terms of the health of the consumer, look, there's been a lot of movement and a lot of things in the news in the last couple of days. But what I can tell you is what I can see within our business. And so we are growing customers both from a gross add perspective, we've just seen our highest Q1 that we've seen in four years from a cancellation in perspective, we've seen the lowest number of cancels, we've seen in the last three years. So whether that's the health of the customer or that's the awareness of the ever increasing cyber safety threats that we've got, combined with our trusted brands. From a customer count perspective, we see health and we see growth. And then combine that with the other two legs of the stool, as I speak about it in terms of what is happening in ARPU. Affects aside, we are growing ARPU consistently quarter-over-quarter, and we have seen increases in the last year across our brands in retention rate. And so from the measures of our customer in those three key performance indicators, I see a lot of help in our customer base."
+    },
+    {
+      "speaker": "Peter Levine Evercore",
+      "company": "ISI",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you for the color there. And if I could jump to the product side. I think last quarter, we talked and we touched the least on the ask. I think it was asked on silver the membership offering, and you talked about the newer Gen stack initiative. Can you maybe just give us an update on how that's trending?"
+    },
+    {
+      "speaker": "Vincent Pilette Gen Digital",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. So on the rollout of the new Gen stock, we started at the end of the fiscal year with just a couple of small countries in the Asia region to test. We had very good positive results since then. We've expanded to a few more countries. We rollout our first new cohorts because we're doing by customer cohort in the US. We would be very cautious monitoring the first, -- the NPS after first 30 days rollout, measuring the engagement, comparing that to prior and we said it will take the full year to rollout the new stack and I think we're on track to that and we're not changing that time line. We are pleased by what we see so for. There is up and down, obviously, we will add new adjustments and as we get customer feedback, but overall, pretty positive. affiliated companies. AUGUST 01, 2024 / 9:00PM GMT, Q1 2025 Gen Digital Inc Earnings Call"
+    },
+    {
+      "speaker": "Peter Levine Evercore",
+      "company": "ISI",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. Yeah, thanks for taking my questions. Operator Tomer Zilberman, Bank of America."
+    },
+    {
+      "speaker": "Tomer Zilberman Bank",
+      "company": "of America",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hey guys. Maybe just two quick questions for me. So this quarter, your sequential direct customer adds came in pretty strong. And you also talked about cross-sell penetration now nearing the 20%. With your guidance or excuse me, with your performance falling in line with your guidance, my question is how did the difference between existing customers and new customers play in for your expectations or versus your expectations three months ago is it in line? Or did you see one of the two performing better than expected?"
+    },
+    {
+      "speaker": "Natalie Derse Gen Digital",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, I would say it's a balance across the metrics, and we've got different teams aligned to different segments to that five to five strategic growth framework. In terms of how the customers performed, we are honestly working extremely hard from a disciplined fashion, to free up as much capacity for investment for growth as we can. And so we've made a commitment and we stand behind that commitment in operation and execution to continue to invest in marketing. That marketing goes to the top of the funnel. So we are not surprised by the team the growth in customer count on a sequential basis. And so from a gross adds perspective, like I said, it's the highest gross adds we've seen in several years. And then from a retention perspective and ARPU perspective, the levers cross-sell, we are just getting started quite honestly, we are very, very proud of the performance that our teams have driven in cross-sell penetration of the Norton base, moving from 15% to 20% last year. But we are at 20%. And we feel like we have a ways to go, especially because we're not dealing or we're not selling into a stagnant customer base with a stagnant product portfolio, both are growing. And so we will continuously invest in product and technology, enhance our value proposition. We will continuously work to cut through the message with our trusted brand and services to our customers. And will continue to focus on retention to make sure that the customers that we've got want to stay with us and they are getting world-class customer service and protected by a product and technology value creation that is ever increasing."
+    },
+    {
+      "speaker": "Tomer Zilberman Bank",
+      "company": "of America",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it. Maybe the follow-up moving to ARPU and some of the FX headwind. What sort of hedging activities are you putting in place to protect against the weakening yen?"
+    },
+    {
+      "speaker": "Natalie Derse Gen Digital",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I don't hedge against the yen, from a currency rate perspective. We fixed the rate at the beginning, and that's why we report USD versus constant currency."
+    },
+    {
+      "speaker": "Tomer Zilberman Bank",
+      "company": "of America",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it. Thank you. Sure. Operator Saket Kalia, Barclays."
+    },
+    {
+      "speaker": "Vincent Pilette Gen Digital",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Hey Saket. affiliated companies. AUGUST 01, 2024 / 9:00PM GMT, Q1 2025 Gen Digital Inc Earnings Call"
+    },
+    {
+      "speaker": "Saket Kalia Kalia Barclays Capital",
+      "company": "Inc",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay, guys. Thanks for taking my questions here. Hey Vincent, het Natalie."
+    },
+    {
+      "speaker": "Natalie Derse Gen Digital",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Hi."
+    },
+    {
+      "speaker": "Saket Kalia Kalia Barclays Capital",
+      "company": "Inc",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hey, I joined late, so apologies so if some of these have been asked. But Vincent, maybe just to start with you, on just another part of the business. I think we get into the benefits enrollment season next quarter, and I know that last year there was a little bit of lumpiness there. And can you just talk a little bit about how that pipeline looks and maybe anything that you would, you think about doing differently this time versus last year?"
+    },
+    {
+      "speaker": "Vincent Pilette Gen Digital",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Hey, absolutely Saket. And no worries about joining late and the good news is recording the call. And we'll give a lot of good information on where we stand with our business overall, feel pretty good. You may have heard, or you may have already joined our partner this quarter partner business, which is 10% of our overall business, it's grew 6% constant currency. As you know, it's made of categories, and I'm summarizing the context to give everybody context to your question. And it's about telcos selling two telcos solutions, our employee benefit strategic relationships and then retail. Both telcos and EB will continue to grow double digit within that partnership revenue. And what you refer to is the fact that we signed a new -- a set of new accounts and then ahead of the enrollment time for employee benefit which start normally around October, October to February time zone, we may or may not close bigger deals into new accounts. So we've continued to invest into building up our overall coverage of the entire set of companies working through brokers. We have a very healthy funnel and I think not different than last year, we will try to, as aggressively as we can close as many deals as we can. Now obviously, when it comes to estimating which deal force into the full annual guidance, we feel we definitely have a very healthy funnel to cover the forecast for the year."
+    },
+    {
+      "speaker": "Saket Kalia Kalia Barclays Capital",
+      "company": "Inc",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it. That's very helpful. Natalie, maybe for my follow-up for you. Listen, the operating margin also speaks for itself. My question was just maybe on the gross margin. Last couple of quarters, it's just, I don't know, maybe like 100 basis points lower than it's been from the prior few quarters. So maybe the question is, can you talk to just any investments that are going into cost of sales? Or anything that we should continue there or anything that we should think about as we model growth, the difference between gross margin and OpEx going forward?"
+    },
+    {
+      "speaker": "Natalie Derse Gen Digital",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. so hi Saket. Thanks for the question. Yes, I think it is definitely appropriate to call out, just what high margins we operate the business from both the gross margin and the operating margin. Operating margin has improved 7 points over the last three years, up to 5 points over the last two years. So I think that is the reason we'll measure of how we operate, it's a disciplined approach. It is one of very, very high margin and we are committed to that. However, we also said as we navigate the business forward, although we're going to operate the core at those very high margins that we've been increasing to, we also reserve the right to invest in areas of growth that we believe are healthy and that will lead us to supporting the five to five growth strategy because everyone wants to see an accelerating rate of growth on the top line. And so although you see 86.3% gross margin this quarter, that's flat quarter over quarter. Down year over year, yes, but I would ask that you just zoom out a bit further. Gross margin is relatively stable. affiliated companies. AUGUST 01, 2024 / 9:00PM GMT, Q1 2025 Gen Digital Inc Earnings Call If you look back at '22, you look back at '23, it's incredibly stable. I would say the only part that I would say that we've seen is honestly just P&L geography of our investments. We will continue to put firepower behind profitable, healthy ROI marketing investment to drive the top of the funnel. And that's all you're seeing with the gross margin variability. I would say zoom out, look at the overall 86% to 87% range on gross margin and look to the operating margin health and stability that we've delivered over the last few years."
+    },
+    {
+      "speaker": "Saket Kalia Kalia Barclays Capital",
+      "company": "Inc",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Very clear. Thanks, guys."
+    },
+    {
+      "speaker": "Natalie Derse Gen Digital",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you. Operator Hamza Fodderwala, Morgan Stanley. Unidentified Participant Hey this is John on for Hamza. Hey how are you."
+    },
+    {
+      "speaker": "Vincent Pilette Gen Digital",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Good. Unidentified Participant Thanks for taking my question and great results in very tough environment. Vincent, just for you, can you just talk about how you mentioned GenAI in prepared remarks, but can you just touch a little deeper into kind of what's driving growth there in terms of maybe brand awareness across, different geos? And just what the opportunity overall that looks like?"
+    },
+    {
+      "speaker": "Vincent Pilette Gen Digital",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. Definitely, we've seen -- first of all, on the upstream, we've seen definitely a very strong double-digit growth increase on data breaches and data getting into the hands of the overall hacking community. We've seen a surge of increased scams, text and other things using some of those social engineering techniques to combine data breached with other private information that may sit in the -- on the web and making the scans more and more relatable, personable -- and with that, obviously, increasing the risks for consumers. As you know, we've decided to use AI to combat AI, and we had launched Norton Genie to detect those scams more and more. We have now well over 1 million users or download of that Norton Genie app and emerging for the second half, we're migrating that to integrate a basic anti-scam AI-supported features into multiple product sets. So you'll see more and more shift towards using AI to detect AI-generated scam today. Unidentified Participant Got it. That's very helpful. And just my follow-up for Natalie. So net adds were obviously very strong again this quarter. Can you just talk a little bit about the contribution across different geographies and maybe any color on how you're thinking about net adds tracking throughout the year if you have any visibility? Thank you."
+    },
+    {
+      "speaker": "Natalie Derse Gen Digital",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure. I would say it's pretty broad-based will look at it a lot of both online as well as mobile we look at it by geography. We look at that by a -- we look at it across brands. And I would say when we look at the multiyear trending, we are headed in the right direction. And so I would say it's broad-based. We have called out the -- as we expand in the global expansion portion of our five for five and focus on acquisition, not only direct into -- I would say low penetration markets or underdeveloped markets as well as through our partner channels. affiliated companies. AUGUST 01, 2024 / 9:00PM GMT, Q1 2025 Gen Digital Inc Earnings Call We know that the customers that we are able to acquire come in all shapes and sizes, so to speak. And so we've got to figure out a way to balance those through our model. But what we really focus on are is the acquisition coming through with economics that we like in that point to health and sustainability and the answer, yes, no matter which pivots that you look at, whether it's geography, whether it's brand or whether it's the way that consumers engage with us. And so that's great. And then in terms of where we're going, I don't guide customer count quarter in, quarter out. But what I would really pointing to is our commitment to continue to create the capacity to invest for growth. We are here to accelerate the rate of growth this business, and there's no way we can do that if we don't really focus their fair share at the top of funnel with net new acquisition. Gross adds, yes, but also net customer adds as we continue to focus on delighting our customers and therefore increasing the retention rate of our existing customers. Both are so, so critically important for our business model, and we will continue to invest in growing the top of the funnel and then servicing our customers all the way through their journey to make sure that they retain at the highest rate possible. Unidentified Participant Got it. That's very helpful. Thank you very much."
+    },
+    {
+      "speaker": "Natalie Derse Gen Digital",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you. Operator Thank you. There are no further questions at this time. I would now like to turn the call back to Vincent Pilette for closing remarks."
+    },
+    {
+      "speaker": "Vincent Pilette Gen Digital",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you, operator. As the leading company in consumer cyber safety, we have a bold vision to provide digital freedom for everyone. The threat landscape is more dynamic than ever, and our investments in technology, AI and product innovation are key to our success and future opportunities. We have a compelling AI enabled product roadmap, focus on security, financial safety, personal data control and verification. Our go-to-market strategies effective, and we have a long track record of serving our customers. We are well positioned to expand the adoption of cyber safety globally with our trusted brands and omnichannel expertise. Thank you for your interest and your support. Operator This concludes the conference call. For your participation, you may now disconnect your line. In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. affiliated companies."
+    }
+  ]
 }

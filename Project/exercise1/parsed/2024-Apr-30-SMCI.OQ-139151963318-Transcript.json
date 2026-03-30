@@ -4,5 +4,278 @@
   "quarter": "2024Q1",
   "sector": "IT",
   "filename": "2024-Apr-30-SMCI.OQ-139151963318-Transcript.pdf",
-  "segments": []
+  "segments": [
+    {
+      "speaker": "Michael Thomas Staiger Super Micro",
+      "company": "Computer, Inc.",
+      "role": "VP of Corporate Development",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Aaron Christopher Rakers Wells Fargo Securities, LLC, Research Division - MD of IT Hardware & Networking Equipment and Senior Equity Analyst Ananda Prosad Baruah Loop Capital Markets LLC, Research Division - MD"
+    },
+    {
+      "speaker": "Dong Wang Barclays Bank",
+      "company": "PLC, Research Division",
+      "role": "Research Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Jonathan E. Tanwanteng CJS Securities, Inc. - MD of Research"
+    },
+    {
+      "speaker": "Samik Chatterjee JPMorgan Chase",
+      "company": "& Co, Research Division",
+      "role": "Head of IT Hardware and Networking Equipment",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Operator Thank you for standing by. My name is Joel, and I will be your conference operator today. At this time, I would like to welcome everyone to the Super Micro Computer Fiscal Q3 2024 Results on April 30, 2024. With us today, Charles Liang, Founder, President and Chief Executive Officer; David Weigand, CFO; and Michael Staiger, Vice President of Corporate Development. (Operator Instructions) Thank you."
+    },
+    {
+      "speaker": "Michael Thomas Staiger Super Micro",
+      "company": "Computer, Inc.",
+      "role": "VP of Corporate Development",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Good afternoon, and thank you for attending Supermicro's call to discuss financial results for the third quarter, which ended March 31, 2024. With me today are Charles Liang, Founder and Chairman and Chief Executive Officer; and David Weigand, Chief Financial Officer. By now, you should have received a copy of the news release from the company that was distributed at the close of regular trading and is available on the company's website. As a reminder, during today's call, the company will refer to a presentation that is available to participants in the Investor Relations section of the company's website under the investor -- excuse me, under the Events and Presentations tab. We have published management's scripted commentary on our website. Please note that some of the information you'll hear during our discussion today will consist of forward-looking statements, including, without limitation, those regarding revenue, gross margin, operating expenses and other income and expenses, taxes, capital allocation and future business outlook, including guidance for the fourth quarter of fiscal year 2024 and the full fiscal year 2024. There are a number of risk factors that could cause Super Micro's future results to differ materially from our expectations. You can learn more about these risks in the press release we issued earlier this afternoon, our most recent 10-K filing for fiscal '23 and our other SEC filings. All these documents are available on the Investor Relations page of Super Micro's website. We assume no obligation to update any forward-looking statements. Most of today's presentation will refer to non-GAAP financial results and business outlook. For an explanation of our non-GAAP financial measures, please refer to the accompanying presentation or to our press release published earlier today. In addition, a reconciliation of GAAP to non-GAAP results is contained in today's press release and in the supplemental information attached to today's presentation. At the end of today's prepared remarks, we will have a Q&A session for sell-side analysts to ask questions. I'll now turn the call over to Charles. affiliated companies. APRIL 30, 2024 / 9:00PM GMT, Q3 2024 Super Micro Computer Inc Earnings Call"
+    },
+    {
+      "speaker": "Charles Liang Super Micro",
+      "company": "Computer, Inc.",
+      "role": "Founder, Chairman of the Board, President & CEO",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thank you, Michael, and good afternoon, everyone. We achieved another record-breaking quarter with revenues of $3.85 billion, a 200% increase from same time last year, and non-GAAP earnings per share of $6.65, up 308% year-on-year. Supermicro is at the forefront of the current AI revolution. These strong results reflect the continued demand for our rack-scale plug and play total ai solutions. We continue to face some supply chain challenges due to newer products that require new key components, especially, specifically, DLC related components, and believe this situation will gradually improve in the coming quarters. To sustain this rapid growth, we are making significant investments in production, operations, management software, cloud features and customer service to further increase our customer base and bring more value to them. To support this scale-up, we'd raised an additional $3.28 billion through a convertible note and secondary equity offering in the quarter. We like to support strong short and long-term growth with minimal equity dilution. Overall, I remain optimistic that AI growth will continue for many quarters, if not many years to come. We have long recognized that AI is accelerating the need for liquid cooling, and we have invested heavily into high quality, optimized direct liquid cooling, DLC solutions for high-end CSPs and NCPs. With GPUs reaching 700 watts and soon more than 1000 watts, efficiently managing the heat from these AI systems has become critical for many customers, especially at the new datacenters. I am pleased to announce that our new DLC, direct liquid cooling building blocks and rack scale total solution technology are finally floor-ready grade for high volume production. With our DLC, liquid cooling technology, customers can reduce their expense on cooling expense, saving data center space, and allocate a greater portion of their finite power resources to computing instead of cooling, which aligns with our green computing DNA-ware. Now let's go over some key financial highlights. Supermicro is pleased to be included in the prestigious S&P 500 Index last quarter. Fiscal Q3 net revenue totaled $3.85 billion, up 200% year-on-year, within our aggressive original guidance of March quarter. If not limited by some key component shortages, we could have delivered more. Fiscal Q3 non-GAAP earnings of $6.65 per share were well above $1.63 last year, which was about 308% year-on-year growth. Our increasing economies of scale contributed to better net profit. Our year-over-year operating margin and net income both continue to improve, and we continue to expect further benefits as we bring our Malaysia facility online later this calendar year. This fast-growing quarter was driven by end users wanting to accelerate their deployment of the latest generation AI platforms. Through our Building Block Solutions, we provide optimized AI solutions at scale, offering a time-to-market advantage and shorter lead time over our competition. Additionally, our rack-scale plug and play total solutions, especially with liquid cooling DLC, ensure optimal system performance while saving energy cost up to 40% at a data center scale, delivering much more value to customers. We are leading the AI revolution by deploying NVIDIA HGX H100 SuperCluster solutions to our customers, housed in our new 100K watt racks, with 2 to 3x higher power density than traditional racks from others. At NVIDIA GTC last month, we unveiled our next-gen Blackwell products, including the GB200 NVL72 solution. To further grow our AI portfolio, we are now strongly focused on delivering new generative AI and inferencing optimized systems based on the upcoming next generation NVIDIA H200, B100, B200, GH200 and GB200 GPUs as well as Intel Gaudi2, Gaudi3 and AMD MI300X and MI300A GPUs. Most of them support both air cooling and DLC cooling. As Supermicro is transitioning to our next generation of X14/H14 product lines featuring the industry's broadest SKUs of Intel Xeon 6 processor-based and AMD Turin-based platforms, we are fully ready for high volume production and offer early online access for testing and validation through our JumpStart cloud service. Meanwhile, our X14 and H14 storage solutions are addressing the specific requirements of accelerated AI data pipelines with partners like Weka and VAST Data and many others. The rapid growth of our business is raising the complexity to scale our capacity. Our production teams are making aggressive progress on retrofitting the new Silicon Valley facilities and scaling up our Taiwan and Malaysia affiliated companies. APRIL 30, 2024 / 9:00PM GMT, Q3 2024 Super Micro Computer Inc Earnings Call factories. We have secured the parts and acquired additional warehouses for our next phase of enterprise and data center businesses. We are currently on track to produce over 2,000 liquid cooling DLC racks per month of AI servers with volumes steadily increasing. Each DLC rack supports up to 100k watt or even 120k watt. At this moment, we are focusing on delivering more than 1,000 racks of NVIDIA HGX AI supercomputers. Each rack supports 64 pieces H100, H200 or B200 GPUs with the latest DLC, liquid cooling technology to 3 industry-leading customers, from April to June of this quarter. These 3 deployments will be among the world's largest DLC liquid-cooled AI clouds, potentially saving our customers up to 40% of energy costs compared to standard air-cooled deployments by our competition. Special thank you to NVIDIA and our close technology partners for this fantastic collaboration. I believe this is just the beginning of our long-term high-volume DLC liquid cooling mission. Green Computing can be free with a big bonus. Let's go for green. In summary, we had a strong quarter with more to come. Supermicro is uniquely capable of delivering new technologies to market faster with our integrated rack-scale plug and play solutions, in-house engineering, building block architecture, and green computing DNA. With a robust pipeline of new products in calendar year 2024, we're confident fiscal Q4 revenue will be in the range of $5.1 billion to $5.5 billion. This will raise our fiscal revenue guidance to $14.7 billion to $15.1 billion, an increase to our recent fiscal 2024 guide. We continue to win market share and remain committed to executing our growth plans across all verticals. This remains truly the most exciting time yet for Supermicro, and I believe this strong year-over-year growth will continue in our fiscal 2025, especially with our new, leading and ready-to-ship DLC liquid cooling rack scale plug and play solutions and technologies. Before passing the call to David Weigand, our Chief Financial Officer, I want to thank you again, to our partners, our customers, our employees, and our shareholders for their strong support. David."
+    },
+    {
+      "speaker": "David E. Weigand Super Micro",
+      "company": "Computer, Inc.",
+      "role": "Senior VP, CFO, Company Secretary & Chief Compliance Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you, Charles. Fiscal Q3 2024 revenues were $3.85 billion, up 200% year-over-year and 5% quarter-over-quarter. Q3 growth was again led by AI GPU platforms, which represented more than 50% of revenues with AI GPU customers in both the enterprise and cloud service provider markets. We expect strong growth in Q4 as the supply chain continues to improve with new air-cooled and liquid-cooled customer design wins. During Q3, we recorded $1.88 billion in the enterprise channel vertical, representing 49% of revenues versus 40% last quarter, up 190% year-over-year and 26% quarter-over-quarter, driven by industry recognition of our solution price performance metrics and reliability. The OEM appliance and large data center vertical revenues were $1.94 billion, representing 50% of Q3 revenues versus 59% in the last quarter, up 222% year-over-year and down 10% quarter-over-quarter. One existing CSP large data center customer represented 21% of Q3 revenues and one existing enterprise channel customer represented 17% of revenues. Emerging 5G telco/Edge/IoT revenues were $37 million or 1% of Q3 revenues. Server and storage systems comprised 96% of Q3 revenue and subsystems and accessories represented 4%. ASPs increased on a year-over-year and quarter-over-quarter basis. By geography, U.S. represented 70% of Q3 revenues; Asia, 20%; Europe, 7%; and Rest of World, 3%. On a year-over-year basis, U.S. revenues increased 242%; Asia increased 257%; Europe increased 30%; and the Rest of the World increased 87%. On a quarter-over-quarter basis, U.S. revenues increased 3%; Asia increased 17%; Europe increased 3%; and the Rest of the World decreased 11%. The Q3 non-GAAP gross margin was 15.6%, up slightly quarter-over-quarter from 15.5%, as we continue to focus on winning strategic new designs, gaining market share and improving manufacturing efficiencies. Q3 operating expenses on a GAAP basis increased by 14% quarter-over-quarter and 72% year-over-year to $219 million, driven by higher compensation expenses and head count. On a non-GAAP basis, operating expenses increased 8% quarter-over-quarter and 43% year-over-year to $166 million. affiliated companies. APRIL 30, 2024 / 9:00PM GMT, Q3 2024 Super Micro Computer Inc Earnings Call Q3 non-GAAP operating margin was 11.3%, which was in line with Q2 levels. Other income and expense for Q3 was $3.8 million, consisting of $6 million in interest expense and a gain of $10 million, principally from foreign exchange. Interest expenses decreased sequentially as we paid down short-term bank credit facilities. The GAAP tax rate was negative 5.2%, resulting in a tax benefit of $20 million for Q3. The non-GAAP tax rate for Q3 was 6%, resulting in Q3 tax expense of $27 million. GAAP and non-GAAP tax rates were lower due to the impact of higher R&D tax credits and tax benefits from employee stock grants exercised. Q3 GAAP EPS -- diluted EPS of $6.56 and Q3 non-GAAP diluted EPS of $6.65 exceeded the high end of guidance through record revenues, stable gross margins and operating margins and lower tax rates. The GAAP share count increased from 58.1 million to 61.4 million and the non-GAAP share count increased sequentially from 59 million to 62 million shares as a result of the 2 stock offerings and, to a lesser extent, the convertible bond offering. Cash flow used in operations for Q3 was $1.5 billion compared to cash flow usage of $595 million during the previous quarter, as we grew inventory and accounts receivable for higher levels of business. Cash flows from strong profitability was offset by higher inventory, a large portion of which was received late in Q3 and higher accounts receivable from increasing revenues. Our Q3 closing inventory was $4.1 billion, which increased by 67% quarter-over-quarter from $2.5 billion in Q2 due to the purchase of key components. CapEx was $93 million for Q3, resulting in negative free cash flow of $1.6 billion for the quarter. During the quarter, we raised $1.55 billion from a 0 coupon 5-year convertible bond offering due in 2029, net of underwriting discounts and offering expenses. We also raised approximately $1.73 billion in net proceeds from the sale of 2 million shares at a price of $875 per share. The proceeds from these transactions will be used to strengthen our working capital, enable continued investments in R&D and expand global capacity to fulfill strong demand for our leading platforms. The closing balance sheet position was $2.1 billion, while bank and convertible note debt was $1.9 billion, resulting in a net cash position of $252 million versus a net cash position of $350 million last quarter. Turning to the balance sheet and working capital metrics compared to last quarter. The Q3 conversion cycle was 96 days versus 61 days in Q2. Days of inventory increased by 25 days to 92 days compared to the prior quarter of 67 days due to key component purchases for higher expected Q4 revenues. Days sales outstanding increased by 8 days quarter-over-quarter to 37 days, while days payables outstanding decreased by 2 days to 33 days. Now turning to the outlook for Q4. We expect strong growth as the supply chain continues to improve with new air-cooled and liquid-cooled customer design wins. For the fourth quarter of fiscal 2024 ending June 30, 2024, we expect net sales in the range of $5.1 billion to $5.5 billion, GAAP diluted net income per share of $7.20 to $8.05 and non-GAAP diluted net income per share of $7.62 to $8.42. We expect gross margins to be down sequentially as we focus on driving strategic market share gains. GAAP operating expenses are expected to be approximately $226 million and include $55 million in stock-based compensation expenses that are not included in non-GAAP operating expenses. The outlook for Q4 of fiscal year 2024 fully diluted GAAP EPS includes approximately $30 million in expected stock-based compensation expenses, net of tax effects of $28 million, which are excluded from non-GAAP diluted net income per common share. We expect other income and expenses, including interest expense to be a net expense of approximately $8 million. The company's projections for Q4 GAAP and non-GAAP diluted net income per common share assume a GAAP tax rate of minus 2.9%, a non-GAAP tax rate of 2.6% and a fully diluted share count of 64.8 million for GAAP and 65.3 million shares for non-GAAP. We expect CapEx for Q4 to be in the range of $55 million to $65 million. For fiscal year 2024 ending June 30, 2024, we are raising our guidance for revenues from a range of $14.3 billion to $14.7 billion to a range of $14.7 billion to $15.1 billion and establishing guidance for GAAP net income per diluted share of $21.61 to $22.46 and non-GAAP net income per diluted share of $23.29 to $24.09. Our projections for GAAP and non-GAAP net income per diluted share assume a tax rate of approximately 3.6% and 9.2%, respectively, and a fully diluted share count of 61.2 million shares for GAAP and fully diluted share count of 61.8 million shares for non-GAAP. The outlook for fiscal year 2024 GAAP net income per diluted share includes approximately $116 million in expected stock-based affiliated companies. APRIL 30, 2024 / 9:00PM GMT, Q3 2024 Super Micro Computer Inc Earnings Call compensation net of related tax effects of $98 million that are excluded from non-GAAP net income per diluted share. We're now ready for questions. Operator (Operator Instructions) Our first question is from the line of Ruplu Bhattacharya with Bank of America."
+    },
+    {
+      "speaker": "Ruplu Bhattacharya BofA",
+      "company": "Securities, Research Division",
+      "role": "Director & Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Congrats on the strong guidance. I have 2 questions. First, I wanted to ask a question on liquid cooling. Do you design most of the components for liquid cooling racks in-house? And as such, do you think you would be able to charge more for liquid-cooled racks? And can this be accretive to gross margins?"
+    },
+    {
+      "speaker": "Charles Liang Super Micro",
+      "company": "Computer, Inc.",
+      "role": "Founder, Chairman of the Board, President & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, a very good question. Yes, we design lots of key components for DLC liquid cooling system because we care quality, maintenance and also time to market. So we design a lot of key components where we leverage third-party components as well, so it's a combination. And yes, I mean, liquid cooling, we try to charge the customer with minimal premium and customers can save kind of air condition, equipment cost because cooled down by liquid, right? So at the same time, customer will save lots of TCO, up to 40% of energy costs. That's why we try to promote a slogan, green computing can be free. We speak bonus. Customers pay a very minimal premium, but they save up to 40% of energy costs. So I believe a lot of customers will go for that direction. And indeed, we already have a handful of customers have a big order, and that's why this quarter alone -- I mean June quarter, we are preparing more than 1,000 liquid cooling racks for those early birds. And I believe that demand will continue growing very strong. Operator (Operator Instructions) The next question is from the line of Samik Chatterjee with JPMorgan."
+    },
+    {
+      "speaker": "Samik Chatterjee JPMorgan Chase",
+      "company": "& Co, Research Division",
+      "role": "Head of IT Hardware and Networking Equipment",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I guess in the press release, Charles, you mentioned the visibility into share gains as the new solutions ramp. And I was curious if you can sort of give us a bit more color there in terms of when you're thinking about share gains, are these related to next-generation GB200 product with NVIDIA? And is this more in relation to sort of hyperscalers? Are you expanding the number of hyperscalers that you're engaged with as you move to these new solutions? Just any more color in terms of the visibility around the share gains. Where is that coming from? And is that more in relation to the next product generation from NVIDIA?"
+    },
+    {
+      "speaker": "Charles Liang Super Micro",
+      "company": "Computer, Inc.",
+      "role": "Founder, Chairman of the Board, President & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Okay. Thank you. I mean, yes, we continue to gain market share, especially our rack-scale plug and play solution that reduce customers' lead time and also reduce customers' time-to-online. With our rack-scale plug and program play, a customer, able to put the system, deploy the system online in the next day or next few days instead of the next few weeks. So time-to-online savings is a big advantage to customers. At the same time, the deep cooling, they help customer save energy power. So customer can allocate, relocate the energy power to power more computing equipment instead of waste of power for air cool. So saving money, that benefits a lot of leading customers and also rack-scale plug and play that make customer time-to-online. So we continue to gain more new customers while our old customers continue to grow, start to grow faster with our beta offering. So GP200, same thing, right? GP200, each rack will be around be 100k watt. So a lot of customers like that, and we help them build their liquid cooling system and optimize their data center for liquid cooling. So we are growing customer base strongly now. affiliated companies. APRIL 30, 2024 / 9:00PM GMT, Q3 2024 Super Micro Computer Inc Earnings Call Operator The next question is from the line of Michael Ng with Goldman Sachs."
+    },
+    {
+      "speaker": "Michael Ng Goldman Sachs",
+      "company": "Group, Inc., Research Division",
+      "role": "Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I wanted to ask about gross margins. Strong gross margins for the quarter. I know you're guiding to a sequential decline in gross margins. If our math is right, I think that implies 13.5% to 14% gross margins for the June quarter -- sorry, for the June quarter. Is that the right way to think about gross margins on a go-forward basis? Do you still feel comfortable with the prior 14% to 17% long-term gross margins? And any comments just around AI server gross margins in general? And if there are any ancillary services and support that can help improve the margin on just the product sales?"
+    },
+    {
+      "speaker": "David E. Weigand Super Micro",
+      "company": "Computer, Inc.",
+      "role": "Senior VP, CFO, Company Secretary & Chief Compliance Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. So our target is still 14% to 17%. If you look at our guide for Q2 -- I'm sorry, for Q3, we actually guided slightly down and we ended up slightly up. And so it's very hard to guide exactly on the margins. There is a range. And in fact, I think the guide inside of the -- inside the models, last time, was even more conservative. So I would say we build conservatively and then seek to overachieve. So I think if you look at our guide for revenue and for OpEx, you'll be able to determine our guide there. But our target is definitely to stay in the 14% to 17% range. Operator The next question is from the line of Aaron Rakers with Wells Fargo. Aaron Christopher Rakers Wells Fargo Securities, LLC, Research Division - MD of IT Hardware & Networking Equipment and Senior Equity Analyst Yes. I'll try and slip in 2 here, if I can. So I guess one of the just kind of housekeeping questions is a very significant increase in inventory this quarter. I know you said that it came in towards the end of the quarter. How do we think about the trajectory of inventory as the supply comes on? Do you expect inventory to stay at this level? Do you expect it to start to come down? I'm just kind of curious how we think that flow through kind of looks as you take on more supply. And then just a quick housekeeping thing, too, is that the 21% customer you referenced in the prepared remarks, is that the same customer, large customer you had last quarter? Or how has that evolved?"
+    },
+    {
+      "speaker": "Charles Liang Super Micro",
+      "company": "Computer, Inc.",
+      "role": "Founder, Chairman of the Board, President & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Two reasons we had to increase inventory: One is because Q4, I mean, June quarter, we will have a strong revenue growth; a second reason because we're preparing for high-volume liquid cooling. Again, we have more than 1,000 of 100k watt, I mean, liquid cooling rack we have to ship to customers in Q4. And liquid cooling as you know, is pretty new. So we had to prepare enough inventory so that we can deliver liquid cooling rack scale product to customer on time or with minimal lead time. So both factor, indeed, is a positive factor. And with our economic scale continuing to grow, indeed, our inventory average [daily], indeed, will slightly improve."
+    },
+    {
+      "speaker": "David E. Weigand Super Micro",
+      "company": "Computer, Inc.",
+      "role": "Senior VP, CFO, Company Secretary & Chief Compliance Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. So Aaron, my take on that is I hope that our inventory continues to grow because that means there's a reason behind it, so -- and it's tied to sales. So to your second question, the 21% customer was the same as last quarter. And I wanted to let you know that in the Q, we're going to be moving to a customer A, customer B, customer C because as we add more customers, we'll try to make it easier to make those distinguishments. Operator The next question is from the line of George Wang with Barclays."
+    },
+    {
+      "speaker": "Dong Wang Barclays Bank",
+      "company": "PLC, Research Division",
+      "role": "Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Congrats on the strong June guide. I'd like to put it in 2 parts quickly, just -- not asking for a specific guidance for FY '25 or the September, December quarter. But any sort of high-level kind of color you can provide just to think about how to model the September, December and also the FY '25. And also kind of related, kind of, can you pass out kind of utilization in the March quarter? And also kind of what's the expected utilization kind of cadence for the next few quarters? affiliated companies. APRIL 30, 2024 / 9:00PM GMT, Q3 2024 Super Micro Computer Inc Earnings Call"
+    },
+    {
+      "speaker": "Charles Liang Super Micro",
+      "company": "Computer, Inc.",
+      "role": "Founder, Chairman of the Board, President & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. As you know, we have a lot of new product coming soon, right, to support the NVIDIA H200, B100, B200, GP200 and AMD MI300 and Intel Gaudi2, Gaudi3. So we have a lot of new product already and plus liquid cooling DLC, we are ready to ship high-volume product. So for sure, I mean, candidate -- I mean fiscal year '25, I mean, for September, December quarter, we will have strong growth. And I believe this strong growth will continue for many quarters to come, if not many years. I believe it will be many years. Operator The next question is from the line of Ananda Baruah with Loop Capital. Ananda Prosad Baruah Loop Capital Markets LLC, Research Division - MD Yes. Really, really appreciate it. And Charles, let me -- maybe to the remarks you made a moment ago about the strong ongoing growth, does that -- could that mean that you could also grow sequentially from this point forward for a little bit, just given the market share gain opportunities, the components coming online that you talked about in the new products? Any context on way to think about sequential growth sort of in the coming quarters would be helpful as well."
+    },
+    {
+      "speaker": "Charles Liang Super Micro",
+      "company": "Computer, Inc.",
+      "role": "Founder, Chairman of the Board, President & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. As you know, traditionally, in the last 10 years, right, I mean, the September quarter and March quarter, always our soft quarter. But now with AI, we've been growing so strong. So we basically are able to grow sequentially. So although March and September be a little weak, but basically, because of strong AI growth and our market share growing, so the sequential growth will become the normal. And basically, I mean, we have even better technologies than before ever, and now economic scale become much bigger. Malaysia campus production will be ready by end of this calendar year, so we see a lot of positive factors to grow our business. Operator The next question is from the line of Jon Tanwanteng with CJS Securities. Jonathan E. Tanwanteng CJS Securities, Inc. - MD of Research I was wondering if you could talk a little bit more to the gross margins. And if you expect them to go structurally higher at some point in the near future, in the coming quarters, especially if Malaysia ramps, you get economies of scale there as you transition to do products and you add more liquid cooling. Is there a point where that starts to revert higher? Or do you expect it to remain at a relatively constant level for the foreseeable future?"
+    },
+    {
+      "speaker": "Charles Liang Super Micro",
+      "company": "Computer, Inc.",
+      "role": "Founder, Chairman of the Board, President & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Again, the AI reform is getting popular, right? So they are more and more competitive as well. So we will try to keep a balance. To grow market, we may -- sometimes, some deal, we may have to be a little bit more aggressive in pricing. But overall, we try to keep a balance. David, you may add some here."
+    },
+    {
+      "speaker": "David E. Weigand Super Micro",
+      "company": "Computer, Inc.",
+      "role": "Senior VP, CFO, Company Secretary & Chief Compliance Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. And also I agree with your point that Malaysia will also offer some opportunity to us. And we're also at a transition time when there's a lot of new -- we have a lot of new platforms that are coming out and the customers are highly anticipating. And those platforms are built on some emerging technologies that -- from many different areas. And we -- Supermicro's strength, again, is its fast time to market. And we expect with these -- with the emerging technologies and our new platforms and our liquid cooling to be first out there with very compelling solutions. So we think those things are all going to be helping our margins. Operator The next question is from the line of Mehdi Hosseini with SIG."
+    },
+    {
+      "speaker": "Mehdi Hosseini Susquehanna Financial",
+      "company": "Group, LLLP, Research Division",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yes. A couple for me. Regarding the channel customer, the 17% of the customer, have you ever had a channel customer that big? I believe in the past, you've talked about a 21%-, 20%-plus customer, but I think this is new. Can you clarify this? affiliated companies. APRIL 30, 2024 / 9:00PM GMT, Q3 2024 Super Micro Computer Inc Earnings Call"
+    },
+    {
+      "speaker": "David E. Weigand Super Micro",
+      "company": "Computer, Inc.",
+      "role": "Senior VP, CFO, Company Secretary & Chief Compliance Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So this is an existing customer, and we actually had a higher customer back in 2022, Mehdi, but I think they were around 22%. But this is still a really good customer, a really good opportunity."
+    },
+    {
+      "speaker": "Mehdi Hosseini Susquehanna Financial",
+      "company": "Group, LLLP, Research Division",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. Great. And then 1 question for you, David, on the cash flow. Actually, there is -- I believe there are 2 items. There is $110 million of cash burn in operation and then there was also a noncurrent asset. Am I missing something here? These 2 items were big items that had an impact to our overall cash flow, is that correct?"
+    },
+    {
+      "speaker": "David E. Weigand Super Micro",
+      "company": "Computer, Inc.",
+      "role": "Senior VP, CFO, Company Secretary & Chief Compliance Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure. We had a number of things that impacted this. I think in noncurrent assets, we had -- deferred taxes grew by quite a bit this year -- or this quarter, and so that was something unusual. And then -- see, I think those are -- I think that's the only unusual item was the deferred taxes grew a lot, and that's what lowered our tax rate, our quarterly tax rate as well. Operator The next question is from the line of Nehal Chokshi with Northland Capital."
+    },
+    {
+      "speaker": "Nehal Sushil Chokshi Northland Capital",
+      "company": "Markets, Research Division",
+      "role": "MD & Senior Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Congrats on a strong guide here. Talk about the guide here. Inventory increased $1.5 billion Q-over-Q. And Dave, as you mentioned, you'd like to see inventory increase. I do too because it's a strong indicator of things to come. And you guided June quarter to increase by $1.6 billion Q-over-Q. If I do this math, where I'm looking at the inventory at the quarter end and then the [fourth] quarter revenue, typically, it's around 60% to 70% of revenue. But with your March Q ending inventory and your current [June, too,] guidance, that equates to about 85% of projected revenue. So can you just explain what seems to be a little bit more usual inventory buildup given the revenue guidance range?"
+    },
+    {
+      "speaker": "David E. Weigand Super Micro",
+      "company": "Computer, Inc.",
+      "role": "Senior VP, CFO, Company Secretary & Chief Compliance Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure. Absolutely. That's a fair question. So we actually got a substantial amount of inventory in the last week of the quarter, okay, which obviously, we're not going to be able to ship, but we took in $700 million in the last week of the quarter. So that's not something -- that's something that has to do with when inventory arrives. And so we -- it hurts our cash flow, but you know what, it doesn't matter, because we need that inventory for Q4 shipments."
+    },
+    {
+      "speaker": "Charles Liang Super Micro",
+      "company": "Computer, Inc.",
+      "role": "Founder, Chairman of the Board, President & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. Again, 2 reasons, right? Q4, we will have a strong revenue, so we had to prepare for Q4. And also, I mean, liquid cooling, I mean, it's new. So we had to prepare enough safety inventory for liquid cooling demand for June quarter and September quarter as well. So that's another reason why we have a slightly higher inventory now."
+    },
+    {
+      "speaker": "David E. Weigand Super Micro",
+      "company": "Computer, Inc.",
+      "role": "Senior VP, CFO, Company Secretary & Chief Compliance Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. And I want to add, Nehal, that, that's exactly why we did capital raises, too, is to prepare for these Q4 shipments, and -- so that we could make those large purchases, and we hope to continue that. Operator The next question is from the line of Matt Bryson with Wedbush."
+    },
+    {
+      "speaker": "Matthew Stevens Bryson Wedbush Securities",
+      "company": "Inc., Research Division",
+      "role": "SVP of Equity Research",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I would be thinking with liquid cooling ramping in fiscal Q4, not to harp on the gross margin issue, but that you would be seeing a benefit to gross margins? And I guess my question is, is there any chance that other with the liquid cooling solutions or with your other solutions, that you're again seeing some penetration at those larger customers and specifically hyperscalers, and that's why we're seeing gross margins come down? And I guess just 1 clarification for Dave. If you can provide the magnitude that revenues were affected by your inability to procure components in fiscal Q3? affiliated companies. APRIL 30, 2024 / 9:00PM GMT, Q3 2024 Super Micro Computer Inc Earnings Call"
+    },
+    {
+      "speaker": "Charles Liang Super Micro",
+      "company": "Computer, Inc.",
+      "role": "Founder, Chairman of the Board, President & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Let me add a little bit. Because liquid cooling is new to us, so to speed up quick support for some of our very important customer on June quarter, indeed, we had to pay some premium to speed up the supply. So we spend a bunch of effort there. David, you may add?"
+    },
+    {
+      "speaker": "David E. Weigand Super Micro",
+      "company": "Computer, Inc.",
+      "role": "Senior VP, CFO, Company Secretary & Chief Compliance Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. So the 2 questions, Matt, I would say, first of all, to the gross margin question, again, I tried to give a -- my philosophy is give a conservative guide and then work to exceed that and we were able to do that in Q3, and we'll do everything we can do it -- can do to beat it in Q4. But it'll depend also on what we ship. As to the magnitude of revenue, I'll go back to the fact that our backlog is at a record high. And so what that means is that every quarter, we could have shipped more if we had more parts. And so therefore, it's an ongoing problem. And we don't rely on that as an excuse. The fact of the matter is we're glad to be able to produce the products that we're producing for some of the best companies in the world. And so we continue -- we will continue to do that. And we're very upbeat by the fact that the supply chain continues to improve each quarter. Operator The next question is a follow-up from Jon Tanwanteng with CJS Securities. Jonathan E. Tanwanteng CJS Securities, Inc. - MD of Research I was wondering if you could speak to your cash usage expectations over the next quarter or 2. Are the proceeds from your recent capital raise is all spoken for as you look to the growth in the pipeline and the record backlog you spoke to? Or do you think that's more in reserve for growth further down the line?"
+    },
+    {
+      "speaker": "David E. Weigand Super Micro",
+      "company": "Computer, Inc.",
+      "role": "Senior VP, CFO, Company Secretary & Chief Compliance Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. So the way I would answer that is, is that I hope that I have -- I need more capital, Jon, because that means that we're booking -- that we're growing revenues even faster. So we've got capital adequate to get us through the current market, which means today. But in a week, that -- we hope that, that changes, and we hope that we've got orders that require even more capital. So all I can say is I hope that -- I'm hoping for the need for more capital."
+    },
+    {
+      "speaker": "Charles Liang Super Micro",
+      "company": "Computer, Inc.",
+      "role": "Founder, Chairman of the Board, President & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. We believe our revenue will continue to grow strong. And that's why we need more capital to grow faster. If we grow 20%, 30%, we may have enough capital now, but it will grow much faster. Then for sure, we need more capital to grow stronger. Operator Our final question today is a follow-up from the line of Nehal Chokshi with Northland Capital."
+    },
+    {
+      "speaker": "Nehal Sushil Chokshi Northland Capital",
+      "company": "Markets, Research Division",
+      "role": "MD & Senior Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "This is for Charles. Charles, with the capital base that you have now, and I hear you, David, that you hope that you will need more capital. But with the capital base that you have now, technology advantage that you've always had that you've added to, is there anything else that you need in order to become the #1 vendor?"
+    },
+    {
+      "speaker": "Charles Liang Super Micro",
+      "company": "Computer, Inc.",
+      "role": "Founder, Chairman of the Board, President & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. Indeed, our brand is very ambitious. Let me use that word. We have a very ambitious brand. So we try to continue to grow very strong, kind of 3x to 5x faster than the industry's average. So when that case happen, and we believe so, we hope so, then for sure, we need more capital. Thank you. Thank you. See you next quarter. Operator Thank you. That concludes today's conference call. Thank you all for your participation. Have an excellent rest of your day. affiliated companies. APRIL 30, 2024 / 9:00PM GMT, Q3 2024 Super Micro Computer Inc Earnings Call In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. affiliated companies."
+    }
+  ]
 }

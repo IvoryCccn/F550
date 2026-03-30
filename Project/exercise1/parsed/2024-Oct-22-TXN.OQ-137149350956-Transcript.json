@@ -4,5 +4,382 @@
   "quarter": "2024Q3",
   "sector": "IT",
   "filename": "2024-Oct-22-TXN.OQ-137149350956-Transcript.pdf",
-  "segments": []
+  "segments": [
+    {
+      "speaker": "Stacy Aaron Rasgon Sanford C.",
+      "company": "Bernstein & Co., LLC.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Tom O'Malley Barclays - Analyst"
+    },
+    {
+      "speaker": "Dave Pahl Texas Instruments",
+      "company": "Inc",
+      "role": "Vice President, Head of Investor Relations",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Welcome to the Texas Instruments third quarter 2024 earnings conference call. I'm Dave Pahl, head of Investor Relations, and I'm joined by our Chief Executive Officer Haviv Ilan and our Financial Officer Rafael Lizardi. For any of you who missed the release, you can find it on our website at ti.com/ir. This is call being broadcast live over the web and can be accessed through our website. In addition, today's call is being recorded and will be available via replay on our website. This call will include forward-looking statements that involve risks and uncertainties that could cause TI's results to differ materially from management's current expectations. We encourage you to review the notice regarding forward-looking statements contained in the earnings release published today, as well as TI's most recent SEC filings, for more complete description. Today, we'll provide the following updates. First, Haviv will start with a quick overview of the quarter. Next, he'll provide insight into third quarter revenue results with some details of what we're seeing with respect to our end markets. And lastly, Rafael will cover the financial results, give an update on our capital management, as well as share the guidance for the fourth quarter of 2024. With that, let me turn it over to Haviv."
+    },
+    {
+      "speaker": "Haviv Ilan Texas Instruments",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thanks, Dave. Let me start with a quick overview of the third quarter. Revenue in the quarter came in about as expected at $4.2 billion, an increase of 9% sequentially and a decrease of 8% year over year. Analog revenue declined 4% year over year, and Embedded Processing declined 27%. Our “Other” segment declined 5% from the year-ago quarter. Now I'll provide some insight into our third quarter revenue by end market. Our results continue to reflect the asynchronous market behavior that we've seen throughout this cycle. Similar to last quarter, I'll focus on sequential performance, as it is more informative at this time. First, the industrial market was down low-single digits, as customers continued to reduce their inventory levels. The automotive market increased upper single digits, primarily due to strength in China. Personal electronics grew about 30%. Enterprise systems was up about 20%, and communication equipment was up about 25%, as the cyclical recovery continued in these three markets. With that, let me turn it over to Rafael to review profitability, capital management and our outlook. affiliated companies. OCTOBER 22, 2024 / 8:30PM GMT, Q3 2024 Texas Instruments Inc Earnings Call"
+    },
+    {
+      "speaker": "Rafael Lizardi Texas Instruments",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Senior Vice President",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thanks, Haviv, and good afternoon, everyone. As Haviv mentioned, third quarter revenue was $4.2 billion. Gross profit in the quarter was $2.5 billion, or 60% of revenue. Sequentially, gross profit margin increased 180 basis points, primarily due to higher revenue. Operating expenses in the quarter were $920 million, about flat from a year ago and about as expected. On a trailing 12-month basis, operating expenses were $3.7 billion, or 24% of revenue. Operating profit was $1.6 billion in the quarter, or 37% of revenue, and was down 18% from the year-ago quarter. Net income in the quarter was $1.4 billion, or $1.47 per share. Earnings per share included a 3-cent benefit for items that were not in our original guidance. Let me now comment on our capital management results, starting with our cash generation. Cash flow from operations was $1.7 billion in the quarter and $6.2 billion on a trailing 12-month basis. Capital expenditures were $1.3 billion in the quarter and $4.8 billion over the last 12 months. Free cash flow on a trailing 12-month basis was $1.5 billion. As a reminder, free cash flow includes benefits from the CHIPS Act investment tax credit, which was $220 million in third quarter and $532 million on a trailing 12-month basis. In the quarter, we paid $1.2 billion in dividends and repurchased $318 million of our stock. In September, we announced we would increase our dividend by 5%, marking our 21st consecutive year of dividend increases. This reflects our continued commitment to return free cash flow to our owners over time. In total, we returned $5.2 billion to our owners in the past 12 months. Our balance sheet remains strong with $8.8 billion of cash and short-term investments at the end of the third quarter. Total debt outstanding is $14 billion with a weighted average coupon of 3.8%. Inventory at the end of the quarter was $4.3 billion, up $190 million from the prior quarter, and days were 231, up two days sequentially. For the fourth quarter, we expect TI revenue in the range of $3.7 billion to $4 billion and earnings per share to be in the range of a $1.07 to $1.29. We continue to expect our effective tax rate to be about 13% in the fourth quarter. As you're looking at 2025, based on current tax law, we would expect our effective tax rate to remain about the same. In closing, we will stay focused in the areas that add value in the long term. We continue to invest in our competitive advantages, which are manufacturing and technology, a broad product portfolio, reach of our channels, and diverse and long-lived positions. We will continue to strengthen these advantages through disciplined capital allocation and by focusing on the best opportunities, which we believe will enable us to continue to deliver free cash flow per share growth over the long term. With that, let me turn back to Dave."
+    },
+    {
+      "speaker": "Dave Pahl Texas Instruments",
+      "company": "Inc",
+      "role": "Vice President, Head of Investor Relations",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks, Rafael. Operator, you can now open the lines for questions in order to provide as many of you as possible an opportunity to ask your questions, please limit yourself to a single question. After our response, we'll provide you an opportunity for a follow-up. Operator? affiliated companies. OCTOBER 22, 2024 / 8:30PM GMT, Q3 2024 Texas Instruments Inc Earnings Call Operator Thank you again. (Operator Instructions) Timothy Arcuri, UBS."
+    },
+    {
+      "speaker": "Timothy Arcuri",
+      "company": "UBS",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks a lot. I guess the first question is, autos grew. I think that was a little bit of a surprise to a lot of us. Can you talk about what's going on there? You did cite China, but did orders weaken late in the quarter at all? I mean, we saw pretty much every automaker negative preannounce. So can you talk about maybe what you're seeing in autos and maybe if you can provide a little commentary for December, what the outlook is there. Is it sort of anything you'd call out in December in terms of end markets?"
+    },
+    {
+      "speaker": "Haviv Ilan Texas Instruments",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Okay. Tim, let me start with that. This is Haviv. So regarding the automotive market, yes, it did grow. We said high-single digits, around between 7% and 8%, and that was really driven -- most of the growth came from our business in China. I think I've mentioned also in the second quarter, we saw strength in China, and automotive drove that growth as well. It kind of recurred in the third quarter. Just to give you some high-level numbers, it grew 20% in Q2 and then another 20% in Q3. I think it's not a surprise that there is momentum for EVs in China. Our content is growing there, and that's what really drove the growth in the third quarter. I expect that to -- I mean that I think this is not a one quarter thing. I think there is a growing momentum there. Our automotive revenue in China is in a -- in an all new time high. So I don't think that goes down in the near future. Now, the rest of the automotive market is different, okay. We are seeing a continued weakness over there. That revenue peaked in the third quarter of '23, and in general trended down. If I put China aside, I said a quick correction in Q1 -- Q4 and Q1, the rest of the market, I see a continued weakness. I think that's part of our, call it, seasonal forecast for Q4."
+    },
+    {
+      "speaker": "Timothy Arcuri",
+      "company": "UBS",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Rafael, so if I look at the guidance, OpEx is usually I think down low to mid-single digits for December. So if you assume even down mid singles, you get gross margin sort of in the mid-50s. It's down like 200 basis points, stripping out deep depreciation. So that's a pretty big decline. So I guess you're taking down loadings in December. I do see that finished goods was up a lot. So, if you can talk about that. Thanks."
+    },
+    {
+      "speaker": "Rafael Lizardi Texas Instruments",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Senior Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, a couple of things in your question, so let me try to address them. OpEx, nothing unusual, but we do probably expect it to be flat to slightly up, so consider that. As far as the fourth quarter with revenue at the midpoint decreasing, that takes a hit on margins of course. So we would expect gross margins to be down. Also, depreciation will continue to increase. And in fact, in October, we began depreciating the building and the clean room for SM1. So that continues to put -- that's going to put even more upward pressure on depreciation in fourth quarter. Operator Vivek Arya, Bank of America Securities."
+    },
+    {
+      "speaker": "Vivek Arya Bank",
+      "company": "of America",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks for taking my question. Haviv, you -- so first, thanks for providing the end market commentary. I think you mentioned personal electronic demand went up I think 30% sequentially is what I recall; it was up mid-teens in Q2 also. How do we square your strength in personal electronics with the more kind of sluggish demand that we see for PCs and phones? Is it something outside of those areas, or are those areas doing better? Just what do you attribute the strength in personal electronics, or you think the market just kind of bottomed from a cyclical perspective?"
+    },
+    {
+      "speaker": "Haviv Ilan Texas Instruments",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, I think that's a great question. Let me just walk through what we've seen over the last even couple of years. So I mean that revenue in the personal electronics market, it peaked in the third quarter of 2021. By the way, the third quarter is typically our peak quarter every year; there is a seasonality strength every third quarter for PE. And it dropped in the first quarter of '23. And since then, we have seen a affiliated companies. OCTOBER 22, 2024 / 8:30PM GMT, Q3 2024 Texas Instruments Inc Earnings Call continuous improvement, but I will say, Vivek, when I look at our third quarter of '24, it's still running at a lower level than the peak. It's running about 20% lower than the ‘21 peak. So there is still room to grow. And in our case, as I think I've mentioned in some of the calls, when we were short with supply capacity back in '21, '22, we had to take some calls, where it was to bias our supply towards industrial and automotive. The personal electronics has a shorter design cycle. We said we'll go attack that once the capacity and inventory are back in place. That's the case right now. So I think we are coming off of a very low drop, plus again having the right parts to go back and win sockets that we couldn't sell before. So that's what I'm seeing right now. In terms of specifically into the third quarter, I think growth was across all the sectors or most of the sectors. The main ones are phones and notebook PCs. But in general, the third quarter, as I've said, is a typical strong quarter for PE."
+    },
+    {
+      "speaker": "Vivek Arya Bank",
+      "company": "of America",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "So a bigger picture question, Haviv, is on -- in the last few calls, there's been a suggestion that perhaps by calendar '26, TI will conceptually be close, if not more than what you were in calendar '22. And people have kind of rightly then pushed back and said, well, that requires mid-teens sales growth in the next two years, you know, well above the trend line. At what point do you think you will start to see those above seasonal quarters to help us get to that above trend growth for the next two years? So I understand you're not giving guidance, but what are you seeing in the broader end markets? And do you think TI is at a point where those kinds of above seasonal quarters are line of sight, or is it too early to make that judgment? Thank you."
+    },
+    {
+      "speaker": "Haviv Ilan Texas Instruments",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, first, just to recap on your question, Vivek. Thanks that the -- I think you're referring to our capital management call we had in August. So I just would ask people to look at what exactly we presented there. I think you refer to a 2026 scenario, a set of scenarios that we've presented there, from flat to growth versus 2018. And we didn't say we are predicting what revenue would be, but it allows the investors to kind of have a view on free cash flow per share according to the revenue scenario. And I think it allows you guys to modulate up or down revenue and know what free cash flow will do during that year. Now, more specifically to your question, look, we talked about three markets that are already in the midst of a cyclical recovery. I think they are not done yet, but they are pointing in the right direction. That's personal electronics, enterprise systems and communication system, for us, coming from a very low trough but showing momentum, and I think that we are in the process of strengthening. Unfortunately, these markets were about 25% of our revenue in '23, and in our case, we really need the broad industrial market and the automotive market to join. Okay. So if I go to industrial first, revenue peaked in the third quarter of '22. We've seen eight quarters of decline. We are more than 30% down versus the peak. So I don't think we -- I hope -- I can't predict it -- I don't think we have a lot left. Okay. I think that the inventory correction is still ongoing, but I do expect that to start to recover. I cannot predict a quarter, because usually when we see it, we call it. I will just say we haven't seen it yet, and it's been quite persistent. Okay. That's on the industrial side. And I can go even into the sectors. Most of the sectors are showing either still searching for a bottom or hovering at a very low level. Okay. So it's about time, but we haven't seen it yet. On the automotive market, I think it's more complex, because this is where we see a different story between China and the rest of the market. Unfortunately, China is about 20% of our business, so it cannot move the overall automotive number for the company. But I think as I mentioned before, we are right now at the lower-single digit versus the peak, kind of hovering in that minus – sorry, it's not lower-single digit, but I would say upper-single digit, but somewhere between 5% to 10% versus the peak on automotive. In China, we have new records being established, and I think there is momentum over there. But the other markets -- or the other geographies on automotive are still searching for that bottom. I do expect when it all adds up, automotive will establish a lower peak-to-trough cycle, not close to the industrial side, but I can't give you a precise time for that, Vivek. Operator CJ Muse, Cantor. affiliated companies. OCTOBER 22, 2024 / 8:30PM GMT, Q3 2024 Texas Instruments Inc Earnings Call"
+    },
+    {
+      "speaker": "CJ Muse Cantor",
+      "company": "Fitzgerald",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yeah. Good afternoon, thank you for taking the question. I guess, first question, bigger picture, I guess given the cyclical uncertainty, how are you thinking about kind of running utilization rates into Q4, first half of '25? And as part of that, with inventory at $4.3 billion, are you looking to continue to grow that and elevate utilization or keep it where it is until you really see signs of that cyclical recovery? Would love to hear your thoughts there."
+    },
+    {
+      "speaker": "Rafael Lizardi Texas Instruments",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Senior Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, no, happy to do that. So first a bigger picture, and then I'll get into maybe some specifics, but the objective for inventory is to support revenue growth as we prepare for the upturn, as Haviv described in our expectations going forward, particularly in 2025. We do expect to grow inventory in fourth quarter. So we grew a couple of hundred million in third quarter. We expect probably a few hundred million of inventory growth again in fourth quarter. But that is -- we have moderated the factory loadings. So factory loadings, I expect those to go slightly down going into fourth quarter. But despite that, we’ll still grow additional inventory. Just to comment a little more on the inventory, we have detailed plans by device at the finished goods level, at the chips level, and those plans are grounded on purchasing behavior and expected demand. And this inventory is very low risk. It sells to many, many customers, and it has a long-life cycle. So, we feel really good, really good about that."
+    },
+    {
+      "speaker": "CJ Muse Cantor",
+      "company": "Fitzgerald",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I do. I would hope to follow up on auto. You talked about that as a surprise in China. I'm curious if you could speak to Chinese OEMs taking share in Europe. That's something that, that we've kind of picked up and curious perhaps maybe the data points we're picking up in Europe, related a little more to share loss there to some of the Chinese OEMs. Are you seeing that?"
+    },
+    {
+      "speaker": "Haviv Ilan Texas Instruments",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "First, no surprise, I think not a surprise, because we've seen that trend starting in Q2. So, to me, the automotive market in China for TI, it, again, peaked in that end of '23, call it second half of '23. We saw a very sharp correction in Q1. I think it was mainly inventory correction. And then growth in Q2, growth in Q3. It's 20% on top of 20%. So think about it running at 45% of the trough and, again, a new peak. I think that is mainly driven by the China market, right? If you think about -- I'm just there, a couple of months ago. Most of the new car, I think now majority of new cars are EVs, right? Or some sort of hybrid. And these tend to have more, more content. And again, our position there is good. TI is very competitive. So I think that drives growth. Now, our customer base in China is a set of OEMs, but also Tier 1s. And you guys know the OEM share, and you are the experts there. But the Tier 1s are also -- I think are -- they are -- they can build good systems. They are very efficient in cost. Performance is pretty good. So I think they also compete for market share versus the worldwide Tier 1s. And I think that's part of the dynamics we see in the China market. We see momentum on both. Operator Ross Seymore, Deutsche Bank."
+    },
+    {
+      "speaker": "Ross Seymore Deutsche",
+      "company": "Bank",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi guys, thanks for letting me ask a question. Haviv, you talked a couple of times about China going up 20% sequentially two quarters in a row. Is there any reason that the other 80% of the business shouldn't have that sort of a cyclical rebound at some point? Is there something that's unique about China that allows it to be more volatile, or is the expectation that you would have that the other 80% of your business at some point in time should do the same thing?"
+    },
+    {
+      "speaker": "Haviv Ilan Texas Instruments",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "First, I think at some point of time, all the horses will point in the same direction, and we all are waiting for that. It's been a while, but I think that happens. Again, this asynchronous behavior, it’s so clear for us -- to us. And you can see an opposite behavior between geographies, between markets. affiliated companies. OCTOBER 22, 2024 / 8:30PM GMT, Q3 2024 Texas Instruments Inc Earnings Call I will say that, again as we talked about in the previous response, my previous answer, there is a stronger EV momentum in China. On top of it, I think the China, call it, culture, call it, environment is the design cycles are quick, inventory corrections are quick. So there is a little bit of everything is more accelerated, I would say over there. And I think that's why we're seeing shorter cycles in terms of the way up, the way down. That is, would be my guess. But I think we'll all be able -- we'll be smarter only when that thing is done or played out completely. All I can say that I've not seen it played out completely on the automotive market outside of China. But I don't think, again, I don't think the peak-to-trough on the automotive market is going to be as pronounced as industrial, simply because the secular growth over there, I believe, is stronger in the short term."
+    },
+    {
+      "speaker": "Ross Seymore Deutsche",
+      "company": "Bank",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yeah, I do one for Rafael. On the OpEx side of things. Just a conceptual question as we look into 2025, kind of what would be the puts and takes on OpEx? And I guess the punch line is you guys have kept OpEx in certain periods of time barely growing year over year, and other years inflation has been something you guys have had to endure as well. So how do we think about OpEx kind of structurally in 2025?"
+    },
+    {
+      "speaker": "Rafael Lizardi Texas Instruments",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Senior Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, in fact, for 2025 and beyond, the way to think about it is we continue to have a disciplined process, as you alluded to, on our investments and our OpEx. But when it comes to R&D, we'll continue to invest there, so you'll see our investments grow over time and continue to grow. Whereas in SG&A, the focus there is efficiency. So continue to drive efficiency. So there the -- it'll probably grow but at a much lower pace than R&D. And of course, revenue, the goal is for both of those to be under the revenue growth for the foreseeable future. Operator Stacy Rasgon, Bernstein Research."
+    },
+    {
+      "speaker": "Stacy Aaron Rasgon Sanford C.",
+      "company": "Bernstein & Co., LLC.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi guys. Thanks for taking my question. I wanted to drill a little bit more into that China strength. So you're seeing it in auto? Are you seeing any signs of like China strength in analog or anywhere else in any other end market? Is it just completely focused on automotive at this point? And I guess, what I'm getting at is I'm trying to judge the propensity of some of the Chinese guys maybe to be buying more. We've got an election coming up. Nobody exactly knows what's going on with the general geopolitical environment. Just what do you see more broadly in China, both in and outside of auto?"
+    },
+    {
+      "speaker": "Haviv Ilan Texas Instruments",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, Stacy, I can tell you what we see. And again, I -- it's hard to speculate beyond what we see. But in general, just a reminder in, as I said, during the upcycle, we had to buy us our supply into the industrial and automotive market. Okay. So clearly the -- and I think we said the company was at about 75% in industrial and automotive in 2023. China was similar, maybe even higher, because we had to take some calls on the consumer, or PE, side. So just to know where we're starting from. So in automotive, I think is, as I said before, I can't tell you the reason for that. But I think part of it is the -- I think the China customers are fast-moving. I think they are gaining momentum worldwide, not only in China. The second thing is I think it's acceptance of EVs in China, and there may be some other reasons as you have mentioned, but we have not seen a clear evidence for that. Okay. Or for a very large inventory buildup or anything like that. That's on your direct question on automotive. On the industrial side, we have not seen China recovering from the cycle yet. So we, again, we -- it has peaked somewhere in 2022, in China included. And since then, it had a little bit of a sequential growth in Q2, but then it went down again in Q3. So kind of hovering at the bottom. That's the way I would describe it. So we are waiting for that to happen. We have seen a very strong recovery in automotive, actually with a new high, but the industrial numbers are still trending about 40% or so, it may be even higher in China versus the peak. So a lot of work for us to do in China. I don't think -- I think it's just, I think customers, as I said in my prepared remarks, are still working through some inventory over there on the industrial side. affiliated companies. OCTOBER 22, 2024 / 8:30PM GMT, Q3 2024 Texas Instruments Inc Earnings Call"
+    },
+    {
+      "speaker": "Dave Pahl Texas Instruments",
+      "company": "Inc",
+      "role": "Vice President, Head of Investor Relations",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And maybe just to add one thing. When you look at, Stacy, the other three markets that are cyclically recovering, personal electronics, comms and [enterprise] (corrected by company after the call), all of the regions are growing and contributing to that."
+    },
+    {
+      "speaker": "Haviv Ilan Texas Instruments",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, and China included, right. But again, off of a very low number if you will in 2023."
+    },
+    {
+      "speaker": "Stacy Aaron Rasgon Sanford C.",
+      "company": "Bernstein & Co., LLC.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I do. Thank you. I know you guys don't guide two quarters ahead, but just mathematically, we've been sort of looking at performance versus normal seasonality. How would you guys define typical seasonality for Q1? And, maybe like, what is it over the last several years? And how would you define it like, versus like pre-COVID levels?"
+    },
+    {
+      "speaker": "Haviv Ilan Texas Instruments",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So maybe I'll talk about Q4, Stacy, and some people -- it depends how you define seasonality. I like the way you do it. You kind of need to take the outliers away, and I think 2020 and 2021 were the outliers during the upcycle. And typically in the fourth quarter, we see kind of a minus 7% to even sometimes close to minus 10%. Dave, the Q1 ones, can you add the what are…?"
+    },
+    {
+      "speaker": "Dave Pahl Texas Instruments",
+      "company": "Inc",
+      "role": "Vice President, Head of Investor Relations",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, it's more -- it's usually more flat, it's more flattish, maybe down a little bit. But fourth quarter and first quarter definitely are seasonally weaker quarters. The second and third are obviously the stronger quarters. Operator Thomas O'Malley, Barclays. Tom O'Malley Barclays - Analyst Hey, thanks for taking the question. Haviv, I just wanted to clarify some comments you made in the preamble. You kind of talked about the three markets enterprise, PE and comms still correcting but showing momentum. So not finished but showing some progress. Are those still sequentially declining, or are one or two of those actually coming off of the bottom and improving?"
+    },
+    {
+      "speaker": "Haviv Ilan Texas Instruments",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "No, I think all three are sequentially growing in a fast pace. So I think that, just to repeat the numbers, I think PE grew 30% sequentially, and enterprise grew 20% sequentially, and comms grew 25% sequentially. My point is that they are still not at the previous peak. Okay. So to me, when I think about the momentum, I think -- I expect momentum to continue to build. I think we are still running below the previous peak that was somewhere in the year 2022. And I expect that momentum to continue. I think also, as I mentioned before, specifically for TI these are the markets where we were in some cases short in the previous upcycle. And it's our job to go back and address these sockets now, when we have enough supply and inventory. Okay. Tom O'Malley Barclays - Analyst Thank you for clarifying. And then just broadly kind of during the pandemic, you saw a lot of growth, and I think most of your peers and yourself started being more vocal about describing both auto and industrial as double-digit growers. So as this kind of correction continues, you're seeing the strength from China in your auto business, and obviously that's a part of the broader business and contributes to that double-digit growth. But, looking back now, and as you see the recovery, would you think any differently about the growth profiles of those two businesses? You obviously have your competitors coming up in a couple weeks, kind of going to restate their long-term CAGRs as well. Do you still see that double-digit growth profile as the right way to look at those two businesses?"
+    },
+    {
+      "speaker": "Haviv Ilan Texas Instruments",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Ya, and again, the short answer is yes, I see the same. I will say that it's – even the current cycle on the automotive side is proving it. And I think we will all see that in the short term. And I talk about short term as five to 10 years. I think the growth in industrial is multidecades. I think we are on this in some of the, call it, sectors in industrial. We're only in the very beginning or early innings. So I think the industrial -- and I don't know if we say double digits, but I think TI grew 10% in the last decade, 2013 to 2023. I think the market may be a little bit affiliated companies. OCTOBER 22, 2024 / 8:30PM GMT, Q3 2024 Texas Instruments Inc Earnings Call lower than that, I would guess, but call it high-single to maybe 10% would be a good guess. I think the automotive market for TI and also for the market grew faster. But I think it's going to be -- I don't think it's going to run multiple decades. Okay. At a certain point of time there is going to be kind of some sort of saturation in terms of content per vehicle. I don't think we are close to that date now, specifically not in this decade. Hopefully, that helps. Operator Joe Moore, Morgan Stanley."
+    },
+    {
+      "speaker": "Joseph Moore Morgan",
+      "company": "Stanley",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. Thank you. I wonder if you could help characterize industrial, and I know you've talked about the various subsegments underneath of that, but is that -- is there an inventory correction that's uniform? Are there areas of strength and just any sense of inventory versus demand issues that are kind of dragging that business down?"
+    },
+    {
+      "speaker": "Haviv Ilan Texas Instruments",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, Joe. Great question. I mean, I think we have more than 10 sectors, about 12 sectors in industrial, and the overall, they all add up to a continuous decline since the third quarter of 2022. So it's the eighth quarter of decline. We are seeing most of the sectors I would characterize, have found the bottom but are kind of hovering at that bottom. Okay. And, think about areas for us like building automation, the energy infrastructure, medical kind of hovering at that bottom. On factory automation, we are seeing -- and it's a large sector for us. You can think about factory automation and motor drive. It's all this process and factory automation type of plants. We are still seeing a decline. So they have not found a bottom. And then you see a couple of strength areas, appliances. Some people don't have it in the industrial. We do. Appliances declined very early, and we've seen some recovery there. And I would also add, in our case, we have power delivery. Think about it. The main market is server, right. So that sits at the bottom of a rack. So we see growth over there, but these are the only two out of 12. So overall weakness in the industrial market. Hopefully that provides more color."
+    },
+    {
+      "speaker": "Joseph Moore Morgan",
+      "company": "Stanley",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yeah, I do. That's helpful. Thank you. In terms of analog versus embedded, there's a, that's been happening for a while, that Embedded has underperformed and there's a focus on kind of turning that around, around a narrower focus area. I wonder if you could just characterize what's different about the Embedded market on a sequential basis that it's weaker?"
+    },
+    {
+      "speaker": "Haviv Ilan Texas Instruments",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, I'll start strategically, I, we are very pleased with the progress we are seeing in Embedded. Embedded is more, think about its higher AUPs and more visibility, I would say, on design-ins. It's less broad. So when we look at the progress, when we look at momentum with customers, I think it's -- we are excited about the future. And they are going through a cyclical process exactly like the Analog team has done, but they are kind of a year later. So again, Embedded is almost 95% industrial and automotive. They've seen growth in 2023 versus the industrial business -- versus the Analog business that declined double digits. So they started almost a year after Analog, think about kind of middle of 2023. We've seen four quarters. I think they're also looking at a seasonal quarter in Q4. But the momentum there is strong, and I'm excited about the future there. Operator William Stein, True Securities."
+    },
+    {
+      "speaker": "William Stein Turist",
+      "company": "Securities",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. Thanks for taking my question. I think earlier in the call, the question was asked. Haviv, you answered it for one or two end markets, but I'm hoping you can talk about how the pacing of orders progressed in the last couple of months. I wonder if you might have seen things accelerate to then only re-decelerate, if there's been any sort of ups and downs that have surprised you. And then I have a follow up, please. affiliated companies. OCTOBER 22, 2024 / 8:30PM GMT, Q3 2024 Texas Instruments Inc Earnings Call"
+    },
+    {
+      "speaker": "Haviv Ilan Texas Instruments",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, I think we, what I said about the third quarter, I think you -- think about it as not a lot of change that I see right now going into the fourth, but there is -- it's Q4, right? So there is a seasonality effect. In that sense, I don't see any change versus what we've seen in Q3. If we have -- if we would see something, I would call it out, but I cannot call out anything. Dave you want to add anything about the orders or --"
+    },
+    {
+      "speaker": "Dave Pahl Texas Instruments",
+      "company": "Inc",
+      "role": "Vice President, Head of Investor Relations",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, order rates I think were -- behaved normally, that they increased each month in the quarter, which is very typical. So -- and we didn't see any large drop offs or acceleration or deceleration on that front."
+    },
+    {
+      "speaker": "Haviv Ilan Texas Instruments",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And, Will, maybe just to add on that, just a reminder that we have built good service levels of inventories, as Rafael mentioned. Our lead times are very low. So we get a lot of business kind of real-time, as it comes. People call it turn business or so. So we simply don't have a ton of visibility right now, and customers also they take parts only when they need it. I don't think they're building inventory. So that's the reason that we cannot provide more color beyond what they've said."
+    },
+    {
+      "speaker": "William Stein Turist",
+      "company": "Securities",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "If I can follow up. It actually dovetails with the follow on which is when you all have inventory, your customers may not be all charged up about placing tons of backlog, and when they have inventory, even more so. Our checks recently revealed that customers have more inventory than many suppliers thought like what they were. They were not sort of really close to the end of the inventory digestion at end customers. And I wonder if you could either dispel that or provide any insight as TI sees it. Thank you."
+    },
+    {
+      "speaker": "Haviv Ilan Texas Instruments",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, I'll just answer in a high level, and Dave, then maybe you can chime in. But, look, in general, we don't have visibility into our customer inventory levels. I do think, as we all know, I mean, interest rates are high. It’s the end of the year. I don't think there is a lot of desire to build inventory at our customers’ shelves, especially when our inventory position is strong, and that's where we want to be. We want to take that burden away from our customers. To us, that means level of service, and we want to do it through not only the downcycle but also the upcycle. Hence, the preparation of capacity and inventory, as Rafael said. That's the game we want to play in the next upcycle, and that's what drives our capital allocation decisions. Dave, anything specific about customer --."
+    },
+    {
+      "speaker": "Dave Pahl Texas Instruments",
+      "company": "Inc",
+      "role": "Vice President, Head of Investor Relations",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I think the point that you made that we're essentially operating from a very healthy position on inventory, that means that customers don't have to place orders. And that is keeping visibility low, but we want to be able to be ready for the upturn when it comes."
+    },
+    {
+      "speaker": "Haviv Ilan Texas Instruments",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, many of our lead times are well below 10 weeks today. So, I mean, we provide, I call it excellent customer service, and when customers need the part, we have it for them. Operator Tore Svanberg, Stifel."
+    },
+    {
+      "speaker": "Tore Svanberg Stifel Financial",
+      "company": "Corp.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you for squeezing me in. I had a follow-up question on the industrial market. Obviously, lead times are short, and you have inventory. But I'm just wondering from an end market or a sell-through perspective, is it fair to say that market is stabilizing? Is it getting worse? Is it better? I know you called out those two segments that are perhaps starting to stabilize, but any further read on the end consumption there actually getting better or worse?"
+    },
+    {
+      "speaker": "Haviv Ilan Texas Instruments",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. Just what I -- just to repeat, Tore, thanks for the question. And just repeating what I said, I think most of the sectors are hovering, because we've seen like three or four quarters hovering at the same level, more or less. Okay. So I would say -- now you call it, is there an affiliated companies. OCTOBER 22, 2024 / 8:30PM GMT, Q3 2024 Texas Instruments Inc Earnings Call inventory correction there or not? I mean, seasonality would say that industrial would grow, for example, in Q2 or Q3, and it didn't. So, you can argue that there is some inventory correction at customers, and that's the reason for my prepared remarks. But at least, I do believe that they have stabilized from a revenue perspective. I will say that the only -- and these are large sectors for TI. I will say that this is not done on the factory automation and motor drive, which is kind of this automation sector for TI. That was my only other color that I've added, Tore. And I don't know, Dave, anything to add here?"
+    },
+    {
+      "speaker": "Dave Pahl Texas Instruments",
+      "company": "Inc",
+      "role": "Vice President, Head of Investor Relations",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I think, that's good."
+    },
+    {
+      "speaker": "Tore Svanberg Stifel Financial",
+      "company": "Corp.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Just one last question. So going back to the whole topic about visibility orders and sort of, so forth. When you talk to your customers, especially some of your non-Chinese customers, is there a sense that everyone's just waiting for rates to come down, getting through the U.S. election? Because it does feel like there's like some sort of a CapEx cycle coming, but everyone's just waiting on the sidelines. When you talk to some of your biggest industrial customers, do you get a sense that they're waiting for that, or is this is more just about, hey, you know, once spending comes back with better rates and sort of, so forth, we're sort of back to the races."
+    },
+    {
+      "speaker": "Haviv Ilan Texas Instruments",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Short answer is no. We don't -- I don't hear that at least. I don't think if they think that they would tell me anyhow. But what I think is important to remember, and I think they value that, because I hear it from the meetings I have, that when they need it, we have it. Okay. And we are -- most of our portfolio is very diverse, long-lived, and we let the customers know what -- where we have enough inventory to serve them as they need it and when there are more kind of, call it unique and a smaller part of our portfolio but the lead times are a little bit longer and we require more visibility. I think we are differentiated in that sense. Customers appreciate it, and hopefully we can maintain that level of support through the next cycle and work on our market share. And I think that is what customers expect. And I think TI can outperform in that sense. Okay. So let me wrap it up with what we've said previously. At our core, we're engineers, and technology is the foundation of our company, but ultimately, our objective and the best metric to measure progress and generate value for owners is the long-term growth of free cash flow per share. While we strive to achieve our objective, we will continue to pursue our three ambitions: We will act like owners, who will own the company for decades, we will adapt and succeed in a world that's ever changing, and we will be a company that we are personally proud to be part of and would want as our neighbor. When we're successful, our employees, customers, communities and owners all benefit. Thank you and have a good evening. Operator And this concludes today's conference. You may disconnect your line at this time. Thank you for your participation. In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. affiliated companies."
+    }
+  ]
 }

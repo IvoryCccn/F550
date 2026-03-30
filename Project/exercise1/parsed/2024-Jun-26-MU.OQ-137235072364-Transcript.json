@@ -4,5 +4,438 @@
   "quarter": "2024Q1",
   "sector": "IT",
   "filename": "2024-Jun-26-MU.OQ-137235072364-Transcript.pdf",
-  "segments": []
+  "segments": [
+    {
+      "speaker": "Vivek Arya BofA Global",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Operator Thank you for standing by. Welcome to Micron Technology's post-earnings analyst call. (Operator Instructions) As a reminder, today's program is being recorded. And now, I'd like to hand the program over to Satya Kumar, Investor Relations."
+    },
+    {
+      "speaker": "Satya Kumar Micron Technology",
+      "company": "Inc",
+      "role": "Corporate Vice President, Investor Relations and Treasury",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you. And welcome to Micron Technology's fiscal third-quarter 2024 post-earnings analyst call. On the call with me today are Sumit Sadana, Micron's Chief Business Officer; Manish Bhatia, EVP of Global Operations; and Mark Murphy, our CFO. As a reminder, the matters we're discussing today include forward-looking statements regarding market demand and supply, market trends and drivers, our expected results and guidance, and other matters. These forward-looking statements are subject to risks and uncertainties that may cause actual results to differ materially from statements made today. We refer you to documents we filed with the SEC, including our most recent Form 10-Q and upcoming 10-Q for a discussion of risks that may affect our future results. Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels of activity, performance, and achievements. We are under no duty to update any of the forward-looking statements to conform these statements to actual results. We can now open up the call for Q&A. Operator C.J. Muse, Cantor Fitzgerald."
+    },
+    {
+      "speaker": "C. J. Muse Cantor Fitzgerald",
+      "company": "LP",
+      "role": "Senior Managing Director, Semiconductor Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yeah. Good afternoon. Thanks for taking the question. First question, you're ramping CapEx significantly here in fiscal '25, but it certainly sounds like greenfield is only coming fiscal '27 at the earliest. So I guess how do we think about you getting to your DRAM market share for HBM in '25? Is that all just conversions from DDR5? And then, I guess, with DDR5 supply, it would appear that, that will be significantly undersupplied by you guys. Is that's kind of the plan into '25 for you guys?"
+    },
+    {
+      "speaker": "Manish Bhatia Micron Technology",
+      "company": "Inc",
+      "role": "Executive Vice President, Global Operations",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Hi, C.J. It's Manish, I'll take that and then Mark can add some comments. But yes, the new US projects both will provide DRAM bit growth only towards the latter half of the decade. We said Idaho, starting in a meaningful supply and '27 and in New York '28 or later. So our bit affiliated companies. JUNE 26, 2024 / 10:00PM GMT, Q3 2024 Micron Technology Inc Post Earnings Analyst Call growth in the near term in DRAM is going to come from a technology transitions that we have in both Taiwan and Japan. And we're still ramping our 1-beta, which is the industry's best node right now. And we expect to begin production ramp of our 1-gamma and actually implement that both in Taiwan and then eventually in Japan as well. We announced last year that we're going to be enabling EUV EUV in Japan so that we can ramp the 1-gamma node there as well. So our bit growth in the sort of intervening period before we get to the new US manufacturing sites will be driven by technology transitions in our existing footprint. And we have space and everything lined up to be able to do that."
+    },
+    {
+      "speaker": "Mark Murphy Micron Technology",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And C.J., I would only add that, yeah, we did say that, yeah, through '25, and we would expect that to continue that through '26 that we would be at approaching our target levels of inventory by end of '25. We'll be lean on inventories as we see it in '26. We are already prioritizing bits to higher value markets now, which is driving interesting customers for a longer-term agreement discussions or earlier than they typically would and behavior like that."
+    },
+    {
+      "speaker": "Manish Bhatia Micron Technology",
+      "company": "Inc",
+      "role": "Executive Vice President, Global Operations",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And I think it goes without saying, but our goal is to maintain our market share to grow our HBM share. And sometime in calendar year '25, we'll get our HBM share to match our DRAM overall bit share and maintain our market share from there."
+    },
+    {
+      "speaker": "C. J. Muse Cantor Fitzgerald",
+      "company": "LP",
+      "role": "Senior Managing Director, Semiconductor Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Very helpful. Just a quick follow-up on HBM3E, obviously not a mature product from a yield perspective. I guess when you're setting out pricing early in a yield ramp, how does that work? Do you set higher pricing knowing that you're going to have worse yields, and as that improves, you share that benefit with your customers? Or is that something that you hold yourselves? How should we think about that?"
+    },
+    {
+      "speaker": "Sumit Sadana Micron Technology",
+      "company": "Inc",
+      "role": "Executive Vice President, Chief Business Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. So the -- this is Sumit here. We have these pricing agreements done for 2024 as well as most of 2025 pricing is also all done. We are sold out for '25 from a volume perspective, pricing almost done for all of 2025 as well. And the pricing is set at a level where we expect the overall gross margin to be at robust levels, consistent with the value this product provides to our customers and the end customers. And it is obviously the most complex product that the industry has ever done. So the pricing also contemplates that. And of course, the pricing is done in a fairly consistent way across time. And obviously, as the product ramps, the costs come down. The yields improve. Then the gross margin improves over time. That's typically how it works for pretty much all the products. And the early level of gross margin is lower than what the mature yield gross margin ends up being. Despite that and us being very early in the yield ramp of HBM, we have said that our first full quarter of production with over $100 million of revenue already achieved HBM margins that were accretive to the company margins as well as to the company's DRAM margins."
+    },
+    {
+      "speaker": "C. J. Muse Cantor Fitzgerald",
+      "company": "LP",
+      "role": "Senior Managing Director, Semiconductor Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you very much. Operator Aaron Rakers, Wells Fargo."
+    },
+    {
+      "speaker": "Aaron Rakers Wells Fargo Securities",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yeah. Thanks for doing the after call and let me ask a question. So going on the HBM discussion a little bit further. I guess two quarters ago, I think you guys reported some prepayments. Given the agreements that you're establishing on HBM, I'm curious, is there any update to the prepayments? I think it was $600 million previously these last two quarters. affiliated companies. JUNE 26, 2024 / 10:00PM GMT, Q3 2024 Micron Technology Inc Post Earnings Analyst Call And then I guess as part of that, how do I think about the capacity footprint of HBM? How that's evolved over the course of this last quarter? And is there any flexibility to move that higher? Or are you just pretty much completely set for fiscal '25 at this point?"
+    },
+    {
+      "speaker": "Sumit Sadana Micron Technology",
+      "company": "Inc",
+      "role": "Executive Vice President, Chief Business Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, I'll take the prepayment question, and then I'll turn it over to Manish to talk about the HBM manufacturing footprint. In terms of prepayments, we have had, like you said, some level of prepayments. And we continue to have these discussions with customers about their goals and desires to enter into these agreements with us and use prepayments as appropriate as part of the discussion and value from both sides in terms of the puts and takes on the various terms in the agreement. And so we'll continue to evaluate these sort of opportunities. Of course, as you know, in 2023, we have had a tough downturn in the industry. So as we were coming out of it, we were definitely open to some of these discussions. We remain open to some of these discussions. However, as Mark and Sanjay have provided to you in the earlier call and in the prepared remarks, our expectation is that we will fund a lot of the capital investments for next year and the growth in those capital investments for next year through our operating cash flow and still have robust growth in our free cash flow for next year. So we are going to continue to rely on that. But there can be opportunities to enter into certain unique types of arrangements with customers, and we continue to evaluate those on a case-by-case basis. And I'll turn it over to Manish to talk about the footprint."
+    },
+    {
+      "speaker": "Manish Bhatia Micron Technology",
+      "company": "Inc",
+      "role": "Executive Vice President, Global Operations",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure. So -- and you know that we're coming from a very low base of installed capacity for HBM given our decision to skip HBM3E and really focus on our HBM3E where we felt we would have product differentiation capability, which our technology and product team have really delivered and our customers are really appreciating. But -- so our goal and -- so we set the target that -- to intercept our normal DRAM market share with our HBM share to match our overall DRAM market share in calendar year '25, and that's what we're marching towards. And so our investments in the unique HBM equipment, our investments in clean room space are all marching towards that, and we're on that ramp trajectory and confident in achieving that. Just keep in mind a couple of things. The clean room space that we're enabling for this HBM ramp is more complex than standard assembly clean room space. So that's one element of what we're working towards to be able to reach that goal. But the ramp is significant given where we're starting from, but we're confident we're going to be able to achieve that goal and do so with world-class quality, world-class yield, and excellent cost structure."
+    },
+    {
+      "speaker": "Aaron Rakers Wells Fargo Securities",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you. And Mark, just a quick follow-up. How do you think about operating expenses as the fundamentals improve from here? I know you gave this quarter's guidance, but just curious of how you would think about the glide path beyond this quarter?"
+    },
+    {
+      "speaker": "Mark Murphy Micron Technology",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. We did -- we did well in the quarter on OpEx demonstrating control. Again, we're at the lower end of the guide on our OpEx. It's up in fourth quarter, as we said, and that's driven really by primarily R&D program expenses, but we also had in the third quarter, which was built into our guidance, a land sale. That was about one-third of -- would be responsible for about one-third of the increase from third to fourth quarter. affiliated companies. JUNE 26, 2024 / 10:00PM GMT, Q3 2024 Micron Technology Inc Post Earnings Analyst Call In November quarter, we do see OpEx ticking up again -- again, driven principally by R&D program expenses. Great work on the NAND front, also a number of DRAM related activities including HBM development. So we would expect OpEx to be up sort of mid-single digits 4Q to 1Q over $1.1 billion and then some modest increase sequentially through the year in '25."
+    },
+    {
+      "speaker": "Aaron Rakers Wells Fargo Securities",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you, Mark. Operator Srini Pajjuri, Raymond James."
+    },
+    {
+      "speaker": "Srini Pajjuri Raymond",
+      "company": "James",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yeah, thank you, guys. My question is on inventories at your customers, maybe just looking at your PC and smartphone customers. There is some talk that some of the customers prebuilt some inventory ahead of the price increases. If you can talk about what your view based on your visibility as to how much inventory they are holding. And then on the data center, it looks like the inventory correction is mostly done. And I'm just curious, you talked about some optimism about even standard server demand picking up a bit, so I was wondering if you can comment on that as well."
+    },
+    {
+      "speaker": "Sumit Sadana Micron Technology",
+      "company": "Inc",
+      "role": "Executive Vice President, Chief Business Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. I mean I'll comment on the data center first, and then we'll go to PCs and smartphones. On the data center side, we had been saying for some time that we expect the data center demand to start returning in the first half of calendar '24. And that has been pretty much on target. And as the second calendar quarter or third fiscal quarter continued, we saw a strengthening of that demand in the data center. And that strong trend has continued mainly driven by AI. It started with a lot of the demand coming from AI. And then we are starting to see -- and we had mentioned this earlier, we have started to see some early signs of improvement in demand in traditional servers, and that kind of demand improvement is continuing. So that's a positive sign overall in the data center beyond just the AI servers as well. And the inventory is pretty normalized in the data center and a lot of the demand comes with a level of urgency, and we have been trying to chase that supply because the leading-edge nodes are tight. Now we had mentioned in terms of the shape of the recovery of the industry for certain end markets that coming out of the 2023 downturn that PCs and smartphones would pick up in terms of volume before data center. And that has been exactly how it transpired. We started seeing strength in those segments late in calendar '24, and then that strength continued into calendar Q1, et cetera. And so, yes, those customers have purchased and built some inventory because of three important factors. One, relates to obviously the price strength that was being discussed with customers in terms of the trajectory of pricing. We have also articulated that we expect pricing to continue to increase throughout calendar 2024. And so that has been an incentive for some customers to purchase some of the volume ahead. The second factor relates to customers' own expectations of demand growth in their business as they launch AI PCs and AI smartphones. These, obviously, come with higher average capacities. We have spoken about that quite a bit in our prepared remarks. And if you look at the expectations of replacement cycle, driven unit volume increases, we have fairly modest assumptions in terms of unit volume growth this year, only low single-digit percentage in PCs, mid-single-digit percentage in smartphones. affiliated companies. JUNE 26, 2024 / 10:00PM GMT, Q3 2024 Micron Technology Inc Post Earnings Analyst Call And even next year, our expectations are fairly modest, but there could be upside. Some of our customers are expecting higher levels of unit volume growth next year than what we are modeling. And so there could be upside, and that could be driven by a stronger replacement cycle driven by these AI capabilities in smartphones and PCs. So that brings us to the third portion of their drive to build some buffer, which is that some of these customers are getting concerned about their ability to get their hands on supply next year. And this is part of what is driving some of these earlier-than-usual discussions on LTAs, these long-term agreements for 2025 calendar year supply because the growth in the data center continues at a pretty robust pace. The HBM growth, as we have said earlier, with that 3:1 trade ratio displaces a lot of wafers. And between HBM, high-cap DIMMs, et cetera, on the DRAM side, AI server growth, return of traditional server growth and if we get any of this growth in the PC and smartphone space, pretty soon you get to a very -- very quickly a scenario where the supply growth in the industry is unable to keep up with the demand growth. And that is causing customers to pull in some of these discussions about supply, and they're carrying some extra inventory to guard against that. So that's sort of the high-level perspective on that."
+    },
+    {
+      "speaker": "Srini Pajjuri Raymond",
+      "company": "James",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. Sumit, maybe one quick follow-up on that. You mentioned the high-cap DIMMs as one of the strong areas in the quarter. Just curious, I mean, how does high-cap DIMM, I guess, compare versus HBM in terms of the proprietary nature of the product and the complexity? And also given that it's higher margin, seems like, than in DDR, is it as good a margin as HBM? And also, do you think that sustains? And also, if you could put that into some context as to how big the SAM is, what the applications are for this particular product. Thank you."
+    },
+    {
+      "speaker": "Sumit Sadana Micron Technology",
+      "company": "Inc",
+      "role": "Executive Vice President, Chief Business Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. I think, first, I just mentioned that, and this is an important clarification, and we define high-cap DIMMs as anything that is on more than 64 gigabyte of DIMM capacity. So 96 gigabytes, 128 gigabyte and higher, right? So anything there, it is 96 gigabytes or higher, we classify that as high-cap DIMMs. Now when it comes to high-cap DIMMs, we are one of the first ones to introduce 96-gigabyte DIMMs in the industry. And when you look at 128-gigabyte DIMMs, Micron was the first company to introduce monolithic 32-gigabit, die-based 128-gigabyte DIMM. So I know that's a mouthful. But essentially, it's a DIMM head without use of TSV, right? So it is extraordinarily cost efficient product. Are we able to demonstrate that this product actually has lower latency than TSV-based DIMMs and higher performance. And so it's a very, very good world-class product. And Micron is really one of the first ones in the market with this. And we have a very compelling cost structure on this. Now these products go into AI servers. I've mentioned before, the AI's overgrowth has been very robust and the demand has been strong for these high-cap DIMMs. And we have definitely in a very accretive margins on these products compared to the company margins and both HBM and high-cap DIMMs have some of the stronger -- stronger margin profiles in the DRAM portfolio, very accretive to the overall company level. But I'll also mention that, obviously, the rest of the company product pricing is increasing quarter on quarter and that's what the company portfolio pricing keeps on improving the margins of the rest of the company portfolio. So that's a positive, too, but these are products are on a very, very robust margins. affiliated companies. JUNE 26, 2024 / 10:00PM GMT, Q3 2024 Micron Technology Inc Post Earnings Analyst Call"
+    },
+    {
+      "speaker": "Srini Pajjuri Raymond",
+      "company": "James",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you. Operator Brian Chin, Stifel."
+    },
+    {
+      "speaker": "Brian Chin Stifel Nicolaus",
+      "company": "and Co Inc",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yeah, it's Brian Chin here. Thanks for taking a few questions. Maybe just one kind of near term. First, the -- I know you don't give detailed P&L's between DRAM and NAND, but maybe just kind of in terms of a crossover, was your NAND business profitable in fiscal 3Q? Or if not, do you expect it to be in fiscal 4Q? And is that low single-digit bit shipment growth guidance in NAND reflecting more of the pull-forward of smartphone demand? Or is that somewhat reflective of your increasing bit shipment constraint as utilization rates there fully recover?"
+    },
+    {
+      "speaker": "Mark Murphy Micron Technology",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, Brian, we what we disclose you'll see the Q tomorrow, I can say that NAND business overall gross margins improved in the third quarter. And then at the segment level, probably the best proxy for that business is the storage business unit and that business did deliver operating profit in the quarter, which has substantially improved -- substantially improved from the prior quarter."
+    },
+    {
+      "speaker": "Brian Chin Stifel Nicolaus",
+      "company": "and Co Inc",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it. And that part about the floor guidance for bit shipment growth, low single digits in NAND?"
+    },
+    {
+      "speaker": "Sumit Sadana Micron Technology",
+      "company": "Inc",
+      "role": "Executive Vice President, Chief Business Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, I think in terms of the growth and on a quarter-to-quarter basis, look, there are always in all kinds of ebbs and flows on between quarters. And the important thing that we are trying to do is to shift our mix towards the data center and that is obviously a lot of demand that we are chasing at very good prices and margins compared to the rest of the NAND portfolio. So that's what we are doing. And all of the changes that we reported in terms of our revenue, like, for example, our mobile business, you refer to the smartphone volumes, our mobile business was down 1% in Q3. That was all planned changes in volume and mix changes happening in our business. The overall trends for 2024 calendar year for the mobile business have been fairly stable and consistent with what we have been mentioning for several quarters now that our expectation has been in that sell-through of mobile phones to be in that mid-single-digit percentage unit volume growth for calendar '24. If anything, calendar 2024 Q1 numbers that were reported out of the industry in terms of sell through are better than what the overall full-year expectation would suggest. But we are not changing our outlook at this time."
+    },
+    {
+      "speaker": "Brian Chin Stifel Nicolaus",
+      "company": "and Co Inc",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. Great. And maybe just for follow-up, I think other folks have maybe tried to get at this somewhat as well. But at the expected level of CapEx you're currently communicating now for fiscal '25, understanding that more than half of that increases for construction CapEx, is it reasonable to expect Micron will be able to increase bit supply in that mid-teens for DRAM, maybe high teens for NAND next year? Or would more investment be needed to grow in line with the market if bit demand is at that level or even stronger next year?"
+    },
+    {
+      "speaker": "Manish Bhatia Micron Technology",
+      "company": "Inc",
+      "role": "Executive Vice President, Global Operations",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So Brian, I'm just trying to parse your question out. A couple of just clarifications. We said that more than half or more of the increase in CapEx between -- expected increase in CapEx between fiscal '24 and '25 will be for the US construction CapEx, right? And so we do have some other borrowing facilities and work around the rest of our footprint in Asia, as I mentioned on the call earlier, to be able to enable our technology transitions. affiliated companies. JUNE 26, 2024 / 10:00PM GMT, Q3 2024 Micron Technology Inc Post Earnings Analyst Call And that's really the answer is that our technology transitions for DRAM in Japan and Taiwan, again, 1-beta continuing to ramp and then 1-gamma being introduced in calendar year '25. Those are going to be sufficient even with the growing penetration of HBM for us to be able to maintain our market share in that mid-teens range. And we believe we can achieve the long-term category with that as technology transitions become less efficient, as demand continues to grow, HBM penetration grows. We do, as we've said, for many years, expect greenfield wafer capacity growth to be needed, and that's time with these US projects, which will be towards the latter half of the decade."
+    },
+    {
+      "speaker": "Sumit Sadana Micron Technology",
+      "company": "Inc",
+      "role": "Executive Vice President, Chief Business Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And just to just to build on that, the 2025 calendar year and fiscal year for us, we expect to have -- we expect to maintain our bit share across for DRAM and NAND. And part of that -- part of those shipments will come from inventory. So you have heard Mark mention to you that our inventory will normalize by the end of 2025. And part of that inventory is going to be on helping us ensure that we can maintain flat bit share next year."
+    },
+    {
+      "speaker": "Brian Chin Stifel Nicolaus",
+      "company": "and Co Inc",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. Thanks. Very helpful. Operator Harsh Kumar, Piper Sandler."
+    },
+    {
+      "speaker": "Harsh Kumar Piper Sandler",
+      "company": "Companies",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yeah. Hey, guys. And I kind of look at your long-term model and I look back a little bit, I saw that your peak margins are somewhere in the 61.5% range. Now you've got contracted pricing for HBM, sounds like, for '24 and '25, but it's hard for me to think that your pricing would call for HBM gross margin to be in that range, in that 60% range because that's what logic commands. Could you -- I was wondering if you give us an idea of what your aspirational gross margin is? And if you can't -- for HBM. And if you can't give us a number, maybe help us think about a framework so that we can try and get an idea of where you might be -- what you might be planning for margins for HBM?"
+    },
+    {
+      "speaker": "Sumit Sadana Micron Technology",
+      "company": "Inc",
+      "role": "Executive Vice President, Chief Business Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. I mean, we are obviously not disclosing our HBM margins, but you can imagine that we certainly have this view that the industry is a tight place today. We expect to have continued price increases in '24 calendar year. And going into fiscal and calendar '25, we obviously continue to see tight and tightening industry conditions due to the growth of HBM, data center growth, all of the other segments going into AI-driven growth mode. And so obviously, when we think about fixing pricing for all of calendar 2025 for HBM, we are going to do the pricing with that backdrop in mind that we want to fix pricing at a level that we don't regret later. And of course, the industry is going to continue to strengthen in terms of financial performance and margins. And we expect that for Micron for sure. But we are comfortable with our HBM margin profile. Because of which, we have been able to set these prices ahead of time. And this is a super complex product, and the margin profile justifies that level of value that it is creating for the ecosystem."
+    },
+    {
+      "speaker": "Harsh Kumar Piper Sandler",
+      "company": "Companies",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Understood. And just a quick follow up. You've talked about pricing locked into '25 fiscal. Could you talk about your design visibility? How many years? Is that also 2025 is an indication of design visibility with large GPU vendors? Or is your design visibility longer than that? affiliated companies. JUNE 26, 2024 / 10:00PM GMT, Q3 2024 Micron Technology Inc Post Earnings Analyst Call"
+    },
+    {
+      "speaker": "Sumit Sadana Micron Technology",
+      "company": "Inc",
+      "role": "Executive Vice President, Chief Business Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. I mean, we have our customers that we have logged volumes with, and they are -- some of those customers are starting purchases for their platforms in 2025. And those platforms are going to continue into 2026 and beyond. So the discussion we have had earlier with you about in our launching with NVIDIA for 2024 and then multiple customers in 2025, those multiple customers who we work with to launch the products in 2025 are actually going to continue into 2026 and beyond. Now, keep in mind, these all relates to the HBM3E product, the 3E product launches with 8-high. And then on through the course of calendar 2025, we'll transition the mix over to 12-high. And then HBM4 comes in 2026. And then you have HBM4 going on. And then following that awhile later, you'll get HBM4E. And so HBM4E will happen -- will ship through the end of the decade, late in the decade and through the end of the decade. And so we are already in very deep engagements with customers on designing HBM4 and HBM4E. And so these are long partnerships with customers. They require long cycle time, planning for IP. And as we get to HBM4E, there is going to be a very strong possibility of integration of customer IP into the base die. And that will make it HBM4E more of a customized product. It won't be the same product going to all customers, more of a customized HBM product. And because of that, it necessitates long-term planning and very deep R&D engagement with customers. And because of our leadership in HBM3E where, as we have mentioned before, 30% lower power consumption, leadership specs and performance, we have a really great relationships with much multiple HBM customers, and we are firmly engaged in their long-term designs."
+    },
+    {
+      "speaker": "Harsh Kumar Piper Sandler",
+      "company": "Companies",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Congratulations, guys, and super helpful. Thank you. Operator Quinn Bolton, Needham & Company."
+    },
+    {
+      "speaker": "Quinn Bolton Needham",
+      "company": "& Company LLC",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks for taking the question. I just want to come back just to the ability to maintain market share with the transition to HBM memory with a high-cap DIMM modules and the node transitions. And I guess, I think in -- historically, no transitions, you typically with the same equipment set, see net wafer starts typically decline. And so it feels you got a lot of factors that would sort of argue for a net reduction -- continued net reduction in wafer starts. And so I just wondered if you could address over the next couple of years, what trend should we be thinking about in terms of your DRAM kind of wafer starts over that period?"
+    },
+    {
+      "speaker": "Manish Bhatia Micron Technology",
+      "company": "Inc",
+      "role": "Executive Vice President, Global Operations",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Hello, Quinn. So we talked about -- and I've kind of given some color on what we think is an industry-wide phenomenon out of the downturn in fiscal and calendar '23 and into calendar' 24 now, where we -- as well as others in the industry, we believe all of us in the industry, did take advantage of this phenomenon that you mentioned, where as we transition to newer technologies, we reduced wafer start capabilities structurally. So that did happen for us and for others. Having said that, that's not something that is always going to be the case because we -- as well as the rest of the industry did it to be able to reduce CapEx in the face of very, very weak demand, and still get the benefits in terms of performance and cost reduction from the technology transitions. So moving forward, obviously, you can imagine if every year, you just keep structurally reducing, that's not -- because that's going to have impact on both your bit supply and your cost. So I would not be thinking, as we head into this upturn, that the industry will continue with that structural reduction year on year. affiliated companies. JUNE 26, 2024 / 10:00PM GMT, Q3 2024 Micron Technology Inc Post Earnings Analyst Call You'll see investments more in line with typical pre-downturn, where we would maintain our wafer capacity while we make this transition investments. Now over the -- as we go through towards the second half of the decade and beyond, as technology transitions become more challenging, the bit growth capability from the newer technologies is not as great as maybe previous generations, that's where we see the need for -- and we've commented before, the need for greenfield wafer capacity growth for the entire DRAM industry. And HBM is -- and this trade ratio that we're talking about is just one aspect of that phenomena that maybe makes that more -- more -- that need for new wafer capacity as we go towards the second half of the decade more important."
+    },
+    {
+      "speaker": "Quinn Bolton Needham",
+      "company": "& Company LLC",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it --"
+    },
+    {
+      "speaker": "Manish Bhatia Micron Technology",
+      "company": "Inc",
+      "role": "Executive Vice President, Global Operations",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "To your question, we feel good about, as we discussed, being able to maintain our DRAM market share even as we grow our HBM share to be in line with our overall DRAM share."
+    },
+    {
+      "speaker": "Quinn Bolton Needham",
+      "company": "& Company LLC",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. So it sounds like you've got to facility space in Japan and Taiwan that increase wafer starts to allow you to maintain share."
+    },
+    {
+      "speaker": "Manish Bhatia Micron Technology",
+      "company": "Inc",
+      "role": "Executive Vice President, Global Operations",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Basically to be able to make technology transitions while broadly maintaining our wafer starts."
+    },
+    {
+      "speaker": "Quinn Bolton Needham",
+      "company": "& Company LLC",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it. Yeah. Okay, thanks. And then just a follow up on HBM. Obviously, a lot of this is being driven today by the AI accelerators. But just wondering, do you see that proliferating to CPUs, like the Grace CPU obviously in the Blackwell generation has some pretty significant HBM content with it. Do you see FPGAs or network switches, anything becoming more meaningful? Do you think this is largely AI accelerator -- kind of GPU AI accelerator driven in terms of the HBM demand drivers?"
+    },
+    {
+      "speaker": "Sumit Sadana Micron Technology",
+      "company": "Inc",
+      "role": "Executive Vice President, Chief Business Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. I mean, this is heavily based on the requirements of the system level performance and the type of applications that require that high level of performance. If that performance level really dictates a level of processor memory bandwidth that cannot be met easily with traditional approaches, then, of course, HBM has to be considered. Thus far, it is AI servers, but there are other product categories and applications which are starting to investigate HBM. Of course, not with these many placements as you see around the GPU because the GPU placements, six placements, eight placements, 8-high, 12-high, et cetera, is just a lot of memory and other applications which may contemplate using HBM may not need that many placements. It is being contemplated in other places. But, obviously, the bar is high because HBM is very expensive implementation of memory, but it is also one that is very power efficient compared to doing it in other ways. And another way that companies are trying to figure out how this architecture evolves over time is to assess the mix of HBM versus DDR5 versus LP5 for LP, low-power memory is starting to make its way into the data center. It then used to be the way, obviously, the RAS capabilities of LP, which reliability, availability, and serviceability is not the same as DDR5 and consequently requires a lot of new architectural approaches. But you've seen leaders like NVIDIA show the way in terms of using LPDRAM in their servers. affiliated companies. JUNE 26, 2024 / 10:00PM GMT, Q3 2024 Micron Technology Inc Post Earnings Analyst Call So that trend is also starting as another approach. But overall, HBM usage will increase over time, but the volumes will be dominated by accelerators."
+    },
+    {
+      "speaker": "Quinn Bolton Needham",
+      "company": "& Company LLC",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you. Operator Vivek Arya, Bank of America Securities."
+    },
+    {
+      "speaker": "Vivek Arya BofA Global",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks for the follow up. Just a few clarifications on the CapEx side. So the mid-30s CapEx intensity, is that gross or net or any chips funding? And are you assuming any depreciation benefit and gross margin benefit for like Intel has been doing?"
+    },
+    {
+      "speaker": "Mark Murphy Micron Technology",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "That's a net number, Vivek, and so we'll be providing you net numbers based on our latest assessment on when grants come in and also when ITC is received. We will get the depreciation benefits when it's put in service but the cash reimbursement in the case of ITC, there may be a timing difference. But there will be a timing difference on that compared to grants."
+    },
+    {
+      "speaker": "Vivek Arya BofA Global",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yeah. So the mid-30s is a net number and gross CapEx could be higher than that?"
+    },
+    {
+      "speaker": "Mark Murphy Micron Technology",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "That's correct."
+    },
+    {
+      "speaker": "Vivek Arya BofA Global",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it. And then on WFE, can you give us a sense, Mark, on what mix in CapEx in fiscal -- or what is the mix in fiscal '24 and how should we conceptually think about the mix in fiscal '25?"
+    },
+    {
+      "speaker": "Mark Murphy Micron Technology",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. We did say that WFE was down in fiscal '24 like it had been in fiscal -- it was down in fiscal '23 and down again in fiscal '24. We have said it'll be up in fiscal '25. However, we did say that greenfield construction is a material part of the spend in fiscal '25. But beyond that, we've not given specific WFE guidance."
+    },
+    {
+      "speaker": "Manish Bhatia Micron Technology",
+      "company": "Inc",
+      "role": "Executive Vice President, Global Operations",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I'd say, Vivek, one of the thing to keep in mind is that -- and we did try to provide more color, but this HBM ramp does -- the equipment for the HBM ramps, the equipment there does start to make up a bigger portion as we are embarking on this ramp to be able to go from very little share towards our natural market share next year. So that is a -- as a percentage wise, the -- in terms of equipment category, HBM unique equipment is obviously going to be a very high or the highest growth area."
+    },
+    {
+      "speaker": "Vivek Arya BofA Global",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it. And anything you can comment on EUV -- sorry, please go ahead."
+    },
+    {
+      "speaker": "Mark Murphy Micron Technology",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "No. Go ahead, Vivek. affiliated companies. JUNE 26, 2024 / 10:00PM GMT, Q3 2024 Micron Technology Inc Post Earnings Analyst Call"
+    },
+    {
+      "speaker": "Manish Bhatia Micron Technology",
+      "company": "Inc",
+      "role": "Executive Vice President, Global Operations",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "No. I mean, we are going to be -- we've talked about we've already made EUV investments, and we've got a pretty efficient EUV implementation plan for 1-gamma. We are going to be implementing EUV in Japan, though. That is one thing we've guided. So EUV is in the mix of our WFE plans for ramping 1-gamma and beyond."
+    },
+    {
+      "speaker": "Vivek Arya BofA Global",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. I'll get back in the queue. Thank you. Operator Thank you. This does conclude the question-and-session of today's program. I'd now like to hand the program back to Mark Murphy for any further remarks."
+    },
+    {
+      "speaker": "Mark Murphy Micron Technology",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I just wanted to provide a bit of housekeeping for your models. In the third quarter that we just reported, DRAM bit cost were flattish, NAND was down several percent sequentially. For FY25, DRAM all-in cost mid- to high single-digits down long-term, but HBM mix in '25 will impact cost downs and cost downs in '25 for DRAM will be down only modestly. Thank you, all, for joining today's call. Operator Thank you. And thank you, ladies and gentlemen, for your participation in today's conference. This does conclude the program. You may now disconnect. Good day. In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. affiliated companies."
+    }
+  ]
 }

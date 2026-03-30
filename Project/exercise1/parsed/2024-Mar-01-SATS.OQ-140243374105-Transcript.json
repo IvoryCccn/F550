@@ -4,5 +4,430 @@
   "quarter": "2023Q4",
   "sector": "IT",
   "filename": "2024-Mar-01-SATS.OQ-140243374105-Transcript.pdf",
-  "segments": []
+  "segments": [
+    {
+      "speaker": "Thomas A. Cullen DISH Network",
+      "company": "Corporation",
+      "role": "EVP of Corporate Development",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Benjamin Daniel Swinburne Morgan Stanley, Research Division - MD"
+    },
+    {
+      "speaker": "Richard Hamilton Prentiss Raymond James",
+      "company": "& Associates, Inc., Research Division",
+      "role": "Head of Telecommunication Services Equity",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Research & Research Analyst"
+    },
+    {
+      "speaker": "Walter Paul Piecyk LightShed",
+      "company": "Partners, LLC",
+      "role": "Partner & TMT Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Operator Greetings, and welcome to the EchoStar Corporation Fourth Quarter and Year-End 2023 Earnings Conference Call. (Operator Instructions) As a reminder, this conference is being recorded. It is now my pleasure to introduce your host, Dean Manson, Chief Legal Officer. Thank you. Mr. Manson, you may begin."
+    },
+    {
+      "speaker": "Dean A. Manson EchoStar",
+      "company": "Corporation",
+      "role": "Chief Legal Officer & Secretary",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thank you, and welcome, everyone, to EchoStar's Fourth Quarter and Full Year 2023 Earnings Call. We will begin with opening remarks from Hamid Akhavan, President and CEO; followed by Paul Orban, EVP and Principal Financial Officer. -- and Gary Schanman, EVP and Group President of Video Services; John Swieringa, President of Technology and COO; and Paul Gaske, COO of Hughes. Also present with us is Tom Cullen, EVP, Corporate Development. As usual, we requested any participant producing a report, not identify other participants or their firms in such reports. We also do not allow audio recording, which we ask that you respect. All statements we make during this call, other than statements of historical fact, constitute forward-looking statements made pursuant to the safe harbor provided by the Private Securities Litigation Reform Act of 1995. These forward-looking statements involve known and unknown risks, uncertainties and other factors that could cause our actual results to be materially different from historical results and from any future results expressed or implied by the forward-looking statements. For a list of those factors and risks, please refer to our annual report on Form 10-K for the year ended December 31, 2023, filed on February 29 and our subsequent filings made with the SEC. All cautionary statements we make during the call should be understood as being applicable to any forward-looking statements we make wherever they appear. You should carefully consider the risks described in our reports and should not place any undue reliance on any forward-looking statements. We assume no responsibility for updating any forward-looking statements. We refer to OIBDA during this call. The comparable GAAP measure and a reconciliation thereto, is presented in our earnings release. With that, I'll turn it over to Hamid."
+    },
+    {
+      "speaker": "Hamid Akhavan-Malayeri EchoStar",
+      "company": "Corporation",
+      "role": "CEO, President & Director",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thank you, Dean. Good morning, everyone. This is my first earnings call as the CEO of the new EchoStar. You may notice that we are using a format that we have been using at EchoStar, which is different from the traditional DISH format. I find it more to my style of providing helpful scripted information upfront, which attempts to answer some of the questions you may have. The merger was an important milestone in both companies shared history. It brings us closer to our goal of providing ubiquitous affiliated companies. MARCH 01, 2024 / 5:00PM GMT, Q4 2023 EchoStar Corp Earnings Call connectivity to people, enterprises and things everywhere. It will enable business opportunities that we intend to realize in cost and revenue synergies as we continue to position Echo starting the market with a superior portfolio of brands, technology and services. This merger combined DISH Network satellite technology is streaming services, engineering expertise, retail wireless business and nationwide 5G network with EchoStar's premier satellite communication solutions, enterprise go-to-market capabilities and U.S.-based manufacturing. Collectively, it creates a new kind of athlete in global telecom and for EchoStar to be a leader in terrestrial and non-terrestrial wireless connectivity and entertainment services exceeding any other company. When we merged EchoStar and DISH, both companies were at a crossroads as each was transitioning from building capabilities to commercializing them. At DISH, we built the world's first stand-alone 5G Open RAN cloud-native wireless network. At EchoStar, we launched the largest ever commercial broadband satellite. Over the past 90 days, we have sharpened our focus on taking our newly combined capabilities to market and leveraging synergies across our diverse portfolio of products. Work is well underway to improve our capital structure, reset our retail wireless business and grow customer traffic on our network, taking full advantage of our unique combination of assets. For now, I would like to first comment on our efforts to improve our capital structure. Let me begin by stating that we have a value-generating business with a strong potential for growth. We have an asset-rich balance sheet with significant capacity to support additional debt. That said, in the short term, we need to provide additional liquidity to fund the growth of our business and address near-term debt maturities. To this end, we have enacted an operating plan for 2024 with the goal to achieving positive operating free cash flow, defined as free cash flow minus debt service payments. This includes a reduction in our annual total operating expenses by $1 billion between synergies and other cost measures. As part of our work towards an improved capital structure, including a longer maturity runway and opportunity to deleverage our balance sheet, the strategic asset transactions we conducted in January enhance our flexibility to implement various balance sheet initiatives, including opportunities to raise new financing. Following those transactions, we launched 2 exchange offers designed to address our near-term debt obligations and to reduce our overall debt. The exchange offers we launched were not accepted by our existing investors. While discussions with some stakeholders are ongoing, we are prepared to continue good faith discussions with all of our stakeholders and arrive at solutions that are in the best interest of the company and all involved parties. With DSS background, let us now address the going-concern qualification noted in our 10-K, which I'll have Paul Orban, cover in addition to several key financial metrics and onetime items. Paul?"
+    },
+    {
+      "speaker": "Paul W. Orban EchoStar",
+      "company": "Corporation",
+      "role": "Principal Financial Officer & Principal Accounting Officer",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thank you, Hamid. As Hamid mentioned, I'll start with addressing the going-concern qualification. Please read the financial statements contained in our 10-K to see the precise disclosure. This evaluation is a technical accounting determination that, importantly, did not consider the potential mitigating effect of a range of operating and financing plans we're currently pursuing. To provide more color, the accounting rules require us to consider our current cash position and project our cash position one year from our filing and do not allow us to consider any new funding sources unless that financing is committed at the point of our filing. We are in active discussions with numerous parties to secure committed financing to meet our future obligations and have received significant inbound interest from reputable counterparties looking to provide such financing in various forms and had various positions in our capital structure, all of which we are carefully evaluating. If sufficient financing is committed, the going concern qualification will be alleviated. As of the end of the year, we had $2.4 billion in cash and marketable securities. We intend to pay our March '15 debt maturity with cash on hand. Financing will be required to pay off our November 24, $2 billion debt maturity. We believe we have significant new financing capacity using the unencumbered assets that include our spectrum holdings as well as affiliated companies. MARCH 01, 2024 / 5:00PM GMT, Q4 2023 EchoStar Corp Earnings Call through the newly formed unrestricted sub holding approximately 3 billion DISH TV subscribers. As we evaluate all of our options, we are focused on operational flexibility and long-term financial stability. With the ramp down of network CapEx, coupled with the reductions that Hamid discussed, we're expecting operating free cash flow to find as free cash flow, excluding debt service payments to be positive in 2024. As Hamid mentioned, this is our first call since finalizing the merger. It is also the first time we are reporting as a consolidated company. With that, our financial statements are presented for all periods as if we have always been consolidated. You will see the legacy EchoStar business recorded under broadband and satellite services segment and the legacy DISH Network business presented in the Pay TV, retail wireless and 5G deployment segments. Now let's review our financial performance. First, we recorded 2 significant onetime noncash items in the fourth quarter of 2023. The first, noncash item is the impairment of goodwill in the amount of $758 million in total. The accounting rules require a company to test goodwill at least annually, which we did in the fourth quarter. In our assessment, as a result of our market cap being suppressed for a prolonged period of time, we impaired goodwill in various -- in varying amounts across all of our segments. The noncash impairment charge is recorded in impairment of long-lived assets and goodwill on our income statement and as a reduction to operating income and OIBDA. The second noncash impairment was a $1.6 billion reduction to the fair value of our 800 megahertz purchase option. Due to the relatively short time period remaining prior to the options expiration, coupled with not having a definitive financing agreement in place, we have reduced the value of the purchase option to 0, resulting in a noncash charge of $1.6 billion to other income. Other income does not affect operating income or OIBDA, but that does impact total net income. Next, consolidated revenue for 2023 was $17 billion. That's down roughly 9% year-over-year due primarily to subscriber declines mainly in Pay-TV. Removing the noncash goodwill impairment, operating expenses before depreciation were $14.9 billion. That's roughly 2% lower year-over-year. Operating expenses improved as we have fewer subscribers, primarily in Pay-TV. The improvements were offset by continued increases in programming costs and Pay-TV as well as higher operating costs for our stand-alone 5G open RAN network as we brought more sites into service. OIBDA was $2.1 billion, excluding the impact of the noncash goodwill impairment. That's down $1.3 billion year-over-year, fueled by the ramp-up in operating expenses for the network as well as reductions in subscribers, both mentioned previously. CapEx was roughly flat year-over-year as construction activity for the network was similar in '23 versus '22. However, the CapEx spend for the wireless buildout decreased in the fourth quarter and should continue to decrease in 2024. You can expect CapEx for network deployment in 2024 to be less than half of what we recorded in 2023. Free cash flow was a negative $1.8 billion for '23, down $1.4 billion from 2022, similar to OIBDA. The decrease is driven by expanded network OpEx and a reduction in subscribers. For '23, operating free cash flow was a negative $390 million. With that, I'll turn it to Gary to discuss our Pay-TV unit."
+    },
+    {
+      "speaker": "Gary Schanman EchoStar",
+      "company": "Corporation",
+      "role": "Executive VP & Group President of Video Services",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thank you, Paul. On the Pay-TV side, we finished the year with approximately 8.5 million customers. In regards to DISH TV, our DBS satellite TV service, we finished the year with approximately 6.5 million subscribers, a loss of approximately 945,000 from 2022. Year-over-year ARPU grew 3.3% primarily from price increases across both DISH and Sling. And on a full year per subscriber basis, Pay-TV drove an OIBDA increase of 3% over 2022. Our 2023 subscriber numbers for DISH TV were negatively impacted by a series of local broadcaster group disputes and also due to our Q1 cyber incident. We will always look to protect our largely rural customer base against some unreasonable rate increases. Unfortunately, we've resolved affiliated companies. MARCH 01, 2024 / 5:00PM GMT, Q4 2023 EchoStar Corp Earnings Call most of these programmer disputes and look forward to a less disruptive year in 2024. In 2023, we saw opportunities to increase the yield on our video subscriber base while also seeking both investment and team efficiencies. First, we consolidated the DISH and Sling organizations into one video services team, driving significant efficiencies across product, marketing, sales and operations. We also increased the focus on customer experience better address customer pain points and improve their products. In addition, we shifted investment to profitable growth areas across the business, specifically in enterprise video, media sales, marketing analytics and loyalty efforts. We'll continue these initiatives into 2024 as well as integrating with and cross-selling our Hughes and Boost products. On the Sling TV side, we finished the year with approximately 2.1 million subscribers down approximately 280,000 from 2022. It is important to note that Sling is and has been a profitable business, which is rare among screening services. Our Q4 results were impacted by an increasingly competitive streaming market. Programmers continue to spend less on their core linear TV product, which we pay for and continue to shift investment into their own direct-to-consumer services, even though these efforts have been largely unprofitable. In particular, the Warner Bros. Discovery decision to make TNT and TBS sports available free through MAX and increasing simulcasting and sports programming on ESPN Plus for Disney and Peacock from NBCU has added more confusion to an already fragmented market. Regardless, we continue to invest in experiences to delight our customers and increase engagement including a new loyalty program that gives our subscribers a chance to win valuable prices, the more they use our service. Recent improvements to our experience drove monthly viewership for sub up over 15% year-over-year. And we're also really pleased with the growth of Sling Free stream, our free ad-supported service, which recently launched the industry's first free DVR. In 2024, we'll continue to innovate on the platform to ensure we're delivering the content, features and experience are paid and free customers want. I'd like to now turn it back to Hamid, who will cover Retail Wireless."
+    },
+    {
+      "speaker": "Hamid Akhavan-Malayeri EchoStar",
+      "company": "Corporation",
+      "role": "CEO, President & Director",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thank you, Gary. With the departure of Mike Kelly, I will take the helm of our Retail Wireless business while we search for Mike's successor. This will consist of overseeing the strategy and operations as well as repositioning the business to take advantage of our owner economics with the arrival of our network. In regard to Retail Wireless, we have put the majority of the building blocks in place to become the nation's fourth facilities-based wireless carrier but we have not yet optimized our marketing and acquisition tactics, particularly with postpaid customers. We pushed -- we finished the year with approximately 7.4 million subscribers, down approximately 8% from 2022, which was partly due to our focus on higher-value subscribers with better devices as evidenced by lower subscriber churn in 2023. We also took steps to optimize our sales channels and programs, which, in some cases, reduced unprofitable offerings and underperforming dealers. We do see positive trends to build upon, including higher attachment of value-added services such as our Boost Protect device insurance offerings and higher auto pay penetration resulting in lower churn. The availability of mobile devices compatible with our network has until now been limited. We have made great strides in this area over the past 6 months, adding the iPhone 15 lineup, the all-new Samsung Galaxy S24 devices and the Motorola Razr, all of which we expect will help our economics going forward. In January, Boost got off to a fast start launching 7 new devices compatible with our network. As we shift our device mix to 5G network compatible handsets, we are seeing higher unit cost which we expect will be more than offset from the savings arising from the use of our own network. In addition, we will focus our efforts to profitably expand our current target customer segments through competitive offers, flexible service options and outstanding customer experiences that exceed the current industry levels. It is our goal to ramp up significant positive momentum by the end of 2024 as we shore up our branding, marketing and operations for the business unit. Let me now hand the call over to John to cover network deployment. affiliated companies. MARCH 01, 2024 / 5:00PM GMT, Q4 2023 EchoStar Corp Earnings Call"
+    },
+    {
+      "speaker": "John W. Swieringa EchoStar",
+      "company": "Corporation",
+      "role": "President of Technology & COO",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thank you, Hamid. We met our June 2023 coverage milestone by offering broadband service to over 70% of the U.S. population. As confirmed by the FCC covering more than 240 million Americans with connectivity through the latest technology. Today, our network provides 5G broadband coverage to over 73% of the U.S. population and 5G voice coverage to more than 200 million Americans with a competitive device portfolio and domestic and international roaming partners. This milestone not only marks an expansion of the world's first 5G Open RAN network, but also affirms our steadfast commitment to advancing America's technology leadership in wireless. We continue to expand, optimize, meet milestones and advance the Boost wireless network build-out in alignment with our network development plan. During our last call, we indicated that we launched over 20,000 on-air sites by the end of the year and we exceeded that mark. The Boost wireless network, as recently noted by Signals Research Group offers a very good user experience and fast speeds. We have firm plans in place to continue to move Boost customers with compatible devices to our network to take advantage of owners' economics. I'd like to turn it over to Paul Gaske, who will cover broadband and satellite services."
+    },
+    {
+      "speaker": "Paul Gaske EchoStar",
+      "company": "Corporation",
+      "role": "COO of Hughes",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Satellite Services segment operates in both the consumer and enterprise markets. In line with our strategy, we expect a gradual shift in mix of the revenues from consumer to enterprise, and we anticipate that in 2024, our enterprise revenues will surpass consumer revenues for the first time. Our consumer business under the HughesNet brand ended the year with approximately 1 million satellite broadband subscribers, down approximately 224,000 from 2022. We due primarily to our capacity limitations, competitive pressure and more selective customer screening as we focus on more profitable subscribers evidenced by our historically high ARPU. Jupiter 3 commenced operations in late 2023. This satellite provides significant additional capacity, allowing us to be more competitive and responsive to customer demands for greater speeds and higher data allowances. Early feedback from customers is quite positive and will help us reverse the subscriber loss trend of 2023. Our Hughes enterprise business consists of many diverse systems and service components. We finished 2023 with a multiyear backlog of approximately $2 billion. And our order bookings in the fourth quarter of 2023 came in strong at $694 million. Of note, in the fourth quarter, we announced the receipt of a major contract from Delta Airlines to provide in-flight communications to over 400 Boeing 717 and regional jets. This weight optimized high-performance aeronautical solution utilizes advanced artificial intelligence to power the Hughes in flight management system that includes a multi-orbit antenna and Hughes Jupiter Ka-band satellite capacity. This order marks a change in strategy for Hughes as we begin to directly serve airlines around the globe. Turning to our OneWeb business. We began initial shipments in December of a Hughes manufactured user terminal based on our unique flat panel electronically steered antenna technology, manufactured in our U.S. based facility. In parallel, we continued to deliver gateways to OneWeb for the global network. As for our managed services business, which focuses on highly -- providing highly reliable and secure communication services to enterprises. It was named by Gartner as a leader in the 2023 Gartner Magic Quadrant. This recognizes us as one of the few companies that has the ability to deliver best-in-class enterprise services on a global scale. With that, I'll turn it back over to Hamid."
+    },
+    {
+      "speaker": "Hamid Akhavan-Malayeri EchoStar",
+      "company": "Corporation",
+      "role": "CEO, President & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you, Paul. As noted, we have work to do to strengthen our capital structure achieve sustainable and profitable customer growth and develop as an integrated new athlete in Global Telecom. We will utilize the experience and resources from within our established affiliated companies. MARCH 01, 2024 / 5:00PM GMT, Q4 2023 EchoStar Corp Earnings Call business units to realize the growth opportunity of our newer businesses. As a newcomer in wireless industry, naturally, we have significant challenges ahead, but we also see opportunities which the incumbents are unable to capture due to their legacy obligations, whether it be protecting their higher prices for existing base or being tied to inflexible operation systems. We will focus on identifying and leveraging these advantages wherever possible in each of our market segments. We will also find new ways to bundle our diverse products across the new EchoStar family to provide innovative solutions and services customers want. We are only about 60 days into the merger, but as mentioned, we have already put significant improvement initiatives in motion to increase our momentum across all business units of the new EchoStar. With that, we'll open it to Q&A. Operator (Operator Instructions) Our first question comes from the line of Rick Prentiss with Raymond James."
+    },
+    {
+      "speaker": "Richard Hamilton Prentiss Raymond James",
+      "company": "& Associates, Inc., Research Division",
+      "role": "Head of Telecommunication Services Equity",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Research & Research Analyst In the prepared remarks, I want to start with the unencumbered assets, obviously, structural changes. Can you talk a little bit about the spectrum securitization market -- is it open? What kind of prices are you seeing out there? And just maybe even a broader question, what kind of time line should we be thinking of as far as addressing kind of the financial plans that you're pursuing in advance of the November maturity?"
+    },
+    {
+      "speaker": "Hamid Akhavan-Malayeri EchoStar",
+      "company": "Corporation",
+      "role": "CEO, President & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you. Good to hear you. As I mentioned, first, I want to make sure that we plan on meeting our immediate obligations in March. And then we have the window, obviously, until November to address the next maturity here, we obviously have access to multiple ways to do that. One of the ways is the one you are referring to, which is unencumbered spectrum assets. That's a market that generally understood by the investors. I think there's always interest in that market because the commodities in that market are well known. We're not going to comment on the specifics of how we're going to do that. But we have spectrum assets, it's one way to get there. As Paul also mentioned, we do have other assets such as the subscribers we mentioned from our Pay-TV business. Look, we're going to take our time and make a transaction that is in the best interest of all parties, the company and all the stakeholders involved. And we have a significant amount of time to do that. I do not find myself and the company under the gun to make a transaction in a rapid fire. As I said, the window is long enough for us to make a sound decision that is a long-term oriented solution for the company, and we're not going to compromise by making a quick decision there."
+    },
+    {
+      "speaker": "Richard Hamilton Prentiss Raymond James",
+      "company": "& Associates, Inc., Research Division",
+      "role": "Head of Telecommunication Services Equity",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Research & Research Analyst Okay. You mentioned the $1 billion total expense savings. Can you help unpack that a little bit about which silo is it in? What kind of line item is it in to give us a rough shot of how that $1 billion will be achieved?"
+    },
+    {
+      "speaker": "Hamid Akhavan-Malayeri EchoStar",
+      "company": "Corporation",
+      "role": "CEO, President & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I'll pass that to Paul. affiliated companies. MARCH 01, 2024 / 5:00PM GMT, Q4 2023 EchoStar Corp Earnings Call"
+    },
+    {
+      "speaker": "Paul W. Orban EchoStar",
+      "company": "Corporation",
+      "role": "Principal Financial Officer & Principal Accounting Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. Good question. It's across the board in all segments. All business units are contributing. Obviously, Pay-TV is going to be taking the lion's share of it, but it's across the board in retail wireless. The 5G deployment and even Qs is contributing to that. It's going to be both in G&A as well as cost of services and COGS. However, we are using some of that they would invest back in the business, so you won't see 100% of that come through as we're making other sound investment choices."
+    },
+    {
+      "speaker": "Hamid Akhavan-Malayeri EchoStar",
+      "company": "Corporation",
+      "role": "CEO, President & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. That is also -- And the reason wireless, accelerating our transition of customers to on-net will significantly improve our economics. I mean I think we're having great experiences there. And as John mentioned, that's on the way. And we are that significantly helps going forward as part of the $1 billion and beyond."
+    },
+    {
+      "speaker": "Richard Hamilton Prentiss Raymond James",
+      "company": "& Associates, Inc., Research Division",
+      "role": "Head of Telecommunication Services Equity",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Research & Research Analyst One more quick one for me, if I could. Can you quantify roughly the impact that the Hugh -- Hearst had on the quarter as far as subs, either churn or subscriber losses."
+    },
+    {
+      "speaker": "Gary Schanman EchoStar",
+      "company": "Corporation",
+      "role": "Executive VP & Group President of Video Services",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "We're not breaking that out. But obviously, what I talked about -- sorry, this is Gary. What I talked about earlier, there was some drag overall in our overall subscriber numbers in Q4. And like I mentioned, we've resolved most of those issues with a number of partners we had, and we're looking forward to a less disruptive 2024."
+    },
+    {
+      "speaker": "Richard Hamilton Prentiss Raymond James",
+      "company": "& Associates, Inc., Research Division",
+      "role": "Head of Telecommunication Services Equity",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Research & Research Analyst Right. Great. Thanks a lot. It took a long time last night getting through all the details, but I appreciate all the stuff you put out there. Operator Our next question comes from the line of Walter Piecyk with LightShed."
+    },
+    {
+      "speaker": "Walter Paul Piecyk LightShed",
+      "company": "Partners, LLC",
+      "role": "Partner & TMT Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I guess first, just Charlie's absence on the call, imply any kind of change in how active he is in dealing with what's going on at the company? And then, I guess, specifically in wireless, if you're having to cut cost to hit your version of operating cash flow or free cash flow. How does that impact your ability to get people to have interest and purchase the phone and the value proposition that you're offering in the market right now? It seems like that's something that requires more investment, not less."
+    },
+    {
+      "speaker": "Hamid Akhavan-Malayeri EchoStar",
+      "company": "Corporation",
+      "role": "CEO, President & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Two different questions. I'll try to take both one after another. Well, first of all, I want to mention that today is Charlie's birthday. So we give him a day off and I want to wish Charlie the happiest and healthiest year ahead. But coming to more specific answer to that question, as I have taken over the day-to-day operation of the business, I've been in the seat now for slightly longer than 90 days running the business. That has freed up Charlie, that's given Charlie, the ability to focus on more strategic and longer-term developments. Hopefully, I here and with a confident team that we have around this table can answer all the questions for you. So I'm delighted that Charlie has felt comfortable enough to let me run the business and so we can focus on bigger picture opportunities in the future. Coming to the retail wireless business specifically, look, I don't think this is going to be -- and for us, at least, it's not going to be head-to-head match in dollar for dollar positioning in a marketplace is naturally. We don't have the resources that the other 3 have, which command more than 93% of the marketplace. And so we need to go to market differently and much more efficiently. And that's one of the things that I highlighted in my prepared remarks that we are optimizing that today. And throughout the year, we're going to be better and better step by step. As one of the examples is that we are more focused on local advertising and local affiliated companies. MARCH 01, 2024 / 5:00PM GMT, Q4 2023 EchoStar Corp Earnings Call go-to-market rather than national TV we think that's a higher yield for us. I think we'll be focusing on developing our digital channel, which will be better experience and also doesn't put us in a big channel conflict with stores. And so there's a number of ways that we are thinking creatively plus the fact that we have a network that is right now underutilized. When I walk around, I'm getting 700, 800, 900 megabit per second connections on a typical Android or iPhone device, there are some differentiating features. We have that I think we need to maximize in terms of positioning rather than just go dollar for dollar spending acquisition cost in a traditional way. So it's an exotic car. It's a different way to do it, but we are very excited about developing that throughout 2024."
+    },
+    {
+      "speaker": "Walter Paul Piecyk LightShed",
+      "company": "Partners, LLC",
+      "role": "Partner & TMT Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "And can you just also -- if you have a sense of when you might get -- hit the final milestone of the 75%, the 2025 milestone in the spectrum, fully securing that spectrum that probably has impacted your ability to use that as an asset that you can borrow against? Just any time line on heading that because I think you said -- I think Swieringa said you were 72%, 73%, so you're only a couple of hundred basis points left. How much longer to get there?"
+    },
+    {
+      "speaker": "Hamid Akhavan-Malayeri EchoStar",
+      "company": "Corporation",
+      "role": "CEO, President & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. We have made substantial progress towards meeting our goals for 2024 -- 2025, the milestones at 2025. Depending on our success in our fundraising, which I mentioned earlier, we could meet those milestones. So -- but having said that, it is my personal opinion that, that doesn't really translate into a competitive offering for the American consumers, which has been the intent of the FCC. I just -- that milestone certainly is within reach once we -- if we manage to get our fundraising. But I don't think it's going to change the picture in the nation in a significant way."
+    },
+    {
+      "speaker": "John W. Swieringa EchoStar",
+      "company": "Corporation",
+      "role": "President of Technology & COO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And Walt, it's John. Just to clarify, we have overall U.S. population attainment with our network, but components of the 2025 build-out commitments are a little different because that's measured at the PEA level. So there are more rural sites and the things that go into that."
+    },
+    {
+      "speaker": "Walter Paul Piecyk LightShed",
+      "company": "Partners, LLC",
+      "role": "Partner & TMT Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it. But just to go back to the last answer, I think you said if you get the financing, then you put the dollars in to get you to the -- is it a chicken or egg thing in terms of you want to get the money and then spend the CapEx and then get the approval? Or get -- hit the milestone and then use that as kind of a springboard to get the financing? Like what's coming first there? I think you were saying that the financing has to come first."
+    },
+    {
+      "speaker": "Hamid Akhavan-Malayeri EchoStar",
+      "company": "Corporation",
+      "role": "CEO, President & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I wouldn't go as far as putting that in a sequential order. I think these are activities that are running in parallel. There's quite a bit of upfront not very expensive work that has to be done, for instance, to secure the zoning and permitting and preparation. And so it's not a linear spend. It's very exotic in terms of the scheduling by geography, by location, zoning environment. So I can't give you a very specific answer other than saying these are activities that we run in parallel, and we manage this on a very careful day-to-day basis. Operator Our next question comes from the line of Bryan Kraft with Deutsche Bank."
+    },
+    {
+      "speaker": "Bryan D. Kraft Deutsche Bank",
+      "company": "AG, Research Division",
+      "role": "Director & Lead Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I wanted to ask a few if I could. First, the large sequential step-up in Satellite Services EBITDA in the fourth quarter to $155 million, just was wondering what drove that big improvement in margin and where that should go directionally from here? Is that like a good run affiliated companies. MARCH 01, 2024 / 5:00PM GMT, Q4 2023 EchoStar Corp Earnings Call rate? Does it continue to improve? Or was there something anomalous that drove it so high in the quarter? The second one was -- you mentioned moving traffic on net from Boost. I was just wondering if you could help us to think about the time line for doing that. It sounds like you expect progress this year. And then the last one I had was, Hamid, you talked a bit about Boost Infinite not getting a lot of traction in the market yet. Just curious what you think really has hindered the progress. I know you tried a national ad campaign in late September, early October. You launched on Amazon. So is it the network? Is capital behind it? Is it the branding? And are you seeing any real proof points yet on some of the things that you plan to do to gain momentum that you just mentioned in response to Walt's question."
+    },
+    {
+      "speaker": "Hamid Akhavan-Malayeri EchoStar",
+      "company": "Corporation",
+      "role": "CEO, President & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Okay. Paul, perhaps you can comment on the EBITDA."
+    },
+    {
+      "speaker": "Paul Gaske EchoStar",
+      "company": "Corporation",
+      "role": "COO of Hughes",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure. Certainly. Could you just clarify your question just a little bit more?"
+    },
+    {
+      "speaker": "Bryan D. Kraft Deutsche Bank",
+      "company": "AG, Research Division",
+      "role": "Director & Lead Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Sure. I think the Satellite Services EBITDA in the fourth quarter came in at about $155 million. And in the previous few quarters, it had actually been decelerating. So that was a pretty large sequential step-up. And I was just trying to understand what drove that big improvement and how to think about that on a go-forward basis? Like is that a good run rate? Should it continue to build? Or was there something in the fourth quarter that made it unusually high, that's not going to repeat?"
+    },
+    {
+      "speaker": "Dean A. Manson EchoStar",
+      "company": "Corporation",
+      "role": "Chief Legal Officer & Secretary",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Certainly. Yes. So typically, our fourth quarters tend to have higher enterprise results. And so we had strong enterprise in the fourth quarter. I can't tell you that exact trend will continue. But normally, we have a cyclicality with that, that the fourth quarter is stronger."
+    },
+    {
+      "speaker": "Bryan D. Kraft Deutsche Bank",
+      "company": "AG, Research Division",
+      "role": "Director & Lead Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Hamid Akhavan-Malayeri EchoStar",
+      "company": "Corporation",
+      "role": "CEO, President & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Tom, maybe you want to just comment on debt?"
+    },
+    {
+      "speaker": "Thomas A. Cullen DISH Network",
+      "company": "Corporation",
+      "role": "EVP of Corporate Development",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure. I'll take the second piece. And thanks for the question. While we don't publicly share numbers, utilization of the network continues to grow every day. As mentioned earlier, we're now covering more than 200 million Americans with 5G voice on our way to 240 million plus. And as an update over the last quarter, roughly 2/3 of the devices that we're now sourcing are compatible with our network. And so we're loading customers with compatible devices and really 3 separate paths, which are new customer activations, upgrades, and we're actually now doing over-the-air migrations, which are generally seamless to the customer. As you know, we've been actively working to see MNO compatible devices with customers for months now. And while there was additional cost in doing so, it's investment that will pay off as we benefit from owner economics and reduce MVNO expenses in 2024. And the plan that we talked about last quarter is largely on track with the different legs of the stool there, coverage devices, leading to lower MVNO expenses over the year, but we're not going to break that out right now. There's just a lot of work to do, and we're focused on it every day."
+    },
+    {
+      "speaker": "Hamid Akhavan-Malayeri EchoStar",
+      "company": "Corporation",
+      "role": "CEO, President & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And I will take the third part of your question, which had to do with Boost Infinite. So first, I want to say that as I walked into the business, I was incredibly impressed by what was achieved on the network side. And I can't be more -- look, I launched the first 2G in the U.S. at PCS Primeco. affiliated companies. MARCH 01, 2024 / 5:00PM GMT, Q4 2023 EchoStar Corp Earnings Call And I've launched the first 3G in Europe with Deutsche Telekom as a CTO -- Deutsche Telekom, T-Mobile Europe, I created the forum for the LTE in Europe in the first time. And so I've been part of the 2G launch, 3G launch, 4G launch and now 5G, and this has been the best I've seen. I have never been so impressed by the starting point being so exciting. But having said that, the company had been focused purely primarily on builds as a project company, not as a P&L company related to the mobile wireless. So as a result of that, I mean there had been in our focus on developing the go-to-market, the product positioning, the experience, the digital experience of the customers on onboarding. So when I looked at that, I realized that it doesn't make sense for us to spend a heck of a lot of money advertising and pulling customers that we are not going to be delighting not because of the phenomenal network, but also just the experience of giving them that start,that's fresh first impression. So kind of dialed it back, one of the gear -- I would not attribute. And this is a very strong statement, I would not attribute in any way slower start of our postpaid business to lack of customer interest. I mean we have metrics here that says we have phenomenal number of customers, hundreds times more than the customers we activated -- interested in coming in. We just didn't have us and our partners, our strategic partners didn't have the right system set up, the systems were not optimally planned and connected and debugged for a perfect experience between us and our strategic partners. And so it makes sense for us to kind of regear that and come back, and that's what we're working on. And obviously, we'll gradually, you will see the improvements in the market. I'm very excited about our chance. It's -- but again, I just want to emphasize that I see us being a force in the market with all the things that I have mentioned in my remarks, but our entry was not, I would just say, internally not optimized, and we'll fix that this year. Operator Our next question comes from the line of Jonathan Chaplin with New Street Research."
+    },
+    {
+      "speaker": "Jonathan Chaplin New Street Research",
+      "company": "LLP",
+      "role": "US Team Head of Communications Services",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "A couple I guess the first one is probably for Hamid and Paul. I was wondering if you could give us a sense of how the discussions with bondholders progress from here, and there's equity holders who are involved in that process. What are we going to see from the outside? Is the next step you're coming out with an improved exchange offer? Or does it sort of all happen behind the scenes? And does it make sense for you to raise new debt before you've figured out the exchanges on existing debt? So that was the first question. And then I'm like almost 100% sure that this is correct, but really to clear up any confusion that might have been caused by Walt's question. I think it's the case that the test that you need to meet in 2025 is on a license-by-license basis. And I think it's the case with the 73% of the country that you've built out so far, you're already protecting the value of the vast majority of your spectrum portfolio. And so you don't need to complete the build in order to raise money against that spectrum. I think most of that spectrum is already locked up. Most of that value is locked up, and it's just -- the piece that you need to complete actually has much lower value licenses in it. So just a clarification there."
+    },
+    {
+      "speaker": "Hamid Akhavan-Malayeri EchoStar",
+      "company": "Corporation",
+      "role": "CEO, President & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Okay. Thank you. I'll take the first part. I mentioned in my remarks that we are in active discussions with numerous parties right now to secure financing to meet these obligations including the obligations you mentioned, we have significant inbound interest right now and from very reputable parties and counterparties. And we are able to engage with anyone and all the stakeholders in good faith to find better solutions that -- and good solutions that are in the best interest of the company and all of the parties involved. So I can't tell you any specifics of how we are going to reach one of these and what may end up being what looks like is going to be the solution selected. affiliated companies. MARCH 01, 2024 / 5:00PM GMT, Q4 2023 EchoStar Corp Earnings Call But as I said, we have many avenues, and we'll select the avenues, as I said, that we find it to be in the best interest of all parties. More to come on that, but I don't want to put myself and the company under the gun. We have the runway to make a proper decision and evaluate and make a measured decision that is long-term oriented. It is not in our best interest, and we are not focused on trying to find a solution that just kicks the can on the road in one step at a time. I think this is a business full of potential. We see having the runway to execute with the assets that we have with the unique combination of things we could do coming as a company that doesn't have the legacy obligations, we could be -- will be disruptive. And so that's our mindset. That's our goal. That's how we want to execute. So we're not going to make a rash decision. Paul, if you want to add anything, please go ahead and add."
+    },
+    {
+      "speaker": "Paul W. Orban EchoStar",
+      "company": "Corporation",
+      "role": "Principal Financial Officer & Principal Accounting Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. I agree with you. We have a long runway at this point in time. So there's no reason for us to rush into anything. We want to look at a holistic perspective. And like I said in my comments, we're looking for operational flexibility and long-term financial stability. We just don't want to do one thing here. We've got many things at our disposal levels that we can pull, and we want to make a -- hopefully, put together a solution that sells all of our financial needs for the long term."
+    },
+    {
+      "speaker": "Hamid Akhavan-Malayeri EchoStar",
+      "company": "Corporation",
+      "role": "CEO, President & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And John, can you comment on the coverage?"
+    },
+    {
+      "speaker": "John W. Swieringa EchoStar",
+      "company": "Corporation",
+      "role": "President of Technology & COO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, of course. And just to further clarify, the '25 commitments are on a license-by-license basis. That's correct. Obviously, there's a public information that you can read to get a better handle on the specifics there. But it is also true that the existing deployment does cover a significant portion of our 2025 commitments. But as I've mentioned on earlier calls, it's a more surgical build because we have to achieve a license-by-license milestones. So we're working through getting those sites planned working through side acquisition. I think Hamid mentioned earlier, we're working on things in parallel to make sure that we do what we need to do there."
+    },
+    {
+      "speaker": "Jonathan Chaplin New Street Research",
+      "company": "LLP",
+      "role": "US Team Head of Communications Services",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "John, if I can just follow up on that. I think my point is a little bit different. It's just the licenses that you've already covered at 75% with your existing build. I think they're a lot more valuable from the licenses that you haven't covered yet. And so when you look at the value of the portfolio that you've already protected with the build, I think it's is sort of 80% or 90% of the value of the portfolio, even though it's a much lower percentage of the licenses that you've already covered at 75%."
+    },
+    {
+      "speaker": "John W. Swieringa EchoStar",
+      "company": "Corporation",
+      "role": "President of Technology & COO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I think you're on to the right track there. The sites that would be in front of us are lower POPs per site, more rural. So I think you got it. Operator Our next question comes from the line of Ben Swinburne with Morgan Stanley. Benjamin Daniel Swinburne Morgan Stanley, Research Division - MD Hamid, thanks for all the commentary on the network and retail wireless as you've come in with fresh eyes. What should we expect from this business this year? I mean are there things we're going to see through the course of '24 either net adds or improving service gross margins or just in the reported results that the market can see that this network that you say is excellent and ready to go, can translate into a business? Because obviously, even if you raise capital to deal with the November maturities, there's more maturities down the line and we sort of know the trend line in video. So this is really about building something real with Boost. So maybe you can just set expectations for us? Or maybe the answer is given the cost cutting and free cash flow, this is not a year, we should expect to see the business inflect in any way. I would love to hear your thoughts on that. And then I just had a follow-up. affiliated companies. MARCH 01, 2024 / 5:00PM GMT, Q4 2023 EchoStar Corp Earnings Call"
+    },
+    {
+      "speaker": "Hamid Akhavan-Malayeri EchoStar",
+      "company": "Corporation",
+      "role": "CEO, President & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So let me answer your question in reverse. As Paul and I both mentioned, we're not looking to solve this maturity problems in a way that it will permanently be a drag on the business. We are trying to find solutions that are permitting us to develop the business in a significant and reaching full potential in a holistic way. I mean, so -- that's the goal. I mean, the opportunity is so unique here to be the first in the world to build the O-RAN, there's incredible amount of interest by all parties, enterprises, government, defense community, everybody is interested in making the great -- this is a great success, plus the fact that we have all these satellite assets that can tie to it, direct to device, a bunch of other things. So I want to say that we look at that and say, we cannot let a shortage of capital or limitations prevent us from making this business reach its full potential, which is the reason I want to be here and I'm excited about it. Now let me bring you to the first part of your question, which was what are you going to do in 20 -- Look, I see 2024, like any other new brand new mobile business that I have seen or launched and I had many of those, is a transition year where you gear the business for success. Now any number that shows up upfront because of the small number here, smallest number -- it could skew your model in a very strange way. It's not a year to build a model on. And it's not a year that we want to put a very static number. This is not a business on a steady state. We're going to go to market. We're going to throw something out there. We're going to be disruptive here and there to see what works. Sometimes put something in the market is not great and you kind of regear it, it becomes great. I'm really excited about like the one thing that I want to emphasize here, and I stand behind the network is awesome. It is awesome. I just can't speak to how great it is, plus the fact that you got the national roaming on the top of 2 other networks. I mean I just can't imagine anybody not seeing that as a differentiator, it has never happened in the history of mobile never. Nobody has had this. Nobody has had national roaming, it's the first time. And we like to use that. And I think that's -- that removes also to limitations from my perspective in terms of our go to market. But it's not the year that I can give you a static forecast. So please give me a year to figure out what which ends up and how we are going to maximize our market performance. But you're going to see installments. I'm not also reducing expectation to the point that you're not going to see us at all this year. It's just not the year to build a model on. Give me a year, help you build a model next year. Benjamin Daniel Swinburne Morgan Stanley, Research Division - MD Okay. And then I just was curious, as I mentioned in the K, I think there's a third test sort of that still needs to be finalized for the 2023 spectrum sort of FCC milestones that I think -- I think it says you have to finish that drive test this month. I just want to make sure that, that's nothing we should be thinking about as a risk. And then I was lastly, just going to ask a bit of a random one, Hamid. One of the partners that we've all focused over the years has been Amazon as again, with your fresh eyes, sort of surveying the relationship that DISH has. Anything you would call out there that you think is interesting or underappreciated? Or is that another one we shouldn't be thinking about much in 2024?"
+    },
+    {
+      "speaker": "John W. Swieringa EchoStar",
+      "company": "Corporation",
+      "role": "President of Technology & COO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "This is John. As it relates to the drive testing, we're on track with that, and we're getting ready to submit. I wouldn't put any extra risk factors on that beyond what we've already disclosed."
+    },
+    {
+      "speaker": "Hamid Akhavan-Malayeri EchoStar",
+      "company": "Corporation",
+      "role": "CEO, President & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So commenting on Amazon, we see Amazon -- I see personally Amazon as a very strategic partner, and I think they see it the same way. I don't want to speak on their behalf, but that's what we sense. The -- we are excited about our work together. I think they've given us an incredible amount of attention and help, and we're working with them hand in glove, and we are very excited about it. I mean we jointly committed to making sure offerings that we have on Amazon -- meet the Amazon's experience, which I'd like to have -- affiliated companies. MARCH 01, 2024 / 5:00PM GMT, Q4 2023 EchoStar Corp Earnings Call look, I'd like to have the Amazon experience, not the mobile comp online or any other experience. I mean that's one of the goals we have, and we're not going to compromise on that. And that's, again, another one of those things that I said, we want to make sure we get it right, but we have all the support we need from Amazon. So delighted with the relationship there, very good relationship. Operator Our next question comes from the line of Tom [Verguet] with Citadel. Unidentified Analyst Two years ago at the same call for the year-end '21, Charlie talked about your abilities to be very mathematical. And the network is built primarily for the enterprise and government solutions. I was wondering if you could talk a little bit about where we have success there and what you see in the near future from that since we seem to be focused on the call here with consumer wireless."
+    },
+    {
+      "speaker": "Hamid Akhavan-Malayeri EchoStar",
+      "company": "Corporation",
+      "role": "CEO, President & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So let me -- this is not sure 100% whether I will hit the mark on answering your question because it's a bit of a broad question. But we see a great potential in our enterprise. And part of that enterprise is the governments. Look, at the Hughes and now the broadband portion of our segment of our business at EchoStar now, we do have a relationship with and business with the partner of defense and government in multiple entities there. We see incredible opportunities there. In fact, tying that opportunity to the 5G, which we have demonstrated in a couple of places. We demonstrated that in a space in -- with the island, and we got a second base as a result of that. And that's become a showcase. We also won award from the government ORCID project of $50 million. We see that there's a significant amount of interest in the in the DoD government enterprise related to that. But I want to say that these things, as you're well aware, in the enterprise business, you work for quite a while before you get a Monster's contract. Paul Gaske mentioned in our -- in his remarks that Delta Airlines, you had a massive booking that was in a watch for 1.5 years. It's actually checking before you get something like that. But in the enterprise, when you get it, it significantly overshadows anything you can do in a consumer. So we're going to be focused on both. I want to make sure that people knows in the shorter term, while we're working in parallel to develop our enterprise business, government business, make 5G and O-RAN the differentiator in that space, which it is, we're going to feed ourselves using the consumer. So we're going to do both. And the future will tell us how -- what the mix will be, but we are excited about the enterprise opportunities."
+    },
+    {
+      "speaker": "Paul Gaske EchoStar",
+      "company": "Corporation",
+      "role": "COO of Hughes",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Operator, I think we'll take one more question before wrapping up. Operator Our final question will come from the line of Michael Rollins with Citi."
+    },
+    {
+      "speaker": "Michael Ian Rollins Citigroup",
+      "company": "Inc., Research Division",
+      "role": "MD & U.S. Telecoms Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Just wanted to follow up, Hamid, on some of the comments that you're making about the focus for the mobile business on creating a competitive offering. Are there mobile spectrum bands that EchoStar holds that you now view are no longer necessary to that competitive commercial strategy and could be monetized as part of this long-term funding plan. And then the second thing, just back to your earlier comments around the build requirements. Do the comments infer that you may want to ask for a delay from the FCC, so you could achieve some of the competitive in commercial objectives that you were sharing with us previously."
+    },
+    {
+      "speaker": "Hamid Akhavan-Malayeri EchoStar",
+      "company": "Corporation",
+      "role": "CEO, President & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So regarding the spectrum band, spectrum bands are all different, and you're going to need more of over time as you grow. You may not need all of them upfront. You may need to in different markets in different ways. Every spectrum band has -- a use that is specific to a affiliated companies. MARCH 01, 2024 / 5:00PM GMT, Q4 2023 EchoStar Corp Earnings Call certain needs you may have at certain times. So I cannot give you a specific answer, what a spectrum we're going to need at one point. But they all will come useful at some stage in your life of a business. And ultimately, when you are around 50 years into the business, you're going to need every spectrum band in every geography. But on the way there, you have plenty of flexibility to adjust your spectrum in a way that best is monetized for you at that stage in your life. So I don't find myself in a position, we don't find ourselves in a position that we are tied to a very specific recipe or ownership of the spectrums that make us -- we can be successful in many, many ways using the spectrum we have. And we have plenty of spectrum far more than I need at this moment. So we're all good. And as it comes to our interactions with the FCC, I generally don't like to comment on any activities regarding the FCC, we take all of our applications very seriously and intend to meet every one of our obligations. But I refrain from making any comments -- detailed comments regarding the FCC for obvious reasons."
+    },
+    {
+      "speaker": "Michael Ian Rollins Citigroup",
+      "company": "Inc., Research Division",
+      "role": "MD & U.S. Telecoms Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "If I could just one last one. And just given that in terms of what you just described on the commitments, can you just give us an update of just assuming that you have the funding, how many more sites and how much more in terms of dollars is needed, do you believe to satisfy all the requirements and just put this whole question behind you?"
+    },
+    {
+      "speaker": "Paul W. Orban EchoStar",
+      "company": "Corporation",
+      "role": "Principal Financial Officer & Principal Accounting Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. We don't disclose that, but we will have ample capital to hit the requirements if we're able to raise money so..."
+    },
+    {
+      "speaker": "Hamid Akhavan-Malayeri EchoStar",
+      "company": "Corporation",
+      "role": "CEO, President & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. And as you know, you could build the sites in many different ways. You build sites for capacities, for coverage, there's always that. So it's really not -- it's more of an art and science. So our engineers would have to look at that. And for that reason, it doesn't really make sense to put a number out there. But as Paul said, we have enough resources, we would have enough resources to meet that obligation. I want to thank everyone for participation. I think we had a different format. We took some time upfront. But hopefully, that time was useful to answer some of these questions. So the Q&A did not have to be as long. With that, thank you very much, and hopefully, we'll see you on the next earnings call. Operator This concludes today's teleconference. You may disconnect your lines at this time. Thank you for your participation. In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. affiliated companies."
+    }
+  ]
 }

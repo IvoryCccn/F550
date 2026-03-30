@@ -4,5 +4,246 @@
   "quarter": "2023Q4",
   "sector": "IT",
   "filename": "2024-Feb-01-GEN.OQ-139511658874-Transcript.pdf",
-  "segments": []
+  "segments": [
+    {
+      "speaker": "Saket Kalia Barclays Bank",
+      "company": "PLC, Research Division",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Operator Good afternoon, everyone. Thank you for standing by. My name is Victoria, and I will be your conference operator today. I would like to welcome everyone to the Gen's Fiscal Year 2024 Third Quarter Earnings Call. Today's call is being recorded. (Operator Instructions). At this time, for opening remarks, I would like to pass the call over to Jason Starr, Head of Investor Relations."
+    },
+    {
+      "speaker": "Jason Starr Gen Digital",
+      "company": "Inc.",
+      "role": "Head of Investor Relations",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thank you, Victoria, and good afternoon, everyone. Welcome to Gen's Third Quarter Fiscal Year 2024 Earnings Call. Joining me today are Vincent Pilette, CEO; and Natalie Derse, CFO. As a reminder, there will be a replay of this call posted on the Investor Relations website, along with our slides and press release. I'd like to remind everyone that during this call, all references to financial metrics are non-GAAP and all growth rates are year-over-year, unless otherwise stated. A reconciliation of non-GAAP to GAAP measures is included in our press release and earnings presentation, both of which are available on the IR website at investor.gendigital.com. We encourage investors to monitor this website as we routinely post investor-oriented information such as news and events and financial filings. Today's call contains statements regarding our business, financial performance and operations, including the impact on our business and industry that may be considered forward-looking statements, and such statements involve risks and uncertainties that may cause actual results to differ materially from our current expectations. Those statements are based on current beliefs, assumptions and expectations as of today's date, February 1, 2024. We undertake no obligation to update these statements as a result of new information or future events. For more information, please refer to the cautionary statements in our press release and the risk factors in our filings with the SEC, and in particular, our most recent reports on Form 10-K and Form 10-Q. And now I'll turn the call over to Vincent."
+    },
+    {
+      "speaker": "Vincent Pilette Gen Digital",
+      "company": "Inc.",
+      "role": "CEO & Director",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thank you, Jason. Good afternoon, everyone, and welcome to our earnings call. Only a few months ago, we celebrated Gen's 1-year anniversary and held our first Investor Day as Gen. We were excited to share our strategy and our plans to expand our customer reach and our product road map. We know that we will capture the tremendous opportunity we have in consumer cybersafety over the next several years. In Q3, we delivered another consistent quarter of execution towards that goal. We grew cybersafety bookings to $1 billion, up 4%, cybersafety revenue up 3%, and delivered our 18th consecutive quarter of growth. We drove net subscriber count higher again this quarter, up 330,000 sequentially, with total direct customersfinishing the quarter at a record 38.9 million. While we remain focused on accelerating our growth, we continue to demonstrate our ability to operate with strong fiscal discipline, affiliated companies. FEBRUARY 01, 2024 / 10:00PM GMT, Q3 2024 Gen Digital Inc Earnings Call increasing our operating margin by another 80 basis points sequentially, up nearly 7 full points since the Avast merger. And finally, we expanded our earnings power, growing EPS 10%. At our last Investor Day, we shared long-term goals that included accelerating revenue to mid-single digits, growing EPS by 12% to 15%, and reducing our leverage to less than 3x EBITDA by 2027. As we discussed, our growth plan is underpinned by accelerating our subscriber growth, especially internationally and through partnerships, increasing value to our customers with cross-sell and upsell, and driving Gen's overall retention rate to 80%. We're already making progress here, particularly in our investments to increase Gen's customer base, entering new markets and driving international growth. In Q3, our direct acquisition channels grew double digits in all 3 regions, leading to a broad-based performance. Our mobile solutions continue to see strong traction internationally, capitalizing on growing Internet connectivity in emerging markets. Our solutions are resonating with customers in these markets, and we have an integration road map that will enable us to drive more value over the life cycle. We will continue to invest in these higher growth markets and channels as we look to expand our reach. We are also making consistent headway in delivering added value to our current customers as they expand their digital footprint. In Q3, we delivered another strong quarter in cross-sell upsell activities, with ARPU for these customers growing both year-over-year and sequentially in key markets, even though our overall reported ARPU slightly declined sequentially due to shifting mix of customer cohorts in mobile and emerging markets. Of course, progress is not linear and uniform across all of our levers. Overall, Q3 retention was stable sequentially at 77%, with continued progress across key brands but partially offset by mix and other integration-related activities. While slightly behind our aspirations this quarter, we remain on track and confident in our long-term target of 80%. In partner, the timing of a few large deals and the rollout of our solutions into our indirect customer employee base impacted the in-quarter revenue. Overall, the partner channel continues to show strong engagement with a robust and growing pipeline and a competitive set of partner solutions, which is a key tenant of our strategy. To support our growth plan, we are leveraging our trusted brands and customer-centric approach. Our cybersafety capabilities continue to be recognized by leading third parties and, most importantly, our customers. Recently, Norton and Avast were each named to PC Magazine's list of Best Tech Brands for 2024. And LifeLock Net Promoter Score reached 67 exiting Q3, an all-time high driven by our relentless focus on our customers and listening to their feedback. Gen continues to be a leader in the industry and trusted by consumers around the world. Ultimately, we are recognized, trusted because of our technology and our ability to innovate and protect people from the ever-changing and increasing sophisticated threats they face every day. Last quarter, Avast blocked over 1 billion unique attacks per month, a stunning increase of 50% compared to a year ago, and over 10 billion for all of calendar year 2023. As we have pointed out many times, these threats are not focusing on targeting your PC or your phone, but to you as an individual, as you live your digital life. Threat actors are not missing a beat and have increasingly moved to web-based threats such as social engineering and malvertising, as well as ongoing phishing attacks and AI-powered targeted e-mail scams. Our customers are relying on us to out-innovate the threat actors and remain focused on increasing the pace at which we enhance and expand our products portfolio. Q3 was no different. We continued our focus on helping customers live their digital life safely, privately and confidently. We offered consumers better protection from phishing and e-mail scams, bolstering Norton AntiTrack with private e-mail and adding a new safe e-mail stand-alone product. We give our customers a trusted way to navigate the web securely and privately with the launch of Norton private browser. And in identity, we expanded our reach into new countries, in all 3 regions and added new features in existing markets. affiliated companies. FEBRUARY 01, 2024 / 10:00PM GMT, Q3 2024 Gen Digital Inc Earnings Call As we mentioned in November, our AI technology has been and remains a key tenant of our strategy. Not only this powerful AI and deep learning technology power are core security engines, but we are now bringing AI to the forefront to make our products more interactive and intuitive. In December, as part of our ReputationDefender business, we launched Total Radius. This new innovative product powered by AI provides a fully automated analysis of all available information online to help customers quickly identify and protect themselves. To start, we are offering this product through our employee benefit channel. In early January, we also fully launched Norton Genie, our AI-powered scan detection app, both Norton Genie and Total Radius are excellent examples of how people can leverage the power of Gen's AI and cutting-edge technology to more easily protect themselves and their loved ones from online threats. I'll conclude by saying that we have a great opportunity ahead and are very confident in achieving our long-term targets we laid out at our Investor Day. The threat landscape is more perilous than ever, and Gen's trusted brands offer the best solutions to consumer to protect and empower their digital lives. We will continue to execute our strategy in a disciplined way to accelerate growth, drive further margin expansion and create long-term value for all stakeholders. And with that, let me pass it to Natalie to review our quarterly performance in greater detail and our guidance for the next quarter."
+    },
+    {
+      "speaker": "Natalie Marie Derse Gen Digital",
+      "company": "Inc.",
+      "role": "EVP, CFO & Principal Accounting Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you, Vincent, and hello, everyone. For today's call, I will walk through our fiscal Q3 2024 results, followed by our outlook for Q4. I will focus on non-GAAP financials and year-over-year growth rates unless otherwise stated. Also, please note, this is our first fiscal quarter that includes full financial results from Avast in both periods, as we have now passed the anniversary of the closure of the deal. Q3 was another quarter of consistent execution. Q3 revenue was $951 million, up 2% in USD and up 3% in cybersafety, excluding legacy business lines. Cybersafety bookings grew 4% in constant currency, supported by continued growth in cross-sells and our direct acquisition channels. Direct revenue was $837 million, up 3% in constant currency. Our direct customer base expanded for the second consecutive quarter, increasing to $38.9 million, up 330,000 customers sequentially and adding 0.5 million customers year-over-year. Driving new customer acquisition remains a priority for us and is growing double digits year-over-year. Leading with our expanded product offerings and broadening our geographic efforts, we have deployed incremental marketing spend to capture structural demand growth for cybersafety, especially in channels like mobile and international markets. As we move forward, our robust product road map will continue to extend our reach into new markets and cohorts as well as continue to support our retention efforts over the long term across all of our cohorts. On the monetization front, monthly direct ARPU was USD 7.21 , an increase of $0.12 year-over-year and a decrease of $0.07 sequentially. As previously shared, ARPU is impacted by many factors, including new customer growth, cross-sell adoption, geographic and channel mix. With the stronger growth in our new customer acquisition and traction in mobile and emerging markets, we are seeing the mix impacts on blended ARPU. While lower than the ARPU average, the cohort of customers we are acquiring in these new markets and channels are accretive to our installed base, and we are able to acquire these new cohorts at a lower acquisition cost proving out to be healthy ROI on our performance marketing dollars. These cohorts will also blend into our flywheel and offer opportunities for further expansion into our portfolio of products and services in essence, feeding our cross-sell and upsell opportunity funnel. Within our more mature cohorts, ARPU continues to scale as we drive cross-sell adoption, and this expansion reflects our customers' demand for increased coverage in the ever-changing cybersafety landscape. Turning to retention. Our overall customer retention rate remained steady at 77%. As we've shared previously, we made significant progress in our retention rate in the first year as a combined company, yet still have many opportunities to improve retention across cohorts and across brands, as we make progress towards our 80% retention rate target over the next few years. affiliated companies. FEBRUARY 01, 2024 / 10:00PM GMT, Q3 2024 Gen Digital Inc Earnings Call Currently, we are focused on driving retention rates up by improving user engagement, introducing new products and features, and clearly demonstrating value to our customers with our best-in-class comprehensive cyber protection offerings and services. And as we move forward, we expect to drive additional uplift by continuing to execute on our product migration plans, and even more importantly, by creating hyper-personalized, AI-powered customer experiences and incorporating them into our differentiated products and omnichannel go-to-market strategies. Turning to our partner business. Scaling our partner business is a key component to achieving our overall growth plan. Partner revenue was $99 million in Q3, up 4% year-over-year. We continue to drive growth in this channel through employee benefits, with a record pipeline and additional expansion plans to accelerate further. Given the long nature of partner sales cycles, the progress will be nonlinear, and we will remain competitive with our offerings to capitalize on partner readiness across multiple channels. Driving our partners business to $0.5 billion remains the longer-term objective, and we are excited to share more progress in the coming quarters. Rounding out our revenue, our legacy business lines contributed $15 million this quarter, down from $23 million in prior year. As a reminder, we expect legacy to continue declining double digits year-over-year, and accounts for less than 2% of our overall total revenue. Turning to profitability. Q3 operating income was $558 million, up 6% year-over-year. We increased operating margin to 59%, as we work towards our 60% margin goal we outlined in our long-term model. Every point of operating margin expansion is harder to achieve than the last, but this expanding operating leverage enables us to redirect some of the efficiency gains back into our growth investment framework. You will see us continue to invest in performance marketing to reach new and existing customers, to bolster our product portfolio with differentiated solutions, to amplify our international presence, especially in identity and privacy and expand into trust-based adjacencies that will touch more parts of the consumers' digital life. These investments help fuel progress in each of our growth levers and strengthen our position to accelerate revenue growth to mid-single digits over the next 3 years. Q3 net income was $317 million, up 9% year-over-year. Diluted EPS was $0.49 for the quarter, up 10% year-over-year and up 11% in constant currency. Interest expense related to our debt was approximately $158 million in Q3, and an EPS impact of $0.19. Our non-GAAP tax rate remains steady at 22%, and our ending share count was 645 million, down 6 million year-over-year, reflecting the impact of our share repurchases. Turning to our balance sheet and cash flow. Q3 ending cash balance was $490 million. We are supported by $2 billion of total liquidity, consisting of our ending Q3 cash balance and a $1.5 billion revolver, and we have no near-term maturities due until April 2025. Q3 operating cash flow was $315 million, and free cash flow was $307 million, which includes approximately $201 million of cash interest payments this quarter. Turning to capital allocation. We remain intentional and balanced with our capital deployment and are committed to returning 100% of excess free cash flow to shareholders. In Q3, we paid down $250 million of our Term Loan B, and are now 3.9x net levered. We also deployed $100 million for opportunistic share repurchases, the equivalent of almost 5 million shares. We have approximately $730 million remaining in our current share buyback program. Finally, we have paid $81 million to shareholders in the form of our regular quarterly dividend of $0.125 per common share. For Q4 fiscal 2024, the Board of Directors approved a regular quarterly cash dividend of $0.125 per common share, to be paid on March 13, 2024, for all shareholders of record as of the close of business on February 19, 2024. Please note that the Q3 balance sheet and cash metrics above do not include a $900 million tax refund we received at the end of January associated with tax capital losses disclosed in our fiscal year '23 10-K. This domestic cash payment increases our liquidity. It's available for debt prepayment and/or share repurchase and reduces our net leverage by 0.4 point to approximately 3.5x net. affiliated companies. FEBRUARY 01, 2024 / 10:00PM GMT, Q3 2024 Gen Digital Inc Earnings Call With our strong cash flow generation and disciplined capital deployment, we will continue to use a balanced approach in paying down debt and opportunistic share buybacks, to help achieve our goals of delivering EPS growth of 12% to 15%, and driving net leverage below 3x. Now turning to our Q4 fiscal '24 outlook. For Q4, we expect non-GAAP revenue in the range of $960 million to $970 million. We expect Q4 non-GAAP EPS to be in the range of $0.52 to $0.54. This translates to fiscal year 2024 non-GAAP revenue in the range of $3.805 billion to $3.815 billion, and non-GAAP EPS to be in the range of $1.95 to $1.97. While this guidance is within the full year range we provided in November at our Investor Day, we recognize it's at the low end as a result of some of the factors mentioned earlier. Yet, we remain steadfast in driving our long-term growth plan. We are focused on operational excellence and delivering on our commitments, always in a disciplined and balanced manner. Our key performance indicators are trending in the right direction. Our strategy is working, and our financial model is resilient. We're committed to reinvest in our business to drive sustainable and profitable mid-single-digit growth and create shareholder value over the long term. We look forward to reporting on our progress in the quarters ahead. As always, thank you for your time today, and I will now turn the call back to the operator to take your questions. Operator? Operator (Operator Instructions) Our first question comes from the line of Saket Kalia with Barclays."
+    },
+    {
+      "speaker": "Saket Kalia Barclays Bank",
+      "company": "PLC, Research Division",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Natalie, maybe I'll start with you. Maybe my first question is, the bookings growth of 4% was really good to see. The revenue growth of 2% was a little bit below. I was just wondering if you could help us bridge those 2 metrics a little bit, and when do you think those 2 growth rates maybe start to converge?"
+    },
+    {
+      "speaker": "Natalie Marie Derse Gen Digital",
+      "company": "Inc.",
+      "role": "EVP, CFO & Principal Accounting Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, sure. So first, if I look at it, look, we're proud to be growing bookings for the second quarter in a row in mid-single digits, up 4%. As we spoke to this quarter and last quarter, that growth is driven by the acceleration in the success of cross-sell into a broader portfolio, it's driven by a reacceleration of DTC and customer acquisition, stable retention across the brands, the strength really coming through not only across broad-based, but identity and privacy products that we've introduced. And then when you look at revenue, keep in mind that, that revenue on an as-reported basis, that, first of all, includes legacy business lines and obviously is on an as-reported basis in USD. When you take that out and you really look at the cybersafety revenue, excluding legacy, excluding the FX headwinds, we grew 3%. So not that far off of a bookings rate of growth. And then as we continue to scale and as we continue to quarter after quarter, deliver on that bookings growth, that will eventually feed and really converge with revenue rate of growth over time."
+    },
+    {
+      "speaker": "Saket Kalia Barclays Bank",
+      "company": "PLC, Research Division",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Vincent, maybe for my follow-up for you. Listen, the highlight for me was the better net adds. I mean, 330,000 was great to see. It feels like the ARPU profile though, for some of the gross adds or for some of the newer ads are changing. So maybe it's early to talk about this, but as you think about the growth formula in cybersafety, do you think that we should think about different mixes of sort of what comes from the installed base versus what comes from ARPU? How do you think about that sort of conceptually?"
+    },
+    {
+      "speaker": "Vincent Pilette Gen Digital",
+      "company": "Inc.",
+      "role": "CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. And just to bridge first back to your first question, and Natalie, I think the 2 leading indicators we have for this business that will then flow back into the P&L is the booking growth rate, and Natalie mentioned, are 4%. And then the second one is the customer count affiliated companies. FEBRUARY 01, 2024 / 10:00PM GMT, Q3 2024 Gen Digital Inc Earnings Call growth that we discussed, which is indirect or direct. You're right. So we grew sequential or sequentially our direct customer count for the second quarter in a row. We actually achieved a record, right? So when you take Avast plus NortonLifeLock together, at the time of the merger, we noted a record 38.9 million, and that has been definitely a very strong sign of the quarter. We did discuss at AID back in November that will drive with discipline. Every one of our channels is managed economically positive over the life cycle of the customers, right? So the CLV over CAC by all the channel is very important. And we're balancing our marketing investment across all of the channels. And if we have a little bit more momentum in certain, then we're going to capture quickly that presence in that channel. For the last 2 quarters, internationally, emerging markets and maybe closer to the security line versus identity, privacy has been the traction. We also shared at the time that in developed and emerging country and ARPU is $35 in average in emerging markets, as you move into more developed towards [$70] and then when you get fully mature and ARPU is $135. Now we feel good because we know we have very strong capability of cross-selling and upselling. And as we continue to mature new channels or enter new channels and mature then there is space there, we have a chance to expose our customers to a broader protection of their digital lives, and that has been our strategy. So that's how we're doing it. So the aggregated metric for total, Gen, on ARPU, if you want, has to consider that mix, and we will -- we're looking at the ARPU across all the channels and then driving the cross-sell, upsell in each one of those. Operator The next question comes from the line of Hamza Fodderwala with Morgan Stanley."
+    },
+    {
+      "speaker": "Hamza Fodderwala Morgan",
+      "company": "Stanley, Research Division",
+      "role": "Equity Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Vincent, understand that progress is not always linear across every metric. But clearly, the ARPU did come in below your expectation. I'm wondering if it's just a function of just a higher mix of incremental international mobile subs or did the churn rate for your, let's say, higher paying subscribers, the NortonLifeLock subscriber, if you will, did that come down more than you would have expected or didn't improve as much as you had expected?"
+    },
+    {
+      "speaker": "Vincent Pilette Gen Digital",
+      "company": "Inc.",
+      "role": "CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So let me address both, and they combine, obviously, in the dynamic. Definitely, the ARPU is still growing year-over-year, but is sequentially down, is driven by mix. We are not discounting more in each one of the channels. So we didn't see anything outside of the normal business dynamic that we had seen in prior quarters. And to be honest with you, we love all of our channels and where we see momentum, we're going to allocate some of the marketing dollars, in this case, this quarter was maybe a little more allocated towards lower ARPU channels, but very economically positive in the long term. So we feel good about that. So that's the entire ARPU dynamic mix shift. When you talk about retention, we were stable quarter-over-quarter. We're actually improving in key areas but we are slightly below our plan. And we were doing real-time allocation of our resources. We're also preparing to move now to common platform. This year is the big rollout of our new product set. And merging the different campaigns, understanding the different things have to be -- some trade-offs with the day-to-day drive of the activity. So we did not improve as much as we had in our plan, if you want. But we feel really good. And I think as we continue to progress quarter in, quarter out, it may not be exactly linear, but feel very good that we will get to our 80% overall."
+    },
+    {
+      "speaker": "Hamza Fodderwala Morgan",
+      "company": "Stanley, Research Division",
+      "role": "Equity Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "And just on the topic of (inaudible), I know the main driver for you is to continue to deliver value through upsell and cross-sell. But if I'm -- unless I'm mistaken, I don't think you've taken really any price over the last couple of years despite what has been record high inflation and some of your peers are raising prices. So I'm just curious how you're thinking about perhaps taking more price for the value that you're delivering going forward. affiliated companies. FEBRUARY 01, 2024 / 10:00PM GMT, Q3 2024 Gen Digital Inc Earnings Call"
+    },
+    {
+      "speaker": "Vincent Pilette Gen Digital",
+      "company": "Inc.",
+      "role": "CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So pricing is very strategic to us, right? And we really are pricing for value. So we constantly innovate, add new features and then keep our price constant with markets. And when we say we didn't take price increase, that's not true. We always price for the value we deliver into the market, adding new features. And I think the growth rate you mentioned, cross-sell/upsell, definitely the cross-sell, meaning adding more to cybersafety, or the upsell towards that membership, its 2 of our 5 key levers for growth, right? We also obviously want to continue to expand, very pleased to have a new customer coming in, in last quarter and this quarter. We want to expand and continue to expand with partners to provide cybersafety solutions, and we're looking at the overall, if you want, as a balanced approach delivering and pricing for them. Operator The next question comes from the line of Peter Levine with Evercore."
+    },
+    {
+      "speaker": "Peter Marc Levine Evercore ISI",
+      "company": "Institutional Equities, Research Division",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Maybe just to piggyback off of the first 2 is, since we last met in November, kind of when did you see these dynamics start to kind of pop up? Was it mid-quarter or towards the end of the quarter? Just curious to know when you kind of started to see these -- the mix shift within the channel. And then what are your assumptions into Q4 into next year as you kind of think about what's happening today?"
+    },
+    {
+      "speaker": "Vincent Pilette Gen Digital",
+      "company": "Inc.",
+      "role": "CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. So as we reported Q2, first quarter of sequential growth, as you know, we said we're finishing strongly in September, with good momentum outside of the U.S. in international and new emerging markets. That's what -- at the Analyst Day, we indicated kind of the profile of customer by those markets so we can we can model them. Obviously, they carried into Q3 at a stronger pace than we anticipated. We thought it would slow down. We did know it was sustainable. We saw it was sustainable and continue to put marketing dollars into those trends. And I think going into Q4, we now have 2 quarter sequential experience with it, if you want. We plan to continue into Q4. We'll give more indications when we give the annual guidance of '25 in May. There's plenty of things that can happen between now and then, especially making the progress in retention. In terms of retentions, we -- actually, as I mentioned, we made good progress across the brand. So I see nothing changing from a fundamental progress and you know that we have the aspiration to bring the Avast brands to -- closer to where the Norton is, and we're making good progress there. In terms of trading off certain initiatives for platform integrations that were more day-to-day through the quarter as we were preparing for integration."
+    },
+    {
+      "speaker": "Peter Marc Levine Evercore ISI",
+      "company": "Institutional Equities, Research Division",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I think one of the comments you made was interesting, was the record pipeline, I think, for the employee benefit channel. Maybe just if you can double down there and kind of let us know how that cohort of customers varies versus your traditional channel. Maybe talk about what the ARPU looks like for those, like the shared cohort customers. Just curious anything that you can share, when that becomes more meaningful to you guys."
+    },
+    {
+      "speaker": "Vincent Pilette Gen Digital",
+      "company": "Inc.",
+      "role": "CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Definitely. In partner, we have multiple channels, right, employee benefit is one of them. We have the telcos. We have some of the retail. We have strategic partners as well. And they all behave slightly differently. They also have a different relationship between your bookings and your revenue compared to the normal DTC business, which is 90% of our business, as you know. In terms of the employee benefit channel, we continue to grow the pipeline. We've been growing double digits. Maybe we're a bit over optimistic in terms of closing certain of these deals, then we can carry an immediate impact here during sign-up times and those will be delayed and carry going into fiscal year '25 and not lost deals, but it takes time to deploy. We're also deploying into those installed base, higher value proposition, which may be started initially as a basic identity protection adding all the way to the full membership structure with ReputationDefender, our new product, and those taking a little bit more time. affiliated companies. FEBRUARY 01, 2024 / 10:00PM GMT, Q3 2024 Gen Digital Inc Earnings Call Each channel may have different ARPU of the employee base is very close to LifeLock, maybe 20%, 25% lower than the average, but very close to it. Operator The next question comes from the line of Matt Hedberg with RBC."
+    },
+    {
+      "speaker": "Matthew George Hedberg RBC Capital",
+      "company": "Markets, Research Division",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Maybe just my questions are kind of similar to the first couple of ones that have been asked. But I guess -- I guess specifically on the ARPU piece, you've answered the question a couple of times. I guess, specifically, you guys don't guide to net adds and ARPU. But sort of embedded in your Q4 guide, is it sort of continued mix pressure, is that something that we should kind of expect in kind of the shorter term? Obviously, there's a long-term probably upward bias to ARPU. But just sort of wondering if you could give us a little bit more clarity on some of the Q4 assumptions."
+    },
+    {
+      "speaker": "Natalie Marie Derse Gen Digital",
+      "company": "Inc.",
+      "role": "EVP, CFO & Principal Accounting Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. I think from a -- Matt, you heard Vincent talk about -- when we -- now we see 2 quarters of the momentum that we see. And look, we like what we see. I don't want that to be lost in the overarching metric, with ARPU sequentially down and now 2 quarters of sequential customer adds. I think it's important to understand as much as we can and explain to you guys what's happening at the cohort level. So let's just talk about ARPU for a second first. If you break that down, and we really see the core online business, we see expansion in ARPU. And we've seen that for many, many, many quarters in a row, especially as we continue to drive in a successful manner, more and more adoption of cross-sell. That has been a growth driver and lever for us in the recent quarters. And as you heard back in November, it will continue to be one of our main levers as we drive forward, not only with the different cohorts that come in and as we expand internationally, but as we again have a robust product portfolio and continue to bring new products to market. And then when you look at the economics of the other cohorts, they're very healthy. We've said and we've been very explicit that we will continue to invest in marketing to drive growth and drive expansion and diversify but we don't burn money in the parking lot. So even as the cohorts mixed together and at the top level metric on a blended basis, it looks down quarter-over-quarter, it is down quarter-over-quarter, within the cohorts, they're very healthy. And so as we look forward in that metric or we look forward as to where the customer acquisition is going to come and be achieved compared to, as they come through the funnel, what products and solutions are they choosing at which time. It's definitely all about diversification, and it's all about growth. And we don't pick and choose or prioritize one channel market, et cetera, over the other. What we're looking for is sustainable and profitable growth. And as we look at the performance of the performance marketing dollars, we put the fuel behind the most fruitful opportunities that we can in a balanced approach. Now how all that math comes together quarter in, quarter out, I think that's going to look different and it's going to flex as we make those decisions, and what we've got to make sure that we lay out for you guys is that it is a balanced and disciplined approach and that the diversity that we are driving is a healthy one for Gen."
+    },
+    {
+      "speaker": "Matthew George Hedberg RBC Capital",
+      "company": "Markets, Research Division",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "And then there was an earlier question, too, on the employee benefit revenue. We also thought that's a huge opportunity for you all. It sounds to me like now, I just want to clarify, you said the revenue that slipped out of 3Q, we're not -- we shouldn't expect that in 4Q. That's more of a fiscal '25 timing issues. Is that kind of the right way to think about the deals that didn't close this quarter?"
+    },
+    {
+      "speaker": "Vincent Pilette Gen Digital",
+      "company": "Inc.",
+      "role": "CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. Definitely, a few key deals slipped into fiscal year '25, and we did not put them into our Q4 forecast."
+    },
+    {
+      "speaker": "Natalie Marie Derse Gen Digital",
+      "company": "Inc.",
+      "role": "EVP, CFO & Principal Accounting Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "That's another one where I want to make sure that we... affiliated companies. FEBRUARY 01, 2024 / 10:00PM GMT, Q3 2024 Gen Digital Inc Earnings Call"
+    },
+    {
+      "speaker": "Matthew George Hedberg RBC Capital",
+      "company": "Markets, Research Division",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "They're not going to make a loss, so..."
+    },
+    {
+      "speaker": "Natalie Marie Derse Gen Digital",
+      "company": "Inc.",
+      "role": "EVP, CFO & Principal Accounting Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. That's another message I want to make sure that we reiterate and are super clear, like the EV funnel is just incredibly robust. It's never been stronger. The team there is really driving diversification, expansion and really increasing the quality. So we've got deals in the hopper of all size and scale. And we're just really having a disciplined approach. There's an operational excellence component to that. That team is doing really, really well. And I look at it as, when we manage these deals, we're just being great partners. We're being great partners to our partners for lack of a better way to say it, but the customers and the EV deals, those integrations can be -- as we look at different size and scales of the deals, they can be pretty complicated. And so we're making sure that we are absolutely delivering on our commitment to them. And then as they integrate and really work through the integration on their side, there are eventually at times, just timing components to it. So that's how I would encourage you guys to look at it. Again, the EV funnel has never been stronger. Operator The next question comes from the line of Jonathan Eisenson with Bank of America."
+    },
+    {
+      "speaker": "Jonathan Eisenson BofA",
+      "company": "Securities, Research Division",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I just have 2. So the first is, can you just first touch on deal linearity throughout the quarter? And then my second question is, any color you can give on how aggressive you plan to be on buybacks, given the injection of cash?"
+    },
+    {
+      "speaker": "Natalie Marie Derse Gen Digital",
+      "company": "Inc.",
+      "role": "EVP, CFO & Principal Accounting Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. So the deal linearity, we just -- our partner channels are so diverse. And I know you attended the Investor Day, but for everybody else on the call, like we've talked about how many different channels are in partner. And quarter in, quarter out, the timing of those deals and the diversity of those channels now they come together, they won't be linear. What I would reiterate is that what we talked about at our Investor Day, and I would reiterate here is, the partner channel is very, very critical for us. We laid out a growth plan over the long term to add about $100 million of incremental partner revenue. And so the teams are aligned to that, driving towards that and we'll stay focused on that goal and give you guys progress updates along the way. And then in terms of the share buyback, in terms of -- I don't really want to comment on conservative or aggressive, but we definitely will have balanced capital allocation. We had already had prior to the receipt of that $900 million, we had earmarked a balanced approach across share buyback and accelerated debt pay down for Q4, again, as we laid out for you guys in November, we'll continue that balanced approach. And then like we said, the $900 million is now available for us to deploy. We already have that and ready to go in terms of how we're going to deploy that in Q4. Operator Our next question is a follow-up from Saket Kalia with Barclays."
+    },
+    {
+      "speaker": "Saket Kalia Barclays Bank",
+      "company": "PLC, Research Division",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Maybe just one follow-up, if I could. Natalie, maybe for you, so the pipeline and the employee benefits and sort of that partner business sounds great. Just given some of the deal dynamics that didn't necessarily benefit here in Q3 and what we are now assuming in Q4, I was just wondering if you could put a finer point on what that revenue impact was here in Q3? I mean, clearly, there's some ARPU impacts, right, that we've talked about quite a bit. But I'm curious how much of that partner business maybe contributed to some of the revenue delta in the quarter."
+    },
+    {
+      "speaker": "Natalie Marie Derse Gen Digital",
+      "company": "Inc.",
+      "role": "EVP, CFO & Principal Accounting Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, I would say, look, let's look at the top level number. I think based on the performance that we delivered in Q3 versus what the midpoint of the guide, let's just face into that. That's about $5 million versus midpoint. And so nothing is going to be material. There's a affiliated companies. FEBRUARY 01, 2024 / 10:00PM GMT, Q3 2024 Gen Digital Inc Earnings Call handful of things that go into that approximately $5 million miss to the midpoint, us delivering on the low end. And so the partner deals are a contributor. The fact that when we talk about our growth levers coming through and we talk about the mix of the customers coming through the funnel, et cetera, that had some. There is a little bit of FX, et cetera. So all in, nothing on an individual line item basis is material, all tallying up to about a $5 million delta. Operator Our final question comes from the line of Hamza Fodderwala."
+    },
+    {
+      "speaker": "Hamza Fodderwala Morgan",
+      "company": "Stanley, Research Division",
+      "role": "Equity Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Just for my final, I wanted to sneak in a product question here for Vincent. Just given that the sort of threat environment that we're seeing with the rise of ransomware, AI, deep fakes, just the elections that are happening globally around the world. It seems like cybersecurity is as much of a problem for organizations as it is for consumers. And I'm curious, what are you doing with your partners, with your customers, to really educate them on having proper cyber hygiene? And specifically on the -- for the AI deepfake issue, are there any sort of products on the road map that could potentially deal with that going forward?"
+    },
+    {
+      "speaker": "Vincent Pilette Gen Digital",
+      "company": "Inc.",
+      "role": "CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, absolutely. And we have a lot of activities with partner, that's why partner is so strategic. As we embed it into security, and security concerns into solutions that the consumer buy and then directly with the consumer, we have a full set of activities in terms of educating, reminding them. It's also part of our customer success journey that we drive directly with all of our customers. Hygiene, as you know, in cybersecurity is a big component of that. We definitely are using more and more AI, as [Andre] mentioned, at the AID using AI to combat AI, if you want. The shift towards a personalized, interactive, intuitive, cybersafety companion, if you want, is absolutely essential. We launched Norton Genie as an example of early on what we can do to try to identify some of those fake scans. They'll become more and more sophisticated. And with that, our product will become more and more powerful as it really can scan the entire spectrum of digital threats. So you'll see the evolution of cybersafety for consumers becoming more and more embedded and personalized to your behaviors."
+    },
+    {
+      "speaker": "Jason Starr Gen Digital",
+      "company": "Inc.",
+      "role": "Head of Investor Relations",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "This concludes our conference call today. Thanks for joining. In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. affiliated companies."
+    }
+  ]
 }

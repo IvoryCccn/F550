@@ -4,5 +4,638 @@
   "quarter": "2024Q3",
   "sector": "IT",
   "filename": "2024-Nov-06-JKHY.OQ-139084891230-Transcript.pdf",
-  "segments": []
+  "segments": [
+    {
+      "speaker": "Dave Koning",
+      "company": "Baird",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Operator Good morning, and welcome to the Jack Henry first quarter 2025 earnings conference call. (Operator Instructions) Please note, this event is being recorded. I would now like to turn the conference over to Vance Sherard, Vice President of Investor Relations. Please go ahead."
+    },
+    {
+      "speaker": "Vance Sherard Jack Henry",
+      "company": "& Associates Inc",
+      "role": "Vice President of Investor Relations",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thank you, Wyatt. Good morning, and thank you for joining the Jack Henry First Quarter Fiscal 2025 Earnings Call. Today, I'm joined by President and CEO, Greg Adelson; and CFO and Treasurer, Mimi Carsley. Following my opening remarks, Greg will share his insights on the first quarter of our fiscal year and provide observations on our business and the industry. Mimi will then discuss the financial results and full year guidance outlined in yesterday's press release, which is available in the Investor Relations section of the Jack Henry website. Afterwards, we will open the lines for a Q&A session. Please note that this call includes forward-looking statements, which involve risks and uncertainties that could cause actual results to differ materially from our expectations. The company is not obligated to update or revise these statements. For a summary of risk factors and additional information that could cause actual results to differ materially from such forward-looking statements, refer to yesterday's press release and the Risk Factors and forward-looking statements sections in our 10-K. During this call, we will discuss non-GAAP financial measures such as non-GAAP revenue and non-GAAP operating income. Reconciliations for these measures are included in yesterday's press release. Now I will hand the call over to Greg."
+    },
+    {
+      "speaker": "Gregory Adelson Jack Henry",
+      "company": "& Associates Inc",
+      "role": "President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thank you, Vance. Good morning, and I appreciate each of you joining this morning's call. I'm pleased to report overall solid financial performance results in the first quarter of our fiscal year 2025. I'd like to begin by thanking our associates for their hard work and commitment to our success by doing whatever it takes and doing the right thing for our clients. As I introduced in my script last quarter, I will share three main takeaways from the quarter, and then we'll provide additional detail about our overall business. First, our financial performance. We exceeded our first quarter outlook. We had non-GAAP revenue growth of 5.3% in Q1, slightly ahead of the 5.25% anticipated in August. As we indicated in August, Q1 revenue and margins were impacted by slower growth rates for on-premises annual maintenance and card processing. affiliated companies. NOVEMBER 06, 2024 / 1:45PM GMT, Q1 2025 Jack Henry & Associates Inc Earnings Call Additionally, several long-term software usage contracts closed in Q1 of last year, creating a difficult comparison for this quarter. We remain confident in our full year non-GAAP revenue guidance of 7% to 8%. We provided commentary in August that non-GAAP margin would see contraction of 100 basis points. We ended the quarter with only 89 basis points of contraction. Second, our sales performance. After a record Q4 for our sales team, we continued the positive momentum with record sales attainment in Q1 that included six competitive core wins. Of the six, three were financial institutions with over $1 billion in assets, including one $7 billion asset win. We also closed six deals to move existing clients from in-house processing to our private cloud. Third, our client conference. We had a very successful Jack Henry Connect conference last month in Phoenix with nearly 2,600 clients and prospects in attendance. This is our largest conference of the year and produces a significant number of sales leads. Last year, 17 of our new core wins were from prospects that attended the conference. Now for more detail on our overall business. During the quarter, we were proud to be included in several national Best Places to Work rankings. We placed 16th in Newsweek's list of Top 200 Most Loved Workplaces, marking our third consecutive year ranked in the top 20. We also made Newsweek's Most Admired Workplaces list, earning five stars, which is the highest possible rating. Additionally, we ranked 11 in IDC's 2024 Fintech rankings based on annual revenue, representing our 16th consecutive year on that list. We are honored to receive these national recognitions as they reflect our people-first culture, commitment to exceptional service, and success in delivering innovative technology that empowers community and regional financial institutions. Our payments segment continues to perform well. We signed four new debit processing clients and three new credit clients in the quarter. We now have 324 clients on the Zelle platform, 326 clients using RTP, representing approximately 43% of the live RTP clients, and 290 clients using FedNow, representing approximately 36% of the live FedNow clients. In our complementary segment, we signed seven new Financial Crimes Defender contracts in the quarter. In addition, we signed 26 new contracts for the Financial Crimes Defender faster payment fraud module, a real-time solution designed to help mitigate fraud in Zelle, FedNow and RTP transactions. We have installed 83 Financial Crimes Defender customers and have another 94 in various stages of implementation. We also have 37 faster payment modules installed and 133 in various stages of implementation. Continuing with our complementary segment, we continue to see strong success with our Banno Digital solutions. For the quarter, we signed 12 new clients to the Banno retail platform as well as 18 new Banno Business deals. We currently have more than 950 Banno retail clients with over 180 live with Banno Business. We finished the quarter with 12.7 million registered users on the Banno platform. At the end of Q1 last year, we had 10.5 million registered users, a 20% increase over the past 12 months. Each year, we sponsor two technology surveys. We conduct the Jack Henry Strategy Benchmark in mid-January through early February, and this only goes to Jack Henry clients. We also co-sponsor a survey with Bank Director and the results from their mid-June to early July technology prioritization and spending questions were published in September. In the Bank Director survey, 75% of the respondents reported an increase in their bank technologies budget for fiscal year 2024. Their top technology objectives are to improve operational efficiency, attract and retain customers and increase deposits. Those results are consistent with findings from our Strategy Benchmark published last spring. In that survey, 80% of our own clients said they plan to increase technology spending over the next two years with their top priorities being growing deposits, increasing operational efficiency, and growing loans. Although the two surveys were conducted six months apart, they yield very similar results around planned technology spending and key priorities. As I mentioned earlier, Jack Henry Connect was a tremendous success, and we received rave reviews from our clients, prospects and industry consultants that attended the event. Along with the more than 2,400 clients in attendance, we hosted 130 prospect attendees from 50 financial institutions. affiliated companies. NOVEMBER 06, 2024 / 1:45PM GMT, Q1 2025 Jack Henry & Associates Inc Earnings Call Our technology showcase included 250 third-party fintechs with most being competitors, which underscores our philosophy of being an open technology provider. Our vendor exit survey indicated 99% of these fintechs want to exhibit again at our conference in 2025. The conference agenda was robust and anchored by the significant progress we made on our technology modernization initiatives. We continue to execute the strategy of breaking out key components of the core and building them in a cloud-native API-first platform, the Jack Henry platform. We are live with domestic wires, international wires, Data Broker and entitlement. We are in beta testing with both exception processing and general ledger. We remain on track to deliver a digital retail and commercial deposit-only core during calendar year 2026. I will continue to provide more details on our progress throughout the year. As we've done in prior years at the Jack Henry Connect, we held our annual CEO forum, which was attended by 185 CEOs, a new record for us. The general feedback throughout the meeting suggested that attendees are less concerned about the overall economy than last year, and they continue to invest in technology to enhance digital capabilities, improve efficiencies and modernize their businesses. The CEO agenda was well received by both clients and prospects, included a demonstration of our recently announced SMB solution with Moov. As mentioned at Investor Day, we remain on track to deliver this unique solution to Banno early adopter clients in May of 2025. This solution will be sold through our banks and credit unions to capture more and higher-value deposits, while positioning the financial institution at the center of the relationship with their SMB customers. The SMB will benefit from eight daily settlement windows, tap-to-pay capabilities for both iOS and Android devices, one-click enrollment and approval, and continuous accounting reconciliation. In closing, we hold our Annual Shareholder Meeting next week in Monett, Missouri. We will also offer a webcast viewing option for observers to watch remotely. I remain extremely optimistic about the demand environment based on the recent surveys I referenced in our pipeline returning to an all-time high. Furthermore, we continue to hear positive feedback from our clients, prospects and industry consultants regarding our key differentiators of culture, exceptional service and innovative technology. These strengths, along with our proven track record of execution, will continue to drive positive results and position us well for the future. With that, I'll turn it over to Mimi for more specifics on our financials."
+    },
+    {
+      "speaker": "Mimi Carsley Jack Henry",
+      "company": "& Associates Inc",
+      "role": "Chief Financial Officer, Treasurer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you, Greg, and good morning, everyone. Our continued focus on culture, service, and innovation, while supporting our community and regional financial institution clients, led to another quarter of solid revenue and earnings growth and a healthy start to our fiscal year. I will cover the details behind our first quarter results and then conclude with commentary on the second quarter outlook and our fiscal '25 guidance. Q1 GAAP and non-GAAP revenue increased 5%, consistent with our expectations and providing the base for achieving our full year guidance. Quarterly deconversion revenue of approximately $4 million, which we released prior to full earnings, was largely flat with the same period last year, reflecting minimal consolidation of our clients. This is also consistent with our expectations. Now taking a closer look at the details. GAAP and non-GAAP services and support revenue increased 4%. Data processing and hosting continue to be significant drivers of services and support revenue growth. Lower license and hardware revenue compared with prior year moderated services and support revenue. Our private and public cloud offerings increased over 11% in the quarter, reflecting strong persistent growth. This reoccurring revenue contributor is 30% of our total revenue and has long been a key double-digit growth engine. Shifting to processing revenue, which is 41% of our total revenue and another significant contributor to our long-term growth model. We saw strong performance with 7% growth on both a GAAP and non-GAAP basis for the quarter. Continuing long-term trends, quarterly affiliated companies. NOVEMBER 06, 2024 / 1:45PM GMT, Q1 2025 Jack Henry & Associates Inc Earnings Call drivers include increased card, digital and payment processing revenue. Completing commentary on revenue, I would highlight quarterly total reoccurring revenue was 93%. Quarterly enterprise fee revenue was 71% of total revenue and grew at 9%. Excluding hardware, non-key revenue grew 1%. Next, moving to expenses, beginning with the cost of revenue, which increased 6% on both a GAAP and non-GAAP basis for the quarter. Drivers for the quarter included higher direct costs, increased personnel costs, internal license and amortization. For clarification and to assist with models, the amortization of acquisition-related intangibles was $6 million for the quarter. Next, R&D expense increased 8% on both a GAAP and non-GAAP basis for the quarter. The quarterly increase was primarily related to personnel costs. Ending with SG&A expense for the quarter on a GAAP basis, it decreased over 15% versus prior year related to last year's onetime VEDIP costs. SG&A increased 7% on a non-GAAP basis. We remain focused on generating annually compounding margin expansion. While the quarter results delivered an 89 basis point decrease in non-GAAP margin to 25%, we remain confident in our ability to deliver full year margin expansion consistent with our full year guide. These solid quarterly results produced a fully diluted GAAP earnings per share of $1.63, up 17%. This was partially driven by the VEDIP expense in Q1 of fiscal '24 that were nonrecurring. Reviewing the three operating segments, we are pleased by positive performance across the board. Our core segment revenue increased 5% for the quarter on a non-GAAP basis against a tough comp. Core segment key revenue was 62% of total segment quarterly revenue with tremendous growth of 12%. Non-key revenue, primarily on promised annual maintenance decreased 4%. Non-GAAP operating margin decreased 84 basis points. Margins were impacted by software usage and headcount associated with implementation. Payments segment quarterly revenue increased 6% on a non-GAAP basis. The segment again had impressive non-GAAP operating margin growth of 103 basis points. Revenue growth was due to continued growth in our card-related risk management solutions and strong growth from faster payments. Margins benefited from lower cost of revenue and card network incentives. Finally, complementary segment quarterly non-GAAP revenue growth increased 7% from a strong product mix with hosting and digital being a consistent source. Segment margin contracted 45 basis points, primarily due to amortization, license and fees, and direct support costs, partially offset by the growth in hosting and digital revenue. Now let's turn to a review of cash flow and capital allocation. First quarter operating cash flow was $117 million, a $40 million decrease over the prior period, reflecting a timing shift to higher annual maintenance collections in Q4 last year than the historical norm. Trailing 12-month free cash flow was $289 million, resulting in a 72% conversion. Our consistent dedication to value creation resulted in a trailing 12-month return on invested capital of 20%. Heading into the second quarter, I will conclude with comments on quarterly cadence and full year guidance metrics. As you're aware, yesterday's press release included fiscal 2025 full year GAAP guidance, along with a reconciliation to our non-GAAP guidance metrics, all of which are reiterated. While the press release also included a fiscal '25 non-GAAP EPS metric, this is not intended to be a new guidance metric. The purpose is to provide additional clarity on our numbers, and it should be noted that a 24% tax rate is used. All of the current fiscal year guidance metrics are aligned with our near-term targets as the business operations remains healthy and consistent. Our outlook for financial performance remains upbeat with the pace of fiscal 2025 non-GAAP revenue and margin on track to increase sequentially throughout the year. This accelerating cadence will result in a strong second half that will be more pronounced than typical. Consequently, Q2 expectations for non-GAAP revenue growth is approximately 6% with non-GAAP margin flat to slightly down. The rest of the year is expected to improve strongly, resulting in a full year guidance remaining consistent with our longer-term target. As a reminder, we see fluctuations in quarterly results relating to software usage license component along with the timing of implementation. Therefore, the correct indicator of our business is the consistently strong fiscal year financial results. affiliated companies. NOVEMBER 06, 2024 / 1:45PM GMT, Q1 2025 Jack Henry & Associates Inc Earnings Call In conclusion, Q1 was consistent with our expectations and sets us up to achieve a full year that is consistent with our stated long-term targets. We remain focused on delivering long-term profitable growth at scale through compounding revenue growth and margin expansion. We appreciate the efforts of our more than 7,100 dedicated associates that drove these strong results, and our investors for their ongoing confidence. Wyatt, please open the line for questions. Operator (Operator Instructions) Andrew Schmidt with Citi"
+    },
+    {
+      "speaker": "Andrew Schmidt Citigroup",
+      "company": "Inc.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hey, Greg, Jamie, thanks for taking my questions this morning. If I could just drill down on the core revenue growth for a moment. Maybe just unpack the first quarter performance a little bit. And I know you managed to the full year, so I don't want to get too caught up on the first quarter performance, but maybe just a few more details on how core performed in the first quarter. And then as the year progresses, could you talk about the trajectory we should expect there and the drivers as the year progresses? Thank you very much."
+    },
+    {
+      "speaker": "Gregory Adelson Jack Henry",
+      "company": "& Associates Inc",
+      "role": "President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So I'll start off with the core attainment, because that could be a combination of what you're doing, and I'll let Mimi talk about the specifics on the revenue. So 6 core wins. I will tell you that there were a couple of pushes that we had due to the hurricanes that happened. And we had a few deals that we had anticipated that would have closed in the first quarter that got pushed to the second quarter. So we didn't lose them. They just were timing. And obviously, we're not going to push people to try to sign a contract during those type of challenges. So that's part of it. But honestly, the exciting part that we highlighted was that we continue to win the multibillion-dollar opportunities, including the $7 billion, and we have several others that we expect to come here into fruition as well. So that part of I think, the potential part of your question is on the sales side, and I'll let Mimi handle the revenue component."
+    },
+    {
+      "speaker": "Mimi Carsley Jack Henry",
+      "company": "& Associates Inc",
+      "role": "Chief Financial Officer, Treasurer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So as Greg alluded to just now, demand remains strongly intact and solid. And you should expect that as the year goes on across all of the segments, and particularly to your question around core, we're going to continue to see the key growth strong, with installation of prior year sales. And so we expect, similar to how you called it out in your note, that Q1 will be a floor for revenue growth with the subsequent acceleration as the year progresses. So nothing particular to call out from a cadence perspective. I just think you're going to see a very strong second half."
+    },
+    {
+      "speaker": "Gregory Adelson Jack Henry",
+      "company": "& Associates Inc",
+      "role": "President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. And I think one other point, Andrew, and really for everybody else is, I think it does point out that we still had a record quarter. So if you look at our complementary products and the things that we're doing tangentially to just core wins, having a record quarter even with 6 core wins, which, again, we typically have a Q1 is typically light for us anyway coming off of the 20-or-so that we won in Q4 of last year. But the reality is, it really was pushes that happened from the hurricane or it would have been a fairly normal first quarter. affiliated companies. NOVEMBER 06, 2024 / 1:45PM GMT, Q1 2025 Jack Henry & Associates Inc Earnings Call"
+    },
+    {
+      "speaker": "Andrew Schmidt Citigroup",
+      "company": "Inc.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it. Yes, that makes sense. It's good to see the balance in the bookings there with the record sales quarter. Maybe just in the wake of the election, could you just remind us how Jack Henry is impacted by consolidation from an underlying revenue growth perspective? And then whether this cycle -- obviously, it's very early, but whether this cycle should be any different than what we've seen historically? Thanks so much."
+    },
+    {
+      "speaker": "Gregory Adelson Jack Henry",
+      "company": "& Associates Inc",
+      "role": "President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So again, I'll start. Mimi can add on. I think there's a couple of things. So one, what is baked into '25, I don't think the election results will change much of what we have baked for '25. Knowing, obviously, we have a president that we've seen before. So we know a little bit more of his playbook and what we should expect related to regulatory, hopefully, some improvement in the timing of M&A. But for our institutions we do have several already lined up with acquisitions that will be happening in the second half of our year in '25 that are already baked into the number. If something else accelerates, then obviously, that would be additional gravy for us. But we've already added and I think we mentioned this on the last call, we've already added additional conversion teams and migration teams for both banking and credit union based on the feedback that we've gotten from our clients. And of course, we get knowledge of deals that are going to happen very early on, so they can get those slots. And so we're working through that. But we'll see what happens. I think the regulatory challenges that we see today, hopefully, there's some lessening of that. And then obviously, the approach that they've taken in the past regime on really slowing down M&A and the timing of getting approvals, we would hope and expect that, that would enhance. And again, the more we're winning and the more we're growing asset sizes with our own institutions, which we've been articulating the 27% bank growth over the last four years and 34% credit union growth over the last four years, that continues to position us in more of the driver's seat in a lot of these opportunities."
+    },
+    {
+      "speaker": "Mimi Carsley Jack Henry",
+      "company": "& Associates Inc",
+      "role": "Chief Financial Officer, Treasurer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. I think spot on, Greg. The only thing I would add is, given last year and the guidance for this year for deconversion revenue, it's hard to imagine that. Potentially next year, you don't see the impact to M&A leading to higher deconversion revenue. But again, as we said, you never know. That's really hard to forecast. And it really depends on the institution and where they are on their renewal cycle. But I would not bake in anything else for this year given the timing of the turnover of the new administration."
+    },
+    {
+      "speaker": "Andrew Schmidt Citigroup",
+      "company": "Inc.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it. Thank you very much. Really appreciate the comments. Operator Vasu Govil with KBW."
+    },
+    {
+      "speaker": "Vasu Govi",
+      "company": "KBW",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi, thank you for taking my question. I guess first one for you, Greg. I wanted to ask about the Banno retail wins. I think you said 12 new wins in the quarter, which is a good number. But if I look back, it's probably one of the slowest we've seen in the last several quarters. Just anything to call out there? Anything timing related like you talked about the core? And then I know you have identified third-party cores also to sell Banno into. Just how is that effort going? And any color around that?"
+    },
+    {
+      "speaker": "Gregory Adelson Jack Henry",
+      "company": "& Associates Inc",
+      "role": "President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, Good question. So on the number of wins, I don't -- there's nothing no concern there. I think a lot of it is timing. A lot of Banno deals are tied at this point in time to core wins. We're still moving customers over from the old platform, and we're actually getting ready to announce. affiliated companies. NOVEMBER 06, 2024 / 1:45PM GMT, Q1 2025 Jack Henry & Associates Inc Earnings Call We've told our customers that we'll be announcing a sunsetting of the NetTeller platform, which again will help accelerate some additional ones that have kind of been laggards to move. But the reality is, no concern there at all. And to get 18 Banno Business was very much in line with what we had last year. And fourth quarter, you really that hopefully is a heavy sales win for us. But comparing it to the Q1 of last year, we were fairly much in line with that particular quarter. Related to the outside the base, so this really mostly applies to the Banno than it does to some of our other products that we're taking outside the base. But honestly, we've had some challenges with some of our competitors being as open as they say they are. And so we've been trying to work through some of the timing and costs that they want to embark upon us. And honestly, as a byproduct of that, we have really looked at a different way of approaching this. And I don't necessarily want to share what we're doing, because I don't want it to get out to our competitors. But it is a way for us to bypass some of the typical integration points that you have to have and do it a different way, and we're working that path parallel. And it's really more appropriate and applicable to the Banno platform. Banno platform has a lot more API integrations that need to happen, which makes it more difficult for some of those and integration work. So what we're going to do is be able to leverage some of the things that we're doing in Moov and be able to offer that through a process that will allow us to get outside the base, and we're going to do that in parallel with what we're doing with the other outside the base initiatives. So no change at this point in time line, just a little bit of a change in probably the level of productivity and success that we had hoped to have by the end of this fiscal year. So more to come on that, but we are taking a different approach, and I think it's going to be more successful for us."
+    },
+    {
+      "speaker": "Vasu Govi",
+      "company": "KBW",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. And a quick one for you, Mimi. Just on the free cash flow conversion, like any change to the 65% guide that you had given us last quarter? Just any puts and takes there?"
+    },
+    {
+      "speaker": "Mimi Carsley Jack Henry",
+      "company": "& Associates Inc",
+      "role": "Chief Financial Officer, Treasurer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And So I feel comfortable with the guide remaining intact at the 65% to 75%. There were a couple of people that noted Q1 at 50% cash flow. And I would just remind everyone that the annual the trailing 12 months is a better indicator of the free cash flow, because there are times, particularly Q4 to Q1, and the timing of the payments related to the annual maintenance. And as I called out on last quarter's call, Q4 benefited about $60 million from a higher mix being paid in Q4 than this Q1. So if you think about that Q1 50%, it really is closer to the 100% like we've seen in prior year Q1. But I think the 72% should give everyone comfort that we are well within that full year guidance range."
+    },
+    {
+      "speaker": "Vasu Govi",
+      "company": "KBW",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. Thank you very much."
+    },
+    {
+      "speaker": "Mimi Carsley Jack Henry",
+      "company": "& Associates Inc",
+      "role": "Chief Financial Officer, Treasurer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Welcome. Operator Rayna Kumar with Oppenheimer."
+    },
+    {
+      "speaker": "Rayna Kumar",
+      "company": "Oppenheimer",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Good morning, Greg and mimi. Thanks for taking my call. So one of your competitors recently called out a competitive win of less than $10 billion asset bank. I'm just wondering if you're seeing any increased competition for banks and credit unions in core processing in your focus area? affiliated companies. NOVEMBER 06, 2024 / 1:45PM GMT, Q1 2025 Jack Henry & Associates Inc Earnings Call"
+    },
+    {
+      "speaker": "Gregory Adelson Jack Henry",
+      "company": "& Associates Inc",
+      "role": "President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "No. I mean, Rayna, as said, we compete with -- we've always competed with that particular company in that space, and we don't win them all. We win a lot and a lot more than anybody else, but we sure don't win them all. But from a standpoint of competitive pressure, no. That particular deal, I kind of know what happened. And there was a significant difference in price for sure. But the reality is, we're continuing to be very successful in that space, including, like I said, the $7 billion opportunity we just won, plus a lot of the renewals that we've been able to do over the last 18 months are all at our larger client bases. So it's anywhere from the 15 to the 30 that we've been renewing, they're all staying with Jack Henry. So there's no concerns at this point."
+    },
+    {
+      "speaker": "Rayna Kumar",
+      "company": "Oppenheimer",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Understood. That's very helpful. The economy seems to be showing more resilience evidenced by recent earnings reports from other payment companies. Do you think if this macro environment persists, there could be upside to your 25 to 40 basis point margin expansion target for this fiscal year?"
+    },
+    {
+      "speaker": "Mimi Carsley Jack Henry",
+      "company": "& Associates Inc",
+      "role": "Chief Financial Officer, Treasurer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. I think at this point, it's probably a little too early to say for us, because we're just closing our first quarter. We do already have a pretty substantial second half planned that reflects robust growth. But yes, particularly in the area of transaction and card volumes, we anticipate a growing spending in the spring, but there is always an upside, the economy and consumer sentiment is stronger."
+    },
+    {
+      "speaker": "Rayna Kumar",
+      "company": "Oppenheimer",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Appreciate all the color. Thank you."
+    },
+    {
+      "speaker": "Mimi Carsley Jack Henry",
+      "company": "& Associates Inc",
+      "role": "Chief Financial Officer, Treasurer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you very much. Operator Jason Kupferberg with Bank of America."
+    },
+    {
+      "speaker": "Jason Kupferberg Bank",
+      "company": "of America",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks, guys. Good morning. I just wanted to start on the second half revenue growth outlook and definitely appreciate the priority on Q2 to get our models tuned. I guess you got to be at around 9% in the second half to get to the midpoint of the full year and you talked about implementation cadence. But can you maybe just go a layer deeper into the visibility you have, factors that are going to drive that acceleration, and just clarify which revenue lines that's going to be most pronounced in? It sounds like a lot of it is core, but just wanted to check in on that."
+    },
+    {
+      "speaker": "Mimi Carsley Jack Henry",
+      "company": "& Associates Inc",
+      "role": "Chief Financial Officer, Treasurer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Great question, Jason. Let me give you a little bit more color on some of the drivers that make us feel quite confident for the second half of the year. So first, I would call out the hardware last year was quite strong. That's a harder comp in first half this year than second half. So in the first half this year, hardware is about a $7 million drag impact. That eases up a little bit in the second half of the year. We expect cloud revenue, the record growth to continue to impact the new sales impact. We've seen strong growth in the faster payment adoption, and we're starting to see [ spends blown ]. So I think that's another opportunity in the second half. On card, as I just said to Rayna's question, we expect the spring to pick up a little bit, and we do have a lower Q4 comp. And then I think just as new products continue to ramp, things like Defender accelerating, we're having implementations, consulting revenue and transaction, and then overall digital adoption tied to the SMB strategy. So the impact of all that plus the implementation for all the prior year sales success coming on board gives us confidence in the second half. affiliated companies. NOVEMBER 06, 2024 / 1:45PM GMT, Q1 2025 Jack Henry & Associates Inc Earnings Call"
+    },
+    {
+      "speaker": "Jason Kupferberg Bank",
+      "company": "of America",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. And just talking about core wins for a second. I think you mentioned six in the quarter. I know a typical year, you target 50 to 55. It's still early. We know this is never ratable. It's usually lumpy by quarter. And I think you said a couple of deals slipped because of the hurricanes. But I wanted to just check in on overall pipeline confidence and visibility. And is 50 to 55 still a reasonable ZIP code for this fiscal year based on how you see the pipeline converting over the next few quarters?"
+    },
+    {
+      "speaker": "Gregory Adelson Jack Henry",
+      "company": "& Associates Inc",
+      "role": "President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "It is. And again, we're still -- we're tracking well. Last year, we did 15 more than $1 billion, and we're tracking again nice with that with already having three in the first quarter, which again is typically a lighter quarter for us, and not just a $1 billion deal, one was a $7 billion deal. So absolutely on track and the pipeline is as robust as it's ever been. It's at an all-time high again, even after the record Q4 and year and record Q1. So feel very confident in the team's ability to go hit our normal numbers."
+    },
+    {
+      "speaker": "Jason Kupferberg Bank",
+      "company": "of America",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. Thank you."
+    },
+    {
+      "speaker": "Gregory Adelson Jack Henry",
+      "company": "& Associates Inc",
+      "role": "President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you. Operator Will Nance with Goldman Sachs."
+    },
+    {
+      "speaker": "William Nance Goldman",
+      "company": "Sachs",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hey, guys, thanks for taking the question. Is Just another one on the second half acceleration. It's nice to hear the confidence there. And I just it sounds like most of that is more kind of implementation and tough comps from the prior year. Maybe there's a little bit easier of a comp in payments in the back half of the year. But I guess, big picture, when you think about exiting the year at a stronger growth rate, maybe excluding having an easier comp in payments, is there anything in that back half growth rate that you would caution us against run rating into the first half of the following year? Not exactly asking for following year guidance, but just wanting to kind of understand if they feel like that's a good run rate given the implementation schedule for the following few quarters??"
+    },
+    {
+      "speaker": "Mimi Carsley Jack Henry",
+      "company": "& Associates Inc",
+      "role": "Chief Financial Officer, Treasurer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I appreciate your question, Will. I would say FY '26 is a little bit far away to give a cadence deal yet. And as we said, I wouldn't recommend taking any 1 quarter and annualizing that. So I think as we get a little closer, we'll certainly get a feel. But I think there are some things with new products, the sales implementation, faster payment adoption, cloud growth that are a continuation and not just kind of a onetime like some of the grow-over either globally."
+    },
+    {
+      "speaker": "Gregory Adelson Jack Henry",
+      "company": "& Associates Inc",
+      "role": "President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. And the only thing I'll add to that, Will, is just as much as we described at the Investor Day, our goal is to continue to inch up to the levels of closer to the 8%. All the things we're doing, we're hoping and believing that, that is going to get us there. But the Moov piece will just have been launched at the end of the year, and seeing the level of success there, much as Mimi said, with a lot of the new products and continued implementations and getting through some of the queues that we have, and obviously, even in some of the things that we've been able to get launched in tech modernization, things around Data Broker and all that. So much time still needs to take place before we feel confident with giving you any more additional guidance. But the reality is, we have all the things in motion, and we do have an all-time sales pipeline to go make it happen. affiliated companies. NOVEMBER 06, 2024 / 1:45PM GMT, Q1 2025 Jack Henry & Associates Inc Earnings Call"
+    },
+    {
+      "speaker": "William Nance Goldman",
+      "company": "Sachs",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it. Okay. I appreciate that. I figured I would ask. And then just I guess any color on just how you're thinking about capital allocation and the M&A environment? We touched a little bit on bank M&A, but just any kind of capital allocation priorities come to mind and what might be an environment that's more conducive to M&A?"
+    },
+    {
+      "speaker": "Mimi Carsley Jack Henry",
+      "company": "& Associates Inc",
+      "role": "Chief Financial Officer, Treasurer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. I would say we're steadfast in our prioritization from a capital allocation perspective. We're continuing to invest in our own future growth through innovation. We continue to support our long-standing dividend policy. We paid down the debt. We're continuing to pay down the debt throughout the year. And as we start to build into a more positive cash flow position post paying down that debt, we'll always continue to look at share repurchases as an option. And M&A is always on the table. It's just there hasn't been any interesting prospects over the last several quarters. So hopefully, if people think between the interest rates coming down and M&A being more conducive, hopefully, there'll be some interesting prospects. But again, that would have to be not only financially attractive, be an acceleration to our tech road map journey."
+    },
+    {
+      "speaker": "William Nance Goldman",
+      "company": "Sachs",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. And just I appreciate you taking the questions today."
+    },
+    {
+      "speaker": "Mimi Carsley Jack Henry",
+      "company": "& Associates Inc",
+      "role": "Chief Financial Officer, Treasurer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you,"
+    },
+    {
+      "speaker": "Gregory Adelson Jack Henry",
+      "company": "& Associates Inc",
+      "role": "President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "thank you, Will. Operator Dominick Gabriele with Compass Point."
+    },
+    {
+      "speaker": "Dominic Gabriel Compass",
+      "company": "Point",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hey, good morning, everybody, and thank you so much for taking the question. So I guess, I was just curious if there was any change in the expected pace and deemphasizing some of the lower growth, less profitable businesses? You touched a little bit on it earlier in the call, but if you could give some extra color there?"
+    },
+    {
+      "speaker": "Gregory Adelson Jack Henry",
+      "company": "& Associates Inc",
+      "role": "President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. It's a great question. And honestly, I was going to bring it up even in Will's question, so I'm glad you did. So we are focused on it. Some of these things, as we've mentioned through Investor Day and individual meetings is that this process of product rationalization is going to take several years for it to completely take fruition. There are some opportunities that we're exploring on whether they would be small businesses of a potential divestiture as we've talked about before. We already mentioned a couple of products that we've been announcing sunsetting. So those take -- we typically get two years for that to happen. Some of that will allow us to move customers faster to the better margin and faster advancing products like a Banno, NetTeller to Banno, and Yellow Hammer to Financial Crimes and things along that line. But there's other things that we're doing that will take a little bit more time and scrutiny that we're still working through. But it is a priority. We actually just came out of our strategy meeting, and it continues to be a priority, and we have a team focused on it."
+    },
+    {
+      "speaker": "Mimi Carsley Jack Henry",
+      "company": "& Associates Inc",
+      "role": "Chief Financial Officer, Treasurer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. The only other color I would lay on there for your question, Dom, is like it's doubtful, who knows, but it's doubtful at this point that you would see like one big chunk in a quarter. Some of these, we're going to pursue different avenue paths, whether it be sunsetting, whether it be just more cash cowing, whether it be actual looking at divestitures. affiliated companies. NOVEMBER 06, 2024 / 1:45PM GMT, Q1 2025 Jack Henry & Associates Inc Earnings Call So I doubt that they stack up one on top of each other timing-wise to have that big of a noticeable impact to any one quarter. Obviously, we would call that out. But I think it's just over time, you'll see the improvement of that non-key revenue be less of a drag on the total performance."
+    },
+    {
+      "speaker": "Gregory Adelson Jack Henry",
+      "company": "& Associates Inc",
+      "role": "President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And it should -- based on what we've been doing in the analyzation, it's also going to help us with some of the level of tech modernization in the shared services environment and some of the cost containment and expense control back to our focus on continued margin expansion. So all of those things will help us drive both the revenue growth as well as the margin."
+    },
+    {
+      "speaker": "Dominic Gabriel Compass",
+      "company": "Point",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yes, for sure. And it was nice to see the margin being better than you were expecting this quarter. I guess, the election results basically just happened. So I'm just going to go back to this for a second. Do you think that -- do you have any sense from your clients that they were holding up certain tech investments until they understood who the winner was going to be? And do you think that there's incremental tech spend that they're likely going to pursue that maybe was not captured in just the budget growth that you guys talk about once or twice a year in your surveys. Do you think that could come through in like complementary products, where they're going to start making some of those discretionary investments because of how the election went and maybe more or less? Thanks."
+    },
+    {
+      "speaker": "Gregory Adelson Jack Henry",
+      "company": "& Associates Inc",
+      "role": "President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Honestly, I don't at this point, just because we've been so direct and have gotten such positive feedback on what they do want to do, which all made collective sense regardless of who was in the White House. Now I don't know what I don't know. There could be opportunities that happen through the M&A environment and folks are looking at opportunities to maybe purchase -- have an M&A, and there could be products that get accelerated because of an opportunity that, that particular bank had or didn't have. But I would say based on what we know today and the most recent feedback we literally just got a month ago at our CEO forum, I don't see that necessarily as of today."
+    },
+    {
+      "speaker": "Dominic Gabriel Compass",
+      "company": "Point",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Gregory Adelson Jack Henry",
+      "company": "& Associates Inc",
+      "role": "President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks. Operator Peter Heckmann with D.A. Davidson."
+    },
+    {
+      "speaker": "Peter Heckmann D.A.",
+      "company": "Davidson",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hey, good morning, everyone. Thanks for taking the question. Greg, I just wanted to see with JHA user conference, Connect, how much of a priority or how much emphasis are you putting on the modern core modular platform? And how is that resonating with clients? And is it your sense that some of these multibillion-dollar institutions are really looking for a vendor that has a pretty well thought out and underway process to migrate towards an unbundled core. I mean, how important is that in terms of their decision-making?"
+    },
+    {
+      "speaker": "Gregory Adelson Jack Henry",
+      "company": "& Associates Inc",
+      "role": "President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. From the prospects that were there, and as I mentioned, we had 50 prospects and I met personally with 15 of them for a period of time. Yes, the strategy of what we're doing. So it's not just about the unbundling of the core. It's just the strategy of taking the core into the public cloud and not just core, but also some of the non-core products that we've built, understanding the value of being in the public cloud. So those prospects, of course, our clients as well, but these prospects have told us that they're not seeing that same level of conversation affiliated companies. NOVEMBER 06, 2024 / 1:45PM GMT, Q1 2025 Jack Henry & Associates Inc Earnings Call with whom they're with today. So yes, that strategy plays strongly in it. But it also plays the other things that we emphasize, our culture, our service, the other innovative technology that we've been building through the years with whether that be Financial Crimes or what we've done in PayCenter or what we've done in our enterprise account opening and things along that line. So it is a combination of things, Pete, that drive this. But the overall strategy, not just core, but the overall strategy is what is gravitating them to Jack Henry."
+    },
+    {
+      "speaker": "Mimi Carsley Jack Henry",
+      "company": "& Associates Inc",
+      "role": "Chief Financial Officer, Treasurer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "If I may add on, I think also what's really resonating is that shared services approach. So as we build componentry for the tech modernization, that's supporting and enhancing the experience on the existing cores today. And so that's giving people comfort that there's innovation on the cores that they might go to today as well as where they're going tomorrow."
+    },
+    {
+      "speaker": "Gregory Adelson Jack Henry",
+      "company": "& Associates Inc",
+      "role": "President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. One last point, and I did emphasize this, was the open philosophy. When they walk into our tech showcase and see 250 fintechs that are there versus other client conferences, they know we are putting our money where our mouth is. And the reality is, they understand that Jack Henry is going to allow them to pick what is the best product for them. And so that is a big part, too, that they're not getting that same level of cooperation today. And if they do want to go with a fintech or do an outside the base integration, as I referenced before, they're typically getting charged an arm and a leg to do it."
+    },
+    {
+      "speaker": "Peter Heckmann D.A.",
+      "company": "Davidson",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. That's helpful. And then can you just -- you haven't talked too much about the loan origination platform. Can you talk a little bit about some of your thoughts there in terms of solutions on the lending side and whether or not that's something that we might hear a little bit more about over the next few years?"
+    },
+    {
+      "speaker": "Gregory Adelson Jack Henry",
+      "company": "& Associates Inc",
+      "role": "President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. And I expect you to hear more starting in 2025. So we've been working on combining the -- the LoanVantage platform now has been built to be a single consumer and commercial platform. And we've taken the account opening software, what we call OpenAnywhere, and we've added that into the solution. So it's now called enterprise account opening. And it will allow the institution to -- it competes very nicely with nCino or anybody else out in the market today. And we will be, what we call, early adopter in January of 2025. So it's coming up. And so we'll start to have some of our customers kind of working through that with us. But we are very excited about that and what opportunities it will continue to bring to our financial institutions."
+    },
+    {
+      "speaker": "Mimi Carsley Jack Henry",
+      "company": "& Associates Inc",
+      "role": "Chief Financial Officer, Treasurer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And it is a top priority that the CEOs and CIOs tell us from our Strategic Benchmark Survey."
+    },
+    {
+      "speaker": "Peter Heckmann D.A.",
+      "company": "Davidson",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I appreciate the feedback. I get back into queue. Thanks. Operator Chris Kennedy with William Blair."
+    },
+    {
+      "speaker": "Cristopher Kennedy William",
+      "company": "Blair",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yes, good morning. Thanks for taking the question. Greg, you mentioned Data Broker a couple of times. Can you just remind us what the opportunity is there? And just maybe talk about the CFPB rule on open banking and how that drives that? affiliated companies. NOVEMBER 06, 2024 / 1:45PM GMT, Q1 2025 Jack Henry & Associates Inc Earnings Call"
+    },
+    {
+      "speaker": "Gregory Adelson Jack Henry",
+      "company": "& Associates Inc",
+      "role": "President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. So let me start with the CFPB rule. So 1033, if you remember back to some of the comments that we had made in prior quarters where we had eliminated screen scraping in our Banno Digital platform. We're the only provider that has 100% eliminated screen scraping. So we are already ahead of what was coming out with 1033 knowing that there was going to be something. And we now have direct API integrations into eight of the leading financial data aggregators. So the big names that you've heard of like Finicity and Yodlee and Plaid, Intuit and MX, but there are several others. And I think we have like eight or nine more in the queue to do full API. And as a reminder, this rule does not impact core. It really impacts digital banking providers. So we are significantly ahead of anybody in the space today for that for 1033. Related to Data Broker. So Data Broker, we have a few clients that are live that have been testing this in our early adopter. But the reality is that we are bringing into a single data repository, the ability for our customers to get their core data, their digital data, their payments data, their fraud data, their lending data, all from Jack Henry in a single repository, as well as we are giving access to third party, whoever third parties they use, to be able to bring that data in as well. And of course, we got all the guardrails and things that we need to do to make sure that, that happens. So we're just in early stages of bringing some of the groups in. So we have core in there today. We have digital in there today. We'll have payments in by the end of the calendar year. And we'll have fraud in by the end of the first quarter of 2025. So we expect more sales to occur, obviously, as you get more and more of the data in there. But we've been testing it out. It's going really well. As far as uptick in revenue, probably not much in 2025, but we do expect it to be something that will help drive 2026."
+    },
+    {
+      "speaker": "Cristopher Kennedy William",
+      "company": "Blair",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. Thanks for taking the question. Operator John Davis with Raymond James."
+    },
+    {
+      "speaker": "John Davis Raymond",
+      "company": "James",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Good morning, guys. How Mimi, we talked a lot about the second half rev excel, but I wanted to touch on margins. I think the guide implies margins will be up somewhere close to 100 basis points in the back half of the year. Obviously, you have revenue accelerating, easier comps. Anything else to call out on the margin front right now?"
+    },
+    {
+      "speaker": "Mimi Carsley Jack Henry",
+      "company": "& Associates Inc",
+      "role": "Chief Financial Officer, Treasurer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. So I would say the first half is a little bit more pronounced from the headwinds we've seen, both the software usage. And additionally, I would call out Q2 is a bit of a tough comp because of VEDIP impact. We had the departures last year in Q2, but not the replacement. And so that's a bit of a grow-over from a headcount from the roughly like 250 heads that are going to be Q2 '25 versus Q2 '24. So I think those things make a little bit challenging in the first half. But as we get to the second half, it certainly aligns to our revenue growth. So I feel pretty comfortable with the full year guide of the 25 to 40 basis points."
+    },
+    {
+      "speaker": "John Davis Raymond",
+      "company": "James",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. Great. And then, Greg, you called out 20% increase in Banno users year-over-year. Is Banno for Business a meaningful contributor to that? And if so, is it safe to assume that Banno revenue is growing well above that 20% user growth number?"
+    },
+    {
+      "speaker": "Gregory Adelson Jack Henry",
+      "company": "& Associates Inc",
+      "role": "President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. The Banno business is not a meaningful contributor. It is a contributor, but as far as the growth, it truly is about our implementation numbers. And so as we add more and more business customers, yes, there can be some additional users. But that growth of 20% has really been driven through the retail platform. But as we continue to add, remember, the way we price Banno affiliated companies. NOVEMBER 06, 2024 / 1:45PM GMT, Q1 2025 Jack Henry & Associates Inc Earnings Call Business is that the retail customer, regardless of how many retail customers they have, they pay that same amount, and it's kind of an add-on fee to what the retail piece is. So as we continue to get more penetration and some things that we are doing to actually do adoption activities, I think that, that number will become more and more meaningful. But as far as the revenue growth, we've been kind of consistent over the last year or two years on where we've been on the revenue growth in the digital side. And remember, digital is more than just Banno. Operator And the next question comes from James Faucette with Morgan Stanley."
+    },
+    {
+      "speaker": "James Faucette Morgan",
+      "company": "Stanley",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hey, thanks very much for everybody. I wanted to ask, Greg, really quickly, you mentioned the implementation queues. And just wondering how those are trending broadly and how you're thinking right now about the puts and takes between the margin expansion you're delivering versus potential for additional resource allocation to help speed up those implementations?"
+    },
+    {
+      "speaker": "Gregory Adelson Jack Henry",
+      "company": "& Associates Inc",
+      "role": "President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. Thanks, James. Yes, we look at that literally every month as part of our discussions with our teams during when we do variance reviews with them. And so we balance that very well. We've added people in our Financial Crimes Defender group last year, a significant number, honestly, to do that. Some of it is -- implementations are, in some cases, especially in Financial Crimes, they can take up to six months because of the data that needs to get transferred over. So some of it isn't just a people thing, some of it is purely just waiting. The other thing is that a lot of these can be tied to a core implementation. So they get delayed until the core gets done as well. But we absolutely evaluate the need to expedite the revenue flow and balance it against the operating margin. But we do that literally every month."
+    },
+    {
+      "speaker": "James Faucette Morgan",
+      "company": "Stanley",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it. And then I'm wondering, it's been a few months since you announced the partnership with Moov. It seems like an interesting potential product both for Jack Henry as well as Jack Henry's customers. Just any update on kind of progress there and when we may start to see that enter the market commercially?"
+    },
+    {
+      "speaker": "Gregory Adelson Jack Henry",
+      "company": "& Associates Inc",
+      "role": "President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. So lots of progress. We've made, honestly, a lot of advancement even since Investor Day, when we publicly announced it. We did a full demo of this at our client conference in front of the 4,000 people that were there and got rave reviews for them being able to see that. As far as timing, as I announced, we're on time to be able to deliver this to our early adopter Banno clients in May of 2025. And so we're on track to do that."
+    },
+    {
+      "speaker": "James Faucette Morgan",
+      "company": "Stanley",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "That's great. Thank you."
+    },
+    {
+      "speaker": "Gregory Adelson Jack Henry",
+      "company": "& Associates Inc",
+      "role": "President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you. Operator Ken Suchoski with Autonomous Research."
+    },
+    {
+      "speaker": "Ken Suchoski Autonomous",
+      "company": "Research.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hey, good morning. Thanks for taking the question. I wanted to circle back on the cloud migration. I think you said cloud revenue was 30% of revenue growing low double digits. I think you have 70%, 75% of clients on the private cloud. Can you just give us a sense for how much runway there is for cloud revenue to continue to grow at these double-digit rates? Are you seeing any traction in the public cloud yet? Just trying to get a sense for how sustainable that growth is on the cloud side and maybe where the revenue shows up across the segments as well? affiliated companies. NOVEMBER 06, 2024 / 1:45PM GMT, Q1 2025 Jack Henry & Associates Inc Earnings Call"
+    },
+    {
+      "speaker": "Gregory Adelson Jack Henry",
+      "company": "& Associates Inc",
+      "role": "President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. Ken, I'll start with just kind of the migration and then let Mimi go through the revenue component of it. So we are at 73% right now in the private cloud. And so we don't expect to get to 100%, and we expect to be somewhere in the low to mid-90s, because there'll just be some of the customers that just don't want to move. But we have several years. We're still expecting this year to do our normal 40-ish from an in to out. And so they'll be somewhere in those numbers, and we're really on track. Based on first quarter of last year versus first quarter of this year, our in to out was very similar in number. And the other thing that's happening is that we are down to a lot of our larger clients. So even if we move less or fewer in a quarter, they typically are larger clients, will bring more of an impact as well. And just as a reminder, on average, between banks and credit unions, about 1.75% increase. So that is part of where we are. As far as years of runway, we expect to be three, four, five more years of that at some pace. But in the same time, I announced earlier about the deposit-only core being ready in 2026. So we could see some lift at that point in time of folks moving either directly from in-house to the public cloud or from the private cloud to the public cloud or being in both, because it will be a deposit-only core in 2026 as we build out the rest of the core component. So more to come on that, but we still have some runway, and they are larger customers."
+    },
+    {
+      "speaker": "Mimi Carsley Jack Henry",
+      "company": "& Associates Inc",
+      "role": "Chief Financial Officer, Treasurer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. I mean I think Greg hit on all the salient points that there's still runway to go. The clients are potentially larger. Also, our clients grow. We grow with our clients as they grow. So even though ones that are already in our private cloud environment, as they have more accounts, as they grow and expand, we're going to continue to get revenue growth with them. So that's the only other thing I would call out from just -- it's continuing to be a strong growth engine for us in the future."
+    },
+    {
+      "speaker": "Ken Suchoski Autonomous",
+      "company": "Research.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. Great. And then I think you said non-GAAP revenue would grow 6% in the second quarter. Can you just remind us of the building blocks, I guess, by segment just to get to that 6%?"
+    },
+    {
+      "speaker": "Mimi Carsley Jack Henry",
+      "company": "& Associates Inc",
+      "role": "Chief Financial Officer, Treasurer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. Ken, we can follow up offline in terms of the components. But I would just say like on a whole, I don't expect to see a lot of different changes from the momentum we had in the Q1 in terms of for the segment. We still think that for cards, Q2 is going to be a little bit better than Q1, but it's still probably a modest spend expectation. Cloud is our slowest quarter in Q2. Hardware has less of a drag than Q1, but still a drag in Q2 as well. And we have some drag on some small things like call center and item processing at this point. So I think that's what's leading us to that 6% and then taking off solidly from there in the back half."
+    },
+    {
+      "speaker": "Ken Suchoski Autonomous",
+      "company": "Research.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks so much. Operator Dave Koning with Baird"
+    },
+    {
+      "speaker": "Dave Koning",
+      "company": "Baird",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "A couple of things. First of all, card processing, you put that in the press release was 5% growth. Last quarter it was 8% growth. And I know like the networks and stuff were pretty stable growth. Was there anything in there just to call out why that decelerated a bit?"
+    },
+    {
+      "speaker": "Mimi Carsley Jack Henry",
+      "company": "& Associates Inc",
+      "role": "Chief Financial Officer, Treasurer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. I think our transaction volume was pretty much in line. I would say where we've seen on the positive side, we've seen higher ramp from a faster payment stuff, and that's really taking off. The bill pay from the rest of it, it's a modest kind of grower from the ETF business, a little slower than prior year, but modest growth. So, I think that's pretty much in line. affiliated companies. NOVEMBER 06, 2024 / 1:45PM GMT, Q1 2025 Jack Henry & Associates Inc Earnings Call"
+    },
+    {
+      "speaker": "Dave Koning",
+      "company": "Baird",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. And then the one other thing, the we talked about this last for to interest income remains high and you guys had a ramp kind of a year-and-a-half or so later than I would say a lot of other. I guess you had some ramp for a while ago, but you really ramp that up a lot in the last year. So now again, it was really high in Q1. Does that does that stay or what treated kind of a little later ramp in that it does that say kind of stable through the year?"
+    },
+    {
+      "speaker": "Mimi Carsley Jack Henry",
+      "company": "& Associates Inc",
+      "role": "Chief Financial Officer, Treasurer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Mostly, I would say it was due to just the timing of negotiations with some of our bank counterparties in terms of getting more attractive yields on those balances. It does have some correlation with interest rates. So I think it's pretty stable for Q2. We'll see what the Fed does in the back half of the year and what pace they do. But I would say you'll see some correlation with interest rates and interest income."
+    },
+    {
+      "speaker": "Dave Koning",
+      "company": "Baird",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. Thank you. Operator This concludes our question-and-answer session. I would like to turn the conference back over to Vance Sherard for any closing remarks."
+    },
+    {
+      "speaker": "Vance Sherard Jack Henry",
+      "company": "& Associates Inc",
+      "role": "Vice President of Investor Relations",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you all. Look forward to hosting you at next week's shareholder meeting, either in person or on the webcast. And in the coming weeks, we will be attending various investor events in the US and Europe. Again, like to thank all Jack Henry associates for their hard work and dedication which have contributed to our outstanding results. Thank you for joining us today. Please provide the replay number. Operator The replay number for today's call is 8773447529 and the access code is 6482509. The conference has now concluded. Thank you for attending today's presentation. You may now disconnect. In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. affiliated companies."
+    }
+  ]
 }

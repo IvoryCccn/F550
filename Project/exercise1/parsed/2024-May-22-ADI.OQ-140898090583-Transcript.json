@@ -4,5 +4,310 @@
   "quarter": "2024Q1",
   "sector": "IT",
   "filename": "2024-May-22-ADI.OQ-140898090583-Transcript.pdf",
-  "segments": []
+  "segments": [
+    {
+      "speaker": "Harlan L. Sur JPMorgan Chase",
+      "company": "& Co, Research Division",
+      "role": "Executive Director and Head of U.S. Semiconductor & Semiconductor Capital",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Equipment"
+    },
+    {
+      "speaker": "Stacy Aaron Rasgon Sanford C.",
+      "company": "Bernstein & Co., LLC., Research Division",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Tore Egil Svanberg Stifel, Nicolaus & Company, Incorporated, Research Division - MD Toshiya Hari Goldman Sachs Group, Inc., Research Division - MD"
+    },
+    {
+      "speaker": "Vivek Arya BofA",
+      "company": "Securities, Research Division",
+      "role": "MD in Equity Research & Senior Semiconductor Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Operator Good morning, and welcome to the Analog Devices Second Quarter Fiscal Year 2024 Earnings Conference Call, which is being audio webcast via telephone and over the web. I'd now like to introduce your host for today's call, Mr. Michael Lucarelli, Vice President of Investor Relations and FP&A. Sir, the floor is yours."
+    },
+    {
+      "speaker": "Michael C. Lucarelli Analog",
+      "company": "Devices, Inc.",
+      "role": "VP, IR and FP&A",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thank you, Gigi, and good morning, everybody. Thanks for joining our second quarter fiscal 2024 conference call. With me on the call today are ADI's CEO and Chair, Vincent Roche; and ADI's CFO, Rich Puccio. For anyone who missed the release, you can find it and relating financial schedules at investor.analog.com. Onto the disclosures. The information we're about to discuss includes forward-looking statements, which are subject to certain risks and uncertainties as further described in our earnings release and our periodic report and other materials filed with the SEC. Actual results could differ materially from the forward-looking information as these statements reflect our expectations only as the date of this call. We undertake no obligation to update the statements, except as required by law. Reference to gross margin, operating and nonoperating expenses, operating margin, tax rate, EPS and free cash flow in our comments today will be on a non-GAAP basis, which excludes special items. When comparing our results to our historical performance, special items are also excluded from prior periods. Reconciliations of these non-GAAP measures to the most directly comparable GAAP measures and additional information about our non-GAAP measures are included in today's release. And with that, I'll turn it over to ADI's CEO and Chair, Vince."
+    },
+    {
+      "speaker": "Vincent T. Roche Analog",
+      "company": "Devices, Inc.",
+      "role": "CEO & Chair of the Board of Directors",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thanks very much, Mike. Good morning, and a big welcome to you all. So in the second quarter, our strong focus on execution resulted in revenue of $2.16 billion, with profitability and earnings per share finishing above the high end of our outlook. With 2Q now behind us, we believe we've passed the low point of this cycle. Notably, global manufacturing PMIs, which are highly correlated with our core business, are improving, customer inventories are stabilizing and our bookings have improved for a third consecutive quarter. Our growing optimism remains guarded, however, as short-term economic and geopolitical uncertainty persists. As such, we will affiliated companies. MAY 22, 2024 / 2:00PM GMT, Q2 2024 Analog Devices Inc Earnings Call continue to manage the near term with great discipline as we fund and execute against our longer-term strategic priorities to drive increasing levels of value for all of our stakeholders. So with that framing, I'd like to share some examples with you of how we are continuing to strengthen ADI's high-performance franchise across all markets and creating unique growth drivers that would be additive to what we hope will be a strong cyclical recovery. For example, in health care, we have exciting wins in areas such as the rapidly expanding surgical robotics market where the performance of our precision signal processing and connectivity solutions is critical. And in the fast-growing continuous glucose monitoring space, we've won multiple opportunities across several customers. Our unique, digitally-enabled analog front-end solutions increase the accuracy and power efficiency of sensors and extend battery life from days to weeks. In industrial automation, the growth of the digital factory is accelerating upgrades to higher bandwidths, deterministic, industrial Ethernet that can support up to 10x the number of edge devices across the factory floor. We believe our leadership position with key customers will create a durable revenue stream beginning next year that can grow to several hundreds of millions of dollars as deployments ramp over time. Turning to automotive. Our solid performance is being driven by the proliferation of higher content vehicles that use more power management, more connectivity and an increasing number of sensor platforms that open new signal processing opportunities for ADI. The increase in content per vehicle is a pervasive trend across all vehicle types, combustion engines, hybrids and full EVs. For example, in advanced safety, we've increased our GMSL design wins from 12 to 15 of the top 20 OEMs and expanded our engagements at 2 European and 1 Korean OEM who intend to deploy our high-performance, high-bandwidth connectivity solution across a larger share of their fleets. We've also seen strong attach for a functionally safe Power, which is used with sensors and displays and ADAS systems and recently increased share at the leading global car manufacturer. In electrification, we've expanded our battery management system share at leading Chinese OEMs and more than doubled our BMS share and upcoming European OEM model launches and 2 manufacturers intend to deploy our higher content wireless solutions starting next year. Now I'd like to use the rest of my prepared comments today to share our perspective on the role that artificial intelligence is playing and will play at ADI in the future. This technology has clearly reached a tipping point, and our AI opportunity spans from sensor to cloud. While we've been adding algorithmic and software intelligence to our products now for decades, we've expanded the scope and pace of our investments in recent years. Today, we are increasingly leveraging AI in and around our products as well as in our operations to more fully meet our customers' needs and extend our industry leadership. We're deploying AI internally to help accelerate engineering development, enhanced manufacturing efficiency and create a better customer experience. But the majority of our activities are centered around product portfolio innovations that position us to take advantage of AI's enormous potential. We see this business opportunity coming in 2 distinct waves. The first wave, focused on infrastructure, is now underway, and as we all know is growing very rapidly. In order to tackle the intensified energy and processing demands of AI compute systems, data center customers are investing in new vertical power architectures. As we highlighted previously, our vertical power technology, which can reduce power losses by up to 35% compared to existing architectures, is gaining traction with hyperscalers. We continue to leverage our heterogeneous integration expertise to create more efficient, smaller vertical power solutions that deliver more value and enable us to capture more share in this nascent space. Power-efficient computing, though, is just one challenge the AI ecosystem faces. Data must also be transported efficiently, securely and affiliated companies. MAY 22, 2024 / 2:00PM GMT, Q2 2024 Analog Devices Inc Earnings Call at much, much greater speeds. This is driving wireline customers to upgrade connectivity infrastructure, sparking a transition to 800 gigabit and 1.6 terabit optical modules. At the electro-optical interface, our ability to provide high-performance solutions that integrate analog, digital and memory in a reduced form factor is indeed a key differentiator. Our high-precision controller was recently designed into a 1.6-terabit optical module used in the next-gen AI systems of the high-performance compute leader. In industrial, AI is fueling extraordinary demand for high-bandwidth memory and high-performance compute. This, in turn, is driving a new growth vector for our instrumentation and test business, particularly in SoC and memory test. We're working with key players globally to enable faster digital scan speeds, higher channel density and the improved energy efficiency necessary to scale production of AI systems. The significantly greater amount of ADI content in these systems is positioning our high-performance compute and memory test sectors for record revenues in the near to midterm. The opportunity ahead for ADI is to compound the impact of this first wave by bringing application-specific AI models and high-performance compute right down to the physical edge, creating greater system value with added improvements in the latency, power efficiency, security and cost. So let me share some examples of how we are working to amplify this second wave. For example, in acoustic systems, we are combining our application-specific algorithms with ultralow energy processing hardware to enrich our audio platform offerings. We're also developing a mixed signal processor with embedded neural networks that enable a system to learn and adapt to the highly variable nature of sound in real time. Excitingly, we have strong traction with multiple customers in this area. Now in the same vein, we're leveraging our rich domain expertise with our growing processing capabilities to enhance our advanced connectivity platform. In next-generation 5G radios, for example, we've implemented the first AI-enabled technology, combining an energy-efficient, real-time neural network with an AI-assisted development tool to give customers the ability to solve their linearization challenges in a fraction of the time. In our power management platform, we're using AI to address the arduous challenge of tuning power trees for volatile consumption patterns in data centers. Our solutions reduce complexity for power engineers and compress the time required from weeks to hours, helping to lower costs and, of course, accelerate time to market. ADI has always operated at the physical edge where the world's most important real data is born. As multimodal AI becomes more pervasive at the edge and the diversity of sensor types is used to unearth deeper insights, we expect to see an explosion of demand that will accelerate growth for our broad signal chain as well as power portfolios. In short, ADI's AI future looks bright across the continuum of sensor to cloud. So in closing, I'm very proud of how our team has executed in one of the largest downturns the semiconductor industry has seen. More importantly, I've never been more excited about how we're positioned for the future and what it holds for ADI. And so with that, I'm going to hand it over to Rich."
+    },
+    {
+      "speaker": "Richard C. Puccio Analog",
+      "company": "Devices, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you, Vince, and let me add my welcome to our second quarter earnings call. As a reminder, our first quarter 2024 was a 14-week quarter, so we are going to limit our comparison this quarter to year-over-year only. Second quarter revenue of $2.16 billion finished above the midpoint of our outlook, this result was down 34% year-over-year. Industrial represented 47% of revenue in the quarter and was down 44% year-over-year. As expected, all applications were impacted by inventory digestion. However, aerospace and defense revenues outperformed broader industrial. Automotive represented 30% of revenue and was down 10% year-over-year. Continued growth in our leading connectivity and affiliated companies. MAY 22, 2024 / 2:00PM GMT, Q2 2024 Analog Devices Inc Earnings Call functionally safe power franchises balanced broad-based declines elsewhere. Communications represented 11% of revenue and was down 45% year-over-year. Inventory digestion and weaker demand impacted both our wireline and wireless businesses. And lastly, consumer represented 11% of revenue and was down 9% year-over-year with growth in portables, partially offsetting declines across other applications. Now let's move from the top line to the rest of the P&L. Second quarter gross margin was 66.7%, down sequentially and year-over-year, driven by unfavorable mix, lower revenue and lower utilization as we continue to reduce inventory. Operating expenses in the quarter were $598 million, down significantly year-over-year, driven by lower variable compensation and strong organization-wide execution on cost control. Operating margin of 39% exceeded the high end of our outlook. Nonoperating expenses finished at $64 million, and the tax rate for the quarter was 10.6%. The net result was EPS of $1.40, above the high end of our outlook. Our financial position is solid, and I'd like to call out a few items from our balance sheet and cash flow statement. We ended Q2 with more than $2.3 billion of cash and short-term investments and a net leverage ratio of 1.1. During the quarter, we raised $1.1 billion of debt for general corporate purposes, including upcoming debt maturities. Inventory decreased $74 million sequentially and days declined to 192 from 201. As planned, we reduced channel inventory this quarter with weeks ending at approximately 8. Operating cash flow for the quarter and trailing 12 months was $0.8 billion and $4.3 billion, respectively. CapEx for the quarter and trailing 12 months was $188 million and $1.2 billion, respectively. We continue to expect fiscal '24 CapEx to be roughly $700 million, which is a reduction of approximately 45% versus 2023 as our hybrid manufacturing investment cycle tapers. Not included in these figures are the benefits from both the European and U.S. CHIPS Acts. During the last 12 months, we generated $3.1 billion of free cash flow or 29% of revenue. Over the same time period, we have returned roughly 110% of our free cash flow via dividends and share repurchases. As a reminder, our policy is to return 100% of free cash flow to our shareholders over the long term. Now I'll turn to the third quarter outlook. Revenue is expected to be $2.27 billion, plus or minus $100 million, up 5% sequentially at the midpoint. Once again, we expect sell-through to be higher than sell-in. At the midpoint, we expect all B2B markets to increase sequentially with the fastest growth in industrial and for consumer to exhibit seasonal strength. Operating margin is expected to be 40%, plus or minus 100 basis points. Our tax rate is expected to be between 11% and 13%, and based on these inputs, adjusted EPS is expected to be $1.50, plus or minus $0.10. Before passing it back to Mike to begin Q&A, I'll share some final thoughts on our near term. As Vince indicated, we believe we are at the beginning of a cyclical recovery as our bookings increased throughout the quarter and we exited 2Q with a book-to-bill above parity for the first time in well over a year. No doubt, cyclical transitions can be challenging, but they also provide opportunity for outsized business acceleration when approached for the balance of fiscal discipline, smart risk taking and strong execution. ADI has always excelled in these areas, and we look forward to driving outstanding value for our stakeholders in the quarters to come. With that, I'll pass it back to Mike for Q&A. affiliated companies. MAY 22, 2024 / 2:00PM GMT, Q2 2024 Analog Devices Inc Earnings Call"
+    },
+    {
+      "speaker": "Michael C. Lucarelli Analog",
+      "company": "Devices, Inc.",
+      "role": "VP, IR and FP&A",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks, Rich. Let's go to the Q&A session. (Operator Instructions) With that, we will have our first question, please. Operator (Operator Instructions) Our first question comes from the line of Tore Svanberg from Stifel. Tore Egil Svanberg Stifel, Nicolaus & Company, Incorporated, Research Division - MD Congratulations on finding the recovery here. I had a question about the outlook for Q3, specifically in industrial. I think you indicated that you expect industrial to be the strongest performer this quarter. I was hoping you could talk a little bit about what's behind that strength between end market demand, inventory replenishment, and if there's any subsegments within industrial that's driving that outperforming growth."
+    },
+    {
+      "speaker": "Richard C. Puccio Analog",
+      "company": "Devices, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure, Tore. This is Rich, and I'll take that one. So industrial, obviously, is our most diversified and profitable end market, and it's weathered an unprecedented broad-based inventory correction over the past year. Importantly, we expect Q2 was the bottom for industrial and it will grow in the second half starting here in 3Q. Stronger PMIs are supporting the broad-based bookings we've seen for the 3 consecutive quarters now. And as mentioned in the prepared remarks, we're planning to reduce channel inventory further in Q3, which impacts industrial more than any other market. This will be more than a year of undershipping consumption, one reason we believe inventory headwinds have stabilized for industrial. Given these dynamics and the exciting design wins and AI-related tailwinds in our instrumentation and test business, which Vince alluded to, we feel strongly we are at the beginning of the industrial recovery."
+    },
+    {
+      "speaker": "Vincent T. Roche Analog",
+      "company": "Devices, Inc.",
+      "role": "CEO & Chair of the Board of Directors",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. I think one other piece of color, Tore, is that the -- obviously, the aerospace and defense business is doing well. We've a lot of high prospects for that over the coming years. But I think, in general, geographically, it's been on the upward in terms of demand and across most of the segments, particularly the ones that Rich pointed out."
+    },
+    {
+      "speaker": "Michael C. Lucarelli Analog",
+      "company": "Devices, Inc.",
+      "role": "VP, IR and FP&A",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And Tore, on the outlook comment, you're right that -- just to clarify what we said, of the B2B markets, industrial grow the fastest. Consumer will grow faster than industrial in 3Q. So if you want to just kind of back it down a little bit. Consumer is probably growing about 10% sequentially and industrial probably closer to mid-single digits. And the other 2 markets are probably a little bit below that industrial level, but all markets should grow in 3Q. Operator Our next question comes from the line of Stacy Rasgon from Bernstein Research."
+    },
+    {
+      "speaker": "Stacy Aaron Rasgon Sanford C.",
+      "company": "Bernstein & Co., LLC., Research Division",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I wanted to ask about the book-to-bill. So it's above 1, is it above 1 in all the segments? Or is it just above 1 in industrial?"
+    },
+    {
+      "speaker": "Michael C. Lucarelli Analog",
+      "company": "Devices, Inc.",
+      "role": "VP, IR and FP&A",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. It's actually so -- good question. It's above 1 in all end markets. Not all applications within end markets are above 1, though. And if you think about the shape of that bookings throughout the quarter, they -- we talked about last earnings call, bookings improved. And they started below parity and exit the quarter above parity, and that's across all markets and geographies. But again, I'll reiterate, it's not all applications. And we talked a little bit about, in the last question, about what applications are above 1. You can think of some instrumentation, some automation, some aerospace and defense within industrial. So broad-based improvement in bookings across all market and geographies is really the main takeaway. affiliated companies. MAY 22, 2024 / 2:00PM GMT, Q2 2024 Analog Devices Inc Earnings Call Operator Our next question comes from the line of Toshiya Hari from Goldman Sachs. Toshiya Hari Goldman Sachs Group, Inc., Research Division - MD I wanted to ask about the back half of the calendar year and how you're thinking about the shape of the recovery. Vince, you've lived through many cycles. I think, typically, the same way we underestimate the magnitude of the pace of the downturn, we collectively underestimate the pace of the upturn. So I'm curious if you expect this upturn to be similar to past cycles and we kind of follow those patterns? Or do you see anything in the marketplace today or anything from customers that would indicate something materially different in terms of the shape of the upturn?"
+    },
+    {
+      "speaker": "Vincent T. Roche Analog",
+      "company": "Devices, Inc.",
+      "role": "CEO & Chair of the Board of Directors",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. Thanks, Toshiya. So yes, look, first off, we believe we've seen the bottom of the cycle. And as Mike indicated, the stronger PMIs that we've seen, particularly in the industrial sector, give us a lot of confidence and there's a strong correlation between our industrial business, which is about half of the company's total revenue. So -- and as we've said now a few times, bookings and backlog coverage out for the next several months beyond this quarter would give us strong indications that we expect continued growth during the second half of the year. I'll also point out, I think, for 2025, we will have a brisk growth year, that's my sense. And we're asked all the time, what's the shape going to be? Well, I don't really know what the exact shape is going to be, but I think we're on the upward trajectory. We have confidence in that across the board. Operator Our next question comes from the line of Vivek Arya from Bank of America Securities."
+    },
+    {
+      "speaker": "Vivek Arya BofA",
+      "company": "Securities, Research Division",
+      "role": "MD in Equity Research & Senior Semiconductor Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "What is the right way to understand the true change in end demand if we set aside all the inventory fluctuations. So for example, is it worthwhile seeing what did distribution sell-through do year-on-year in Q2, what is the assumption for Q3? And does that inform us in any way about can Q4 be seasonal, whatever is a version of seasonality? I'm just trying to see right -- the right apples-to-apples way of looking at what is end demand doing setting aside all this inventory noise."
+    },
+    {
+      "speaker": "Vincent T. Roche Analog",
+      "company": "Devices, Inc.",
+      "role": "CEO & Chair of the Board of Directors",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. Yes. Look, I think it's very hard to answer to that question simply because when history is written, we're going to get the average of what's happened, pre-pandemic and post-pandemic. So there's been so much ringing in the system, demand overshoots and then demand undershoots. But my sense is, certainly from our perspective, I think we're very well positioned to be able to capture the upside if things grow faster than we expect. We've got a lot of inventory on the balance sheet. We've kept inventory closer to ADI, less downstream. And with the -- we've got as well a tailwind here from AI, which I think is going to be a multiyear tailwind, so we've got that pushing us along. But at the same time, we've got -- still, we've got high interest rates. We've got, still, relatively high inflation in many places. So I think, ultimately, the size of the recovery and the pace of the recovery will have a strong economic and geopolitical tone to it. But I mean, overall, my sense is we'll see good growth for the remainder of this year and strong growth in '25, and beyond that, I think we've got many, many growth drivers that we feel very confident about. We're selling more value into each of our customers in each of our segments. And I feel good about the place that semis are in as an industry right now as well in terms of overall demand as the edge becomes more intelligent and the cloud builds out. So -- but very, very hard to give you an answer on the puts and takes. I mean the dynamics of the relatively near term, are hard to decode. But what we can tell you is, given where PMIs are at, given where our demand is at, we're in a recovery phase. affiliated companies. MAY 22, 2024 / 2:00PM GMT, Q2 2024 Analog Devices Inc Earnings Call"
+    },
+    {
+      "speaker": "Richard C. Puccio Analog",
+      "company": "Devices, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. And, Vince, I would add to that, while it's impossible to get perfect visibility into our end customer inventory, certainly, the signals that we monitor tells us that customer inventories are much healthier than they were previously as we entered into the second half. And this is also aided by our belief that we have been undershipping, underconsumption for over a year now, both in the channel and direct."
+    },
+    {
+      "speaker": "Michael C. Lucarelli Analog",
+      "company": "Devices, Inc.",
+      "role": "VP, IR and FP&A",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "On the channel commentary, Vivek..."
+    },
+    {
+      "speaker": "Vivek Arya BofA",
+      "company": "Securities, Research Division",
+      "role": "MD in Equity Research & Senior Semiconductor Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "You would have some quantification, right, of what the sell-through has been in the reported quarters year-on-year?"
+    },
+    {
+      "speaker": "Michael C. Lucarelli Analog",
+      "company": "Devices, Inc.",
+      "role": "VP, IR and FP&A",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, I can help you out there, Vivek. I think your question is kind of what's sell-in versus sell-through. We talked about the last earnings call..."
+    },
+    {
+      "speaker": "Vivek Arya BofA",
+      "company": "Securities, Research Division",
+      "role": "MD in Equity Research & Senior Semiconductor Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "(inaudible) year-on-year."
+    },
+    {
+      "speaker": "Michael C. Lucarelli Analog",
+      "company": "Devices, Inc.",
+      "role": "VP, IR and FP&A",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. We talked about reducing the channel inventory by about $100 million. We achieved that in our 2Q. We actually did a little bit better than that. As you look to 3Q, we'll reduce channel dollars again but not by that much, not nearly $100 million, much less than $100 million. So we're getting more normal in the channel as our weeks are coming down into our target range. So that normalization is helping some of the growth, but sell-through is also increasing in 3Q from 2Q, which is really how we drive the business and look at for an indication. As you fast forward to 4Q, if these bookings continue, we don't know. There's no reason to think we won't be more in balance in 4Q from a ship-in versus ship-out perspective as well. And then we'll see how 1Q goes from there. So I think that's kind of the question you're asking is there's a piece Rich talked about and Vince talked about, about the customer's inventory, that's leaning out. If you look at us and what we're shipping in the channel, that's also normalizing, setting us up for a good second half in 2025. Operator Our next question comes from the line of Christopher Danely from Citigroup."
+    },
+    {
+      "speaker": "Christopher Brett Danely Citigroup",
+      "company": "Inc., Research Division",
+      "role": "MD & Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Can you talk about the gross margin drivers from here? Maybe touch on utilization rates and inventory trends and -- some of your competitors have talked about pricing returning to historical norms. If that happens, can you still get the gross margins back to the previous peak?"
+    },
+    {
+      "speaker": "Richard C. Puccio Analog",
+      "company": "Devices, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure, I'll take that one. From a gross margin and utilization perspective, we talked a little bit about this in the Q1 call, we expect both utilization and gross margin bottoming in Q2. However, we do expect the pace of gross margin expansion in the second half to be modest. And specifically for Q3, we anticipate gross margin a bit above 67%. Looking from here, gross margin expansion is going to be dictated by continued revenue growth, mix of business and utilization. From a balance sheet perspective, since our peak in Q3, we've reduced balance sheet inventory significantly, including over $70 million in Q2. For the third quarter, we expect to reduce inventory again by about a lesser amount than in Q2. Overall, we executed pretty strongly against our inventory reduction goals, while mitigating the impact on gross margin, leveraging our dynamic hybrid manufacturing model. One of the things that's been super helpful in protecting us in this trough is the flexibility to swing capacity back into our fabs to help maintain utilization. We've done that effectively, which is why we called the floor on utilization. So I affiliated companies. MAY 22, 2024 / 2:00PM GMT, Q2 2024 Analog Devices Inc Earnings Call expect that utilization, as demand continues to increase, will start to increase and aid in our margin expansion. From a channel -- and as Mike mentioned, from a channel perspective, our goal was to reduce by $100 million, which we achieved. We will reduce an additional amount in Q3 to a lesser degree. And ultimately, we expect that this will get us firmly back into our target range of 7 to 8 weeks of inventory in the channel."
+    },
+    {
+      "speaker": "Vincent T. Roche Analog",
+      "company": "Devices, Inc.",
+      "role": "CEO & Chair of the Board of Directors",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. Let me make a comment on the pricing side of things. So across the portfolio, our pricing has been very, very stable, and I expect that to continue. Our products are very sticky. The franchise is very, very -- is very diversified, got lots of long life products in it. And we tend to hang on to our sockets for, I think, on an average, more than a decade. So clearly, where the competition is, is for the new sockets, right? But ADI has the premier innovation system in the analog mixed signal space. And we've been pushing that innovation. While others are focused on volume, we're focused on value. So I think it's a very, very different approach to things. We're not a commodity supplier at all. So we're not immune to price pressure, but we are more protected, I think we have a better moat because of the innovation value that we generate. And I'll note as well, our ASPs are more than 4x the average. And it's our innovation premium that enables us as well to capture more value and to produce the kinds of gross margins that we do. Operator Our next question comes from the line of Ross Seymore from Deutsche Bank."
+    },
+    {
+      "speaker": "Ross Clark Seymore Deutsche Bank",
+      "company": "AG, Research Division",
+      "role": "MD & Semiconductor Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Congrats on the marking the trough and turning the corner. Vince, I wanted to ask a bigger-picture question. I think it's been 4 years since you guys bought Maxim, and I believe it was 4 years prior to that with Linear. So how are you looking at the M&A environment? And are there any kind of pieces to the puzzle that you wish you had?"
+    },
+    {
+      "speaker": "Vincent T. Roche Analog",
+      "company": "Devices, Inc.",
+      "role": "CEO & Chair of the Board of Directors",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. Thanks, Ross. So, yes, we've always acquired assets that get ADI ahead of customers' needs. We tend to take a long-term view, get ahead of our customers' needs. Obviously, we've been very, very selective. I will say, Ross, it's fair to say that, in terms of scale and scope of Analog's high-performance's franchise, we are where we need to be. So analog mixed signal power, we've got a wonderful power franchise now. But we've been adding -- I alluded in my remarks or stated in my prepared remarks that we have been putting more software content, more digital content. And we've also been, for about 7 or 8 years now, developing machine learning, neural networking capabilities. So those are areas where -- as the world becomes more and more software defined, that is clearly an area where ADI has been organically investing. We've done some more tuck-in type acquisitions as well that help us in that area. But I think, right now, we're really focused on making sure that we fully capture all the synergies from -- the revenue synergies from Maxim. And -- but when we have -- we're always looking, by the way, we're always looking for assets. But clearly, I think Analog is complete and it's other areas we're now looking. Operator Our next question comes from the line of Mark Lipacis from Evercore ISI."
+    },
+    {
+      "speaker": "Mark John Lipacis Jefferies",
+      "company": "LLC, Research Division",
+      "role": "Former MD & Senior Equity Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Vincent, for you, I think, if you look at your -- if you adjust your revenues for the step function increase that you had for pricing. It looks like on a unit basis, you're shipping 25% below the trend line. And I don't think you shipped that far below your long-term trend line since the world financial crisis. And at the same time that's happening, you talked about your customers lowering, the supply chain lowering inventories, you're lowering inventories. And it seems like there's a real risk that the industry is setting up for -- you and the industry is setting up for like a really tight affiliated companies. MAY 22, 2024 / 2:00PM GMT, Q2 2024 Analog Devices Inc Earnings Call supply environment, maybe even as the early as the end of this year or early next year. And I'm wondering how do you think -- is there a risk that we enter that kind of a scenario? And it seems like your customers never learn about kind of get their inventories right and the orders to you on time. So like is there something that's changed in your operations that will enable you to adjust to that what has historically happened, which is your customers overshoot on the downside on their inventories and then come in at the last second when things are really tight."
+    },
+    {
+      "speaker": "Vincent T. Roche Analog",
+      "company": "Devices, Inc.",
+      "role": "CEO & Chair of the Board of Directors",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. Well, yes, I think surging demand is a problem of a high quality. And as we have virtually 200 days of inventory in our balance sheet, staged primarily at the die socket level. So that gives us a tremendous amount of output that we could bring within weeks to the market. It's a question of packaging and test to a first approximation. Obviously, we're carrying finished goods as well. We have also spent $2.5 billion plus on making sure that we have internal capacity in our 4 internal fabs to be able to meet the demands across the nodes that produce most of the revenue for ADI. We've got great partners, partners like TSMC, for example, who are a critical part of our hybrid manufacturing model. So I think, in terms of the ability to be able to address a really short order snapback is good, just given the coverage that we've got with internal inventories, our distributors are carrying virtually 8 weeks as well of inventory. And then we've got all this new capacity. We've more than doubled the internal capacity on the critical nodes that address every single market that we participate in. So I think, in terms of manufacturing agility, inventories, we're in good shape. Operator Our next question comes from the line of Harlan Sur from JPMorgan."
+    },
+    {
+      "speaker": "Harlan L. Sur JPMorgan Chase",
+      "company": "& Co, Research Division",
+      "role": "Executive Director and Head of U.S. Semiconductor & Semiconductor",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Capital Equipment Great job on the quarterly execution. Within your distribution business, it's about 60% of your overall revenues. You can monitor sell-through in near real-time, which allows the team to tightly control the inventories into this channel. On the direct business, less visibility on consumption levels of inventory here. I think direct customer orders to you are probably the best indicator of where they are in terms of their inventory targets. So is the return to quarter-on-quarter growth in July and second half optimism on growth being driven by order growth at direct customers as well? And then just any qualitative differences on the residual excess inventory, disti versus direct?"
+    },
+    {
+      "speaker": "Michael C. Lucarelli Analog",
+      "company": "Devices, Inc.",
+      "role": "VP, IR and FP&A",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, Harlan, it's Mike. Yes, the direct order we talked about our direct orders as well as channel orders, but what's driving the growth is direct sales, out of the channel on a sell-through basis as well (inaudible) directly to our end customers. So yes, it's not about -- we're not growing because the channel is refilling. We're growing because there's real demand out there on the end market level across all of our markets."
+    },
+    {
+      "speaker": "Richard C. Puccio Analog",
+      "company": "Devices, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "We expect to reduce both balance sheet and channel inventory further in Q3 while growing."
+    },
+    {
+      "speaker": "Michael C. Lucarelli Analog",
+      "company": "Devices, Inc.",
+      "role": "VP, IR and FP&A",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Does that answer your question, Harlan?"
+    },
+    {
+      "speaker": "Harlan L. Sur JPMorgan Chase",
+      "company": "& Co, Research Division",
+      "role": "Executive Director and Head of U.S. Semiconductor & Semiconductor",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Capital Equipment Yes, it does. affiliated companies. MAY 22, 2024 / 2:00PM GMT, Q2 2024 Analog Devices Inc Earnings Call"
+    },
+    {
+      "speaker": "Michael C. Lucarelli Analog",
+      "company": "Devices, Inc.",
+      "role": "VP, IR and FP&A",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "We'll go to our last question, please. Operator Our next question comes from the line of Joseph Moore from Morgan Stanley."
+    },
+    {
+      "speaker": "Joseph Lawrence Moore Morgan",
+      "company": "Stanley, Research Division",
+      "role": "Executive Director",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. I wanted to also touch on your margin profile. You used to peak with operating margins in kind of the low 40s. And now you're, as you said you would, in a very difficult trough. You're troughing for the full year probably above 40, so that's pretty good structural improvement. Can you talk about that, what's going on if you sort of look over a decade, why is your through-cycle margin profile going up so much?"
+    },
+    {
+      "speaker": "Richard C. Puccio Analog",
+      "company": "Devices, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. So I think a couple of things, right? As we've talked about, the resiliency of our manufacturing process allows us to swing capacity in and out, which allows us to offset some of the down cycle pressure on margins because we're able to keep utilization at a higher level given that swing capacity. Obviously, we continue to look for productivity and are executing on productivity improvements across all of our internal fabs. So I think that helps. And then if you think at an overall operating margin perspective, we've been demonstrating and we'll continue to demonstrate pretty strong operational control over expenses. Look, we expect we'll continue to see expansion in the margin as we grow. And as revenue returns to a growth phase, we will get comfortably back into our long-term margin model."
+    },
+    {
+      "speaker": "Vincent T. Roche Analog",
+      "company": "Devices, Inc.",
+      "role": "CEO & Chair of the Board of Directors",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. I think, Joe, as well, in addition to what Rich has said, it's important to point out that, first and foremost, we're innovation-centered. And if you look at the vintage bands of our products in each of the segments, the big segments that we address, industrial, automotive, consumer and communications, we're seeing ASP increases year-on-year. We're putting more value into our products. We're capturing more value. So I think that is kind of the root of things when I look forward. That's -- I mean that's what's happening to -- that's the origin, if you like, of the margin story for ADI. Our diversity helps us a lot. Our franchise isn't as price-sensitive as many. And as I said earlier, the life cycles matter when we get our products designed and the pricing is tremendously stable. The other thing that's been happening from a price dynamic over the last several years is that, whereas Moore's Law kind of taught everybody that we could give back a lot of the value that was generated in prior years in the new year. That has stopped, that has stopped. We asymptote roughly to 0 now. We don't give price away. We compete for sockets, compete at innovation, but that is really the origin of ADI's margin story."
+    },
+    {
+      "speaker": "Michael C. Lucarelli Analog",
+      "company": "Devices, Inc.",
+      "role": "VP, IR and FP&A",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "All right. Thank you, Joe, and thanks, everyone, for joining us this morning. A copy of the transcript will be available on our website and all reconciliations are there as well. Have a great Memorial Day weekend, and thank you for listening on ADI's call. Operator This concludes today's Analog Devices conference call. You may now disconnect. affiliated companies. MAY 22, 2024 / 2:00PM GMT, Q2 2024 Analog Devices Inc Earnings Call In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. affiliated companies."
+    }
+  ]
 }

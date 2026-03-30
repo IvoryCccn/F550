@@ -4,5 +4,510 @@
   "quarter": "2023Q4",
   "sector": "Industrials",
   "filename": "2024-Feb-01-HII.N-140531806282-Transcript.pdf",
-  "segments": []
+  "segments": [
+    {
+      "speaker": "Scott Deuschle Deutsche Bank",
+      "company": "AG, Research Division",
+      "role": "Research Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Scott Mikus"
+    },
+    {
+      "speaker": "Seth Michael Seifman JPMorgan Chase",
+      "company": "& Co, Research Division",
+      "role": "Senior Equity Research Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Operator Ladies and gentlemen, thank you for standing by, and welcome to the Fourth Quarter 2023 HII Earnings Conference Call. (Operator Instructions) Please be advised that today's conference is being recorded. (Operator Instructions) And I would now like to hand the call over to Christie Thomas, Vice President of Investor Relations. Ms. Thomas, you may begin."
+    },
+    {
+      "speaker": "Christie Thomas Huntington Ingalls",
+      "company": "Industries, Inc.",
+      "role": "VP of IR",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thank you, operator, and good morning. I'd like to welcome everyone to the HII Fourth Quarter 2023 Earnings Conference Call. Joining me today on the call are our President and CEO, Chris Kastner, and Executive Vice President and CFO, Tom Stiehle. As a reminder, statements made today that are not historical facts are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements relate to future events or our future financial performance and involve known and unknown risks, uncertainties and other factors that may cause our actual results to be materially different from future results expressed or implied by these forward-looking statements. Please see our SEC filings for important factors that could cause our actual results to differ materially from expected results. Also in their remarks today, Chris and Tom will refer to certain non-GAAP measures. For reconciliations of these metrics to the comparable GAAP measures, please see the slides that accompany this webcast, which are available on our website's Investor Relations page at ir.hii.com. With that, I would like to turn the call over to our President and CEO, Chris Kastner. Chris?"
+    },
+    {
+      "speaker": "Christopher D. Kastner Huntington Ingalls",
+      "company": "Industries, Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thanks, Christie. Good morning, everyone, and thank you for joining us on our fourth quarter 2023 earnings call. 2023 was a strong year for HII. We continue to invest both in our shipyards and in IRAD to both expand capacity and develop new products and solutions for our customers. Our growth rate for the year of more than 7% and our free cash flow generation of almost $700 million demonstrate that we're entering a period of accelerated growth and increased free cash flow generation. In addition to record sales growth with 2023 revenues of $11.5 billion, fourth quarter revenue was especially strong across all 3 divisions, with 13% year-over-year growth and a record $3.2 billion of revenue. In 2023, net earnings were $681 million, 18% higher than the prior year and strong free cash flow of $692 million was 40% higher than 2022. We also had $12.5 billion of contract awards in 2023, resulting in backlog of $48 billion at year-end. affiliated companies. FEBRUARY 01, 2024 / 2:00PM GMT, Q4 2023 Huntington Ingalls Industries Inc Earnings Call At Ingalls, we delivered DDG 125 Jack H. Lucas, the first Flight III ship and NSC 10 Calhoun. Our DDG 51 team was also awarded the contracts for 7 destroyers in the FY '23 multiyear procurement competition. In our amphibious ship programs, we were awarded a $1.3 billion detailed design and construction contract for LPD 32 and launched LHA 8 Bougainville, the third big deck amphibious warship in the America class. Ingalls expects to complete sea trials and deliver LPD 29, Richard M. McCool Jr. in the first half of 2024. At Newport News, we redelivered CVN 73 USS George Washington after completing her refueling and complex overhaul and continue to progress on the test program for CVN 79 John F. Kennedy. In the Virginia-class program last year, we were awarded the long lead time material for 2 additional Block V boats and the first 2 boats of Block VI. We completed work on SSN 796 New Jersey and expect to deliver in the first half of 2024. And SSN 798 Massachusetts is nearing float-off, which we anticipate in the first quarter of 2024. In addition to the 2024 milestones, we've included our 2025 milestone outlook, which reflects our continued focus on execution. Regarding our workforce, I'm pleased with the positive progress in hiring. We hired over 6,900 crafter personnel in 2023 and continue to see progress early this year. For 2024, we have a hiring target of approximately 6,000 craft personnel. The competition for skilled labor and shipbuilding and the larger manufacturing sector continues to impact our shipyards and our supply base. With our Navy partner, we will continue to invest in our team to improve worker retention and proficiency, both within our shipyard and in the supply chain to ensure we fulfill our contractual commitments and meet our financial objectives. At Mission Technologies, we delivered another outstanding quarter, performing ahead of plan across all business units, leading to strong revenue growth in 2023. In addition to the record revenue growth, Mission Technologies booked new and recompete contract awards with nearly $6 billion in total contract value. Also, Mission Technologies ended the year with a robust business pipeline of $75 billion, which makes us optimistic about potential growth opportunities in 2024. Key growth drivers include support for mission readiness in artificial intelligence, cyber and electronic warfare, advanced modeling and simulation, LVC and C5 ISR. Turning to activities in Washington, D.C. for a moment. We are pleased with the passage and enactment of the defense authorization bill for fiscal year 2024. The FY '24 NDAA strongly supports our shipbuilding programs including multiyear procurement authority for Virginia class Block 6 submarines and incremental funding authority for LPD 33. The Defense Authorization Act also includes necessary authorities to support the implementation of the AUKUS agreement. Looking ahead over the next 5 years, we expect revenue growth of more than 4% and cash generation of $3.6 billion. Our expectations are grounded on the assumption that we must deliver on our commitments to our customers. Also, while the trajectory may not be linear due to the timing of ship milestones and material timing, we expect that HII will be generating approximately $15 billion annually in revenue by the end of the decade. As always, fundamental to our expectations for the business is executing on our contracts and developing and providing solutions to our all-domain customers. We take this responsibility very seriously and remain focused on executing our program commitments. So with that, I will turn the call over to Tom for some remarks on our financial results and guidance. Tom?"
+    },
+    {
+      "speaker": "Thomas E. Stiehle Huntington Ingalls",
+      "company": "Industries, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks, Chris, and good morning. Today, I'll review our fourth quarter and full year results and also provide our outlook for 2024. For more detail on the segment results, please refer to the earnings release issued this morning and posted to our website. Beginning with our consolidated fourth quarter results on Slide 4. Our Q4 revenues of $3.2 billion increased approximately 13% compared to the same period last year. This growth was driven primarily by higher year-over-year revenue at all 3 segments, leading to record quarterly revenue for HII. Operating income for the quarter of $312 million increased by $207 million or 197% from the fourth quarter of 2022, an operating margin of 9.8% compared to margin of 3.7% in the prior year period, up 609 basis points. The increase in operating margin was primarily due to higher segment operating income. Net earnings in the quarter were $274 million compared to $123 million in the fourth quarter of last year, up 123%. Diluted earnings per affiliated companies. FEBRUARY 01, 2024 / 2:00PM GMT, Q4 2023 Huntington Ingalls Industries Inc Earnings Call share in the quarter was $6.90 compared to $3.07 in the fourth quarter of the previous year. Moving to our consolidated results for the full year. Revenues were a record $11.5 billion for the year, a significant increase of 7.3% from 2022. The improvement was driven by strong year-over-year growth at all 3 segments. Operating income for the year was $781 million and operating margin was 6.8%. This compares to operating income of $565 million and operating margin of 5.3% in 2022. The operating income growth was primarily driven by year-over-year improvement in segment operating income at all 3 segments. Net earnings for the year were $681 million, compared to $579 million in 2022, up 17.6% and diluted earnings per share were $17.07 compared to $14.44 in 2022, up 18.2%. For segment results on Slide 5, Ingalls revenues of $2.8 billion in 2023, increased $182 million or 7.1% from 2022, driven primarily by higher volumes in surface combatants and amphibious assault ships partially offset by lower NSC program revenues. Ingalls' operating income of $362 million and margin of 13.2% in 2023, both improved from 2022 results driven primarily by a $70.5 million sale of a court judgment to recover unpaid receivables for the prior repair, refurbishment and modernization of foreign-built frigates. The higher volumes that I just mentioned and the contract incentive on DDG 129, partially offset by lower risk retirement on LPD 28 and LPD 30 than the prior year. At Newport News, 2023 revenues of $6.1 billion increased by $281 million or 4.8% from 2022, primarily due to higher volumes in aircraft carrier construction and engineering and submarines, and partially offset by lower revenues in the RCOH program and naval nuclear support services. Newport News 2023 operating income of $379 million increased $22 million from 2022 and margin of 6.2% was relatively consistent with 2022 performance. The increase was driven by higher volumes I just discussed and a revenue adjustment on CVN 73, partially offset by contract incentives on the Columbia class submarine program in 2022. Shipbuilding margin for 2023 was 8.3%. At Mission Technologies, 2023 revenues of $2.7 billion increased $312 million or 13.1% from 2022, primarily driven by higher volumes in C5 ISR and cyber, electronic, warfare and space contracts. Mission Technologies 2023 operating income of $101 million and segment operating margin of 3.7%, both improved operating income of $63 million and segment operating margin of 2.6% in 2022, driven primarily by a $49.5 million settlement of representations and warranties insurance claim relating to the acquisition of Hydroid and the higher volumes I described, partially offset by a contract loss and lower equity income due to the sale of a joint venture. Mission Technologies 2023 results included approximately $109 million of amortization of purchased intangible assets compared to approximately $120 million in 2022. Mission Technologies EBITDA margin for 2023 was 8.6%. Turning to cash. 2023 free cash flow was $692 million, handily beating the guidance due to strong year-end collections as well as benefiting from the sale of the frigate court judgment and settlement of the reps and warranty insurance claims I've highlighted. During the year, the company reduced debt by $480 million, invested $278 million in capital expenditures, paid $200 million in dividends and used $75 million to repurchase shares, while ending 2023 with $430 million in cash on hand and liquidity of approximately $1.9 billion. Net capital expenditures finished the year at 2.4% of revenues, just under 2022's value of 2.5%. Cash contributions to our pension and other postretirement benefit plans totaled $44 million in 2023. Our pension outlook for 2024 has improved from the update we provided in November, given the better-than-expected returns to assets, partially offset by a decrease in discount rates since that time. Asset returns for 2023 were 12.3%. Pension expectations for 2025 through 2027 have been updated. And similar to the update we provided for 2024 last quarter, the fast benefit has increased from our last update, given the more immediate recognition of the positive asset returns experienced in 2023. This is partially offset by the impact of the lower discount rate. We've also provided an initial view of our 2028 expectations. affiliated companies. FEBRUARY 01, 2024 / 2:00PM GMT, Q4 2023 Huntington Ingalls Industries Inc Earnings Call Turning to Slide 7 of our financial outlook for 2024. Given backlog growth performance in 2023 and the strong demand for our products and services, we are now forecasting mid- to long-term HII revenue growth of 4-plus percent. For shipbuilding mid- to long-term forecast revenue growth has increased from 3% to approximately 4%, although growth in 2024 will be tepid due to the outperformance in 2023. Accordingly, we are forecasting 2024 shipbuilding revenue between $8.8 billion and $9.1 billion. For 2024, we expect shipbuilding operating margin to be between 7.6% and 7.8% as we continue to target incremental margin improvement. For Mission Technologies, we continue to expect approximately 5% mid- to long-term top line growth. And again, due to the 2023 outperformance driven by approximately $80 million of material timing. We expect tempered growth for FY '24, forecasting revenue between $2.7 billion and $2.75 billion. And we expect Mission Technologies operating margins to be between 3% and 3.5% and EBITDA margins to be between 8% and 8.5%. In 2024, amortization and purchased intangible assets is expected to total approximately $109 million, of which $99 million is attributable to Mission Technologies. We expect first quarter revenues of approximately $2.2 billion for shipbuilding and $650 million for Mission Technologies, with shipbuilding operating margin near 7% and Mission Technologies operating margin near 2.5%. Moving on to capital expenditures. As we've discussed in prior quarters, we continue to see the long-term capital expenditure rate of 1.5% to 2% of general sustainment. In the near term, given the significant demand in submarine construction, we are partnering with our Navy customer to invest in expanding our shipbuilding capacity and throughput. The investment is expected to drive CapEx to approximately 5% on average for the next 3 years, with 2024 targeted to be approximately 5.3% of sales. I will note that the sustainable free cash flow levels we've previously discussed are not expected to be impacted by this due to customer investment, evidenced by the projected free cash flow growth over the next 5 years, I'll provide shortly. Additionally, on Slide 7, we have provided our updated outlook for a number of other discrete items to assist with your modeling. Moving on to Slide 8. We have provided an updated view of our free cash flow outlook for 2024 of $600 million to $700 million, ending our prior 5-year free cash flow projection period with an estimate of $3 billion, up from our prior estimate of $2.9 billion. I'm also pleased to provide a free cash flow outlook for the next 5 years or for FY '24 to '28 of approximately $3.6 billion. I would note that these forecasts did not include Section 174 deferral, which if it occurs, would be a tailwind to approximately $150 million to $200 million in 2024. On Slide 9, we provided our capital allocation prioritization model unchanged from previous discussions, but updated for current events. We continue to remain committed to an investment-grade rating and have reduced our leverage ratio to under 2 turns at the end of 2023, a year earlier than planned. In addition, we finished paying off our $650 million term loan in January of 2024, which concludes our debt repayment prioritization while securing our investment-grade ratings and credit metrics. In 2024, we expect to return approximately $500 million cash flow to shareholders through dividends and share repurchases. Lastly, on this slide, the Board has approved a revision to our share repurchase program in both term and amount resulting in available share repurchase authorization of $1.5 billion through 2028. To close on my remarks, the company's mainstay programs are well supported in demand, and MT's growth success continues to expand and diversify our portfolio. Our future is bright and within our control by executing on our current production contracts and capitalizing on the growth demand for HII products and services. We've exceeded our 2023 financial guidance metrics in terms of revenue, profitability and free cash flow while investing in our programs to facilitate growth and throughput. Additionally, we've strengthened our balance sheet, paying down debt and lowering our leverage ratio. Lastly, fine-tuned the HII investment thesis on the last page of the earnings presentation, focusing on the portfolio strength and visibility, execution and growth and free cash flow expansion driving our current and future capital allocation commitments. With that, I'll turn the call back over to Christie for Q&A. affiliated companies. FEBRUARY 01, 2024 / 2:00PM GMT, Q4 2023 Huntington Ingalls Industries Inc Earnings Call"
+    },
+    {
+      "speaker": "Christie Thomas Huntington Ingalls",
+      "company": "Industries, Inc.",
+      "role": "VP of IR",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "(Operator Instructions) Operator, I will turn it over to you to manage the Q&A. Operator (Operator Instructions) Our first question today is from Myles Walton from Wolfe Research."
+    },
+    {
+      "speaker": "Myles Alexander Walton Wolfe",
+      "company": "Research, LLC",
+      "role": "MD & Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Maybe to start it off, the CapEx change, obviously, pretty material, $300 million annualized step-up in run rate. A couple of questions on it. One, why isn't it dropping through a higher revenue run rate in the near term, like '24? And second, why is it only a couple 3-year investment, what specifically is it going towards?"
+    },
+    {
+      "speaker": "Thomas E. Stiehle Huntington Ingalls",
+      "company": "Industries, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I appreciate the question. Yes. So we mentioned here that traditionally, we look at the -- maintaining the yards to be about 1.5 -- 1% to 1.5% with about another point to 1.5 points of specific projects. As we've talked about in the recent past, we have a lot of activity that's going on in the yard acquisitions specifically at Newport News and driving down into the submarine program there. So we're putting more boats on contracting on VCS and the Columbia program. And as we're working ourselves through those negotiations and schedules, we see it necessitates additional capacity and throughput. So in conversations with our Navy partner, we've partnered on what that means, there'd be more -- a couple more buildings, more capacity in the yard, and it's requiring investments. Just over 3 years. We have defined projects that we've worked through, we've bridged, and we've gotten approved through the Board with the Navy and the investment there from the Navy will pay for the majority of that. So as much as it rolls through that on capital utilizing the projects themselves, I'll get the investments on the contracts that would help offset that. So it's a 3-year run. It peaks out the first year at 5.3%. And as I said, we've kind of given you what the free cash flow projection is from '24 to '28 to kind of evidence that we're still good to our thesis of the cash flow inflection to $700 million plus as we go forward. There's a shape to it, obviously, of that $3.6 billion I gave you. And obviously, it grows over time as the revenue and the incremental margin expansion comes online. And then as the CapEx falls off on years 4 and 5. But we think it's a good business arrangement. It facilitates the growth that we're talking about. You heard in the comments, both from Chris and myself, we're raising shipbuilding from 3% to 4%. And this capital investment by both the Navy and us facilitates that growth long term."
+    },
+    {
+      "speaker": "Christopher D. Kastner Huntington Ingalls",
+      "company": "Industries, Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Myles, I'd also add that obviously won't impact '24. These projects take a well to get implemented but it does support the mid- to long-term growth."
+    },
+    {
+      "speaker": "Myles Alexander Walton Wolfe",
+      "company": "Research, LLC",
+      "role": "MD & Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. And Chris, just a follow-up. On the longer-term projection and capital allocation prioritization getting into this at the Investor Day. But the last several years have been a lot of cash going to pay down debt. It doesn't sound like we need to do that. So are we at a point where we can more commit to a significant majority or not all of the free cash flow to return to shareholders over the time frame looking forward?"
+    },
+    {
+      "speaker": "Christopher D. Kastner Huntington Ingalls",
+      "company": "Industries, Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, I'll start. So we fundamentally believe the greatest source of value that we can achieve as a corporation is to focus on our operational priorities right now and delivering our ships. So you see that in the capital investments. And then we're fairly clear on our capital allocation priorities relative to investing in our shipyards, being investment grade, progressively improving our dividends and then providing any remainder back to shareholders. Now that being said, we're going to have optionality around M&A. We have the responsibility to evaluate M&A projects from time to time. I don't see any significant holes in the portfolio right now. And operationally, I think our greatest focus needs to be on delivering our ships affiliated companies. FEBRUARY 01, 2024 / 2:00PM GMT, Q4 2023 Huntington Ingalls Industries Inc Earnings Call to our customers because they need them. So while we're not going to commit to providing everything back to shareholders on this call. We need to -- we're fortunate we have a strong balance sheet, and we can do everything. So that's how we're thinking about capital allocation moving forward."
+    },
+    {
+      "speaker": "Thomas E. Stiehle Huntington Ingalls",
+      "company": "Industries, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "If I could piggyback on top of that kind of amount. I think you're looking at it the right way. If you look back on where we've been, right, in '22, we gave back to the shareholders $249 million in dividends in repos. This year is up to $275 million, which is 40% of free cash flow. We have to keep in mind for 2023, it was $480 million of debt paydown. So we actually, between the debt paydown and what we gave back to shareholders, it was better than 100% of the free cash flow of $692 for 2023. And now for this year, as we're saying $500 million of dividends and repo. There's still another $229 million. I just paid $145 million in January and is $84 million bond payment in May. So $229 million of debt, and that concludes it. Kind of going forward, plus the $500 million, I'm committing to, again, is over 100% of free cash flow going back to the shareholders of this year, if you take the midpoint of the guidance of $650 million, right? So it's ramping. We're giving you the commitment through 2024. We haven't told you the commitment past that. But we would envision as we work off each year and the cash is there, that we'll update you accordingly. Operator Our next question today is from Gautam Khanna from TD Cowen."
+    },
+    {
+      "speaker": "Gautam J. Khanna TD",
+      "company": "Cowen, Research Division",
+      "role": "MD & Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yes. Hey, I joined a little late, so I apologize if you covered this but could you update us on the timing of when the 3 milestones that slipped at Q4 will get caught up? And if there's any downstream impacts from those delays, maybe crowding out labor or anything else. And then if you could just talk about the milestones in 2024. Are there any that are kind of late in the year Q4 weighted that could pose a similar risk?"
+    },
+    {
+      "speaker": "Christopher D. Kastner Huntington Ingalls",
+      "company": "Industries, Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure. Sure. Thanks, Gautam. The 2 DCS milestones were essentially complete with both of the operational commitments for those milestones. There were some late-breaking changes on both of those boats that needed to be implemented before we could claim victory and finally achieve them. But we're essentially complete the staffing has been significantly reduced on each of the boats and it's been reallocated to the other boats and no material financial issue related to those at all. On LPD 29, we ran into an issue going through the test program that we need to stop and do a root cause corrective action on. We've done that. The ship we are going to see this week performed well. We think we'll deliver that here late Q1, early Q2. Now from a '24 milestone impact, we're all aligned within the corporation relative to those milestones. It does put some pressure on the VCS milestones at the end of the year on 798 and 800. But we have detailed plans to achieve those and we're committed to getting those done."
+    },
+    {
+      "speaker": "Gautam J. Khanna TD",
+      "company": "Cowen, Research Division",
+      "role": "MD & Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "And if I could follow up, I just want to make sure I understood the accounting on those 3 that moved out of Q4. Were there positive [cume] catch-ups related to them in Q4? And if not, do you anticipate that in Q1 and Q2 as you recover?"
+    },
+    {
+      "speaker": "Christopher D. Kastner Huntington Ingalls",
+      "company": "Industries, Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "No. No, there were no -- there are no material financial issues related to those. Obviously, on LPD 29, there was a bit of an opportunity loss there that will recover when it ultimately gets delivered. But it's all included in our guidance. Operator Our next question is from Seth Seifman from JPMorgan."
+    },
+    {
+      "speaker": "Seth Michael Seifman JPMorgan Chase",
+      "company": "& Co, Research Division",
+      "role": "Senior Equity Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I guess in other earnings calls this quarter, we've heard about various supply chain challenges on Virginia. I guess, can you speak to kind of how you feel your estimates are looking on Virginia and the amount of risk in those estimates. And then to the extent that is there much in there that's contemplated for inflation reimbursement? Because it seems that contractor expectations for inflation affiliated companies. FEBRUARY 01, 2024 / 2:00PM GMT, Q4 2023 Huntington Ingalls Industries Inc Earnings Call reimbursement have been coming down. Has that been the case for HII or were they not there in the first place? Or is the sub industrial base different because it's such a priority?"
+    },
+    {
+      "speaker": "Christopher D. Kastner Huntington Ingalls",
+      "company": "Industries, Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. So we don't have inflation protection on the VCS program at this time. The supply chain is a challenge across all of our programs, actually. We do have EPA protection for the most part, at Ingalls, and we're managing supply chain risk across the portfolio. The Navy is fully aware of this. We're very transparent about it. That's why the SIB funding is so important. That's why getting 3-year AP is so important so we can just eliminate that risk. But we evaluate our EACs every quarter. And if there's risk, we deal with it in that quarter. But it's not going away anytime soon. I think everyone understands that. That's why we have SIB funding being appropriated and authorized and as soon as we can get that down into the supply chain, the better."
+    },
+    {
+      "speaker": "Seth Michael Seifman JPMorgan Chase",
+      "company": "& Co, Research Division",
+      "role": "Senior Equity Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. Okay. And maybe just a quick follow-up on the capital deployment. If I look at the $3.6 billion over the period, think about the dividends and the 2024 debt paydown, that maybe leaves like $2.25 billion. I know the repo authorization, I think the slide said there's about $1.5 billion left. I mean, would you think that there's before -- that it's possible to exceed that $1.5 billion by 2028?"
+    },
+    {
+      "speaker": "Thomas E. Stiehle Huntington Ingalls",
+      "company": "Industries, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. I would let that be the guiding light. We extended it for term and time but we can always go back and change that again. So I won't read too much into the math of it. But as we said, there's 1.5 available -- $1.5 billion available right now through 2028. And as we move forward, we'll adjust that accordingly. So that was more -- that was just more of a housekeeping issue that we cleaned up. Operator Our next question is from Scott Deuschle from Deutsche Bank."
+    },
+    {
+      "speaker": "Scott Deuschle Deutsche Bank",
+      "company": "AG, Research Division",
+      "role": "Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Chris, just to clarify, the LPD 29 delivery delays, how much extra cost associated with them? Or is it more just a function of some extra time and the deferral of the EAC rather than a diminishment of the EAC opportunity?"
+    },
+    {
+      "speaker": "Christopher D. Kastner Huntington Ingalls",
+      "company": "Industries, Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Well, the time and shipbuilding is cost, right? So we probably lost a little opportunity there. It's not material in nature, and we'll do that. We'll take a step up, if appropriate, when we make final delivery. But it obviously would have been worth more if we did it at the end of the year."
+    },
+    {
+      "speaker": "Scott Deuschle Deutsche Bank",
+      "company": "AG, Research Division",
+      "role": "Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. Got it. And then Tom, just from a reporting perspective, why are Venezuela insurance recoveries included in operating earnings rather than below the line? A lot of people are a little infused by the reporting this quarter."
+    },
+    {
+      "speaker": "Thomas E. Stiehle Huntington Ingalls",
+      "company": "Industries, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. The way that I think accounting works on that down in Ingalls, it's -- in operating income and other income because it's -- we've had that contract, we incurred cost on it. So it's a recovery for costs that we've had both in the past and we had written off. So it comes back still as an operating income. It doesn't go into the revenue. So there's not a red (inaudible) to it. But we do account for the margin and the income statement, and obviously, we picked up the cash on both of those, both the frigate and the reps and warranty in Q4."
+    },
+    {
+      "speaker": "Scott Deuschle Deutsche Bank",
+      "company": "AG, Research Division",
+      "role": "Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. And then, Tom, last question. Is there any kind of ramp to the -- or slope to the free cash flow target, the cumulative target over the next 5 years? Or is it fairly level related to '24? affiliated companies. FEBRUARY 01, 2024 / 2:00PM GMT, Q4 2023 Huntington Ingalls Industries Inc Earnings Call"
+    },
+    {
+      "speaker": "Thomas E. Stiehle Huntington Ingalls",
+      "company": "Industries, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "No, there is a ramp to it and a shape to it. I knew when we gave that, that people would want to see that because we've been giving you the shape of the current one from 2020 to '24 but really only the back end of it. When we first announced that, we didn't provide it. And the only view is why we're not trying to be kind of too nebulous but it's 5 years, a lot of moving parts, how it can move around. I can tell you it's not a reach number. We wouldn't put it out there. We don't feel that we can hit it. But I'm most comfortable right now. I try and manage by year, and we gave that number to show with the evidence ramp in the revenue that we talked about 4-plus percent to HII across the enterprise. We see that Mission Technology is definitely accretive and pulling cash for us right now. Your modeling should easily be able to get to that number. But I really want to get through 2024. And then we can give you a guide on what like 2025 kind of looks like each year thereafter, okay? Operator Our next question is from David Strauss from Barclays."
+    },
+    {
+      "speaker": "David Egon Strauss Barclays Bank",
+      "company": "PLC, Research Division",
+      "role": "Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Chris, Tom, I wanted to ask about the shipbuilding margin target. So I think you had been targeting 7.7% to 8% for '23, and you talked about '24 being above that and then you had milestones slip out that I would assume with those potential EAC adjustments that would help. So I guess what changed in terms of the progression on the shipbuilding margin side as it relates to '24 versus what you talked about were thinking about before?"
+    },
+    {
+      "speaker": "Thomas E. Stiehle Huntington Ingalls",
+      "company": "Industries, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. So we don't want to get ahead of ourselves, right? We did talk about 7.7% to 8.0%. There's a couple of milestones that we missed at the end of the year, which caused a little bit of a drag, as you saw how we finished off. Still shipbuilding is healthy with the recovery of the sale of the claim, 8.3%, still kind of beat the guidance with the claim. On a recurring run rate, I'm with you that it's a little bit short on that right now, and we'll pick it up kind of going forward, right? So I'm not just going to have a (inaudible) function but we'll pick up where we have on our run rate. As we finish our milestones and we get credit for that, there'll be some step-ups along the way. I think 7.6% to 7.8% appropriate, it's -- I'm comfortable to conservative on that right now. And I've got in the last couple of years, and we've missed a couple of tenths right at the end of the quarter. So I don't want us to get a [hinder] a little bit. Let's kind of earn each of these quarters. Think 7.6% to 7.8% is the appropriate way to kind of look at it. If we get the hiring and the retention and we have ships to the whole year, and we make our milestones, we could be on the upper end of that range is not higher. But I think for now, finishing the year off at 8.3% with the claim, the bottom end of the guide right now without the claim, I think that's the right starting point with a year's worth of shipbuilding to go to 2024."
+    },
+    {
+      "speaker": "David Egon Strauss Barclays Bank",
+      "company": "PLC, Research Division",
+      "role": "Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. And then wanted to ask about working capital. I think for the year -- at the end of the year, you came in kind of below your target, it looks like you're around 5% of percent of sales. So how does working capital look going forward? I assume some of the CapEx recovery will flow through working capital, at least over the near term?"
+    },
+    {
+      "speaker": "Thomas E. Stiehle Huntington Ingalls",
+      "company": "Industries, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure. Yes. We've had a lot of conversation on that working capital. And I know when we were at high in at 10% and 8% range that was concerned, like how could we get that down and we were projecting that, that would happen. I'm happy to report that it's kind of landed right where we thought it would be, right? So I think we started the year off in about 6% to 6.5%. We finished the year by 5%. The conversations we've had in the recent past, we've talked about, it used to be 6% to 8% without Mission Technologies with the additional sales for Mission Technologies, it's more like 4% to 6%. And I had highlighted that we were coming down with COVID the rearview mirror, reduction programs that we have, maintaining -- trying to maintain the schedules with the same type of work, we would see a normalization of the working capital. And that's exactly what's played out. We've lost about 1 point of working capital throughout this year. And I still anticipate kind of going forward, a little bit affiliated companies. FEBRUARY 01, 2024 / 2:00PM GMT, Q4 2023 Huntington Ingalls Industries Inc Earnings Call improvement in that as we go forward. So 4% to 6% is the right way to kind of look at it. We exit '23 at 5%. And I would expect in 2024 to be the -- a little bit lower than that, between 4% to 5%. The capital incentives will help as we get the cash up front before the cost is completely incurred. And I think that's the appropriate way to kind of model it going forward in the 4% to 5% range in the next couple of years. Operator Our next question today is from Pete Skibitski from Alembic Global."
+    },
+    {
+      "speaker": "Peter John Skibitski Alembic Global",
+      "company": "Advisors",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Tom, I think you just help us out a little bit but can you quantify -- and sorry if I missed it, can you quantify the 2 one-off gains in the fourth quarter at Ingalls and Mission Technologies?"
+    },
+    {
+      "speaker": "Thomas E. Stiehle Huntington Ingalls",
+      "company": "Industries, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. On Mission Technologies, it was the warranties and representations for the purchase of Hydroid. And that was a settlement we had to $49.5 million. And then Ingalls, we picked up from a frigate repair effort that we had in the late 90s and had cost against that, and we've been working to see how we could get a recovery on that. And we did get a judgment -- settlement judgment in 2018 and then we were able to broker and sell that entity for $70.5 million. And you'll see in that K-2, there's a little bit of a back end on that, too. We'll have to see how that plays out. But that's about -- all I want to say about this too. It nets about $120 million growth but obviously, I pay tax on that. So net tax is the impact to the profitability and cash was $95 million."
+    },
+    {
+      "speaker": "Peter John Skibitski Alembic Global",
+      "company": "Advisors",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yes. I appreciate it. And then maybe a more top-level question, what gave you guys the confidence to raise kind of the midterm outlook despite the fact that we don't have a '24 budget appropriated yet. And then on the '24 supplemental that's out there, I think there's a lot of shipbuilding industrial base money in there. Maybe you could talk about that. And is there anything else in the supplemental that could benefit you guys?"
+    },
+    {
+      "speaker": "Christopher D. Kastner Huntington Ingalls",
+      "company": "Industries, Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. So I'll start with that. The '24 budget is very positive for us. All our major programs are supported. LPD 33 is supported, which is really important to Ingalls. The submarine industrial base funding in the baseline budget is important. I think that's around $400 million but the additional $3 billion in the supplemental, just further effort to improve the supply base. And there's also funds within that to improve the labor force. So getting both of those approved is really important. Now our confidence relative to the guide is just on the demand for our products. We see the demand for nominated products in shipbuilding, both in Newport News and Ingalls but also in Mission Technologies. And when we laid it out, we looked at the investments we're making and the opportunity it just makes sense. We're in a bit of an inflection point from a sales standpoint. And I actually think there's probably some tailwinds if we can get that summary industrial-based funding approved, executed and start improving throughput. Tom, do you have anything to add?"
+    },
+    {
+      "speaker": "Thomas E. Stiehle Huntington Ingalls",
+      "company": "Industries, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure. Yes. We've talked about the demand for the products and services we have. When you go around the horn down there, Ingalls just on 7 destroyers with a pretty good clip on the schedule side of that with options in the future for that. We see the 30-ish shipbuilding plan, the 5-year (inaudible). We've talked about the 17 boats that are going to happen, already too long lead for the last 2 on Block V and then VCS Block VI. Those advanced procurements happen. They have to get definitized. We're talking about Columbia build II, the RCOH for 75 and then just the preponderance of work that we have, change work and then the growth at Mission Technologies. We updated our annual plan every year, obviously, it's a 10-year look. And when we really kind of look, affiliated companies. FEBRUARY 01, 2024 / 2:00PM GMT, Q4 2023 Huntington Ingalls Industries Inc Earnings Call we say mid to long that's like 5 to 7, 5 to 10 years. I know the Street, that's too far, we're (inaudible) for at least 5 years, we see growth rates at least that, if not higher. And things have to break our way with timely awards. We have to get labor any of the materials have to hit. But we can just see how the programs are playing out cost, inflation, orders, backlog and things of that nature. And we think it's appropriate to raise to these levels and there's still opportunities above and below this for additional growth. Operator Our next question is from Ron Epstein from Bank of America."
+    },
+    {
+      "speaker": "Ronald Jay Epstein BofA",
+      "company": "Securities, Research Division",
+      "role": "MD in Equity Research & Industry Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "A lot to ask, but maybe just a follow-on on the two questions, one on the supply chain and one on labor. On the labor front, how is retaining labor been? Because something we've heard across the industry, not specific to you guys but generally across the industry, it's been tough to retain labor that companies are bringing in young mechanics or whatever, they stick around for 1 year or 2 and then they take off. I mean how are you guys fairing on that front? And what are you doing to keep them?"
+    },
+    {
+      "speaker": "Christopher D. Kastner Huntington Ingalls",
+      "company": "Industries, Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. Ron, thanks for that question. It's definitely been a challenge over the last couple of years citing the exact example of it that you brought up. And the team has a number of initiatives they've implemented over the last year to address the situation, and they center around 3 fundamental issues, really, which is flexibility for the team that we're hiring in work schedules, potential time off. The craft person, man and women that we are now hiring is not fully prepared to come right into the workforce and start that kind of daily grind without having some flexibility in the work schedules. So we have a number of pilots that we're working in that regard. We have some really interesting analytics around targeting geographies that we have better success in hiring and retaining. So we have initiatives there. And then we have very focused incentives on critical skills. An example is machinists where you have to just pay them more to get them and keep them. So a number of initiatives, we pivot very quickly because we have such good data on what works or what is going to work and what does work so we can expand upon it. But you're hitting on a fundamental issue in the industry right now. In the manufacturing industry as a whole and within defense and in shipbuilding is that the labor issue is obviously one of our major risk issues and one we're working very hard to resolve. I would also say the Navy understands it. And in the SIB funding, as I previously mentioned, there are workforce development issues as well. Getting people into the apprentice schools, because our retention rates in the apprentice schools and established programs are significantly higher because the people that go in there are choosing that as a profession. So it's something we're well aware of. Our partners are well aware of it and the Navy is well aware of it, and we're addressing it. We've seen some rays of light as we ended the year but you can't really trust a couple of data points. So we're going to keep working on it this year."
+    },
+    {
+      "speaker": "Ronald Jay Epstein BofA",
+      "company": "Securities, Research Division",
+      "role": "MD in Equity Research & Industry Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it. Got it. And then on the supply chain with the investment that the Navy is making, where does that have to be made? And where are the weaknesses in the supply chain today as you see it?"
+    },
+    {
+      "speaker": "Christopher D. Kastner Huntington Ingalls",
+      "company": "Industries, Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. So they've done a really good job, both on the VCS program and on the DDG program, it doesn't get enough as much press but on the DDG program as well as identifying single source or sole source vendors, in the supply chain that need investment to increase capacity because as you know, capacity had dwindled a bit in the previous 10 to 15 years. So they've done a very good job targeting those suppliers and making investments. And then there's some large critical material where there's a single source suppliers that are dealing with the same sort of labor and supply chain issues that we are. So to identify those potentially dual source them or qualify an additional source is something that the Navy and we are looking at as well. So it's a very comprehensive review. I think it's managed very well by us and our partners. And I think it's going to get it the issue but it doesn't turn overnight. affiliated companies. FEBRUARY 01, 2024 / 2:00PM GMT, Q4 2023 Huntington Ingalls Industries Inc Earnings Call Operator Our next question is from Noah Poponak from Goldman Sachs."
+    },
+    {
+      "speaker": "Noah Poponak Goldman Sachs",
+      "company": "Group, Inc., Research Division",
+      "role": "Equity Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Tom, can you give us the pieces that bridge your actual full year '23 free cash versus what you had last guided it to?"
+    },
+    {
+      "speaker": "Thomas E. Stiehle Huntington Ingalls",
+      "company": "Industries, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So we started the year $400 million with $450 million. We guided up to $500 million. You can -- at $692 million, at completion, if you take out the 2 claims net tax, obviously, that's $95 million comes off the $692 million gets you to $597 million. And then the difference between the increased guide in Q3 of $500 million to $597 million, with some strong collections in Q4. The team really stayed on it. We make sure that we've got a build on time and we had a clean Q4 receivables. So it's just across the enterprise. There wasn't anything of significance to really note in that."
+    },
+    {
+      "speaker": "Noah Poponak Goldman Sachs",
+      "company": "Group, Inc., Research Division",
+      "role": "Equity Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. So if I take that final and take out the claims, I guess, call that closer to $600 million. Can you bridge me from that to staying there in '24 while CapEx is going up as much as it is? If you're -- because you got revenue guidance that's up kind of 2% or 3% in a flat segment operating margin."
+    },
+    {
+      "speaker": "Thomas E. Stiehle Huntington Ingalls",
+      "company": "Industries, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. So I had mentioned in my comments upfront that this active and significant Navy participation in that. So I don't want to get too much into the details but we're both contributing to it. But that's helping offset that increase there. So the guide of $600 million to $700 million, we took that down a little bit from where I left you last quarter as we exceeded this year, a little bit of timing, too, was in there on the collections. So a little overachievement in 2023, a little back off from where I left you last time at $700 million, now it's $600 million to $700 million, but I would not be alarmed because of the higher CapEx in '24, '25 over '26. That it's going to be a major draw on the free cash flow from the discussions we've had in the past. That's been a little bit of guiding light. We definitely want to support our customer perform in existing contracts. Much of the work we're talking about for the new CapEx is on the new requirements that are coming. And as we broke with that relationship and how we make that happen, we're going to ensure that we kind of keep everything in lockstep. We got to be ships out to get cleaner and sooner, high-quality value. And on our side, we still have to be able to kind of run the business here and have good working capital. So all that's in the mix. And I would not be concerned on the 5.3% against the cash flow projections that we've given you. Again, that's why we gave you -- you probably won't see that too often a 5-year projection going forward. We wanted to settle everyone out there that all that's been factored in as we run the business and we manage our cash."
+    },
+    {
+      "speaker": "Noah Poponak Goldman Sachs",
+      "company": "Group, Inc., Research Division",
+      "role": "Equity Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "So how will we actually..."
+    },
+    {
+      "speaker": "Thomas E. Stiehle Huntington Ingalls",
+      "company": "Industries, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I would tell you, I think I am -- one more. Go ahead. Go ahead."
+    },
+    {
+      "speaker": "Noah Poponak Goldman Sachs",
+      "company": "Group, Inc., Research Division",
+      "role": "Equity Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Well, I'm just wondering like if there's a Navy participation will we see -- will not all of that actually be recorded in CapEx? Or will it flow to your CapEx and come back in your rates in your operating margin? Or how will we actually see that in your financials?"
+    },
+    {
+      "speaker": "Thomas E. Stiehle Huntington Ingalls",
+      "company": "Industries, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So when we do our CapEx, obviously, our costs, we get incentivized to go do that. So it comes on the contract in the form of capital incentives, additional margin and cash that flows through there. That helps offset by additional cost of that. I would comment just earlier to your question, as you try to kind of normalize the $692 million out to like $597 million as I said, when you pull up the 2 claims. It's the ramp that we've been talking about. If you go back to '21 at $449 million and '22 at $494 million and now (inaudible) the claims. Now it's affiliated companies. FEBRUARY 01, 2024 / 2:00PM GMT, Q4 2023 Huntington Ingalls Industries Inc Earnings Call ramped to $597 million and then we're at $600 million to $700 million. We've talked about a $700 number in 2024 and just a little bit, it's range bound now because we exceeded in 2023. And now the $3.6 billion, on the average of that is $720 million, and that's got to shape to it, obviously. It's going to be smaller upfront as the revenue incremental margin grows in the out uses going to be large in the back. I think that's appropriate right now. It's not a stretch number. It's a -- it's conservative. It's a reasonable number. We have risk to kind of go work off. And I think that has both risks and opportunities associated with them. So I'd leave you with that."
+    },
+    {
+      "speaker": "Noah Poponak Goldman Sachs",
+      "company": "Group, Inc., Research Division",
+      "role": "Equity Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "The -- so the piece that goes through CapEx that's supported by the Navy that we'll just see that in future margins as it flows through your rates? Is that right?"
+    },
+    {
+      "speaker": "Thomas E. Stiehle Huntington Ingalls",
+      "company": "Industries, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. Margins and cash, yes."
+    },
+    {
+      "speaker": "Noah Poponak Goldman Sachs",
+      "company": "Group, Inc., Research Division",
+      "role": "Equity Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. And then I guess, I just -- so for '24, with the margin guidance flattish year-over-year, I still struggle to see where that $300 million is coming from?"
+    },
+    {
+      "speaker": "Thomas E. Stiehle Huntington Ingalls",
+      "company": "Industries, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So on the margin side, first, is the timing of when that happens, right? So you get that on contract and you've got to do the work, and there's a percentage of completion you take. So there's a lag on the margin side. And on the cash side, we try to make sure that we try and stay neutral so that we're not impacted as an incurring costs that high of 5.3% of CapEx but that gets offset on the payment schedule of the CapEx, right? So the margin is not running exactly with the cash. But on our side, we're trying to keep it neutral here. So it's not going to impact our projections that we've given."
+    },
+    {
+      "speaker": "Christopher D. Kastner Huntington Ingalls",
+      "company": "Industries, Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. It's part of the total ship P&L, Noah. Operator Our next question is from George Shapiro from Shapiro Research."
+    },
+    {
+      "speaker": "George D. Shapiro Shapiro",
+      "company": "Research",
+      "role": "CEO and Managing Partner",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yes. I wanted to ask your actual ship revenues were like almost $300 million higher than what you -- the high end of the guide that you provided on the November call. So just wondering why, given that, to me, this is a fairly predictable business? And I have a different question, too."
+    },
+    {
+      "speaker": "Thomas E. Stiehle Huntington Ingalls",
+      "company": "Industries, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, sure, sure. So from the MT side, we saw a nice rush at the end of the year of some receivables. I mentioned in my notes, it's about $80 million. So that was a big pickup. On the shipbuilding side, just the timing of material on how that floating here, the majority of the overage and where we felt we would land was on the material side. We have some outsourcing going on as well. So those costs flow through opportunistic that they landed in 2023 here. But we guided $86 million to $88 million, we came about $100 million over that and you kind of normalize that. It was good growth there. You saw it in shipbuilding better than 5%, 5.5% in shipbuilding. Ingalls up in the 7s and Newport News at 4.8%. But it was a sharing between all 3 divisions that just exceeded. It was a nice run at the end of the year on the revenue side."
+    },
+    {
+      "speaker": "Christopher D. Kastner Huntington Ingalls",
+      "company": "Industries, Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "George, you're familiar with material timing, you can miss by a month to 2 months from time to time. It just came in at the end of the year. Now unfortunately, it impacts the guide for the next year, right? So you had to -- we had to include that. But it was just timing. affiliated companies. FEBRUARY 01, 2024 / 2:00PM GMT, Q4 2023 Huntington Ingalls Industries Inc Earnings Call"
+    },
+    {
+      "speaker": "George D. Shapiro Shapiro",
+      "company": "Research",
+      "role": "CEO and Managing Partner",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. And then the other one probably for Tom, if you had a $49 million benefit in Mission Systems from Hydroid, I mean, it implies the rest of the business made $2 million. Now you alluded to some charges at some of the other businesses there. But if you could just provide some more information on that."
+    },
+    {
+      "speaker": "Thomas E. Stiehle Huntington Ingalls",
+      "company": "Industries, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, that's right. A piece of that's timing on how the program is just playing out in the mix and execution on that. We did have one job over there that we just took a slight step back. It wasn't material. You won't find it in the (inaudible). I guess it's not at the threshold there's a couple of million dollars on that. But not a lot of dollars when you break down that kind of business to begin with. And then when you take a small charge and then the timing of performance on how we book things, it came out to be a light quarter there. But overall, with the claim, 8.6% EBITDA, the (inaudible) 3.7%, you can normalize that out. It'll be a little bit on the bottom end of the guide that we gave you, 8% to 8.5% at the beginning of the year for EBITDA. But as we had mentioned throughout the year, there was the joint venture that we sold off, we picked up cash but we lost some equity. And we've been kind of mentioning about a charge on a manufacturing effort that we have over this. I think that's behind us right now kind of going forward. And I'm still very satisfied with the numbers that MT kind of put up across the board for revenue, margin and cash."
+    },
+    {
+      "speaker": "George D. Shapiro Shapiro",
+      "company": "Research",
+      "role": "CEO and Managing Partner",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "And Tom, if you could just provide the EAC for each of the sectors in the quarter?"
+    },
+    {
+      "speaker": "Thomas E. Stiehle Huntington Ingalls",
+      "company": "Industries, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure. So for the quarter, that was $111 million of favorability, $43 million of unfavorability, a net of $68 million was made up of about 50% -- that net was 50% in Ingalls, about 35% of Newport News, about 15% in MT. Just for everyone on the call, you'll see in the K, which does the whole year, was $309 million growth, gross favorability for the whole year, $191 million gross unfavorable with a net of $118 million. And that breaks out to be about 75% Ingalls and 15% MT and 10% Newport News. I appreciate the question. Operator We will now be taking our last question from Scott Mikus from Melius Research. Scott Mikus I wanted to ask, is any of the customer-funded investments over the next 3 years? Is any of that contingent on the supplemental package making its way through Congress?"
+    },
+    {
+      "speaker": "Christopher D. Kastner Huntington Ingalls",
+      "company": "Industries, Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "That's a good question and I don't have that in front of me. That's a really good question. I don't have that in front of me. I know part of it -- I think a part of it is but I couldn't quantify it for you. So we'll get that information for you, Scott. Scott Mikus Okay. Got it. And then thinking about the shipbuilding revenue growth rate, you've for a long time, talked about labor being the governor on output there. So how much can these investments improve throughput in the shipyard if retention rates don't improve materially?"
+    },
+    {
+      "speaker": "Christopher D. Kastner Huntington Ingalls",
+      "company": "Industries, Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Well, it has to be both, right? And we -- when we do our projections, we risk adjust them. It's not assuming that everything works out perfectly. So it has to be both. We have to improve our retention rates. We have to improve out of the supply chain and we have to improve capacity. And if we do that, then throughput will significantly increase. But you're absolutely correct. We have to be successful in both."
+    },
+    {
+      "speaker": "Thomas E. Stiehle Huntington Ingalls",
+      "company": "Industries, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Scott, I'd supplement that, too, that as we're building that out, how we hire, how we train, how we've retained we're not standing flat for it but I know that the yards themselves have active plans on either outsourcing or contract labor, using additional overtime crew that we affiliated companies. FEBRUARY 01, 2024 / 2:00PM GMT, Q4 2023 Huntington Ingalls Industries Inc Earnings Call do have, working the 3 full shifts where there's a critical path. But there's dials that we have to try and offset that in the near term. You can't run that 5 or 10 years if you see -- we see the demand we're building out organically that we'll be able to do things in the yards. But right now, there are dials and opportunity sets for additional labor outside the yard that we're employing right now. Operator Thank you. This is all the time we have for the Q&A session today. So I would now like to hand back over to Mr. Chris Kastner for any closing remarks."
+    },
+    {
+      "speaker": "Christopher D. Kastner Huntington Ingalls",
+      "company": "Industries, Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. Thank you, and thank you for joining the call today. I'm very proud of our team's strong performance last year and I'm confident that we will continue to create value for our shareholders this year. I would also like to remind you that we are hosting an Investor Day on March 20 and look forward to seeing many of you then. Have a good afternoon. Operator Thank you, everyone, for joining today's call. You may now disconnect your lines and have a lovely day. In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. affiliated companies."
+    }
+  ]
 }

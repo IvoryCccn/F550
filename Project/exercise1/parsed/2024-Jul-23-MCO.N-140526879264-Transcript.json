@@ -4,5 +4,366 @@
   "quarter": "2024Q2",
   "sector": "Industrials",
   "filename": "2024-Jul-23-MCO.N-140526879264-Transcript.pdf",
-  "segments": []
+  "segments": [
+    {
+      "speaker": "Robert Fauber",
+      "company": "Moody's Corp",
+      "role": "President and Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Noémie Heuland Moody's Corp - Chief Financial Officer"
+    },
+    {
+      "speaker": "Heather Balsky Bank",
+      "company": "of America",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Operator Good day, everyone, and welcome to the Moody's Corporation second-quarter 2024 earnings call. At this time, I would like to inform you that this conference is being recorded and that all participants are in a listen-only mode. At the request of the company, we will open the I will now turn the call over to Shivani Kak, Head of Investor Relations. Please go ahead."
+    },
+    {
+      "speaker": "Shivani Kak",
+      "company": "Moody's Corp",
+      "role": "IR Head",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you, and good afternoon, and thank you for joining us today. I am Shivani Kak, Head of Investor Relations. This morning, Moody's released its results for the second quarter 2024, as well as our revised outlook for select metrics for full year 2024. The earnings press release and the presentation to accompany this teleconference are both available on our website at ir.moodys.com. During this call, we will also be presenting non-GAAP or adjusted figures. Please refer to the tables at the end of our earnings press release filed this morning for reconciliations between all adjusted measures referenced during this call in US GAAP. I call your attention to the Safe Harbor language, which can be found towards the end of our earnings release. Today's remarks may contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. In accordance with the Act, I also direct your attention to the management's discussion and analysis section and the risk factors discussed in our annual report on Form 10-K, for the year ended December 31, 2023, and in other SEC filings made by the company, which are available on our website and on the SEC's website. These, together with the Safe Harbor statement, set forth important factors that could cause actual results to differ materially from those contained in any such forward-looking statements. I would also like to point out that members of the media may be on the call this morning in a listen-only mode. I'll now turn the call over to Rob. affiliated companies. JULY 23, 2024 / 5:00PM GMT, Q2 2024 Moody's Corp Earnings Call"
+    },
+    {
+      "speaker": "Robert Fauber",
+      "company": "Moody's Corp",
+      "role": "President and Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks, Shivani. Good afternoon, and thanks, everybody, for joining today's call. I'm looking forward to talking about this quarter. 22% revenue growth, an adjusted operating margin of almost 50%, and 43% adjusted diluted EPS growth. That's great stuff. And as I have said before, and I'm very proud to say it again, MIS is one of the world's great businesses. And when issuance activity ramps up like it did in the first half of this year, and you maintain such a strong position with investors and issuers like we do, as well as our ongoing discipline approach to costs, we generate a tremendous amount of operating leverage. And for the second quarter, MIS delivered 36% revenue growth and a 63.2% adjusted operating margin, up 730 basis points from the second quarter of last year. And following another consecutive quarter of robust performance, we're again raising our guidance for both revenue growth and margin. On the MA side, we delivered a seventh consecutive quarter of 10% ARR growth with a 94% retention rate. ARR growth continues to be led by decision solutions, which grew by 13% this quarter. That said, and while we see a strong pipeline for the second half of the year, we are widening our ARR guidance to account for the potential for a bit of more uncertainty in the buying environment in the second half. And Noémie will expand more on our thinking around this later, and I'm sure we'll discuss it in Q&A. In addition to the MIS guidance raised, we're also increasing several of our Moody's corporation metrics, including upping our expectation for share repurchases for the year from $1 billion to $1.3 billion, and raising and narrowing our adjusted diluted EPS guidance to a range of $11 to $11.40. And we continue to innovate and invest, launching new products, expanding coverage, extending our partnerships, all to spur growth and position Moody's for long-term sustainable success. Now, speaking of growth, MIS has truly established itself as the agency of choice, and that allows us to really capitalize on a market environment like we experienced this past quarter. For the first half of the year, we grew transaction revenue by 56%, and that outpaced issuance growth of 43%. And that was particularly evident in our corporate finance and financial institutions rating groups, which both delivered transactional revenue growth rates north of 65%. And when considering recovery, overall total revenue grew by 35%. And the investments we're making to streamline and automate our workflows enabled us to meet the surge in issuance, and that's double-digit growth across all asset types while maintaining discipline around expenses. And even considering these investments, we're delivering adjusted operating margin up 760 basis points through the first half of the year. Now, moving to MA. We had a strong first half, generating 8% revenue growth, and as I mentioned earlier, the seventh consecutive quarter of double-digit ARR growth. We continue to focus on high-growth SaaS and subscription products, which are delivering mid-90s retention rates and now represent 95% of total revenue. Businesses within decision solutions continue to deliver very good growth, and that includes KYC, which is delivering new and innovative features and functionality, and remains the fastest growing business with ARR growth at 18% as of the end of the quarter. Insurance ARR growth was 6% at this time last year. It's now 14%. And banking delivered 9% ARR growth, and for its purely SaaS offerings, a mid-teens ARR growth rate. Meanwhile, data and information delivered its fourth consecutive quarter of double-digit ARR growth. And research and insights ARR growth remains at 6%. But we continue to expect the growth rate will improve of high single-digit percent growth range by year-end, and that's benefiting from the momentum with Research Assistant and our unrated company's coverage expansion in CreditView. So how are we achieving all this? I mean, pretty simply, we're delivering mission-critical solutions, tapping into our risk operating system, massive data sets and analytic engines, all helping our customers navigate in increasingly complex and interconnected environment. affiliated companies. JULY 23, 2024 / 5:00PM GMT, Q2 2024 Moody's Corp Earnings Call Now, last quarter, I gave you a glimpse into our GenAI product roadmap, and I'm excited to share that we launched two new skills this past quarter. And the first of those is an automated credit memo, which saves bankers hours of work by assembling a credit memo, leveraging the bank's in-house content, Moody's content, and third-party content. Second is our early warning system, which is a cutting-edge GenAI-powered solution that's initially focused on commercial real estate that we launched last week. And this solution monitors breaking news, it alerts our customers, and that includes lenders, insurers, and asset managers, to risks that could affect their portfolio, and allowing them to query a broad range of Moody's data and models to quickly understand the potential impact of a given event. We've got a number of institutions using both of these solutions in private preview mode, and we're receiving some very encouraging feedback. And they're both great examples of more ways that we are unlocking the power of our data, our analytics, our insights, leveraging GenAI. In KYC, regulation continues to drive demand for new and targeted solutions. And this past quarter, we launched our sanctioned security screening tool, which allows asset managers to look through the ownership hierarchies of their holdings to the ultimate patent and flag those that are sanctioned. We also launched the European sanctions product. That was something that we actually launched in under a month, and it will help our banking customers manage new European reporting requirements on certain types of money transfers. And both of these solutions provide critical, timely, and trusted data to our customers, helping them avoid potential reputational or regulatory issues. And they're great examples of how we're broadening the use cases we serve, leveraging our massive company, people, and news data sets. Now, these products wouldn't be possible without the investments we've been making in our Orbis database, which we believe is the world's best curated database of public and private companies. And we've more than doubled the number of entities we cover since we first acquired Bureau van Dijk. We added more than 20 million companies this year alone. And this past quarter, we reached a pretty incredible milestone with over 0.5 billion companies in our Orbis database. And this massive coverage is a great source of competitive advantage for us. Now, turning to our ratings business, I always say that if there's an opportunity to invest in one of the world's great businesses, we're going to do it. And that's why I'm thrilled to announce that in early July, we completed our acquisition of GCR. That's the leading African domestic credit rating agency covering 25 countries across the region. And GCR really is a fantastic franchise. They've got a very impressive management team, and this investment continues to reinforce our leadership in domestic rating markets around the world. We've got a 30% stake in the leading rating agency in China. We've got very strong positions across Asia, in India, in Korea, Malaysia, and most recently, Vietnam. We've been enjoying great success with our Moody's Local strategy across Latin America. And now we've established a leadership position across the African continent. Now, we've also achieved an important milestone in our sustainable finance franchise in ratings this quarter when we delivered our 200th second-party opinion in MIS, and we've got a healthy pipeline for the rest of the year. With the more recent launch of our net zero assessment, we now have, I think, a very compelling set of offerings to support sustainable and transition finance, and those are clear growth areas for the foreseeable future. Now, you may recall back on the third quarter call last year, I talked about how we'd established a framework for third-party partnerships really to drive the ubiquity of our content in more and more platforms where people are making decisions about risk, investment, and opportunity. affiliated companies. JULY 23, 2024 / 5:00PM GMT, Q2 2024 Moody's Corp Earnings Call In this past quarter, we had some exciting announcements on that front. First is our strategic collaboration with MSCI around ESG and private credit. And we really are excited to offer our customers MSCI's market-leading ESG scores and data through a range of our solutions. And MSCI will leverage Moody's Orbis database to extend its private company ESG coverage. And together, we're going to explore solutions that will leverage our company data and credit scoring models and MSCI's distribution and expertise with the global investment community to provide greater insight into the private credit markets. And just to be clear, our collaboration does not impact our ESG work and ratings, nor does it affect our very extensive climate and transition capabilities across the firm. Now, second, in June, we announced a new collaboration with Zillow that further enhances the insights available to both Moody's and Zillow customers. And starting this month, we're adding Zillow's extensive rental property data into Moody's CRE data platform. In exchange, Zillow will gain access to Moody's CRE market analyses, and that will help their customers make confident decisions around their multifamily properties. We're also deepening our relationship with Google. Last month, they announced that they have tapped Moody's to be one of four foundational data providers that will serve as grounding agents for their enterprise Vertex AI platform. And this grounding opportunity is particularly exciting as it dramatically expands the audience for our content and further establishes Moody's as a trusted data source. And finally, back in May, we announced a first-of-its-kind enterprise risk management dashboard in collaboration with Diligent. And they're a leading governance, risk, and compliance SaaS company. And that's going to be offered as a separate module to their more than 700,000 Board and leadership users, again, broadening the audience for our content. So these kinds of partnerships are expanding the reach and mindshare of our data sets and analytics to thousands of key decision makers while enhancing the offerings of our partners and ultimately, in the service of helping us accelerate long-term growth. So on that note, let me hand it over to Noémie to talk more about our financial performance for the quarter. Noémie Heuland Moody's Corp - Chief Financial Officer Building on the momentum from the first quarter, I'm very pleased to share that we delivered a very strong performance in Q2. Our revenue was $1.8 billion, up 22% year on year, and our adjusted operating margin of nearly 50% improved by 590 basis points, illustrating our strong operating leverage. Turning to segment performance. Moody's Analytics revenue grew 7% or 8% on a constant currency basis.. Recurring revenue, which represents 95% of our revenue in this segment, was up 9% year on year. And the adjusted operating margin was 28.5%, up 50 basis points from the second quarter last year. Annualized recurring revenue, or ARR, was $3.1 billion, up $292 million, or 10% year on year. Our largest line of business, decision solutions, grew ARR by 13%, with a 150-bps sequential growth acceleration from Q1. Growth in this line of business was enabled by mid- and high-teens growth from insurance and KYC, where we continue to see strong customer demand for a best-in-class workflow solution. Data and information ARR grew 10%, with low-teens growth in our corporate and government sectors, while our research and insight business grew ARR at 6%, a similar trend to what we've seen in recent quarters, when we observed some modest uptick in credit view attrition from banks and asset managers, as we previously called out. Our overall retention rate remains high, around 94%, which is evidence of the stickiness of our solution. I do want to note that while this quarter marked the seventh quarter of double-digit ARR growth, we expect some moderation in our growth rates for this metric in certain areas of our business in the second half, which I will address when I talk about guidance. Switching to MIS. Revenue was the second highest on record, growing 36% and topping $1 billion. Transactional revenue grew 56%, outpacing issuance growth of 47%, and represented close to 70% of the total revenue for the quarter in affiliated companies. JULY 23, 2024 / 5:00PM GMT, Q2 2024 Moody's Corp Earnings Call MIS. We saw a positive mix from our investment-grade subsegment, with transaction revenue increasing 28% versus the 10% rise in issuance, partially due to a combination of refinancing activity and several large M&A-related deals. And our financial institutions ratings group saw a record level of revenue from insurance customers, primarily due to a favorable mix in infrequent issuers, resulting in 58% overall increase in transaction revenue against a 17% increase in issuance. Now tight expense controls and our increased focus on automation, coupled with the strong levels of issuance activity, enabled us to deliver an adjusted operating margin of 63.2%. As Rob mentioned up front, we are updating our guidance for a number of metrics, so I'll start with the biggest change, which is the improved rated issuance outlook. Given the very strong start of the year, and a slightly improved expectation for the second half, [albeit] with a notable slowdown from the first half, we're now forecasting issuance growth to be in the 20% to 25% range, and revenue growth to be in the high-teens percentage range. Looking out at the rest of the year, we now expect second half issuance to be roughly in line with the second half of '23, and we continue to expect Q4 issuance to be down in the mid-teens range, versus prior Q4, very consistent with our prior guide. So what's changed here, really, is we've taken the second quarter beat into our issuance numbers, and our outlook for Q3 is now a bit higher than it was previously. We've provided some additional color on this slide for the various asset classes, and we'd be happy to talk about more of this in the Q&A. Given this level of growth, we're raising guidance across revenue and profitability metrics in our ratings business. I'd like to take a moment to provide some high-level context behind our thinking. As we've consistently stated, we expect the first half of the year to be busier than the second half, and this view remains unchanged. From a macroeconomic standpoint, we have a positive outlook for the remainder of the year and expect global GDP to be between 2% and 3% for the full year. Our June default report, which was just published last week, is signaling that global default rates peaked in April, and will continue to decline gradually in the fall. We're also relatively agnostic to the timing and number of rate cuts expected later this year. Now, with that context in mind, we are raising our guidance for MIS revenue growth to be in the high-teens percentage range, and we now expect full-year MIS adjusted operating margin to be in the range of 58% to 59%. For MA, we're maintaining our guidance of high-single-digit growth for revenue and a 30% to 31% margin. However, we're adjusting our expectations for year-end ARR to a wider range of high single-digit to low double-digit percent growth. Our current midpoint estimate for ARR growth is at the upper end of the high single-digit range. But taking into account a couple of strategic changes and more uncertainties that we usually have at midyear, we decided to make this update and provide you with some additional color on the factors that are notable. First, the partnership we announced with MSCI represents a commitment to our customers, as well as a strategic shift in our offering. This change may impact our year-end renewals and reduce the sales pipeline for this line of business. Second, while we were optimistic that tight purchasing patterns, particularly in banks and asset managers, would have improved, over the course of this year, we continue to see very tight conditions in those customer sectors. This trend is most impactful on our banking, KYC and Research & Insights line of businesses. And third, as we look towards the US elections in the fall, we'd be remiss if we didn't note that the timing of certain upcoming renewals with US government agencies could be impacted. On a positive note, we also have several newly launched products, Research Assistant, which continues to be enhanced and has been affiliated companies. JULY 23, 2024 / 5:00PM GMT, Q2 2024 Moody's Corp Earnings Call gaining traction at the highest price points, along with the new products Rob highlighted earlier, and these are also expected to be able to build pipelines and close deals as we head into the back half of the year. So all in all, our pipeline is strong, we're continuing to invest and innovate to drive durable double-digit growth in the years to come. Now, bringing all this together, we now expect Moody's revenue to grow in the [low-teens] percent range, expenses to grow in the high single-digit range, and an adjusted operating margin in the range of 46% to 47%. This expense guidance update of a high single-digit percent increase primarily reflects increases to incentive comps, and the additional charge related to asset abandonment, which we will take over the second half of the year, related to the shift in our strategy to source ESG data and scores from MSCI. That's a non-cash charge. From a capital allocation perspective, I'm happy to share that we are increasing our free cash flow guidance to a range of $2 billion to $2.2 billion and are also raising our guidance for share repurchases by $300 million to approximately $1.3 billion. In doing so, we plan to return around 90% of our free cash flow to our stockholders in the form of buybacks and dividends for the full year 2024. And finally, as Rob mentioned earlier, we are increasing our adjusted diluted EPS guidance range to $11 to $11.40, a $0.50 increase at the midpoint. And that represents about 13% growth versus last year. So I'll just wrap up by congratulating my colleagues on a very strong first half, and I'm very excited for what it looks to be a very strong year. And that concludes our prepared remarks. Operator, can we open the call up for questions, please. Operator (Operator Instructions) Owen Lau, Oppenheimer & Co."
+    },
+    {
+      "speaker": "Owen Lau Oppenheimer",
+      "company": "& Co.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Good afternoon, and thank you for taking my question. So I do want to go back to issuance. You have provided a lot of good information already. But again, like issuance continue to be strong in the second quarter. You raised the guidance for MIS. But could you please give us an updated view on your pull forward expectation? And do you now expect like less impact on pull forward than you had expected maybe a few months ago? Can you maybe elaborate a little bit more on that?"
+    },
+    {
+      "speaker": "Robert Fauber",
+      "company": "Moody's Corp",
+      "role": "President and Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I'd say there's two kinds of pull forward. The first is pull forward of planned financing within a given calendar year, and the second is the pull forward from forward maturities. And I would say that we have seen both this year. As I think Noémie was touching on a bit in terms of what we think in the second half, we think that the fourth quarter in particular, I think, it's going to be November and December, is going to be much more muted in terms of issuance. And that's due in part because a lot of the issuers have been guided by the banks to issue earlier in the year while the market conditions are favorable and to avoid any kind of election-related turbulence in the fourth quarter. Second, we've -- the forward maturities, that's mostly 2025 and mostly spec grade. And I'll give you maybe just a little bit of context. If you go back something like a decade, Owen, it's pretty common actually to see pull forward from spec grade maturities in the immediate year prior to maturity. And if you think about it, it makes sense because spec grade issuers don't want to wait until the last month or two and risk not having market access due to a risk-off period in the market. That's much less true with investment grade issuers who generally always have market access. So we have certainly seen some pull forward from 2025. I'd say a meaningful amount of pull forward. But it's also within the ranges that we have seen in prior years for pull forward from the immediate year prior for spec grade. affiliated companies. JULY 23, 2024 / 5:00PM GMT, Q2 2024 Moody's Corp Earnings Call 2026 pull forward is actually a bit lower than some of the ranges that we have typically seen. And I think that's probably because issuers want to see rates come down before they pull forward those maturities. I would also just note that 2025 spec grade maturities at the time of issuance were the highest on record. So there's just a lot of spec grade debt that's got to get refinanced. That's contributing to the refi volume. So I think, Owen, I think my takeaway is that, yes, there's pull forward. The pull forward from future years appears to be in these historical ranges that we've seen. And I don't think, at this point, it changes how we would feel about next year. Operator Andrew Nicholas, William Blair."
+    },
+    {
+      "speaker": "Andrew Nicholas William",
+      "company": "Blair",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi. Thank you for taking my questions. I want to kind of follow up on that pull forward question a little bit more. And you hit on it a little bit, Rob, at the end. But it sounds like you're expecting a little bit more muted issuance around kind of geopolitical and maybe macro uncertainty and factors of that sort. But it doesn't sound like you're quite yet baking in any benefit from rate cuts. Just kind of wondering how you think about the interplay of those two dynamics, both at the end of this year and maybe even to start next. Thank you."
+    },
+    {
+      "speaker": "Robert Fauber",
+      "company": "Moody's Corp",
+      "role": "President and Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So I think that's probably right. I mean, if you think about how we're thinking about the balance of the year, I'd say, how we're thinking about it is not particularly dependent on what's going to happen with interest rates. Noémie talked a bit about -- now I'm just focusing on the balance of the year here for a moment. We basically took the very strong first half of issuance into our outlook. We believe based on the strength of conditions through the first half of the year, we actually then upped our issuance outlook for the third quarter. And we remained pretty cautious, as I said, about the fourth quarter. So I would expect if there are rate cuts, given what I think has gone on the fourth quarter, and I think largely there's been this in-year pull forward, if we see rate cuts, that's probably going to be a catalyst for 2025 issuance would be my guess. Operator Toni Kaplan, Morgan Stanley."
+    },
+    {
+      "speaker": "Greg Parrish Morgan",
+      "company": "Stanley",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hey, this is Greg Parrish on for Toni. Thanks for taking our questions. Maybe just to move to MA for a moment. So you reiterated your expectations for research and insights to accelerate in second half towards high single digits. Maybe just update us on the drivers there because, I mean, you lowered ARR partially because of R&I, but you still expect that to accelerate. So maybe just help us reconcile that. And it sounds like the environment is not improving as fast as you thought. So just kind of wanted to better understand. And then maybe kind of update us again this quarter on why you expect it to accelerate. Thanks."
+    },
+    {
+      "speaker": "Robert Fauber",
+      "company": "Moody's Corp",
+      "role": "President and Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. So in research and insights, ARR growth of 6%. That's in line with what we saw in the first quarter. We, I think on the last call, we talked about some modest retention pressures with our credit view offering, some of which came from some of the banking consolidation, that was expected. We had anticipated that. I think Noémie mentioned that both the banking and asset management sectors are experiencing, as she said, tight conditions, cost pressures, that put some pressure on upsell, pricing, retention, those kinds of things. But it's also why we really been focused on innovating and investing in our offerings, in particular, research assistant. And we talked about last quarter, and I think this continues to be true. Part of what is going to drive the pickup in ARR growth in research and insights is the Research Assistant and our coverage expansion. And maybe just a double click on Research Assistant for a moment, affiliated companies. JULY 23, 2024 / 5:00PM GMT, Q2 2024 Moody's Corp Earnings Call because that's a part of this. We've got some good, very encouraging data points. We've got a very strong pipeline for Research Assistant. We have some good sales momentum in the past couple of months. Specifically, since the first quarter, we've doubled the number of customers for Research Assistant. We've seen average deal sizes increased by 2x. We've experienced some shorter sales cycles. And usage is up and customer satisfaction is up with Research Assistant users. So all that is encouraging and leading me to believe that we're moving in the right direction, and that's going to continue to support the pickup of growth in that line. Noémie Heuland Moody's Corp - Chief Financial Officer Yeah, the other thing I would add, Rob, is on the retention rate for MA in general and research and insight is remaining very solid around 94%. Operator Manav Patnaik, Barclays."
+    },
+    {
+      "speaker": "Manav Patnaik",
+      "company": "Barclays",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you. Rob, I just wanted to double-click, I guess, on the MSCI partnership, just some timeline. I think the ESG piece is self-explanatory. Just some timeline and sample of what you envision on the private credit side. And if I could just follow up, Noémie, on the ESG side, just the size of that ESG business you currently have. And if you could just help us appreciate, like, if MSCI sells [$10 million], let's say, how much does that impact you? I think you referred to, maybe seen some negative uptick from that."
+    },
+    {
+      "speaker": "Robert Fauber",
+      "company": "Moody's Corp",
+      "role": "President and Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, Manav, I'll start and then hand it to Noémie. And I have to say, we are really excited about this MSCI partnership because I do think it's a win-win for our customers because the MSCI ESG scores and data really are considered a market standard and we're going to be able to provide that content through to our banking, insurance, and corporate customers. And as I think, they're going to be leveraging Orbis to expand their coverage. So it's a great partnership, a real spirit of partnership with MSCI. In terms of timing, there's a good bit of work to do to transition, to integrate the content and transition it into our solutions. I'd say, that work has begun in earnest, Manav, but it's probably going to take through the end of the year to be able to do that. Meanwhile, I think we've already got some very good ideas around what we can do in terms of partnership. I think we've already got some very good ideas around what we can do in terms of private credit. And if you think about our credit scoring capabilities as well as their expertise and distribution around the global investment community, and there's a clear need, a desire to have a third-party assessment of credit risk in a private credit space. So we've got some good ideas there. And I think the initial focus right now is going to be around the ESG integration into our solutions. I would say when we come back in the future, we're going to be able to, when we come back from the summer, probably -- sometime in September, we're going to roll up our sleeves around the private credit and start to get to work there. I don't have a timeline on when we might actually get something to market, Manav, but I would say the ESG stuff came together pretty quickly. And given the market need, I think we'll work quickly here as well. Noémie Heuland Moody's Corp - Chief Financial Officer Yeah, and on the relative side of the ESG in our MA business, it's pretty small. It's a small part of our overall ESG and climate business. It's going to affect a little bit the pipeline for the remainder of the year, which is factored into our revised guidance for ARR. But it's not a material swing to our overall business for MA. affiliated companies. JULY 23, 2024 / 5:00PM GMT, Q2 2024 Moody's Corp Earnings Call Operator Scott Wurtzel, Wolfe Research."
+    },
+    {
+      "speaker": "Scott Wurtzel Wolfe",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hey. Good afternoon, guys. And thank you for taking my question here. I just wanted to go back to the strategic investments that we've talked about over the course of this year. And can you just update us on sort of where we are in that investment cycle? I mean, it seems like you are making progress on sort of the Gen AI-related product side, but we'd love to kind of hear where we are in this investment cycle and specifically on maybe some of the other new products around private credit, digital finance, transition finance, just kind of where we are now. Noémie Heuland Moody's Corp - Chief Financial Officer Yeah. Maybe I'll take that and I'll let Rob expand as well. But we remain on track with what we've communicated initially earlier in the year. Let me give you a bit of color on where we've deployed investments so far. So let me start with GenAI. You heard last quarter we've established a framework around our GenAI development. We have a set of GenAI tools that we've rolled out across our products with this year. In banking, we made a small acquisition earlier this year to accelerate the build of our banking assistance and the enablement of end-to-end lending workflow. It was a company called Able AI that really helped automate the commercial loan documentation process and filling some gaps for us in jobs to be done across the lending value chain. So that's an example of where we've invested. Internally, we expanded our use of Copilot and other GenAI capabilities. We've completed our RCSA framework and ratings, and we're rolling out a ratings Copilot environment. Obviously, we've talked with our regulators. Again, we have very tight controls around that, and Rob can expand on that as well. We've rolled out a lot of Copilot and GenAI tools internally across the business. Everybody's using it. We have very strong uptake in usage and a lot of exciting things when we looked at our internal hackathons, for example, that we just conducted. So that's for GenAI. On the product development area, we're bringing together our data and analytics here into a workflow platform. That's for corporates to support the use of different use cases around sales and marketing, optimization, customer onboarding and monitoring, trade credit, supplier risk. Those are areas that are really important for our customers, and we hear a lot of strong feedback, and we're on track to launch additional products later in the year on that platform. And last, on the technology platforming, which was the third area of investment. In MA, we have a platform engineering and architecture roadmap to build on single sign-on, entitlements, other functionalities to drive a better user experience, which helps retention, but also helps drive further growth in our business. That gives us more insight into customer behavior across our platform, which helps us build use cases that resonate and address the needs of those customers. And that also reaps some efficiencies across our engineering teams as well. For MIS, we continue to deploy applications on our platform. We have the first team on our full ratings lifecycle automation, and we're scaling that to a number of other teams throughout the year. And that's going to be really helpful in enhancing regulatory compliance. That will also allow us to process more efficiently issuance volumes. And you saw that already in our ability to deliver increased margin in MIS. So in general, we're doing well. We're tracking very well against the investment plan we communicated to you earlier this year."
+    },
+    {
+      "speaker": "Robert Fauber",
+      "company": "Moody's Corp",
+      "role": "President and Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I think you nailed it. I don't have anything to add, Noémie. affiliated companies. JULY 23, 2024 / 5:00PM GMT, Q2 2024 Moody's Corp Earnings Call Operator Alex Kramm, UBS."
+    },
+    {
+      "speaker": "Alex Kramm",
+      "company": "UBS",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yes. Hey. Hello, everyone. I think I'm going to take the other side of that question just now and stay on the AI topic. It sounds like you continue to do a lot, a couple of new products you mentioned today which sound very sensible and seems like there's decent demand. So can you give us an update on revenues that you're seeing so far, the trajectory and how that may have changed, and when you expect to really have a material contribution here? Thanks."
+    },
+    {
+      "speaker": "Robert Fauber",
+      "company": "Moody's Corp",
+      "role": "President and Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, Alex. It's Rob. So I think I gave you some data points around Research Assistant. This is one of, if not the fastest growing products that we've ever launched, but it's starting from scratch, and we've got a huge revenue base. So it's not material in the grand scheme of Moody's Analytics, but there's some really encouraging things about it. Like I said, the -- but I think very importantly is usage and customer satisfaction is up, and that gives us a lot of confidence that we're going to be able to monetize that over time, and not just in Research Assistant. So it's no longer a one-trick pony. It's not just Research Assistant, right? We've now launched several other solutions, and that's going to go on through the back half of the year and into next year. So there's going to be more and more product that will be leveraging AI coming into our solution suite. Like I said, we've already got a number of customers on private preview mode for both automated credit memo and early warning. I would also say, Alex, that we're also working on extending our partnerships with folks like Microsoft and Google in particular, and that's important because I think those are going to open up some new monetization pathways for us with our content embedded into their solutions. Their Copilot solutions. Their AI solutions. So that is in process. So it's still not material, but we definitely see some things that are quite encouraging. Operator Jeffrey Silber, BMO Capital Markets."
+    },
+    {
+      "speaker": "Jeffrey Silber BMO Capital",
+      "company": "Markets",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks so much. You talked a little bit about, I guess, the tighter purchasing pattern that you've been seeing. You gave a little call. I was just wondering if you could drill down a little bit more. Maybe you can give some examples of what we're talking about. Thanks."
+    },
+    {
+      "speaker": "Robert Fauber",
+      "company": "Moody's Corp",
+      "role": "President and Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. I guess I would say, in general, and Noémie talked about this, we see some cost pressures coming from the banking and asset management sector. And just to put a finer point on it, I ran the sales team at one point in the rating agency. You have real conversations with your customers, with procurement departments. You've got to make sure you're really able to articulate the value proposition of your solutions. That might mean that customers -- you might see that again in terms of pressure, in terms of what we would think of as upsells, or perhaps around annual price increases. I talked about it. We mentioned. We've seen a little bit of pressure on the retention rates in CreditView. So that gives you -- hopefully gives you a little bit of a flavor. I guess maybe the other thing I might just touch on, though, is also maybe the sales pipeline. So that gives you a little bit of the sales environment in certain customer segments. But we've got a very healthy sales pipeline. There is very strong demand for our products. You're seeing that from the ARR growth that we put up through the second quarter. affiliated companies. JULY 23, 2024 / 5:00PM GMT, Q2 2024 Moody's Corp Earnings Call And in some cases, some of our GenAI offerings, we're actually seeing shorter sales cycles with some of the early adopters. The other thing I'd say is one of the drivers of pipeline growth is sales meeting activity. The more meetings you do with customers, the more likely you are to build pipeline, and that's been true for a long time. This quarter, we saw the highest volume of sales meetings post pandemic, and face-to-face engagements were -- so that gives me a lot of confidence that customers want to engage around our solutions, so hopefully that gives you a little bit of a flavor for what we're dealing with out there. Noémie Heuland Moody's Corp - Chief Financial Officer Yeah, and the other thing I would add is we're also having -- we've elevated the discussion with the C-suite at our banks and traditional customer base, and we're a lot more plugged in into their overall digital transformation initiatives now. Now, the flip side of it is, as I'm sure you know, we have also working with them to help them build their framework around GenAI adoption, and that's going to take some time, because they also have to abide by regulations. They have a lot of risk considerations to take into account, and that also plays a role in the dynamic that you see with our GenAI products."
+    },
+    {
+      "speaker": "Jeffrey Silber BMO Capital",
+      "company": "Markets",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "And I just was curious, has it gotten any worse over the last three months, better, stayed the same?"
+    },
+    {
+      "speaker": "Robert Fauber",
+      "company": "Moody's Corp",
+      "role": "President and Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Is the -- what?"
+    },
+    {
+      "speaker": "Jeffrey Silber BMO Capital",
+      "company": "Markets",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "The environment. Has it gotten any worse, better, or stayed the same over the last three months?"
+    },
+    {
+      "speaker": "Robert Fauber",
+      "company": "Moody's Corp",
+      "role": "President and Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I think it's probably pretty consistent with what we've seen for the balance of the year. Operator Andrew Steinerman, JPMorgan."
+    },
+    {
+      "speaker": "Andrew Steinerman",
+      "company": "JPMorgan",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi. Hi, this is Andrew, JPMorgan. I wanted to understand better the organic constant currency revenue growth of the data and information subsegment, which decelerated to 8% in the second quarter year over year. It had been double digit in the first quarter year over year. It just strikes me as odd because, as you know, the ARR of this subsegment has consistently been double-digit, and I just don't understand why there's variation between the organic revenue growth and the organic ARR of data information because I thought it was essentially fixed subscription."
+    },
+    {
+      "speaker": "Robert Fauber",
+      "company": "Moody's Corp",
+      "role": "President and Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Andrew, this is a very good question, and you're right. On a sequential basis, the growth was down from, I think, 12% to 8% this quarter. There is, in fact, a little bit of impact from a mix of product, nature of the contracts, that does create a little bit of variability in the quarter-to-quarter revenue numbers. And 12% in the first quarter is probably a little higher than typical. 8% is probably a little lower than typical. You look at the first half growth of roughly 10%, and I think that's pretty reflective of the business performance. And I also think, Andrew, that's what you can expect for the full year as well as ARR growth. And so it's a good question, but I think that hopefully that gives you a sense. Operator Ashish Sabadra, RBC Capital Markets. affiliated companies. JULY 23, 2024 / 5:00PM GMT, Q2 2024 Moody's Corp Earnings Call"
+    },
+    {
+      "speaker": "Ashish Sabadra RBC Capital",
+      "company": "Markets",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi. Thanks for taking my question. So you've mentioned a few headwinds to the ARR as we get into the back half of the year. How should we think about those headwinds for revenues? And just given the MA revenue growth has been, like, relatively muted and comms get harder in the back half of the year, as we think about that high single-digit revenue growth guidance, does it fail to assume towards the lower end versus the higher end of that high single-digit growth? Thanks. Noémie Heuland Moody's Corp - Chief Financial Officer Yeah. Let me take that. So as I said in my prepared remarks, the second quarter revenue growth was 7% and 8% at constant currency. It was similar to what we saw in the first quarter. But if you take recurring revenue, which is 95% of our revenue in MA, it grew by 9% for the second quarter, similar to what it was in Q1. We expect similar growth rates for recurring revenue throughout the year. Transactional revenue was down in the second quarter as we continue to trend, and will continue to trend downwards in the second half of the year. We're shifting our focus to renewable sales, as you know. So what that means, the best way to think about the guide in the second half of the year, we expect MA to grow in the third quarter to be more or less aligned with the growth that we saw in the second quarter before kicking back up in the higher end of high single-digit growth in the fourth quarter. So that's what's behind our guidance. Operator George Tong, Goldman Sachs."
+    },
+    {
+      "speaker": "George Tong Goldman",
+      "company": "Sachs",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi. Thanks. Good morning. Within MIS, you mentioned you saw a pull forward from both within the year and also from 2025. You also mentioned that your outlook for 2025 issuance hasn't really changed, and just wanted to reconcile those statements. Has your outlook for issuance come down in any future period because of the pull-forward effect?"
+    },
+    {
+      "speaker": "Robert Fauber",
+      "company": "Moody's Corp",
+      "role": "President and Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "The way I tend to think about this is we went back and looked, for instance, I mentioned we looked at spec grade, forward maturities and what kind of pull forward we see on a year-to-year basis. And what we're seeing this year is pretty consistent with a kind of a historical range over the last decade. So that tells me that I don't think that given what's going on this year would then have a material impact to the way I might think about the growth profile and issuance profile on a go-forward basis because I don't see this as anomalous pull forward. What's going on in the end calendar, obviously, we talked about that with our outlook. I do think there's end calendar pull forward. There is 2025 pull forward, but I don't think that is unusual pull forward at this point. Operator Craig Huber, Huber Research Partners."
+    },
+    {
+      "speaker": "Craig Huber Huber Research",
+      "company": "Partners",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you. Rob, could you just touch on the commercial real estate market in the US here, all the problems in recent years here that might be compounding here, what it may mean to the banking sector here? How concerned are you and your analysts about that? And then my housekeeping question for Noémie is, what's the incentive comp in the quarter versus a year ago? Thank you."
+    },
+    {
+      "speaker": "Robert Fauber",
+      "company": "Moody's Corp",
+      "role": "President and Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, so Craig, commercial real estate is obviously an area that we've got a keen focus on with our analytical teams, and we've got a lot of touch points into the commercial real estate space across ratings. We've also got a lot of data and analytic tools across the entire company around commercial real estate. affiliated companies. JULY 23, 2024 / 5:00PM GMT, Q2 2024 Moody's Corp Earnings Call I think, generally, this -- the concerns around commercial real estate are probably most focused on office, and it's a certain type of office too. Type A, Class A office has held up pretty well, and you -- I do think the type of property does matter. We see this both with CMBS. You've seen some articles in the paper looking at single asset, single borrower, CMBS, which, and then we've got a lot of data. And we also think about this from a banking perspective, and our teams actually put out some really interesting research. I'm happy to share it with you after the call, really making sure we understand the commercial real estate exposure of our rated banks, and how to think about stress scenarios around that. So I would say there's a lot of focus on it. Interestingly, Craig, the CMBS issuance market, this quarter actually showed some signs of life. We're actually -- it's on a small base, but just given the fact that we've got it at this point, what looks like a soft landing, there is some new investor interest in the CMBS space, which I actually think is quite interesting and tells you something about investor sentiment. Noémie Heuland Moody's Corp - Chief Financial Officer Yeah, and on your question about incentive comp, we've made an adjustment in the second quarter to reflect the accrual in relation to the top line performance that we saw. We recorded about $117 million in the second quarter. And for the remainder of the year, we expect the quarterly expense to be about $110 million per quarter."
+    },
+    {
+      "speaker": "Robert Fauber",
+      "company": "Moody's Corp",
+      "role": "President and Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Hey, one other thing I might add too, Craig, I mean, I talked about it in my remarks, this early warning system. But it is -- the initial offering, it is focused specifically on commercial real estate, and this really synthesizes a broad range of our content and our models to allow you to understand -- an event happens in the market, and you want to start to sensitize and understand the potential impact of that event, call our models, call our data, and be able to get a sense of the impact in a fraction of the time that you might otherwise. And so you can imagine, based on that, there's some very good interest from folks in the market who want to use tools like that to be able to figure out where do they need to actually focus scarce resources in their portfolio. Operator Shlomo Rosenbaum, Stifel."
+    },
+    {
+      "speaker": "Shlomo Rosenbaum",
+      "company": "Stifel",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi. Thank you very much for taking my question. I just want to probe a little bit more in the ARR widening of the range because of this MSCI deal. Can you explain, again, there's a change in strategy, so therefore, some of the sales and the pipeline may not materialize this year as you're thinking of switching over to some of the MSCI products. Is that correct? And then, how should we think about it on the flip side in terms of you selling stuff through Orbis? And trying to understand, is this a little bit of a slowdown, but then things should pop more in 2025 when the links are kind of set up technologically between two companies? Or is this something just kind of a slowdown and then we get back to what was before? Just if you can give a little more color on this."
+    },
+    {
+      "speaker": "Robert Fauber",
+      "company": "Moody's Corp",
+      "role": "President and Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. So maybe I'll first start by just kind of reiterating what Noémie said. The scores and data are actually a pretty small part of our overall, what we call the ESG and climate business. I know we defined that a couple of years ago. So it's really kind of a fraction of that. But you're exactly right. I think that's what's going to happen is as we transition, you can imagine we have a sales pipeline of our own content threaded through our solutions. And so now we're going to be integrating in the MSCI content. We've got to be able to go out and talk to our customers. We've got to be able to integrate that. That is going to impact our sales pipeline in the near term. And it could also impact some of the retention in the near term. But I think in the medium term, having the opportunity to offer what is clearly best-in-class ESG content through to our customers, through our solutions, I think is going to be a positive for us. And we'll be affiliated companies. JULY 23, 2024 / 5:00PM GMT, Q2 2024 Moody's Corp Earnings Call able to kind of start to build the pipeline back. I would expect that will be a 2025 event. But again, remember, ESG scoring in data, purely scoring in data, that's a pretty small business for us."
+    },
+    {
+      "speaker": "Shlomo Rosenbaum",
+      "company": "Stifel",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "And then going the other way, the Orbis, going back to them?"
+    },
+    {
+      "speaker": "Robert Fauber",
+      "company": "Moody's Corp",
+      "role": "President and Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. So it's going to start with MSCI using Orbis for ESG scores. And that's a place where there's good demand from our customers. And I think sometimes, like many partnerships, you start with one thing and you continue to build into other opportunities. And I think there will be other opportunities for MSCI to be able to leverage our Orbis database beyond simply ESG and climate. And so again, I think that's something we'll see in probably a 2025 event. And private credit is going to be one of those places. Operator Faiza Alwy, Deutsche Bank."
+    },
+    {
+      "speaker": "Faiza Alwy Deutsche",
+      "company": "Bank",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yes. Hi. Thank you. I have a similar question, but on the government side. Because I think you mentioned that one consideration in terms of thinking about ARR is some of these government contracts that may be up for renewal later in the year. So just curious if you can remind us how big the government business might be. Is all of it up for renewal? And is it really, again, sort of a timing factor, or how should we think about the risk of a different administration? And I assume that this is mostly the KYC business, but any further color is appreciated."
+    },
+    {
+      "speaker": "Robert Fauber",
+      "company": "Moody's Corp",
+      "role": "President and Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. So, we don't disclose around revenues by customer segment, but it's our smallest customer segment. But that said, it's been growing quite nicely over the last year or two. There's a lot of demand for it. I mean, as you said, the Orbis data supporting the governments really want to understand more about entities that they're engaging with, obviously. I think we were just -- I don't want to over-rotate on this. I think we were just trying to be prudent. And we've got a few of these bigger contracts. These are one-year contracts. And we've -- you hear us talking about a little bit -- the potential for a little bit bumpier environment in the fourth quarter. And so we just wanted to acknowledge that there might be some risk that some of that could slip into the following year. Noémie Heuland Moody's Corp - Chief Financial Officer Yeah. And if you take each of those different factors individually, they're not significant in and of themselves. It's just a combination of all those things that made us want to widen the range of it. But as I said, the midpoint of our current guidance range is in the upper end of that high single-digit percent range. So I just want to put that into perspective again. We're talking a narrow range around that ballpark. Yeah."
+    },
+    {
+      "speaker": "Robert Fauber",
+      "company": "Moody's Corp",
+      "role": "President and Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And the renewals are probably mostly in our data and information business, I would say. Operator Jeff Meuler, Baird."
+    },
+    {
+      "speaker": "Jeff Meuler",
+      "company": "Baird",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yeah. Thank you. Beyond the GenAI product launches and scaling that revenue, what are the other call-outs that go into the assumed acceleration in MA in the medium-term framework? And I ask because KYC is doing really well, insurance already accelerated to a great growth rate, and R&I is assumed to have good growth in this year. So just with how diverse the business is, it seems hard to bank on all of the end markets doing well at once. So what are the other self-help factors? Thank you. affiliated companies. JULY 23, 2024 / 5:00PM GMT, Q2 2024 Moody's Corp Earnings Call"
+    },
+    {
+      "speaker": "Robert Fauber",
+      "company": "Moody's Corp",
+      "role": "President and Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. I would say, in a nutshell, it's probably our land and expand strategy. So we believe there remains a fairly significant cross-sell opportunity into banks and insurance companies. We've been focused on that for some time, but we actually think there is more upside to that. There's some things that we're doing. Some of the things that Noémie talked about, some of the investments we're making are designed to help us with that expand cross-sell opportunity with banks and insurance companies. She talked about some of the platform engineering and being able to better understand customer usage across all of your product suite and so on. So that's one. And then second is an expand opportunity with corporates. And you heard us talk a little bit about, on this call, going after a set of interconnected use cases around sales and marketing optimization, customer onboarding and monitoring, supplier risk, trade credit, all of that. And so we've had some really nice sales wins with big multinational companies around some or all of those use cases, which has given us confidence to further invest in product development around all of that, to really industrialize our offering. So it's expanding the revenue that we're generating from banking and insurance customers, and it's landing with these kind of big corporates around a collection of use cases. And that gives us confidence around the ability to continue to drive and accelerate growth. Operator Russell Quelch, Redburn Atlantic."
+    },
+    {
+      "speaker": "Russell Quelch Redburn",
+      "company": "Atlantic",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you. Yeah. Hi, guys. Thank you for having me on. You touched on the benefits of migrating to the SaaS platform in RMS. We've talked about that a lot. The 14% ARR growth in insurance is a great number. Given the forecast for the upcoming very active weather season in the US, do you anticipate that's going to be a tailwind for RMS in the back end of the year? Have you baked that into guidance? And in fact, are you now in a better position to monetize these periods of increased sales? And are you now in a better position to monetize these periods of increased usage of data given you've migrated to the SaaS platform?"
+    },
+    {
+      "speaker": "Robert Fauber",
+      "company": "Moody's Corp",
+      "role": "President and Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "This is an interesting question, Russell. I'm processing it at the moment here. I think I would say that so while we may have a very active extreme weather season coming up, particularly with North American hurricanes, I don't think that's going to translate into an immediate revenue or ARR bump. But I would say that thematically, the increased severity and frequency of extreme weather events and increasing focus on understanding the impact of a changing climate and what kind of financial consequences that has, that is a theme that is driving more and more interest in our solutions. And it's going beyond simply the insurance market. I mean, in some cases, extreme weather actually -- extreme weather events can put pressure on our insurance customers. You've seen that in Florida. But in general, I would say there's a -- with insurers, there's an understanding that you need better and better data and models. And by the way, that's why there's interest in our cloud based as offering because you're able to leverage a lot more compute capacity, which can run these high-definition models that are actually better than the current generation of models. But then you're seeing banks and other organizations who are also wanting to be able to understand all of this, because, for instance, banks have clearly realized that. They can actually have weather and climate risk. So as they're underwriting a commercial loan, wanting to understand the risk of the collateral they're taking. That's now become something banks are quite focused on. affiliated companies. JULY 23, 2024 / 5:00PM GMT, Q2 2024 Moody's Corp Earnings Call So I would say it's driving. It's driving more and more interest in our climate and weather and catastrophe modeling capabilities. But I wouldn't tie it to a seasonal set of events. Noémie Heuland Moody's Corp - Chief Financial Officer Yeah. And just to make a final point on the platform, I think one of the competitive differentiator for us with the interest, the risk insurance platform is it's open to third party models as well that can enrich the algorithm that gives it a more -- that makes it even powerful, more powerful for customers. And that's really where we differentiate ourselves."
+    },
+    {
+      "speaker": "Robert Fauber",
+      "company": "Moody's Corp",
+      "role": "President and Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. And looking back to when we bought our [mass]. I remember -- I still very clearly remember that call. And I remember saying, we got into that -- we made that acquisition for two reasons. One, to get into the insurance segment at scale. And I feel great about that. But second, because we wanted to take those really world class capabilities that RMS had and thread those through our solutions to a broader set of customers. And that is very much playing out. And I'm very glad that we own one of the world's premier climate and weather modeling platforms, because I think there's only going to be more and more demand for that in the years ahead. Operator Heather Balsky, Bank of America."
+    },
+    {
+      "speaker": "Heather Balsky Bank",
+      "company": "of America",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi. Thank you very much for taking my question. I want to ask about MA. I know you've gotten a lot of questions today about ARR. And your guidance. But taking a, I guess, zooming out and you think about the growth algorithm you laid out at your -- back in yesterday, there's been a little bit more time. We're in probably a tougher environment than expected. Have you rethought the targets that you laid out? Do you think the algorithm maybe looks a little bit different than you originally thought in any way?"
+    },
+    {
+      "speaker": "Robert Fauber",
+      "company": "Moody's Corp",
+      "role": "President and Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks. Hey, Heather. Look, first of all, I have to kind of remind all of us. This quarter, we did achieve our highest ARR growth rate that we've had. A little bit over 10%. Decision Solutions is now growing at a pace consistent with these medium-term targets, ARR growth of 13%. So actually, there's a lot to feel good about. There isn't a change to our medium-term outlook. We continue to view the medium-term targets as a north star that really drives innovation and investments. And I would expect that we'll talk about the medium-term targets annually, absent some sort of material catalyst to revisit them within the year. And there just hasn't been. There's been nothing that would lead me to believe I need to have a call and talk about this in the middle of the year. So like I said, we've got very strong growth in our SaaS businesses. We talked about the pressure on banks and asset managers. And, Heather, you're right. That's a little bit different than the environment when we put those medium-term targets in place. But we're continuing to invest. We feel good about the innovations, the product development, the sales engagement, the partnership strategy. It's all designed to accelerate growth. So we'll revisit this topic in February. Operator I will now hand the call back to Rob for any closing remarks."
+    },
+    {
+      "speaker": "Robert Fauber",
+      "company": "Moody's Corp",
+      "role": "President and Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Okay. Thanks, everybody, for the questions. I hope everyone has a wonderful summer. And we look forward to talking with you again in October. Take care. affiliated companies. JULY 23, 2024 / 5:00PM GMT, Q2 2024 Moody's Corp Earnings Call Operator This concludes Moody's Corporation's second-quarter 2024 earnings call. As a reminder, immediately following this call, the company will post the MIS revenue breakdown under the investor resource succession of the Moody's IR homepage. Additionally, a replay will be made available after the call on the Moody's IR website. Thank you. You may now disconnect. In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. affiliated companies."
+    }
+  ]
 }

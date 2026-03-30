@@ -4,5 +4,422 @@
   "quarter": "2023Q4",
   "sector": "IT",
   "filename": "2024-Feb-12-CDNS.OQ-140997177833-Transcript.pdf",
-  "segments": []
+  "segments": [
+    {
+      "speaker": "Harlan L. Sur JPMorgan Chase",
+      "company": "& Co, Research Division",
+      "role": "Executive Director and Head of U.S. Semiconductor & Semiconductor Capital",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Equipment"
+    },
+    {
+      "speaker": "Jason Vincent Celino KeyBanc Capital",
+      "company": "Markets Inc., Research Division",
+      "role": "Senior Research Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Jay Vleeschhouwer Griffin Securities, Inc., Research Division - MD of Software Research John Marco Conti"
+    },
+    {
+      "speaker": "Yu Shi Needham",
+      "company": "& Company, LLC, Research Division",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Operator Good afternoon. My name is Briana, and I will be your conference operator today. At this time, I would like to welcome everyone to the Cadence Fourth Quarter and Fiscal Year 2023 Earnings Conference. (Operator Instructions) Thank you. I will now turn the call over to Richard Gu, Vice President of Investor Relations for Cadence. Please go ahead, sir."
+    },
+    {
+      "speaker": "Richard Gu Cadence Design",
+      "company": "Systems, Inc.",
+      "role": "VP of IR",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thank you, operator. I'd like to welcome everyone to our fourth quarter of 2023 earnings conference call. I'm joined today by Anirudh Devgan, President and Chief Executive Officer; and John Wall, Senior Vice President and Chief Financial Officer. The webcast of this call and a copy of today's prepared remarks will be available on our website, cadence.com. Today's discussion will contain forward-looking statements, including our outlook on future business and operating results. Due to risks and uncertainties actual results may differ materially from those projected or implied in today's discussion. For information on factors that could cause actual results to differ, please refer to our SEC filings, including our most recent Forms 10-K and 10-Q, CFO commentary and today's earnings release. All forward-looking statements during this call are based on estimates and information available to us as of today, and we disclaim any obligation to update them. In addition, we will present certain non-GAAP measures, which should not be considered in isolation from or as a substitute for GAAP results. Reconciliation of GAAP to non-GAAP measures are included in today's earnings release. (Operator Instructions) Now I'll turn the call over to Anirudh."
+    },
+    {
+      "speaker": "Anirudh Devgan Cadence Design",
+      "company": "Systems, Inc.",
+      "role": "CEO, President & Director",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thank you, Richard. Good afternoon, everyone, and thank you for joining us today. I'm pleased to report that Cadence delivered an outstanding Q4, wrapping up a record 2023, achieving 15% revenue growth, 42% non-GAAP operating margin, and over 20% non-GAAP EPS growth for the year. We exited 2023 with a record backlog of $6 billion as customers increasingly committed to our chip to system integrated design and analysis platforms. We expect our innovative solutions to continue driving broad-based business momentum in 2024. John will provide more details in a moment. Secular trends of digital transformation, hyperscale computing and autonomous driving all bolstered by an AI super cycle, continue to fuel strong broad-based design activity. We continue successfully executing to our Intelligent System Design strategy that triples our TAM opportunity while greatly expanding our portfolio. Our innovative engine delivered several significant products, including most recently, the revolutionary Millennium M1 platform. The industry's first accelerated multiphysics supercomputing platform. The platform affiliated companies. FEBRUARY 12, 2024 / 10:00PM GMT, Q4 2023 Cadence Design Systems Inc Earnings Call tightly integrates our Fidelity CFD Software with high-performance GPUs and combines AI, HPC and digital twin technology to deliver an unprecedented 20x energy efficiency and up to 100x design impact. We were honored to have customers, including Honda, Boeing and GE as speakers at our launch event. We substantially grew our footprint at market-shaping customers and expanded our relationships with key ecosystem partners. We further our partnership with Intel Foundry through a strategic multiyear agreement on providing design software and leading IP at multiple Intel advanced nodes, thereby advancing Intel's IDM 2.0 strategy and accelerating mutual customer success. Cadence is at the forefront of the AI revolution, closely partnering with marquee companies on their trailblazing AI design for training and inference from cloud to the edge. NVIDIA and Cadence have collaborated closely over several years. And in Q4, we deepened our partnership through a meaningful expansion of our hardware solutions and EDA software. Earlier in the quarter, we announced our work on Cadence.AI with NVIDIA's NeMo Retriever. And now we are thrilled to deepen our partnership and extend it to the new Millennium, multiphysics supercomputer and SaaS solution, which is co-optimized with NVIDIA's accelerated computing and AI platform. And as the exclusive EDA partner of Arm Total Design, Cadence and Arm are closely collaborating to accelerate the development of custom SoCs, based on the Neoverse Compute Subsystem. Over the year, we have continued building out our generated Cadence.AI portfolio. The industry's broadest AI offering spanning chip, to board, to system and delivering exceptional optimization and productivity benefits. Earlier in Q2, we introduced Virtuoso Studio, an Allegro X AI bringing AI to custom analog and PCB designs. And in Q4, we added Voltus InsightAI for automatically addressing voltage drop violations. We also pioneered bringing LLM capabilities to chip design, successfully helping Renesas accelerate functional specification to final design. Accelerating momentum of our Cadence.AI portfolio has led to an almost tenfold increase in the number of customers adopting our Gen AI solutions in 2023, as customers embrace the technology to develop optimized products much more efficiently. Now let's talk about some of the product highlights for Q4 and 2023. Rising system complexity and challenges stemming from the growing hyper-convergences of the electrical, mechanical and physical worlds, are driving the need for a seamless platform solution across design, packaging, simulation and analysis. We made this a core tenet of our Intelligent System Design growth strategy 6 years ago and our System Design & Analysis business continued its strong momentum delivering 18% year-over-year growth in Q4 and 22% growth for the year. PCB and advanced packaging are linchpin technologies that sit at the crucial intersection of mechanical and electrical domains and Cadence's rich heritage in these areas remain a key strategic differentiator, especially in the emerging chiplet era. We continue advancing these technologies with Allegro X AI providing greater than 10x acceleration in PCB design and endorsed by Schneider Electric and Kioxia at its launch. Our multiphysics analysis portfolio couples our expertise in physics-based modeling with AI-driven optimization and is delivering superior results to customers across multiple vertical segments, especially aerospace and defense and automotive. Recently, we launched Celsius Studios, the industry's first complete AI thermal design and analysis solutions for electronic systems, delivering up to a 10x performance benefit over legacy systems with endorsement by Samsung and BAE Systems. And Wistron, a leading technical services provider use optimality AI-driven optimization technology and Clarity for fast, accurate electromigration in design analysis, improving design reliability while realizing a 2x improvement in turnaround time. Our digital IC business finished another strong year with 22% revenue growth in Q4, as our solutions continued gaining share at market-shaping customers, especially at the most advanced nodes. Our digital software is proliferating in all top 20 semiconductor companies and our digital full flow was adopted by 34 additional customers during the year. We are very pleased with the accelerating momentum of our flagship Cadence Cerebrus Gen AI solution, whose transformative PPA and productivity benefits have led to its deployment in all our top 10 digital customers and used in well over 300 tape-outs. In Q4, Cadence Cerebrus run rate more than quadrupled at several market-shaping customers, and it also drove significant digital full flow expansions at 2 top-tier semi customers. Our Integrity 3D-IC Platform is the industry's only unified 3D-IC design and analysis affiliated companies. FEBRUARY 12, 2024 / 10:00PM GMT, Q4 2023 Cadence Design Systems Inc Earnings Call platform and ties our best-in-class SoC and package design technologies with system-level planning and analysis. In Q4, GUC successfully used integrity to tape-out a complex 3D stacked die design, with a wafer-on-wafer structure on an advanced FinFET node. Next, I will talk about our Functional Verification business, which had another remarkable year. delivering 11% year-over-year revenue growth in Q4 and 22% growth for the full year. Escalating system and software bring-up challenges along with pressing need for first-pass silicon success continued driving strong demand for our functional verification solutions. Our best-in-class dynamic duo of Palladium Z2 and Protium X2 platform delivered another record year with strong momentum across AI, hyperscale, auto and mobile. Virtually all of the top hyperscalers are Palladium customers, and the majority of them are also dynamic duo customers. Last month, we announced a new set of Palladium Z2 applications that included the industry's first 4 state emulation and mixed-signal modeling capabilities that will significantly accelerate SoC verification, marquee customers, including NVIDIA and Samsung supported the announcement. Our hardware family added 26 new and over 110 repeat customers during the year with the top 3 deals being with a global marquee system company, the leading AI system company, and the leading communication services company. Demand for the Dual have greatly exceeded our expectations when more than 2/3 of the orders in the year, including both platforms. Our custom IC Virtuoso inspective franchise solutions tackle the most complex challenges in analog, mixed signal, RF design and circuit simulation and are increasingly crucial for our customers. Building on our market leadership, our custom IC revenue grew 16% year-over-year in Q4. Customer interest in our recently announced Virtuoso Studio is strong with over 2,000 downloads so far and adoption of our newer Spectre platform products continues to ramp. Virtuoso had a major win with a top global memory company, which replaced its internal tools with our technology. Our IP business drove a strong finish to the year, growing 36% year-over-year in Q4. We continue to sharpen our Star IP strategy with a targeted acquisition such as Rambus PHY IP and Invecas to capture market opportunities offered by AI and heterogeneous integration. Customer interest in the Rambus PHY assets, especially HBM and GDDR IP have been extremely positive, which have already been instrumental in closing some strategic deals. Our Invecas acquisition is also highly synergistic to the strategy, adding a skilled engineering team with expertise in delivering custom solutions across design, product engineering, advanced packaging and embedded software. In closing, we are pleased with our outstanding performance in 2023 and are excited by the business momentum and market opportunities in 2024. Now I will turn it over to John to provide more details on the Q4 results and our 2024 outlook."
+    },
+    {
+      "speaker": "John M. Wall Cadence Design",
+      "company": "Systems, Inc.",
+      "role": "Senior VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks, Anirudh, and good afternoon, everyone. I'm pleased to report that Cadence delivered a strong Q4 and 2023, driven by growth across all of our businesses. Robust design activity and customer demand coupled with our strong execution helped us to achieve revenue growth of 15% and EPS growth of over 20% for the year. Fourth quarter bookings were strong, and I'm pleased that we achieved record backlog and record current remaining performance obligation levels, finishing the year with approximately $6.0 billion in backlog and at approximately $3.2 billion in cRPO. Here are some of the financial highlights from the fourth quarter and the year, starting with the P&L. Total revenue was $1.069 billion for the quarter, and $4.090 billion for the year. GAAP operating margin was 31.5% for the quarter and 30.6% for the year. Non-GAAP operating margin was 42.9% for the quarter and 42.0% for the year. GAAP EPS was $1.19 for the quarter and $3.82 for the year. Non-GAAP EPS was $1.38 for the quarter and $5.15 for the year. Next, turning to the balance sheet and cash flow. Our cash balance was $1.8 billion at year-end, while the principal value of debt outstanding was $650 million. Operating cash flow in the fourth quarter was $272 million and $1.35 billion for the full year. DSOs were 43 days, and we used $700 million to repurchase Cadence shares during the year. Before I provide our outlook for Q1 and 2024, I'd like to share some assumptions that are embedded in our outlook. In 2023, our upfront revenue mix increased to approximately 16%, largely due to strong hardware demand. In 2024, we expect another record hardware revenue year and strong IP growth. And as a result, at the midpoint, our outlook assumes that our upfront revenue mix for the year will affiliated companies. FEBRUARY 12, 2024 / 10:00PM GMT, Q4 2023 Cadence Design Systems Inc Earnings Call increase to approximately 17.5%. In Q1 2023, our upfront revenue mix was approximately 20%, largely due to our effort to improve hardware delivery lead times at the start of last year. In Q1 2024, at the midpoint, our outlook assumes an upfront revenue mix of approximately 14%. Our non-GAAP EPS outlook is based on a tax rate of 16.5%. And finally, our outlook for Q1 and 2024 is based on our usual assumption that export control regulations in place today remain substantially similar for the remainder of the year. In our outlook for 2024, we expect revenue in the range of $4.55 billion to $4.61 billion. GAAP operating margin in the range of 32% to 33%; non-GAAP operating margin in the range of 42% to 43%, GAAP EPS in the range of $4.08 to $4.18; non-GAAP EPS in the range of $5.87 to $5.97. Operating cash flow in the range of $1.35 billion to $1.45 billion, and we expect to use approximately 50% of our free cash flow to repurchase Cadence shares in 2024. For Q1, we expect revenue in the range of $990 million to $1.01 billion, GAAP operating margin in the range of 24.5% to 25.5%. Non-GAAP operating margin in the range of 36.5% to 37.5%. GAAP EPS in the range of $0.74 to $0.78, and non-GAAP EPS in the range of $1.10 to $1.14. And as usual, we published a CFO commentary document on our Investor Relations website, which includes our outlook for additional items as well as further analysis and GAAP to non-GAAP reconciliations. In conclusion, I am pleased that for 2023, we achieved revenue growth of 15% and EPS growth of over 20%. We achieved the 7th consecutive year of over 50% incremental non-GAAP operating margins, resulting in non-GAAP operating margin of 42%. And we finished the year with record backlog and cRPO setting ourselves up for a great 2024. As always, I'd like to thank our customers, partners and our employees for their continued support. And with that, operator, we will now take questions. Operator (Operator Instructions) Your first question comes from Jason Celino with KeyBanc Capital Markets."
+    },
+    {
+      "speaker": "Jason Vincent Celino KeyBanc Capital",
+      "company": "Markets Inc., Research Division",
+      "role": "Senior Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Happy Monday. So maybe my first question on the backlog strength, really impressive, especially given the hard year-over-year comp. John and Anirudh, what drove the strength here? It sounds like its hardware related or maybe it's broad based. Anything helpful?"
+    },
+    {
+      "speaker": "John M. Wall Cadence Design",
+      "company": "Systems, Inc.",
+      "role": "Senior VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Jason, yes, it's very broad-based, broad-based across geographies and broad-based across all of the businesses. Actually, on the hardware front, you might recall this time last year, we finished with over 6 months of backlog for hardware. We addressed those lead times at the start of the year. And now we're down to a more normal 8 weeks of hardware backlog. So when you compare the backlog at the end of '23 against the end of '22, I think it reflects strong bookings, broad-based bookings across all geographies, across all businesses. But on the hardware side, slightly less hardware or maybe less hardware, certainly in backlog at the end of '23 versus the end of '22."
+    },
+    {
+      "speaker": "Jason Vincent Celino KeyBanc Capital",
+      "company": "Markets Inc., Research Division",
+      "role": "Senior Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. And then when we think about 2024 as a whole, is it a big renewal year? Or I guess, how does 2024 look compared to other years particularly '23, when you think about renewal timing and things like that?"
+    },
+    {
+      "speaker": "John M. Wall Cadence Design",
+      "company": "Systems, Inc.",
+      "role": "Senior VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. Great question, Jason, that's a -- last year was kind of very heavily weighted towards the second half for renewals. We don't expect it to be that heavily weighted in the second half of this year. Looking at software renewals and when they come due, if you look at the annual value, it's probably weighted 40% first half to 60% second half. affiliated companies. FEBRUARY 12, 2024 / 10:00PM GMT, Q4 2023 Cadence Design Systems Inc Earnings Call Operator Your next question comes from Charles Shi with Needham."
+    },
+    {
+      "speaker": "Yu Shi Needham",
+      "company": "& Company, LLC, Research Division",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I guess, top of the mind of many investors. Can you guys provide any thoughts on the Synopsys and ANSYS merger or whatever you call it. Especially now, Cadence probably needs to execute on that Intelligent System Design strategy more organic way than -- organic way? Any thoughts would be great."
+    },
+    {
+      "speaker": "Anirudh Devgan Cadence Design",
+      "company": "Systems, Inc.",
+      "role": "CEO, President & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. Charles, this is Anirudh. So as you know, we have been executing on our Intelligent System Design strategy for 6 years now. We started this in 2018. And we know for a while that there will be this convergence of electrical and mechanical domains. This convergence of system and semi-companies, semi-companies becoming system companies and system companies doing silicon, as you all know. And now we have commented that about 45% of our business is coming from system companies. But this is not -- I mean we have been executed on this from 2018 and focusing on, of course, our core business, which is EDA, expanding into SD&A, which is what we call System Design & Analysis and of course, AI over the last 5, 6 years. And if you look at our results on SD&A, even in 2023, our business revenue is up 22% in SD&A. And it has been up more than 20% for the last several years, whereas that market is not really growing at that rate. So we are gaining a lot of share in SD&A and this is primarily due to our products, right, and our customer response. So the customers have really embraced our strategy and embraced our product differentiation. So we first started with the finite element with Clarity, and that is benchmarking very well, winning a lot of share, a lot of customers. And then recently, you must have seen our new product in CFD. CFD is a big market. That's the -- there are two big simulation areas in SD&A. One is finite element, which we are already had and the other is CFD. And with Millennium, this is like one of the most revolutionary products in CFD in the last 30 years, and I can tell you more about Millennium later. So -- and then the third thing in our SD&A strategy is we are the only company that has a very strong position in packaging and PCB, which is critical for chiplets and 3D-IC. So overall, I feel very confident in terms of our market position. The strategy we have implemented for 6 years, and I see a lot of growth and momentum going forward."
+    },
+    {
+      "speaker": "Yu Shi Needham",
+      "company": "& Company, LLC, Research Division",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Maybe a follow-up. I do want to dig a little bit into your digital IC design and the sign-up revenue. You reported last quarter, I think it's exceeding $300 million when it has been bumping around $250 million since, I think, early part of 2022. But then it does seem to show some really good strength since second half '23. You talked about the share gains, and I do understand this is the part where you have the most overlap with your direct competitor, Synopsys. And just really curious, how sustainable the strength you saw in Q4? And is there any color you can provide us on what's driving the revenue upside for that business in the fourth quarter? How should people think about the sustainability of that?"
+    },
+    {
+      "speaker": "Anirudh Devgan Cadence Design",
+      "company": "Systems, Inc.",
+      "role": "CEO, President & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Charles, that's a good question on digital. I mean there are multiple reasons driving that. But I would say the main -- and we had good growth in Q4, as you saw in our digital business. But of course, the main reason that's driving that is the AI super cycle. So there's a lot more design activity. You even noticed some of our key partners, increasing the Cadence of their major kind of product development. So there is AI, in AI, we participate in several ways. One is just the build-out of the AI infrastructure, which is, of course, a great partnership with NVIDIA and all the other hyperscalers. And then also, our AI-enabled products like Cerebrus and Optimality and overall AI portfolio. So as I mentioned in my prepared remarks, Cerebrus, which is the flagship product for digital implementation using AI. Our business went to 4x. So that's also providing a lot of growth in terms of -- so there's one there is overall much more design activity, especially at the most advanced node and then AI products provide acceleration on top of that. And then the other thing that I had mentioned before, but as people use Cerebrus, which is the overall AI product and digital affiliated companies. FEBRUARY 12, 2024 / 10:00PM GMT, Q4 2023 Cadence Design Systems Inc Earnings Call implementation, it also has a pull-through of the full flow, not just place and route, but also synthesis and signoff. So what I'm very pleased to see is one AI products like Cerebrus is doing well, but they're also pulling through synthesis. Our position has improved dramatically in synthesis in the last 1 year and also a lot of signoff engagement. So overall, I'm pretty pleased with the technology progress, the AI progress, and also engagement with some big customers that traditionally were not using Cadence. And now, like we mentioned, all top 20 customers are using Cadence solutions in digital. So we'll see how it progresses, but I think it's good progress on digital, and I expect that to continue."
+    },
+    {
+      "speaker": "John M. Wall Cadence Design",
+      "company": "Systems, Inc.",
+      "role": "Senior VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Charles, I would just add to that, that in Q4, we saw some very good cash collections from customers that were kind of lower creditworthy customers that we didn't think we would collect those -- that cash. So it wasn't in our forecast. So we had some upside from that. Operator Your next question comes from Vivek Arya with Bank of America Securities."
+    },
+    {
+      "speaker": "Vivek Arya BofA",
+      "company": "Securities, Research Division",
+      "role": "MD in Equity Research & Senior Semiconductor Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I actually had a question on growth. Just kind of first on the segment side, IP growth has been more modest than the entire company growth. So I was hoping if you could give us some color on that. But then Anirudh, my bigger question is that when I look at the overall sales growth for Cadence, right, so 19% in '22 than 15% last year, and now 12% is what you're guiding to for this year. I mean, these are impressive growth rates versus the semiconductor industry, but still, it shows a deceleration, right, for the last few years, which is very different then the acceleration that we see for a lot of other semiconductor companies that are exposed to the AI and Generative AI team. So what is the right way to interpret this deceleration in your sales? Like should we be expecting acceleration back at some point as some of these AI initiatives get bigger? Or what is the right way to interpret and compare your growth rate versus the acceleration of growth in a number of the AI names?"
+    },
+    {
+      "speaker": "Anirudh Devgan Cadence Design",
+      "company": "Systems, Inc.",
+      "role": "CEO, President & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, Vivek, good question. So first, on the IP part, like in '23, I think first 3 quarters, we had -- the growth was much more challenged is primarily with the compare the previous year, but as you know, and some of the macro uncertainties but as you can see in Q4, we had very strong growth in IP, more than 30% growth in IP. And also, this whole AI super cycle, as you know, is driving much more disaggregation right? So the 3D-IC is consolidated at HPC and AI application and that requires more IP, like UCIe or SerDes IP, and then HBM and memory IP. And that's why we acquired assets of the 5 assets of Rambus and overall our own portfolio and UCIe and DDR and all is doing pretty well. And then we did start several acquisitions to improve our talent in IP. So overall, I do think because of AI, because of our own actions that IP should do much better in '24. That's our current modeling. And '23 had some unusual challenges like I mentioned. But going forward, IP business should improve. And we have focused on profitability over the last few years in our IP business. And I think I'm pleased to say that the profitability levels we are happy with now, okay? So now I think we can focus more on growth and expanding our portfolio. And you may have also seen that there's all these other activity as most advanced nodes and more foundries, and we're also pleased with our partnership with Intel, Intel Foundry that we just announced today. And also all the other major foundries, but we are glad to do much more with IFS, and that should also help our IP business going forward."
+    },
+    {
+      "speaker": "John M. Wall Cadence Design",
+      "company": "Systems, Inc.",
+      "role": "Senior VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And Vivek, I'd just like to add, I mean you asked about how to look at the revenue growth. We tend to look over a 3-year CAGR because most of our customers are on 3-year baseline contracts on the software side. And if you look at -- since 2017, our 3-year CAGR has been accelerating, and it continues to accelerate. In 2022, we hit 15%. We actually exceeded 15% on a 3-year CAGR basis. For last year, we're very, very pleased that we were over 15% again. And then at the midpoint of the guide for '24, the 3-year CAGR is about 15.3%. So that will be 3 consecutive years of over 15% revenue growth on a 3-year CAGR basis. Now from time to time, you can get some lumpiness in things like hardware timing or IP timing, and that can distort individual quarters or individual years. But we do think looking over a 3-year CAGR basis is probably the best way to look at it. That's how we look at it ourselves. affiliated companies. FEBRUARY 12, 2024 / 10:00PM GMT, Q4 2023 Cadence Design Systems Inc Earnings Call"
+    },
+    {
+      "speaker": "Vivek Arya BofA",
+      "company": "Securities, Research Division",
+      "role": "MD in Equity Research & Senior Semiconductor Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it. And for my follow-up, maybe, John, one or two clarifications, what's the assumption for China contribution in '24? And then the incremental EBIT, I think from the guidance, it seems like it's below 50%, right? It's still impressive, but it is below what we have been used to the last few years. So if you could clarify that, that would be very helpful also."
+    },
+    {
+      "speaker": "John M. Wall Cadence Design",
+      "company": "Systems, Inc.",
+      "role": "Senior VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. Sure. Great questions again, Vivek. On the incremental margin front, we typically don't start the year in the initial guide with over 50%. We tend to start lower than that and we build towards greater than 50% with growth through the year. As you know, we always like to under promise and over deliver. But -- and if you look at our incremental margin over the last few years that it was slightly lower in 2023 compared to previous years. And that's because -- on the organic side, we had incremental margins north of 55%, but we did some acquisitions. And typically, when you have an acquisition, it can be dilutive in the early year or two, but -- and that's a bit of a headwind for incremental margins. In relation to China, glad you asked me about that. But China, the last 4 years for China, China has contributed 15% of our 2020 revenue, then followed that with 13% of '21, 15% in '22 and 17% in '23. Now last year, I think China benefited from that large hardware backlog that we had. That was kind of an outsized portion of that backlog was for the China region. So it was a boom year last year for China. I wouldn't expect to repeat that this year. In fact, our guide, we'd expect China to be flat or slightly down. So we've kind of derisked China into the 14% to 15% range for this year, which would be consistent with the previous 3 years. Operator Your next question comes from Gary Mobley with Wells Fargo Securities."
+    },
+    {
+      "speaker": "Gary Wade Mobley Wells Fargo",
+      "company": "Securities, LLC, Research Division",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Let me apologize in advance for the background noise. I want to ask about the disconnect between record levels of cRPO and what is assumed in your revenue outlook and as well your higher outlook for upfront revenue. And so why the assumption that less of that cRPO translates into revenue in fiscal year '24, especially considering the higher mix of upfront?"
+    },
+    {
+      "speaker": "John M. Wall Cadence Design",
+      "company": "Systems, Inc.",
+      "role": "Senior VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, Gary, good question. The -- yes, in terms of cRPO and the relationship between cRPO and this year's revenue, if you recall last year, we had over 6 months of hardware backlog in cRPO at the end of 2022. So a large portion of our hardware revenue in '23 came out of backlog at the end of '22, we ramped up production capacity and we're back to more normal levels of about 8 weeks lead time now for deliveries on the hardware, which is really, really important for customers. Customers want to be able to purchase the hardware and feel like they're going to get delivery of that hardware within the year. So typically, your revenue and hardware is more correlated to your production capacity than it is to what's coming out of backlog versus what's coming out of new business in the year. And as a result of addressing those hardware lead times, the revenue profile for this year takes a slightly different shape to 2023. In 2023, in Q1, we had a lot of hardware coming out of backlog in 2024, we expect another record hardware revenue year and the business is planning to build more hardware each quarter throughout 2024 to meet that demand. But there's kind of more of, I guess, hardware revenue is expected to grow quarter-over-quarter this year, whereas last year, Q1 was our biggest hardware quarter."
+    },
+    {
+      "speaker": "Gary Wade Mobley Wells Fargo",
+      "company": "Securities, LLC, Research Division",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Just to be clear, John, cRPO does not include hardware backlog that RPO does?"
+    },
+    {
+      "speaker": "John M. Wall Cadence Design",
+      "company": "Systems, Inc.",
+      "role": "Senior VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "The cRPO would include hardware. I mean, even when you have over 6 months hardware delivery lead time, it would all be expected to revenue in a year. So that's -- although it's in your backlog, it's also all in your cRPO. So cRPO last year would have had a lot more hardware in it than cRPO this year, certainly on the product revenue side. affiliated companies. FEBRUARY 12, 2024 / 10:00PM GMT, Q4 2023 Cadence Design Systems Inc Earnings Call"
+    },
+    {
+      "speaker": "Gary Wade Mobley Wells Fargo",
+      "company": "Securities, LLC, Research Division",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "All right. And I wanted to circle back, Anirudh on the metric you gave in your prepared remarks, that is a quadrupling of the Cerebrus run rate at several market-shaping customers. So should we take that to mean the annual contract value for those who took Cerebrus at market-shaping customers quadrupled -- or maybe if you can just clarify that I'm missing that?"
+    },
+    {
+      "speaker": "Anirudh Devgan Cadence Design",
+      "company": "Systems, Inc.",
+      "role": "CEO, President & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Gary, so, yes. I think Cerebrus doing very well. It deployed at all the top 10 customers. And actually, even AI, in general, we mentioned a number of customer engagements are up like 10x in the last 12 months. And so Cerebrus run rate, as we have mentioned before, the Cerebrus business, first, the customers will try some and then they will adopt more. So I think what's good to see in Q4 is what people were -- what the customers were doing and then they have adopted that at a much bigger rate. So we are happy to see that. I think there is still room to go in that. Like we have always mentioned that we think it will take 2 contract cycles and we are like that 6 years and we are like 2 years into it or 2 or 3 years into it. But that's good in our model, right? We want consistent growth going forward. But yes, the uptick in Cerebrus is very promising. And then the other products are -- came a little after Cerebrus, like Verisium or Allegro X AI or Virtuoso Studio or Optimality, and they're also seeing good progression. So overall, in terms of AI, what I'm very happy about is we are -- I mentioned this before also in the last call, we have 3 big ways to benefit from AI. And this is true for any kind of new technology. There are a lot of comparisons to AI, but if you compare it to like the Internet, the first phase is the infrastructure development, okay? So -- and this -- our marquee partnership with NVIDIA, which we have had for more than a decade, and we talked about it today with developing AI products with them, them developing their own chips. Palladium, we are a development partner with NVIDIA in Palladium for more than a decade, and that also puts Palladium in a very strong position with all the other kind of AI developments. So that's the first phase of AI benefit, which is more the infrastructure. And then the second phase is like what you asked, which is our own products. And it started with Cerebrus in digital side, but now we have 5 major kind of co-pilot platforms in all the 5 businesses, and those are progressing pretty well moving from like initial deployments to more wider deployments. And that's the second phase of AI deployments in which AI will be adopted into existing products like chip design and system design. And one thing I want to point out is there's a lot of talk of what is a good application for AI. I believe one of the best applications for AI is chip design. It's because over the last 30 years, we have done so much work in automatic chip design. We have a language like RTL, we have all kinds of optimization we have built in. So the chip process is already very automated. So it's an ideal thing to apply AI on top of it for chip and system design, which is what we are seeing. And then the third phase of AI is new products it will enable. And I believe for several years, and that's why the investment in OpenEye, the OpenEye, the biggest new market that AI will enable will be life sciences, okay, and biosimulation and bio life sciences. And I think you will see that years going forward. So there are these 3 phases of our AI activity. One is AI infrastructure. Two is applying AI to our own products for chip and system design. And third is AI in bio and life sciences. So overall, I'm very pleased, very confident in our positioning in AI and the results we have delivered. Operator Your next question comes from Jay Vleeschhouwer with Griffin Securities. Jay Vleeschhouwer Griffin Securities, Inc., Research Division - MD of Software Research Anirudh, you noted the large number of new products you've introduced just in the last year, Virtuoso Studio, Optimality, Allegro X and so forth. And then, of course, Millennium just a couple of weeks ago. Could you talk about how you're thinking about the contribution of those incrementally collectively this year as part of your guidance and perhaps even rank the ones that you think might be most incremental to your revenue growth this year over and above the pre-existing products such as Innovus and the signoff products, then I've follow-up."
+    },
+    {
+      "speaker": "Anirudh Devgan Cadence Design",
+      "company": "Systems, Inc.",
+      "role": "CEO, President & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Jay, good question. I mean, as you know, we are a very innovative company, and we have done that for years now, and we invest one of the highest percentages of R&D -- of revenue into R&D. And then it's good to have all these new products in multiple areas, of course, affiliated companies. FEBRUARY 12, 2024 / 10:00PM GMT, Q4 2023 Cadence Design Systems Inc Earnings Call the 3 big areas being like EDA, SDA and AI. But we don't try to like rank our children. We want all of them to do well, and it's also difficult to predict how it will -- because these are all for the long run, right? So there is, of course, a lot of momentum with the AI products. There's a lot of momentum with 3D-IC and chiplet as you know. There's Millennium, I'm super excited about. I think this is the biggest innovation in CFD in the last 30 years. And I talked about the 3-layer cake, right? Which is AI orchestration at the top layer, physical simulation, physics-based modeling at the middle layer and then accelerate compute at the bottom layer and CFD needed to be disrupted in that context, right? So we have -- and we didn't talk about it much when we made the acquisition about 2 years ago. There is acquisition from Stanford Cascade, which is very, very high fidelity, very accurate to CFD. So we had that at the heart of it. And then AI on top and then accelerate compute at the bottom together with NVIDIA. And this completely changes the game in CFD. For the first time, we are able to simulate entire cars and planes in few hours is almost emulation for systems that has never been possible before. So there is a lot of potential in Millennium. Now because Millennium is a new product, we are offering both cloud and on-prem. Palladium is mostly, as you know, on our chip business, Palladium is mostly on-prem but Millennium is both in CFD. And right now, the -- most of the customers are choosing the cloud version, which is great. It's more ratable, okay? So then Millennium and then you must have seen today, we have this great partnership with Dassault. Actually, I'm also pretty happy about that. Dassault is a leader in PLM and MCAD, and overall partnership. We have broadening partnership with this. So -- and then we talked about our IP business, how that can grow and this new partnership with Intel and IFS hardware continues to do well. So I think it's good to have multiple engines contributing to the growth. And then we always focus on margin at the same time. So we are well positioned going forward. But it's difficult to predict which one will do better than the others, and we don't guide on a product basis anyway. Jay Vleeschhouwer Griffin Securities, Inc., Research Division - MD of Software Research Right. So that's a good segue to my follow-up. And since you mentioned so Dassault, Cadence is actually quite visible here at the conference today. And so my question is, when you think about your ISD strategy generally and perhaps CFD specifically, could you talk about the kind of resources and investments you're having to make to effectuate that strategy beyond or over and above the core EDA strategy? And what do you know now about those markets that you might not have known 3, 4, 5 years ago when you were much earlier in developing the strategy."
+    },
+    {
+      "speaker": "Anirudh Devgan Cadence Design",
+      "company": "Systems, Inc.",
+      "role": "CEO, President & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, Jay, that's a good question. I mean one thing to point out, our SDA business is about in 2023 is about 12% of revenue. So it's already at a good pace. And also, it has enough scale now to apply significant R&D to that space, and also simulation space, right? We know simulation space pretty well. And there's a lot of high R&D synergies from our EDA, R&D to SDA, R&D. So I'm pretty happy with how much R&D we have invested and we'll continue to invest there. But at the same time, it is also very profitable, okay? Which is -- which our model always, right? It's not just revenue growth but also profitability. And which we -- when you asked me, we thought it should be more profitable when we started 6 years ago because simulation is more profitable in EDA. So that's what is playing out in SDA. So it is pretty profitable. And it has played out roughly to the extent I thought it would. In simulation always is accuracy first and then performance and capacity and the market is always looking for new simulators and that's how it has played out in electromagnetic. And then in CFD, now I'm much more confident with this disruption, this massive disruption with Millennium. And the key thing with Dassault, and we have mentioned this before, as we -- I'm very confident in SD&A. You can see in terms of product synergy, product differentiation. But we have always said that we are a competition software company, so that also means what we will not do, right? So typically, things in the system space, which are not as computational are things like PLM, things like implementation MCAD, mechanical CAD platforms and Dassault is the clear leader in those. They are great in PLM, they are great in with SOLIDWORKS, in CATIA in the high end. So it's a perfect partner for Cadence. As we focus on competition software and EDA and SBA, packaging and PCB to partner with Dassault and we're glad to see that expansion that was announced today. Operator Your next question comes from Harlan Sur with JPMorgan. affiliated companies. FEBRUARY 12, 2024 / 10:00PM GMT, Q4 2023 Cadence Design Systems Inc Earnings Call"
+    },
+    {
+      "speaker": "Harlan L. Sur JPMorgan Chase",
+      "company": "& Co, Research Division",
+      "role": "Executive Director and Head of U.S. Semiconductor & Semiconductor",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Capital Equipment Your -- back to your IP business, it was up 4, 5 percentage points last year. And I know that it was a relatively tough comp relative to 2022, but I would have thought that the growth in IP would have been closer to your overall growth, just given that higher chip design complexity does motivate your customers to license more IP in order to drive efficiencies in their chip design cycle time. So was there some customer push off of IP into this year, just maybe given timing of customer programs? Or was there some other dynamic that played in relative to your outlook for 12% total growth this year? How do you think your IP business does this year?"
+    },
+    {
+      "speaker": "Anirudh Devgan Cadence Design",
+      "company": "Systems, Inc.",
+      "role": "CEO, President & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, good question. I think the shape of the IP revenue last year was a little atypical. I mean I think the two reasons were that in 2023, we had very, very strong Q4. But first 3 quarters were not strong at all. So overall year is in the single digits, like you mentioned, but a very strong Q4. So I think there are a couple of reasons for that. And one is that there were some tough compares from '22 to '23 in IP, especially in the beginning of the year. And then like I mentioned, of course, last couple of years, the macro environment has been tough, though it is improving now. And then IP typically gets affected more than others in terms of a tough macro semiconductor environment. So as a combination of that, I think the first 3 quarters were more challenging. But Q4 and then going into this year, I'm pretty cautiously optimistic about IP. One, our portfolio is better, is broader. And then this whole AI super cycle, like I mentioned, and then new engagements we have, like with IFS and other companies. So overall, I feel better about '24 John, do you want to comment about the assumption."
+    },
+    {
+      "speaker": "John M. Wall Cadence Design",
+      "company": "Systems, Inc.",
+      "role": "Senior VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, yes. Of course, Harlan, as you know, we always focus on profitable and scalable revenue growth and the IP revenue contributes largely to our upfront revenue percentage. But last year for 2023, our upfront revenue percentage increased from 15% to 16%. That was on the back of a strong record hardware year. But as you say, IP revenue growth was quite low in comparison to prior years. This year, we're expecting the 16% to go to 17.5%. That's because we expect both of those to contribute significantly to improvement in upfront revenue this year."
+    },
+    {
+      "speaker": "Anirudh Devgan Cadence Design",
+      "company": "Systems, Inc.",
+      "role": "CEO, President & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And then we expect the IP growth to be higher than Cadence average this year. We'll see how it plays out. Okay. Yes."
+    },
+    {
+      "speaker": "Harlan L. Sur JPMorgan Chase",
+      "company": "& Co, Research Division",
+      "role": "Executive Director and Head of U.S. Semiconductor & Semiconductor",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Capital Equipment Perfect. And then good to see the strong outperformance on the SDA business, right, up 22% last year, certainly outgrowing the overall market in your peers in that segment. The recent Millennium M1 supercomputer, I think, it's a great example of the synergies between your chip design portfolio, your SDA portfolio, right? You're basically taking the success you've had in hardware-based verification and emulation sort of bringing that same concept to your SDA portfolio. It seems like there would be a lot of untapped demand for hardware acceleration within your SDA customer base? Like how big is this market opportunity for the team as you look out over the next several years?"
+    },
+    {
+      "speaker": "Anirudh Devgan Cadence Design",
+      "company": "Systems, Inc.",
+      "role": "CEO, President & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Absolutely. Even for 30 years, even when I was in grad school, I always believe that hardware acceleration is a massive opportunity for EDA and SDA in general. And you see that worn out in Palladium. So we have always dreamed about hardware acceleration. And that's why there's 3-layer cake. Hardware acceleration is the bottom layer and of course, AI orchestration is the top layer. And a perfect example is Palladium. Now in Palladium and hardware emulation, what happened is if you look at overall functional verification on the chip side first, it's more than a $2 billion business. I think if you look at all the software and hardware became roughly 50% of that. So hardware-assisted verification became almost 50% of chip verification. Now CFD is also a $2 billion business. And it needed this hardware-based acceleration along with AI, so I don't know whether it will play out the same way, but there is a potential of a big portion of CFD to go to hardware-based acceleration. Now it will take a few years. And we are clearly leading in that. And the other thing it does, the hardware-based acceleration or emulation for CFD is it will improve the affiliated companies. FEBRUARY 12, 2024 / 10:00PM GMT, Q4 2023 Cadence Design Systems Inc Earnings Call area -- it will improve the market size of CFD as well. Like I was talking to one of these big aerospace companies. And they said, current CFD, the current simulation is only done to 20% of the flight envelope. Which is unheard of in chip design. In chip design, we simulate 99-point-some percent of the use cases so that when the chip comes back, it works. But if you look at the system domain because the accuracy is not there because the speed is not there, they're only covering 20% of the use cases and all of them only in software. So the potential with Millennium is one that 20% goes to much closer to much higher than 50%. And then a big portion of that can go to hardware-assisted emulation and verification. And by the way, the same thing can repeat again, this 3-layer can repeat again in bio, which is a few years out. But I think right now, the opportunity is there in system simulation and CFD. So I'm pretty optimistic. But it's a new use case for that market. And sometimes the new use cases can take some time to deploy. So we always have to be cautious about that. But the response so far has been phenomenal. And people -- and because they were doing some of this themselves, the customers, but to have a combined solution with AI, software and hardware and you are exactly right. It mimics our success we have done on the chip side. Operator Your next question comes from John Marco Conti with Deutsche Bank. John Marco Conti I know you've touched on this already, but could you run us again through the phasing of top line and margins through 2024 guidance, as well as providing some more color on what is causing the lower level of revenue seasonality in your Q1 guidance given Q1 implies 22% versus the median of 25% over the past 7 years in terms of its seasonality. Can we explain this perhaps by hardware and/or IP timing? Or is there something else?"
+    },
+    {
+      "speaker": "John M. Wall Cadence Design",
+      "company": "Systems, Inc.",
+      "role": "Senior VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Johny, for the question. But yes, on the revenue side, the -- we expect 2024 to take a slightly different shape to 2023. That's largely a function of the revenue mix by quarter. You'll recall last year in 2023, we had 20% upfront revenue in Q1 when the year ended up at 16%, but this year, for Q1, we're expecting 14% in Q1 when the year is expected to be 17.5%. So clearly, from that, you expect that -- we'd expect that upfront revenue to increase quarter after quarter this year, whereas last year, Q1 was really the high watermark for upfront revenue. And then on the expense side, we've invested heavily. We have about 1,000 extra heads this year. And that's for continued innovation, and we're launching new products all the time. But -- so with that expense on some of the acquisitions is more front loaded for the year. And as a result, that's kind of feeding into lower margins for Q1 in comparison to the rest of the year. For Q2, Q3 and Q4, we'd expect margins to be similar or higher than last year. Yes. I think that's -- those are probably the main things to get across. John Marco Conti Yes, that was really good. Really helpful. And perhaps just one last follow-up on the commentary around expectations of operating cash flow into next year. I mean the lower end timing seems flat. So perhaps what are the moving levers there. And also, how come 70% of the backlog is flowing into 2024 compared to 75% in '23?"
+    },
+    {
+      "speaker": "John M. Wall Cadence Design",
+      "company": "Systems, Inc.",
+      "role": "Senior VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. Johny, that's -- yes, let me take the second part first, and then I'll come back to the cash question. But -- so last year, we had over 6 months of lead times -- for hardware delivery lead time. So there was a lot of last year's hardware revenue came out of backlog. The 5% shift can pretty much all be allocated to less hardware coming out of backlog for this year. Now hardware revenue for the year will probably be more of a reflection like it has been in the last few years of just how much hardware we're able to produce in the year, and we expect to increase hardware production each quarter for this year. But to meet the demand that we're expecting. But last year, the operating cash flow was kind of muted. It was less than -- although we beat on all our metrics, we came in just under the midpoint of $1.350 billion, I think it was $1.349 billion for operating cash flow, but that included us investing spending a lot to ramp up on purchase -- advanced purchase of raw materials to build that inventory that we believe we need for hardware this year. We intend to do that again in Q1. But -- so we've already included that in our operating cash guide. So we're investing some of that affiliated companies. FEBRUARY 12, 2024 / 10:00PM GMT, Q4 2023 Cadence Design Systems Inc Earnings Call operating cash to improve gross margins by prepurchasing a bunch of raw materials that we believe we need for -- to keep up with the demand on the hardware side. Now the other thing I wanted to highlight is that the business's forecast for hardware is again for another record hardware revenue year and for hardware demand to continue to accelerate quarter after quarter this year. Normally, I wouldn't include some of their expected demand for the second half. But until I see the -- it's a pipeline business. So we look at lead times. We look at the pipeline kind of closer to the summer before taking up the second half of the year. So the guide does not include the full forecast from the business. I'd like to hedge that back in the second half until we get to the summer. I'd prefer to see the pipeline come through. And then there is potential to take the second half higher when we see that pipeline. Operator Your next question comes from Josh Tilton with Wolfe Research."
+    },
+    {
+      "speaker": "Joshua Alexander Tilton Wolfe",
+      "company": "Research, LLC",
+      "role": "Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "John, you kind of anticipated what I was going to ask with your last comment there. So I just want to clarify very simply, is what you -- should we just interpret what you said is that even this strong upfront revenue guide, which I think implies another year of 20%-plus growth would still fall under the motto of underpromise and overdeliver?"
+    },
+    {
+      "speaker": "John M. Wall Cadence Design",
+      "company": "Systems, Inc.",
+      "role": "Senior VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, I think that's fair. That's fair. But I didn't include the full forecast. The guide would have been higher. Of course, we have a strong IP as well this year. I mean, certainly compared to last year. IP didn't contribute a huge amount. I mean it's been a great business for us. but we're much more confident going into '24 of the IP contribution to 2024 revenue. But hardware is going to be strong. Again, I mean, by nature, we always like to kind of hold back on the second half guide for hardware until we see the pipeline around summertime. So we haven't included the full forecast from the business in the guide."
+    },
+    {
+      "speaker": "Joshua Alexander Tilton Wolfe",
+      "company": "Research, LLC",
+      "role": "Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Super helpful. And then just my follow-up is, how do you see the competition maybe specifically in digital changing, if at all? If Synopsys can indeed close this ANSYS acquisition and fully integrate ANSYS's tool set into their design flow."
+    },
+    {
+      "speaker": "Anirudh Devgan Cadence Design",
+      "company": "Systems, Inc.",
+      "role": "CEO, President & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Well, I don't think that will change the competitive landscape at all. That's my assessment in digital or even in SD&A. Because digital, anyway, we are competing very effectively in the marketplace. And with this AI, it is pulling in a full digital full flow position. I think your comment may be more tied to a part of digital, which is like 3D-IC. But with 3D-IC, we always talked about there are three big portions of 3D-IC. There is an actual chip implementation tools, which is -- I mean digital is much bigger than that, right? Digital, we have a very big business, which is growing at all the top 20 customers. But 3D-IC has these three components to it. One is the chip design tools. So in chip design tools, we are the only company that has both analog and digital chip implementation, okay? And the second part in 3D-IC is packaged design and Cadence is the leader in packaged design, and that thing is still a very strong differentiation no matter what the M&A news is outside. And then the third part is the simulation tools like thermal and electromagnetic and there, we are already doing pretty well. So I'm very confident in our product positioning and competitive advantage. No matter what happens on the M&A side because anyway, we are competing very effectively. And then the other thing that is good about Cadence is we also formed a very strong partnership in the ecosystem. We talked about Dassault on the SD&A side. But the other one that I want to highlight, we have a lot of news today, but one of the things that I want to highlight is our partnership with Arm. Arm is also expanding into what they call Total Design, going into more towards silicon, more towards custom solutions. And we are the exclusive partner with Arm as they go implement that. And that really also helps our digital business. And -- so overall, I feel pretty confident in our digital position, including 3D-IC. Operator Your next question comes from Ruben Roy with Stifel. affiliated companies. FEBRUARY 12, 2024 / 10:00PM GMT, Q4 2023 Cadence Design Systems Inc Earnings Call"
+    },
+    {
+      "speaker": "Ruben Roy",
+      "company": "Stifel, Nicolaus & Company, Incorporated, Research Division",
+      "role": "MD & Equity Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Anirudh, I just had a quick question, I guess, to go back to Vivek's question on growth rates, I understand the 3-year CAGR, it's been excellent. It's been growing, and that's really nice to see. But when you think about these phases of AI at this point, is it too early to start thinking about contribution from AI as you go through these renewals? I mean can you talk about how -- if there is -- if you're seeing an impact yet or what that impact is or how we should think about AI as sort of if you think about the next 3 years or contribution to growth looking forward?"
+    },
+    {
+      "speaker": "Anirudh Devgan Cadence Design",
+      "company": "Systems, Inc.",
+      "role": "CEO, President & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. I think AI is definitely helping us already, like we mentioned about our AI tools by itself has gone up by 3x and then Cerebrus more higher than that. And then also AI itself is the infrastructure part of AI, like our partnership with NVIDIA and all the hyperscalers. So overall, we are pretty pleased with that. But of course, we are mostly a ratable business. So these things take like multiple years to bleed in. And I think that's fine. Our model always is to have strong revenue growth and margin growth. So I think this thing will still take multiple years to come into our model, but that's -- I think that's a good thing. It provides multiple years of growth."
+    },
+    {
+      "speaker": "John M. Wall Cadence Design",
+      "company": "Systems, Inc.",
+      "role": "Senior VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. I think it's very early innings right now on the AI adoption. We've been focused mainly on proliferation. And we're very, very pleased with the uptake of our AI tools and just how strongly they're growing on the booking side. It is starting to feed into the P&L already. But as Anirudh says, because it's ratable, that takes time to show up in total. But very, very early innings in adoption of AI tools right now. I think there's a lot more to go."
+    },
+    {
+      "speaker": "Ruben Roy",
+      "company": "Stifel, Nicolaus & Company, Incorporated, Research Division",
+      "role": "MD & Equity Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Right, right. Okay. That's very helpful. And then just quickly, John, you talked a lot about the hardware and I think it's pretty clear at this point. But just to make sure I understand, it sounds like lead times have normalized. Is that correct? And also in terms of sort of the visibility you get from your customer base, that hasn't changed, right? Is that what you're saying in terms of how far out your customers are ordering, and then I guess it would be just kind of a function of increased attach rates, which has given you the confidence that you're going to have another big growth here in hardware. I just wanted to make sure I'm thinking about that correctly."
+    },
+    {
+      "speaker": "John M. Wall Cadence Design",
+      "company": "Systems, Inc.",
+      "role": "Senior VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "No, I think you are. Yes, yes. I mean the business has great confidence in terms of what they're hearing from customers and customers' plans and budget plans. But I push back on the forecast and as you know, I mean, the hardware itself, from a purchasing perspective, has some degree of seasonality in it, like Q4 would always be bigger for purchasing activity from customers than in Q1. And now that we're down to more normal lead times, you kind of have that growth quarter-over-quarter built into the forecast. Now again, I've been conservative in the second half on that forecast. But still even with my conservatism, I still have second half being higher than the first half of hardware. Operator Your final question comes from Joe Vruwink with Baird."
+    },
+    {
+      "speaker": "Joseph D. Vruwink Robert W.",
+      "company": "Baird & Co. Incorporated, Research Division",
+      "role": "Senior Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Just a follow-up on some of the earlier questions. So I think of your growth is being tied to the R&D budgets at your customers, not the revenue at your customers and certainly, R&D budgets, they tend to move around more steadily perhaps. And then Anirudh, you mentioned earlier, a lot of your revenue is ratable at the same time. So basically, changes can take some time to work through the model. I just wanted to ask, though, because I think 2024 has the potential to see a pretty big inflection in R&D spending within the semi customer base? If you are maybe seeing that, a, is it included in your outlook starting the year and then b, if it does end up moving higher and influencing kind of renewals and purchasing decisions, does that actually manifest in a bigger way, probably more in 2025 than it really would in 2024?"
+    },
+    {
+      "speaker": "Anirudh Devgan Cadence Design",
+      "company": "Systems, Inc.",
+      "role": "CEO, President & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, Joe, that's a very good observation. I mean, definitely, the -- we are -- like we are very diversified, we are very ratable, we are tied to R&D, which are all good things in our model. And then the mood seems to be changing a little bit, '23, as we have mentioned before, was affiliated companies. FEBRUARY 12, 2024 / 10:00PM GMT, Q4 2023 Cadence Design Systems Inc Earnings Call a tough environment, though we kind of grew very well. And there was some change I feel in Q4 in the overall -- I mean, you guys know that as well in the overall macro sentiment and maybe there will be more investment in '24 and '25. But I think we based our outlook and John can comment more on the backlog that we see rather than guessing what will happen in '24 and '25. But if there is an improvement in R&D, then that's good for our business. But we do see there's a lot of design activity. And then we see our position improving EDA and IP especially this year and continue expanding in SDA and AI."
+    },
+    {
+      "speaker": "John M. Wall Cadence Design",
+      "company": "Systems, Inc.",
+      "role": "Senior VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, certainly, everyone feels seems to be more optimistic this time this year compared to this time last year. This time last year, everyone was asking me, when was the recession going to happen. But this year, design activity seems to be strong. Even when we talk about China, we're still seeing strong design activity in China, but I derisk the guide for that because part of the large outperformance in China last year in achieving 17% of our revenue was because of that hardware backlog. And now that we're back to more normal lead times, we thought it's prudent to assume that China revenue drops back to prior levels of between kind of 14%, 15%. But -- so that's embedded in the guide. I thought the right -- I mean we always -- the approach at this time of the year is always tried to derisk the guide for the things that we think people might be concerned about, but -- and then have the business focused on doing the best business with customers for the long term that we always feel our Cadence employees do the best business when they're not chasing."
+    },
+    {
+      "speaker": "Joseph D. Vruwink Robert W.",
+      "company": "Baird & Co. Incorporated, Research Division",
+      "role": "Senior Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. Yes, I think that's all smart. And then I guess, John, just on kind of your approach to forecasting the upfront revenues. I think in 3Q, you were kind of intimating that, look, we're running at kind of an elevated share of total. We haven't typically been 15% coming from upfront products, so maybe it normalizes. And now it's changing and suddenly it's going to remain a higher share of total. Can you just go into what changed in 4Q? And is any of that kind of AI, obviously, verification hardware, I mean these AI designs basically need the cutting edge is AI acutely being seen in the strength of your hardware order activity?"
+    },
+    {
+      "speaker": "John M. Wall Cadence Design",
+      "company": "Systems, Inc.",
+      "role": "Senior VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, yes, of course. That's -- and partly, it's -- I mean, if you've seen over the last number of years, we've seen the upfront contribution to our revenue mix has been increasing, and it went from 15% in '22 to 16% last year. And I think what you're referring to is we expect it to go to 17.5% this year. That's a virtue of an expectation that we're going to have another record hardware revenue year that we expect stronger IP growth this year compared to last. We feel much more confident in the contribution from IP growth and of course, we're launching new products all the time. Now in relation to things like Millennium, we expect a large part of Millennium sales to be cloud-based but maybe not all of them will be cloud-based. I think that's another tailwind potentially for upfront revenue for the year. But I've hedged back slightly, what I expect in the second half because I'd like to see the pipeline in the summer before we take that up even higher. But the forecast is higher than 17.5%, but I'm only comfortable going out with a guide of 17.5% for upfront revenue for this year."
+    },
+    {
+      "speaker": "Anirudh Devgan Cadence Design",
+      "company": "Systems, Inc.",
+      "role": "CEO, President & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And just to add, I mean, AI contributes to -- I mean, AI design activity, as you know, contributes to hardware strength, given our strong position. And also AI is more HPC and chiplet-based and it does help our IP business as well, and then all the comments on Millennium. So -- but let's see how it progresses. But yes, I mean, the IP is also strong this year, along with hardware and Millennium. Operator I will now turn it back to Anirudh Devgan for closing remarks."
+    },
+    {
+      "speaker": "Anirudh Devgan Cadence Design",
+      "company": "Systems, Inc.",
+      "role": "CEO, President & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. Thank you all for joining us this afternoon. It's an exciting time for Cadence as we enter 2024 with product leadership and strong business momentum. Our continued execution of the Intelligent System Design strategy, customer-first mindset and a high-performance and inclusive culture are driving accelerating growth as we grow our core EDA business, while expanding our portfolio. Fortune and Great Place to Work named Cadence as one of the World's Best Workplaces in 2023, ranking it #9. And on behalf of our employees and our Board of Directors, we thank our customers, partners and investors for their continued trust and confidence in Cadence. affiliated companies. FEBRUARY 12, 2024 / 10:00PM GMT, Q4 2023 Cadence Design Systems Inc Earnings Call Operator Thank you for participating in today's Cadence Fourth Quarter and Fiscal Year 2023 Earnings Conference Call. This concludes today's call. You may now disconnect. In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. affiliated companies."
+    }
+  ]
 }

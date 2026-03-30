@@ -4,5 +4,838 @@
   "quarter": "2024Q3",
   "sector": "Industrials",
   "filename": "2024-Oct-22-PCAR.OQ-138702657823-Transcript.pdf",
-  "segments": []
+  "segments": [
+    {
+      "speaker": "Scott Group Wolfe",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Operator Good morning and welcome to PACCAR's third quarter 2024 earnings conference call. All lines will be in a listen-only mode until the question and answer session. Today's call is being recorded and if anyone has an objection, they should disconnect at this time. I would now like to introduce Mr. Ken Hastings, PACCAR's Director of Investor Relations. Mr. Hastings, please go ahead."
+    },
+    {
+      "speaker": "Ken Hastings Paccar",
+      "company": "Inc",
+      "role": "Investor Relations",
+      "speaker_type": "other",
+      "section": "presentation",
+      "text": "Good morning, we would like to welcome those listening by phone and those on the webcast. My name is Ken Hastings, PACCAR's Director of Investor Relations and joining me this morning are Preston Feight, Chief Executive Officer; Harrie Schippers, President and Chief Financial Officer; and Brice Poplawski, Vice President and Controller. As with prior conference calls, we ask that any members of the media on the line participate in a listen-only mode. Certain information presented today will be forward-looking and involve risks and uncertainties that may affect expected results. For additional information please see our SEC filings at the investor relations page of paccar.com. I would now like to introduce Preston Feight."
+    },
+    {
+      "speaker": "R. Feight Paccar",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thanks, Ken. Good morning everyone. Harrie, Brice, Ken and I will update you on our excellent third quarter financial results and other business highlights. I'd like to start by thanking PACCAR's wonderful employees who deliver PACCAR's high quality trucks and transportation solutions to our customers all around the world. PACCAR earned a strong $972 million on revenues of $8.2 billion for an industry leading after tax return on revenue of 11.8%. PACCAR Parts third quarter revenues increased 5% to $1.66 billion and pretax profits were $407 million. PACCAR financial earned pretax income of $107 million in the third quarter. We estimate this year's US and Canadian Class 8 market to be around 260,000 trucks and next year to be in the range of 250,000 to 280,000 vehicles. The vocational segment where Peterbilt and Kenworth are the market leaders is strong and is expected to remain strong with continued infrastructure investments. The less than truckload market is performing well. While the truckload segment seems to have stabilized. Peterbilt and Kenworth combined Class 8 share has increased from 29.5% to 31.1%. Kenworth and Peterbilt's dealer inventory is a affiliated companies. OCTOBER 22, 2024 / 4:00PM GMT, Q3 2024 Paccar Inc Earnings Call healthy 2.9 months. Kenworth and Peterbilt increased their medium duty market share in the first nine months of this year to 17.2% compared to 14.5% last year. In Europe, this year's truck industry registrations in the above 16 ton segment are estimated to be around 300,000 vehicles. The 2025 market is expected to be in the range of 270,000 to 300,000 trucks. Last month at the IAA truck show in Germany DAF introduced its new 2025 lineup of trucks which improved fuel economy by 3% and used advanced driver assistance systems to enhance safety. In addition, the 2025 vehicles feature PACCAR's connected truck solutions which bring great value to the customer. The South American above 16 ton market is projected to be in a range of 110,000 to 120,000 trucks this year and in a similar range next year. PACCAR's premium lineup of trucks are performing well for customers in South America, especially in the important Brazilian market. PACCAR and its dealers are delivering excellent trucks and transportation solutions to our customers and we are excited about the future. Thank you, Harrie will now provide an update on Paccar Parts, Paccar Financial Services and other business highlights. Harrie?"
+    },
+    {
+      "speaker": "Harrie Schippers Paccar",
+      "company": "Inc",
+      "role": "President, Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks, Preston. I delivered 44,900 trucks during the third quarter. We expect fourth quarter deliveries to be around 42,000 vehicles. More production days in Europe will be offset by fewer production days due to normal holidays in North America and some supplier related limitations. PACCAR Parts delivered third quarter gross margins of 30.1%. PACCAR's quarterly sales grew by 5% compared to the same period last year and are expected to grow around 4% in the fourth quarter. PACCAR Parts focus on expanding its customer base and providing a full range of transportation solutions is delivering sales growth in the smaller after sales market. PACCAR Parts just opened a new distribution center in Massbach, Germany. This new distribution center increases the number of dealers and customers benefiting from receiving parts on the same or next day in the important German market. Truck parts and other gross margins were 16.6% in the third quarter. We anticipate fourth quarter gross margins to be in the range of 15.5% to 16%. PACCAR financial services results in the third quarter benefited from excellent portfolio quality. Pretax income was $107 million. The used truck market has normalized North America while remaining soft in Europe. PACCAR Financial is a market leader in supporting customers with innovative technologies that provide seamless credit application and loan servicing processes. PACCAR net income of $3.3 billion in the first nine months of this year generated a strong $3.2 billion operating cash flow. PACCAR's return on invested capital was an excellent 25% in the first nine months of this year. This year's capital expenditures are projected to be between $760 million and $800 million. And research and development expenses will be $450 million to $470 million. Next year we estimate the company will invest $700 million to $800 million in capital projects at $480 million to $530 million in research and development projects. PACCAR continues to expand manufacturing capacity at our factories in Europe, United States, Mexico, Brazil and Australia. These investments are supporting PACCAR's growth as well as our customers success. PACCAR investments in its premium truck lineup, efficient manufacturing capacity, best in class parts and financial services businesses, and the continued development of advanced technologies position the company for industry leading performance through all phases of the business cycle. Thank you would be pleased to answer your questions. Operator (Operator Instructions) Steve Volkmann, Jefferies. affiliated companies. OCTOBER 22, 2024 / 4:00PM GMT, Q3 2024 Paccar Inc Earnings Call"
+    },
+    {
+      "speaker": "Steve Volkmann",
+      "company": "Jefferies",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you so much. Good morning and good afternoon. I'm curious if we can talk a little bit about what you're seeing on the pricing side. I know we need to normally wait for the queue to get a sense of that. But if you can give us a quick preview of what we're seeing in pricing and kind of how you're expecting that to flow through in the fourth quarter as well."
+    },
+    {
+      "speaker": "R. Feight Paccar",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure, if you think about price, cost, it's kind of price was flat in Q3 and costs around 3%. So when I think about that on the truck side, if you think about how we look forward at that, we think that the vocational market's going to remain strong. We think the lesson, truckload market is doing really well is in addition, and then the truckload sector still seems to be feeling its pressure, but it does seem to have stabilized. And so we're kind of starting to see signs that maybe that tension will release over the coming months and next year, which could be good for us in terms of price versus cost as we look into next year."
+    },
+    {
+      "speaker": "Steve Volkmann",
+      "company": "Jefferies",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay, good. Maybe that starts to answer my follow up, which is that I I'm curious, you know, overall you're sort of flattish globally with your market forecast for next year. Maybe you'll gain a little bit of market share like you usually do. But that fourth quarter run rate of 15.5% to 16% gross margin. Is that a good sort of base to think about for 2025 or is there something that could move that one way or the other? Thanks."
+    },
+    {
+      "speaker": "R. Feight Paccar",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I think if you go and look at what's been going on this year, right. The year started exceptionally strong in all sectors. And I think maybe the truckload cares have had a tougher road to hoe for a little while here. Maybe what you'd expect to see in 2025 is a mere image of that where the year starts a little bit like it's finishing and then accelerates, I think from their timing. Exactly, I don't know that, but it does feel like that's, we're starting to see the stabilization for the truckload sector just significant. And so we would expect to see some growth over the coming year."
+    },
+    {
+      "speaker": "Steve Volkmann",
+      "company": "Jefferies",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Super. Thank you. I'll pass it on. Operator Rob Wertheimer, Melius Research."
+    },
+    {
+      "speaker": "Rob Wertheimer Melius",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi, thanks. And good morning guys. So I guess just to follow up on that question, you look at gross margins still at very healthy levels really historically, but down sequentially, price was kind of flat. You said year over year and cost creep up a little bit. Is there anything that really should otherwise be called out in the sequential move in gross margin? Thank you."
+    },
+    {
+      "speaker": "R. Feight Paccar",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I don't think there's anything different than I would call out for that. I think the thing that that's been really good for us is the PACCAR introductions we've done over the past few years have. I mean, it's just stunning how great the trucks are right now. The fuel economy is outstanding, the reliability is outstanding and the customer desire for the trucks is very high as well. So I think that what we'll see is people's desire to have those trucks as the market opens up."
+    },
+    {
+      "speaker": "Rob Wertheimer Melius",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "All right, perfect. And then I, I've asked you this before. I'm not sure you'll give me a different answer now, but your differentiation is pretty good and vocational. I mean, it's a product that has a lot more, has variability to it, let's say, and you guys are real leaders there, is that at all a margin tailing for you into next year."
+    },
+    {
+      "speaker": "R. Feight Paccar",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, it's a very good point, Rob. And yes, it is. I would say that's a positive statement to make. I think one of the things that we look at right now is our inventory is in very good shape, as we mentioned. And over half of our inventory is vocational trucks that are at affiliated companies. OCTOBER 22, 2024 / 4:00PM GMT, Q3 2024 Paccar Inc Earnings Call bodybuilders right now. So we feel well positioned overall with inventory and then we know that our vocational inventory is strong and we feel like that is good for our business."
+    },
+    {
+      "speaker": "Rob Wertheimer Melius",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "And then vocational can be up next year and I'll stop there. I apologize. Thank you."
+    },
+    {
+      "speaker": "R. Feight Paccar",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I think vocational will continue to run strong next year. Operator Steven Fisher, UBS."
+    },
+    {
+      "speaker": "Steven Fisher UBS",
+      "company": "Equities",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks. Good morning. You mentioned that your inventory is what you characterize as healthy at 2.9 months I guess, can you talk about where that 2.9 months is relative to your ideal targets for this point in the cycle? Do you think there's sort of inventory reductions that you have to make? And just curious, kind of what you're seeing from competitors in that perspective. And are they needing to take inventory out and is that putting some price pressure into the market?"
+    },
+    {
+      "speaker": "R. Feight Paccar",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Well, I'll let them talk about their inventory positions, but for our inventory position, we feel very good at 2.9 months. That's a very healthy level for us, especially as I mentioned, to Rob the fact that our vocational inventory takes up a chunk of that. So we feel quite comfortable with our inventory levels and our build rates being well positioned."
+    },
+    {
+      "speaker": "Harrie Schippers Paccar",
+      "company": "Inc",
+      "role": "President, Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And it's even come down a little bit during the quarter. But at the end of June, we were at 3.3 months and currently we're at 2.9 months."
+    },
+    {
+      "speaker": "Steven Fisher UBS",
+      "company": "Equities",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. And then just you mentioned about some potential re-acceleration in the second half of the year. How are you thinking about the concept of a pre-buy at this point? Is that kind of at all in the thinking or is it more just sort of the freight market recovering? And if it's a pre-buy in your thinking, what do you think it will take to kick start? That is it just timing and getting closer to another 26, 27 time frame or does it actually also require some degree of improvement in the freight market?"
+    },
+    {
+      "speaker": "R. Feight Paccar",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I think we're going to see some improvement in the freight market. Some of the carriers have started to leave the market, which is something that's been anticipated. I would say, I also think that as you think about it, there will be people's trucks have gotten older and there will be people interested in making sure they're buying enough trucks for the next several years. So that's going to take an effect. I think as we go through 2025 and add to 2025 growth. Operator Tami Zakaria, J.P. Morgan."
+    },
+    {
+      "speaker": "Tami Zakaria J.P.",
+      "company": "Morgan",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi. Thank you so much. So my first question is on Europe. So your outlook for next year, I think it's down 5% at the midpoint for retail sales. And this year your deliveries are down more than the retail sales expectation. So as we think about next year, do you plan on delivering to demand or do you expect to underproduce even next year? So how should we think about production in Europe next year?"
+    },
+    {
+      "speaker": "Harrie Schippers Paccar",
+      "company": "Inc",
+      "role": "President, Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, Tami. European volumes have been down a little bit more than the market this year, that is really strong in central and eastern Europe where the market has been more affected by the war in Ukraine and the economy is a lot slower there than in some other parts of Europe. We expect things to continue at that pace, more or less into as we enter next year and then, and then we will see how it progresses during the year. affiliated companies. OCTOBER 22, 2024 / 4:00PM GMT, Q3 2024 Paccar Inc Earnings Call"
+    },
+    {
+      "speaker": "R. Feight Paccar",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Exactly what Harry said. And I think the other thing is the team in Europe has done a great job on price discipline with the great new trucks. And so I think those two things combined is we feel pretty well positioned in Europe too that we will build to demand next year."
+    },
+    {
+      "speaker": "Tami Zakaria J.P.",
+      "company": "Morgan",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it. That is very helpful. And my second question going back to pricing, I think you said flattish this quarter. Just trying to get a sense of, did you open order books for next year? If so what any reads on what pricing you're seeing for next year?"
+    },
+    {
+      "speaker": "R. Feight Paccar",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure, Tami. I mean, obviously it's not so binary as opening and closing the order books, but we did have a significant engagement with a bunch of customers at the recent ATA show. So if you wanted to call that the normal cadence of fleet fleets thinking about their purchases, we had great conversations with them. A lot of enthusiasm for the trucks and kind of an expectation of purchases next year. I think they're obviously because of the condition they're all in. It puts some price, cost tension into the world right now. But I also feel like that's going to relieve, find some relief as we go in 2025."
+    },
+    {
+      "speaker": "Tami Zakaria J.P.",
+      "company": "Morgan",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it. Thank. Operator Angel Castillo, Morgan Stanley."
+    },
+    {
+      "speaker": "Angel Castillo Morgan",
+      "company": "Stanley",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi, good morning and thanks for taking my question. Just wanted to go back to the margin conversation in particular, just understanding the price, cost dynamic. So you came in ahead of your expectations on total units for the third quarter and price seems to be it may be relatively stable. All things considered, but the 16.6% margin implies decremental on a pre-tax basis of over 50%. Just kind of above the levels that I think of it as kind of normal. So was there anything that surprised to the upside or that's leading to kind of higher detrimental than you would have typically expected? And then similar kind of line of question for 4Q in terms of help us kind of bridge the GAAP like it's not a price degradation. What's kind of causing the margin contraction?"
+    },
+    {
+      "speaker": "R. Feight Paccar",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "You want to take a swing?"
+    },
+    {
+      "speaker": "Harrie Schippers Paccar",
+      "company": "Inc",
+      "role": "President, Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Think mostly any difference with what we thought a quarter ago would be at the cost side where we had some cost elements, there were some supplier issues at that point in time. And some other operating cost or maybe the cost side was the difference if you want to point to something"
+    },
+    {
+      "speaker": "Ken Hastings Paccar",
+      "company": "Inc",
+      "role": "Investor Relations",
+      "speaker_type": "other",
+      "section": "qa",
+      "text": "Also lower volumes."
+    },
+    {
+      "speaker": "R. Feight Paccar",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "But I think you know what we're looking at that, we're looking at the totality of this thing and it feels like these are pretty healthy levels for us given this point in the cycle and where we see ourselves sitting, so it feels pretty good."
+    },
+    {
+      "speaker": "Angel Castillo Morgan",
+      "company": "Stanley",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it. And then maybe a similar dynamic of just a conversation around the parts profitability, just what do you see there in terms of that business that you think about? As we go into 2025 just in terms of the profitability, it seems like it's stepped up nicely in the kind of remain relatively stable, I guess from 2Q to 3Q, but that was an area that was seeing a little bit of softness, but we were talking about it last quarter. So just what's kind of the ongoing trends there. affiliated companies. OCTOBER 22, 2024 / 4:00PM GMT, Q3 2024 Paccar Inc Earnings Call"
+    },
+    {
+      "speaker": "R. Feight Paccar",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I think the macro thing to think about in the parts market right now is that there's a smaller overall after sales market this year. And our team's just done a tremendous job of holding excellent margins in that smaller market and seeing growth in fact, right, as we talked about 5% growth this quarter. So I'm couldn't be more happy with the work they're doing the systems, they're bringing in the new PPCs they're opening and how closely they're working with all the customers to grow that business. So, a great story there for the PACCAR's team. Operator Jaime Cook, Truist Securities."
+    },
+    {
+      "speaker": "Jaime Cook Truist",
+      "company": "Securities",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi, good morning. Sorry, just to follow up on the Parts aftermarket. Can you comment specifically what price, cost was like you did for truck? That would be helpful and then I guess my other question would be, as you think about truck, you said price flat cost up 3%. Was there any major variances sort of by region? And there's been this thesis that everyone would act more rational to cycle as some of your peers are now, spun off public companies. Just any comment on what, how you're seeing behavior sort of this cycle versus previous cycles? Thank you."
+    },
+    {
+      "speaker": "Harrie Schippers Paccar",
+      "company": "Inc",
+      "role": "President, Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So starting with Parts, Jamie for Parts price was up 3% and cost was up 4% in the quarter. You have a question about --"
+    },
+    {
+      "speaker": "R. Feight Paccar",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I think if you think about the disciplines of the, all the other ways being public, listen, it's a competitive world, but PACCAR's has this advantage of having premium products that people really do desire. And so the team has close relationships with the customers and feel like it puts us in a good position. As we noted in the beginning of our commentary, we have best in class performance because of the performance of our product for our customers. And we expect that will continue."
+    },
+    {
+      "speaker": "Jaime Cook Truist",
+      "company": "Securities",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I guess just a follow up question, Preston I understanding your outlook for 2025 and it sounds like things should get better in the back half of the year. As we progress through the cycle and we get a pre-buy ahead of 2027. Is there any reason believe PACCAR cannot deliver above average incremental margins like you did prior to this most recent sort of mini downturn given just the new product introductions, et cetera."
+    },
+    {
+      "speaker": "R. Feight Paccar",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. No, Jaime that's a great question. A great way to frame it. I like the way you frame it, I think we can deliver excellent performance in the coming years. So I agree with you. Operator David Raso, Evercore ISI."
+    },
+    {
+      "speaker": "David Raso Evercore",
+      "company": "ISI",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yes, thank you for the time. I have one short term, one, maybe a little bit longer term. On the bills of the sorry, the deliveries for the fourth quarter the 42,000, the geographic composition of that. I mean, obviously, historically, Europe will step up. Are we saying even with the extra days in Europe, we won't get a step up in Europe. So that's sort of flattish and maybe other is flattish and sequential US, Canada is the down 11 to get us the 42. I'm just trying to be thoughtful about the geographic mix when I think about the margins."
+    },
+    {
+      "speaker": "R. Feight Paccar",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, I think you're not off on that. I think that it's relatively flattish 3Q to 4Q for Europe. And, again, we've got our inventory in a very good position there and then I would expect that we're maybe it's up slightly even. And then we're going to see in the, what we're going affiliated companies. OCTOBER 22, 2024 / 4:00PM GMT, Q3 2024 Paccar Inc Earnings Call to see for the US is a normal holiday cadence. And obviously, there was a couple of hurricanes that came through, it did affect some suppliers. And so we're working through that right now with them and the supply base is doing a great job of sorting that out and it's just something we going to kind of sort out as a team."
+    },
+    {
+      "speaker": "Harrie Schippers Paccar",
+      "company": "Inc",
+      "role": "President, Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "On a per day basis. Europe is flattish going into the fourth quarter. But the more production days, I think it provides a couple of 1,000 more trucks in Europe compared to the third quarter in the fourth quarter."
+    },
+    {
+      "speaker": "David Raso Evercore",
+      "company": "ISI",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Well, that's the whole thing. If it's a couple of 1,000 more to keep the whole company down to 42, I'm just trying to figure out is North America -- US down 20 sequentially. I'm just trying to get a sense of the magnitude because that could explain the marginal pressure."
+    },
+    {
+      "speaker": "Harrie Schippers Paccar",
+      "company": "Inc",
+      "role": "President, Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "No, 20. But there's, there's what is it, seven or eight fewer working days in the fourth quarter to North America."
+    },
+    {
+      "speaker": "David Raso Evercore",
+      "company": "ISI",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. That's helpful. And then on the issue of the pre-buy, I'm sorry, go ahead, Preston."
+    },
+    {
+      "speaker": "R. Feight Paccar",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "No, go ahead."
+    },
+    {
+      "speaker": "David Raso Evercore",
+      "company": "ISI",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Well, I was just moving on to the, the second question I had about the pre-buy. A major engine supplier we hear could be pulling their engine for '27 earlier, which could actually inspire maybe some buying of their engine in '25. So I just wanted to see if you'd enlighten us on that at all. If that is maybe what's playing out, which could help '25. And then second on the inventory for the vocational, you mentioned the bodybuilder who continue to be a bottleneck. So the inventory sitting out there in vocational does lead or you have a customer, they're just the bottleneck of the bodybuilder to finish off the job. Is there something going on with the body builders? I can sort of break that through a little bit. And if not, is the level of vocational trucks sitting there waiting for a bodybuilder, an impediment to you being able to grow your vocational business more than '25."
+    },
+    {
+      "speaker": "R. Feight Paccar",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, I think that what you've seen is there was this impulse throughout 2024 in the vocational market and I think that's maybe stabilized at a high level. So I think people are doing a job, a good job of catching up and what the bodybuilder capacity is has been and is so they're getting that sorted out is what it feels like, David. Obviously, there's some components on vocational trucks that are unique and some of those are in tight supply right now, which sent some throttle on it. All of that together means that I think 2025 will continue strong in the vocational sector. There's still infrastructure spending, the country is doing well. And so I would expect vocational to remain a strong point for us. And as you well know, right, we have over 40% market share in that sector. So that will be good for PACCAR in '25. And coming back around to your first question. We have a great relationship with Cummins, we build our own engines. We are well positioned for today's emission standards as well as the upcoming emission standards and feel like we'll be able to offer our customers the right products for the upcoming markets and don't have any concerns about how that's going to play out."
+    },
+    {
+      "speaker": "David Raso Evercore",
+      "company": "ISI",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. I'll leave it there. Thank you so much."
+    },
+    {
+      "speaker": "R. Feight Paccar",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Great. affiliated companies. OCTOBER 22, 2024 / 4:00PM GMT, Q3 2024 Paccar Inc Earnings Call Operator Jerry Revich, Goldman Sachs."
+    },
+    {
+      "speaker": "Jerry Revich Goldman",
+      "company": "Sachs",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi, good morning, good afternoon, everyone. I'm wondering if you could just talk about on. I'm wondering if you could just talk about on the cost side your teams have been sprinting really hard to get trucks out the door when supply was tight. And I'm wondering based on the cost of materials that are now flowing through the factories, when do you think we could see per truck costs actually coming down? And you know, if the current steel price, cost curve holds in particular, do you think we could be looking at per truck cost potentially tailwind at some point in an early '25 on a year over year basis?"
+    },
+    {
+      "speaker": "R. Feight Paccar",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Jerry, that it's a possibility. I think there's a little bit of labor that, that factors into here too, that you look at on a year over year basis, which is something that's been incurred by the industry as a whole, including our supply base, much written about. So I think we'll just have to watch how those two things interplay with each other in the coming six months."
+    },
+    {
+      "speaker": "Jerry Revich Goldman",
+      "company": "Sachs",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "So and then in terms of the mix of what you folks have in backlog. Can you talk about that? You mentioned earlier in the conversation, the margin step down has been driven large by a mix of product. How does the mix of what you folks have left and backlog look compared to what we shipped this quarter?"
+    },
+    {
+      "speaker": "R. Feight Paccar",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, we still see the same ratios of really strong truck versus tractor production, truck production is still running around 50%. So that's above a historical number but very good numbers for us."
+    },
+    {
+      "speaker": "Jerry Revich Goldman",
+      "company": "Sachs",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "And you folks have improved your truck profitability significantly cycle over cycle. In the past, we've seen margins of peak to truck grow margins range from 400 to 1,000 basis points peak to trough. How do you think the higher margin profile that you folks have now will translate into truck cyclicality going forward? What's the impact on fixed versus variable cost versus history? Any comments that you care to make on that question?"
+    },
+    {
+      "speaker": "R. Feight Paccar",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure, Jerry, I think it's a great observation on your part. I think that what we see is the company performing at a structurally stronger level. I think that's because of the great investments and the efforts of the team to provide excellent products for our customers. I mean, they really are helping our customers make money and they are desired by the drivers. So that's a nice position to be in. I think PACCAR's lean culture and operating disciplines are healthy and good for the company and good for our operating performance, good for our customers in terms of us being a lien operating company and good for our shareholders. So you're right in making the observation and we think that observation will hold true."
+    },
+    {
+      "speaker": "Jerry Revich Goldman",
+      "company": "Sachs",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. So and lastly some of your competitors are talking about, some pretty small incremental cost increases on EPA 2027 versus what most of us expect. I'm wondering if you just weigh in on your expectations, especially since you're already up and running in California. Can you talk about what you folks are seeing and expecting?"
+    },
+    {
+      "speaker": "R. Feight Paccar",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. Sure. First of all, I see you even observe the fact that we have a certified engine in California as we're the first manufacturer to do that. So we're well positioned for any of the regulatory conditions that we encounter. Our thoughts is it could be in the 10,000 to 15,000 range right now. Subject to change depends on what the regulatory agencies do, but that feels like the right framing point for the cost as we look at 2027. affiliated companies. OCTOBER 22, 2024 / 4:00PM GMT, Q3 2024 Paccar Inc Earnings Call"
+    },
+    {
+      "speaker": "Harrie Schippers Paccar",
+      "company": "Inc",
+      "role": "President, Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And Jerry bear in mind, it's not only about material cost, it's also the extended warranties that will kick in with EPA '27 that will have an effect, an impact on the cost level as well."
+    },
+    {
+      "speaker": "Jerry Revich Goldman",
+      "company": "Sachs",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Absolutely. Yeah. Thank you, everyone."
+    },
+    {
+      "speaker": "R. Feight Paccar",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Great questions. Operator Tim Thein, Raymond James."
+    },
+    {
+      "speaker": "Tim Thein Raymond",
+      "company": "James",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. Thank you. First one Preston for you. Maybe I'm just curious in terms of the conversations that you and the team are having with your truckload customers as you think about kind of the order progression as we go in coming months. It seems and I don't know if you would agree with this and obviously, you've lived through lots of, of these of truck cycles over time. But just with respect to kind of this election, uncertainty and the range of political and kind of regulatory outcomes that may come about. I'm just curious, do you think there's more, I mean, there's always this notion of, there's a kind of a wait and see around the election, but it does seem like from our standpoint anyway, maybe this year is a little bit greater. So I'm curious if you share that thought and if so would, would you think it's fair that maybe there's a potential for more of a delayed order cadence as we look into '25."
+    },
+    {
+      "speaker": "R. Feight Paccar",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I think that we have some really smart customers and our observations in those conversations is they think very clearly about their economic conditions that they're operating in. And I think they know that there needs to be a steadiness to their buying cycle of trucks because it's good for their operating models. And so they've been probably reluctant on the truckload side to be able to make the capital truck purchases they wanted for the last little while just based upon rates. And I think they're kind of hopeful that's going to change. And I think far more important than anything like an election is when those rates change, then they will probably increase the cadence of their bias. And I think that's what they're thinking about."
+    },
+    {
+      "speaker": "Tim Thein Raymond",
+      "company": "James",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "And then, and then this is with respect to the deliveries in North America, it seems from some of the third party data that maybe the third quarter, he had, a little bit heavier on, or heavier on medium duty relative to heavy duty. Is there any normalization that may occur in fourth quarter? Or is that, is it not enough to call out in terms of from a mixed perspective, as you think 3Q to 4Q."
+    },
+    {
+      "speaker": "R. Feight Paccar",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Harrie, I know you were talking -- you never talk about that, weren't you?"
+    },
+    {
+      "speaker": "Harrie Schippers Paccar",
+      "company": "Inc",
+      "role": "President, Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. So medium duty volumes were a little bit higher in the third quarter with some ketchup mirror related to some extent. So in the fourth quarter, we expect a more normal medium bird heavy mix and like we used to see."
+    },
+    {
+      "speaker": "Tim Thein Raymond",
+      "company": "James",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it. Okay. And I assume Harrie that there's not the implications from a profit perspective aren't what they would have been several years ago, just given the improvement, even medium duty side, is that fair? affiliated companies. OCTOBER 22, 2024 / 4:00PM GMT, Q3 2024 Paccar Inc Earnings Call"
+    },
+    {
+      "speaker": "Harrie Schippers Paccar",
+      "company": "Inc",
+      "role": "President, Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "The margins on our medium beauty products are well in line with these days."
+    },
+    {
+      "speaker": "R. Feight Paccar",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Nice observation, Tim."
+    },
+    {
+      "speaker": "Harrie Schippers Paccar",
+      "company": "Inc",
+      "role": "President, Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "As a percentage, they are smaller Turks but the percentage is very similar."
+    },
+    {
+      "speaker": "Tim Thein Raymond",
+      "company": "James",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "No. All right. Thank you. Operator Kyle Menges, Citi."
+    },
+    {
+      "speaker": "Kyle Menges",
+      "company": "Citibank",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you. I was just curious, on the R&D guide for next year, just how do we interpret the step up in R&D guidance for next year? Especially given market, we could be in kind of a flat to slightly up market global market for you guys next year."
+    },
+    {
+      "speaker": "R. Feight Paccar",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Well, if you think about where we're at this year and if you took a midpoint at 460 then you said if you took the midpoint on something like five or a little over 500 it's not that big of a change in the way we think about R&D is when we have important good projects to work on, be they power train or new truck systems or connectivity or electronics or all the things that will make our trucks more profitable for the customers, then we make those investments and this is the right level of R&D investment for that."
+    },
+    {
+      "speaker": "Kyle Menges",
+      "company": "Citibank",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it. And then I know you've talked about a strong vocational market into next year, more related to Class 8. But just any thoughts on how we should be thinking about the medium duty market next year in North America?"
+    },
+    {
+      "speaker": "R. Feight Paccar",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I think we should see a healthy medium duty market again next year in North America as well. I think it's been good this year and there is, as you just kind of indicated, there's some portion of that, which hits into the vocational market. But overall it should be a good market remain a good market. It's probably the right way to say it, Kyle. Operator Chad Dillard, Bernstein."
+    },
+    {
+      "speaker": "Chad Dillard Bernstein",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi, good morning guys. So I just got a question for you on, hey, how are you? So just a question for you on what you're embedding for your '25 North America truck guide. I just trying to think through the split between vocational versus tractor. I think you mentioned your truck was about 50% in '24. Is that the same or a little bit higher pre-buy embedded. And then I think you mentioned that the progression of price, cost will go into reverse in '25. So is it fair to say that the fourth quarter is probably the trial for TP and Odor margins?"
+    },
+    {
+      "speaker": "R. Feight Paccar",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I think what we'll expect to see is that the vocational market remains strong, but there's probably a pick up in the truckload sector. So the ratio of tractor to truck might move around a little bit towards heavier tractor as we go through the year next year. See how that starts and when that takes effect as you mentioned. But I think that what we're seeing now, as we said, as we started this year in a really strong position, we're finishing at a point where the truckload carriers are still feeling tension and then as we get into next year into 2025 they're going to want to continue to buy trucks, keep their fleets at the right ages. And so we'll see some increase in the truckload purchases throughout the year. Timing for that we'll see. affiliated companies. OCTOBER 22, 2024 / 4:00PM GMT, Q3 2024 Paccar Inc Earnings Call"
+    },
+    {
+      "speaker": "Chad Dillard Bernstein",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it. Okay. And then a second question for you on the [Finco] business. How should we think about that going into the end of the year and then '25 and more specifically just looking at like the interest and other borrowing expenses seem like there's a pretty big step up and just trying to think through how that evolves."
+    },
+    {
+      "speaker": "Harrie Schippers Paccar",
+      "company": "Inc",
+      "role": "President, Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "The finance company continues to show strong performance. We have a very healthy portfolio of mainly A&B customers past dues remain low, seen a little credit losses, but that's normal at this point in the cycle. As we get into next year, we will continue to see strong performance of the finance company. Interest rates we are time hedged there. So we issue medium term notes in line with the leases that and the financing contracts that we offer. So we don't have a lot of exposure there."
+    },
+    {
+      "speaker": "Brice Poplawski Paccar",
+      "company": "Inc",
+      "role": "Vice President, Controller",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And in the portfolio, this is Brice, I'd just like to add that our portfolio is growing very nicely. Because we have a market right now where the banks are getting out at times and we're seeing a little bit less competition. Our market share is up actually nicely here in the quarter and we expect a strong continued performance in our business here."
+    },
+    {
+      "speaker": "Chad Dillard Bernstein",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. Thank you. Operator Jeff Kauffman, Vertical Research Partners."
+    },
+    {
+      "speaker": "Jeff Kauffman Vertical Research",
+      "company": "Partners",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you very much. Hey, everybody. I want to talk a little bit about. Thank you and congratulations. I want to talk a little bit about the South American growth is going to be exceeding that in the near term for North American Europe. Does it all change the specs on the trucks in terms of what you're seeing and how that might affect ASP."
+    },
+    {
+      "speaker": "R. Feight Paccar",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "If you think about the truck specific to Brazil, which is the largest market in South America we're participating in is that it really is the DAF truck that we're using there. So that truck is kind of effectively the same truck as we get in Europe. And we have had to put together certain specs for them where they're operating in different operating conditions. More six by fours more sugarcane kind of applications, lumber hauling applications. So it's a bit of heavier duty. So maybe the selling price is a slight bit higher there. But in general, I tend to think about them like a European truck."
+    },
+    {
+      "speaker": "Jeff Kauffman Vertical Research",
+      "company": "Partners",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay? And then as we transition in 2025 at some point to a market where maybe truckload LTL is growing a little faster than vocational and international. How might that be affecting ASP as we work our way through '25?"
+    },
+    {
+      "speaker": "R. Feight Paccar",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I wouldn't put too much energy into trying to figure out the nuance to that. If it was me, I think that you could obviously think that a high content vocational truck is more expensive than a maybe a standard six by four tractor. But I wouldn't probably try to partner that together."
+    },
+    {
+      "speaker": "Harrie Schippers Paccar",
+      "company": "Inc",
+      "role": "President, Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So there's probably a higher variety and a bigger range in prices for a vocational truck than you would see for online one."
+    },
+    {
+      "speaker": "R. Feight Paccar",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. And then if you keep the vocational segment, you start thinking about the medium duty participation in that. I think you'd have a hard thing to kind of set out there. affiliated companies. OCTOBER 22, 2024 / 4:00PM GMT, Q3 2024 Paccar Inc Earnings Call"
+    },
+    {
+      "speaker": "Jeff Kauffman Vertical Research",
+      "company": "Partners",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Well, fair enough. I was just looking for some context and that's fine. So that's my one question."
+    },
+    {
+      "speaker": "R. Feight Paccar",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks Jeff. Good to talk to you. Operator Michael Feniger, Bank of America."
+    },
+    {
+      "speaker": "Michael Feniger Bank",
+      "company": "of America Merrill Lynch",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. Yeah, thank you, gentlemen for taking my questions. Just you guys have really been investing in the business in your trucks, in your facilities. I'm just curious how much more capacity can you bring on to serve the US market? Is it 10% to 15% is it 20% more than what you guys could do previously? And is this higher capacity? Is this available in 2025 in the second half if we see that ramp or is this more of a 2026 that you guys can raise capacity in some of these facilities?"
+    },
+    {
+      "speaker": "R. Feight Paccar",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Hey, Mike, thanks for the comments. They're nice to hear, the thing we're doing with our capital expenditures, as we noted is we are making investments in the factories and that's not a new thing, right. We've been doing that over the past few years in anticipation of where the markets will be in our growth. So some of those capacity investments are in and complete others are underway. So we have all the capacity we need for the markets in the coming years. We will not be capacity constrained and we do anticipate growth. So that feels really positive."
+    },
+    {
+      "speaker": "Michael Feniger Bank",
+      "company": "of America Merrill Lynch",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. Helpful. And then just, I guess the last question, you guys talked a little bit about a normalization of the used market in North America a little weaker in Europe. So you can kind of flesh that out. And I'm curious if the spread between the new price for a truck, let's say in 2025 versus what you're seeing for a used truck right now, is that spread kind of normal? Is it wider than usual? Just curious if you guys are seeing anything there in the market. Thank you."
+    },
+    {
+      "speaker": "Harrie Schippers Paccar",
+      "company": "Inc",
+      "role": "President, Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "As the used truck market normalizes also that spread becomes more normal."
+    },
+    {
+      "speaker": "R. Feight Paccar",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "If I was to think about it, I would think that what we've seen is, as we said is used truck prices have found their space right now and I think the trucks in the used market will look pretty good to us in 2025. And like we said, we also expect the new trucks to improve in 2025 in terms of market outlook. So it feels like they're staying together, right? There's not a big separation between new and used."
+    },
+    {
+      "speaker": "Harrie Schippers Paccar",
+      "company": "Inc",
+      "role": "President, Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And just looking at our inventory position in North America that new struck inventory is at very healthy levels for us. So that gives us confidence that we'll be able to operate at good levels there."
+    },
+    {
+      "speaker": "Michael Feniger Bank",
+      "company": "of America Merrill Lynch",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "That was helpful. Thank thanks, gentlemen. Just the last one to squeeze in just. On Parts, I'm curious if there's anything you guys would call out that's weighed on the margin for parts that might normalize or go away next year. Like if next year Parts are up 5% do you think the profit can for Parts can grow more than 5%? Just kind of curious on the puts and takes of what you guys have been seeing the last, this year and how we're thinking about that for '25. Thank you. affiliated companies. OCTOBER 22, 2024 / 4:00PM GMT, Q3 2024 Paccar Inc Earnings Call"
+    },
+    {
+      "speaker": "R. Feight Paccar",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, it's a good question. Fun to think about. I think as we noted in our comments, right. There is a smaller overall after sales market in 2024. So purely the number of parts overall has gone down that are being sold, but the Parts team has grown the business even in that environment. So I think as the overall after sales market picks up with increased freight activity that will be good for the business and should be a tailwind for us. Operator Scott Group, Wolfe Research."
+    },
+    {
+      "speaker": "Scott Group Wolfe",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hey, thanks guys. I just want to follow up on the some of the gross margin commentary. So you had a comment that first half would be pressured and then improve in the second half next year. I'm wondering was that a year over year or a sequential comment. Meaning do we see further sequential gross margin pressure in the first half from where we are now. Or was that just purely a year over year coming?"
+    },
+    {
+      "speaker": "R. Feight Paccar",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, Scott, you might have heard more than we said even there. I think what we actually said was we feel like we will see improvement through the course of 2025. I can't be so specific as to know how that's going to play off, but it does feel like it will be a mirror image of this year. So the strength we saw in the first half in '24 will be, and then the normalization in the third, fourth quarter here likely will be inverted as we get into 2025. But the specifics of that, they're hard to detail out."
+    },
+    {
+      "speaker": "Scott Group Wolfe",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yeah, I mean, ultimately I'm trying to figure out if you think that this Q4 is the bottom for gross margin."
+    },
+    {
+      "speaker": "R. Feight Paccar",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, I think I understand that. And I think your intuitions aren't far off."
+    },
+    {
+      "speaker": "Scott Group Wolfe",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. And then just lastly, any thoughts on, how you're sort of thinking about approaching the market next year is in terms of market share growth or a little bit more focused on price. How are you balancing that for next year?"
+    },
+    {
+      "speaker": "R. Feight Paccar",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Well, we like to see market share growth and we like to see ourselves perform well as a company for our shareholders. We'll be pursuing both of those next year."
+    },
+    {
+      "speaker": "Scott Group Wolfe",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. Thank you guys. Operator Thank you. There are no other questions in the queue at this time. Are there any additional remarks from the company."
+    },
+    {
+      "speaker": "Ken Hastings Paccar",
+      "company": "Inc",
+      "role": "Investor Relations",
+      "speaker_type": "other",
+      "section": "qa",
+      "text": "Like to thank everyone for joining the call. And thank you, Emily. Operator Thank you everyone for joining us today. This concludes our call and you may now disconnect. affiliated companies. OCTOBER 22, 2024 / 4:00PM GMT, Q3 2024 Paccar Inc Earnings Call In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. affiliated companies."
+    }
+  ]
 }

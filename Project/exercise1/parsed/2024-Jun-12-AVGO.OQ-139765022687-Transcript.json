@@ -4,5 +4,422 @@
   "quarter": "2024Q1",
   "sector": "IT",
   "filename": "2024-Jun-12-AVGO.OQ-139765022687-Transcript.pdf",
-  "segments": []
+  "segments": [
+    {
+      "speaker": "Timothy Arcuri",
+      "company": "UBS",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Thomas O'Malley Barclays Investment Bank - Analyst"
+    },
+    {
+      "speaker": "William Stein Truist",
+      "company": "Securities",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Operator Welcome to Broadcom Inc. second quarter fiscal year 2024 financial results conference call. At this time for opening remarks and introductions, I would like to turn the call over to Ji Yoo, Head of Investor Relations of Broadcom, Inc."
+    },
+    {
+      "speaker": "Ji Yoo Broadcom",
+      "company": "Corp",
+      "role": "IR",
+      "speaker_type": "other",
+      "section": "presentation",
+      "text": "Thank you, operator, and good afternoon, everyone. Joining me on today's call are Hock Tan, President and CEO; Kirsten Spears, Chief Financial Officer; and Charlie Kawwas, President, Semiconductor Solutions. Broadcom distributed a press release and financial tables after the market closed describing our financial performance for the second quarter of fiscal year 2024. If you did not receive a copy, you may obtain the information from the Investors section of Broadcom's website at broadcom.com. This conference call is being webcast live and an audio replay of the call can be accessed for one year through the Investors section of Broadcom's website. During the prepared comments, Hock and Kirsten will be providing details of our second quarter fiscal year 2024 results, guidance for our fiscal year 2024, as well as commentary regarding the business environment. We'll take questions after the end of our prepared comments. Please refer to our press release today and our recent filings with the SEC for information on the specific risk factors that could cause our actual results to differ materially from the forward-looking statements made on this call. In addition to US GAAP reporting, Broadcom reports certain financial measures on a non-GAAP basis. The reconciliation between GAAP and non-GAAP measures is included in the tables attached to today's press release. Comments made during today's call will primarily refer to our non-GAAP financial results. I'll now turn the call over to Hock."
+    },
+    {
+      "speaker": "Hock Tan Broadcom",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thank you, Ji Yoo, and thank you, everyone, for joining today. In our fiscal Q2 2024 consol -- our results sorry, consolidated net revenue was $12.5 billion, up 43% year on year, as revenue included a full quarter of contribution from VMware. But if we exclude VMware, consolidated revenue was up 12% year on year. And this 12% organic growth in revenue was largely driven by AI revenue, which step up 280% year on year to $3.1 billion, more than offsetting continued cyclical weakness in semiconductor revenue from enterprises and telcos. Let me now give you more color on our two reporting segments. Beginning with software. In Q2, infrastructure software segment revenue of $5.3 billion was up 175% year on year, and included $2.7 billion in revenue contribution from VMware, up from $2.1 billion in the prior affiliated companies. JUNE 12, 2024 / 9:00PM GMT, Q2 2024 Broadcom Inc Earnings Call quarter. The integration of VMware is going very well. Since we acquired VMware, we have modernized the products SKUs from over 8,000 disparate SKUs to four core product offerings and simplifying the go-to-market flow, eliminating a huge amount of channel conflicts. We are making good progress in transitioning all VMware products to a subscription licensing model. And since closing the deal, we have actually signed up close to 3,000 of our largest 10,000 customers to enable them to build a self-service virtual private cloud on-prem. Each of these customers typically sign up to a multiyear contract, which we normalize into an annual measure known as annualized booking value or ABV. This metric ABV four VMware products accelerated from $1.2 billion in Q1 to $1.9 billion in Q2. By reference -- for reference for the consolidated Broadcom software portfolio, ABV grew from $1.9 billion in Q1 to $2.8 billion over the same period in Q2. Meanwhile, we have integrated SG&A across the entire platform and eliminated redundant functions. Year to date, we've incurred about $2 billion of restructuring and integration costs, and drove our spending run rate at VMware to $1.6 billion this quarter from what used to be $2.3 billion per quarter pre acquisition. We expect spending will continue to decline towards a $1.3 billion run rate exiting Q4, better than our previous $1.4 billion plan, and will likely stabilize at $1.2 billion post integration. VMware revenue in Q1 was $2.1 billion. It grew to $2.7 billion in Q2 and will accelerate towards a $4 billion per quarter run rate. We therefore expect operating margins for VMware to begin to converge towards that of classic Broadcom software by fiscal 2025. Turning to semiconductors, let me give you more color by end markets. Networking, Q2 revenue of $3.8 billion grew 44% year on year, representing 53% of semiconductor revenue. This was again driven by strong demand from hyperscalers for both AI networking and custom accelerators. It's interesting to note that as AI data center clusters continue to deploy, our revenue mix has been shifting towards an increasing proportion of networking. We doubled the number of switches we've sold year on year, particularly in Tomahawk 5 and Jericho3, which we deploy successfully in close collaboration with partners like Arista Networks, Dell, Juniper, and Supermicro. Additionally, we also double our shipments of PCI Express switches and mix in the AI back in February. We're leading the rapid transition of optical interconnects in AI data centers to 800 gigabit bandwidth, which is driving accelerated growth for our DSPs, optical lasers, and pin diodes. And we are not standing still. Together with these same partners, we are developing the next-generation switches, DSP and optics that will drive the ecosystem towards 1.6 terabit connectivity to scale out larger AI accelerator customers clusters. Talking of AI accelerators, you may know our hyperscale customers are accelerating their investments to scale up the performance of these clusters. And to that end, we have just been awarded the next generation custom AI accelerators this for these hyperscale customers of ours. Networking these AI accelerators is very challenging, but the technology does exist today. In Broadcom, we have the deepest and broadest understanding of what it takes for complex large workloads to be scale out in an AI fabric. Proof in point, seven of the largest eight AI clusters in deployment today use Broadcom Ethernet solutions. Next year, we expect all mega scale GPU deployments to be on ethernet. We expect the strength to need to continue. And because of that, we now expect networking revenue to grow 40% year on year compared to our prior guidance of over 35% growth. Moving to wireless, Q2 wireless revenue of $1.6 billion grew 2% year on year was seasonally down 19% quarter on quarter and represents 22% of semiconductor revenue. And in fiscal '24, helped by content increases, we reiterate our previous guidance for wireless revenue to be in essentially flat year on year. This trend is wholly consistent with our continued engagement with our North American customer, which is deep, strategic, and multi-year and represents all of our wireless business. Next, our Q2 server storage connectivity revenue was $824 million or 11% of semiconductor revenue, down 27% year on year. We believe, though, Q2 was the bottom in service storage. And based on updated demand forecast and bookings, we expect a modest recovery in the second half of the year. And accordingly, we forecast fiscal '24 server storage revenue to decline around the 20% range year on year. Moving on to broadband, Q2 revenue declined 39% year on year to $730 million and represented 10% of semiconductor revenue. Broadband remains weak on a continued pause in telco and service provider spending. We expect Broadcom to bottom in the second half affiliated companies. JUNE 12, 2024 / 9:00PM GMT, Q2 2024 Broadcom Inc Earnings Call of the year with a recovery in 2025. Accordingly, we are revising our outlook for fiscal '24 broadband revenue to be down high 30s year on year from our prior guidance for decline of just over 30% year on year. Finally, Q2 industrial resale of [$234 million] declined 10% year on year. And for fiscal '24, we now expect industrial resales to be down double digits percentage year on year, compared to our prior guidance for high single digit decline. So to sum it all up, here's what we are seeing. For fiscal '24, we expect revenue from AI to be much stronger at over $11 billion. Non-AI semiconductor revenue has bottomed in Q2 and is likely to recover modestly for the second half of fiscal '24. on infrastructure software, we're making very strong progress in integrating VMware and accelerating its growth. Pulling all these three key factors together, we are raising our fiscal 24 revenue guidance to $51 billion. And with that, let me turn the call over to Kirsten."
+    },
+    {
+      "speaker": "Kirsten Spears Broadcom",
+      "company": "Corp",
+      "role": "CAO & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you, Hock. Let me now provide additional detail on our Q2 financial performance, which included a full quarter of contribution from VMware. Consolidated revenue was $12.5 billion for the quarter, up 43% from a year ago. Excluding the contribution from VMware, Q2 revenue increased 12% year on year. Gross margins were 76.2% of revenue in the quarter. Operating expenses were $2.4 billion, and R&D was $1.5 billion, both up year on year, primarily due to the consolidation of VMware. Q2 operating income was $7.1 billion and was up 32% from a year ago with operating margin at 57% of revenue. Excluding transition costs, operating profit of $7.4 billion was up 36% from a year ago with operating margin of 59% of revenue. Adjusted EBITDA was %7.4 billion or 60% of revenue. This figure excludes $149 million of depreciation. Now a review of the P&L for our two segments. Starting with semiconductors. Revenue for our semiconductor solutions segment was $7.2 billion and represented 58% of total revenue in the quarter. This was up 6% year on year. Gross margins for our semiconductor solutions segment were approximately 67%, down 370 basis points year on year, driven primarily by a higher mix of custom AI accelerators. Operating expenses increased 4% year on year to $868 million on increased investment in R&D, resulting in semiconductor operating margins of 55%. Now moving on to Infrastructure Software. Revenue for infrastructure software was $5.3 billion, up 170% year on year, primarily due to the contribution of VMware and represented 42% of revenue. Gross margin for infrastructure software were 88% in the quarter, and operating expenses were $1.5 billion in the quarter, resulting in Infrastructure software operating margin of 60%. Excluding transition acquisition costs, operating margin was 64%. Now moving on to cash flow. Free cash flow in the quarter was $4.4 billion and represented 36% of revenue. Excluding cash used for restructuring and integration of $830 million, free cash flows of $5.3 billion were up 18% year on year and represented 42% of revenue. Free cash flow as a percentage of revenue has declined from 2023 due to higher cash interest expense from debt related to the VMware acquisition, and higher cash taxes due to a higher mix of US income, and the delay in the reenactment of Section 174. We spent $132 million on capital expenditures. Day sales outstanding were 40 days in the second quarter, consistent with 41 days in the first quarter. We ended the second quarter with inventory of $1.8 billion, down 4% sequentially. We continue to remain disciplined on how we manage inventory across our ecosystem. We ended the second quarter with $9.8 billion of cash and $74 billion of gross debt. The weighted average coupon rate and years to maturity of our $48 billion in fixed rate debt is 3.5% and 8.2 years, respectively. The weighted average coupon rate and years to maturity of our $28 billion in floating rate debt is 6.6% and 2.8 years, respectively. During the quarter, we repaid $2 billion of our floating rate debt, and we intend to maintain this repayment of debt throughout fiscal 2024. affiliated companies. JUNE 12, 2024 / 9:00PM GMT, Q2 2024 Broadcom Inc Earnings Call Turning to capital allocation. In the quarter, we paid stockholders $2.4 billion of cash dividends based on a quarterly common stock cash dividend of $5.25 per share. In Q2, non-GAAP diluted share count was 492 million, as the 54 million shares issued for the VMware acquisition were fully weighted in the second quarter. We paid $1.5 billion in withholding taxes due on vesting of employee equity resulting in the elimination of 1.2 million AVGO shares. Today, we are announcing a 10 for 1 forward stock split of Broadcom's common stock to make ownership of Broadcom stock more accessible to investors and to employees. Our stockholders of record after the close of market on July 11, 2024, will receive an additional nine shares of common stock after the close of market on July 12, with trading on a split adjusted basis expected to commence at market open on July 15, 2024. In Q3, reflecting a post split basis, we expect share count to be approximately 4.92 billion shares. Now on to guidancein. We are raising our guidance for fiscal year 2024 consolidated revenue to $51 billion and adjusted EBITDA to 61%. For modeling purposes, please keep in mind that GAAP net income and cash flows in fiscal year 2024 are impacted by restructuring and integration related cash costs due to the VMware acquisition. That concludes my prepared remarks. Operator, please open up the call for questions. Operator (Operator Instructions) Vivek Arya, Bank of America."
+    },
+    {
+      "speaker": "Vivek Arya Bank",
+      "company": "of America Securities",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks for taking my question. Hock, I would appreciate your perspective on the emerging competition between Broadcom and Nvidia across both accelerators and ethernet switching. So on the accelerator side, they are going to launch their Balckwell product that many of the same customers that you have a very large position in the custom compute. So I'm curious how you think customers are going to do that allocation decision, just broadly what the visibility is? And then, I think a part B of that is as they launch their Spectrum-X Ethernet switch, do you think that poses increasing competition for Broadcom in the ethernet switching side in AI for next year? Thank you."
+    },
+    {
+      "speaker": "Hock Tan Broadcom",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Very interesting question, Vivek. On AI accelerators, I think were operating on a different, to start with, scale much a different model. At the GPUs, which are the AI accelerator of choice on merchant environment is something that is extremely powerful as a model, and it's something that Nvidia operate in a very, very effective manner. We don't even think about competing against them in that space. Nonetheless, that's where they're very good at and we know where we stand with respect to that. What we do for very selected or selective hyperscalers is if they have the scale and the skills to try to create silicon solutions, which are AI accelerators to do particular very complex AI workloads, we're happy to use our IP portfolio to create those custom AI accelerators. So I do not see them as truly competing against each other, and far from me for me to say, I'm trying to position myself to be a competitor on basically GPUs in this market. We're not, we are not competitors to them, we don't trying to be either. Now on networking, maybe that's different. But again, the people may be approaching, they maybe approaching it from different angle we are. We are, as I indicated, all along, very deep in ethernet as we've been doing ethernet for over 25 years, ethernet networking. And we've gone through a lot of market transitions, and we have captured a lot of market transitions from cloud scale, networking to routing, and now AI. So it's a natural extension for us to go into AI. We also recognize that being the AI compute engine of choice in merchant -- in the ecosystem, which is GPUs, that they are trying to affiliated companies. JUNE 12, 2024 / 9:00PM GMT, Q2 2024 Broadcom Inc Earnings Call create a platform that is probably end to end very integrated. We take an approach that we don't do those GPUs, but we enable the GPUs to work very well. So if anything else, we supplement and hopefully complement those GPUs in with have customers who are building bigger and bigger GPU clusters."
+    },
+    {
+      "speaker": "Vivek Arya Bank",
+      "company": "of America Securities",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you. Operator Ross Seymore, Deutsche Bank."
+    },
+    {
+      "speaker": "Ross Seymore Deutsche",
+      "company": "Bank",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi, guys. Thanks for letting me ask the question. I wanted to stick on the AI theme, Hock. The strong growth that you had in the quarter, the 280% year over year, could you delineate a little bit between if that's the compute offload side versus the connectivity side? And then, as you think about the growth for the full year, how are those split in that realm as well? Are they kind of going hand-in-hand or is one side growing significantly faster than the other, especially with the I guess you said the next-generation accelerators are now going to be Broadcom as well?"
+    },
+    {
+      "speaker": "Hock Tan Broadcom",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "To answer your question, on the mix, you're right, it is something we don't really predict very well know, understand completely except in hindsight, because it is tied to some extent to the cadence of deployments of when they put in the AI accelerators versus when they put in the infrastructure that puts it together, the networking. And we don't really quite understand 100%, all we know it used to be 80% accelerators, 20% networking. It is now running closer to one third -- two third accelerators, one third networking, and we're probably head towards 60-40 by the close of the year."
+    },
+    {
+      "speaker": "Ross Seymore Deutsche",
+      "company": "Bank",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you. Operator Stacy Rasgon, Bernstein."
+    },
+    {
+      "speaker": "Stacy Rasgon Bernstein",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi, guys. Thanks for taking my question. I wanted to ask about the $11 billion AI guide. With the $11.6 billion, even if you didn't grow AI from the current level in the second half, and it feels to me like you're not suggesting that -- it feels to me like you think it'd be going, so why wouldn't that AI number be a lot more than $11.6 billion? Feels like it ought to be or am I missing something?"
+    },
+    {
+      "speaker": "Hock Tan Broadcom",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Because I gather just over eight over $11 billion, say it could be, what do you think it is? It's the quarterly shipments get sometimes very lumpy. And it depends on rate of deployment, depend a lot of things. So you may be right, you may estimate it better than I do. But the general trend trajectory is it's getting better."
+    },
+    {
+      "speaker": "Stacy Rasgon Bernstein",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. So I guess, again, how do I -- are you just suggesting that that more than $11 billion is sort of like the worst it could be, because that would just be flat with the current levels, but you're also suggesting that things are getting better into the back half?"
+    },
+    {
+      "speaker": "Hock Tan Broadcom",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Correct."
+    },
+    {
+      "speaker": "Stacy Rasgon Bernstein",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. So I guess we just take that that's a very -- if I'm reading it wrong with, that's just a very conservative number. affiliated companies. JUNE 12, 2024 / 9:00PM GMT, Q2 2024 Broadcom Inc Earnings Call"
+    },
+    {
+      "speaker": "Hock Tan Broadcom",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "That's the best forecast I have at this point, Stacy."
+    },
+    {
+      "speaker": "Stacy Rasgon Bernstein",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. All right, Hock. Thank you, I appreciate it."
+    },
+    {
+      "speaker": "Hock Tan Broadcom",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you. Operator Harlan Sur, JPMorgan."
+    },
+    {
+      "speaker": "Harlan Sur",
+      "company": "JPMorgan",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Good afternoon. Thanks for taking my question. Hock, on cloud and AI networking silicon, good to see that the networking mix is steadily increasing. Like clockwork, the dot-com team has been driving a consistent two-year cadence rate of new product introductions, Trident, and Tomahawk, Jericho family of switching and routing products for the past seven generations. You layer on top of that. your GPU customers are accelerating their cadence of new product introductions and deployments of their products. So is this also driving faster adoption curve for your latest Tomahawk and Jericho products? And then, maybe just as importantly, like clockwork, it's been two years since you've introduced Tomahawk 5 product introduction, right, which if I look back historically means you have silicon and are getting ready to introduce your next-generation [three nanometer] Tomahawk 6 products, which would, I think, puts you two to three years ahead of your public competitors. Can you just give us an update there?"
+    },
+    {
+      "speaker": "Hock Tan Broadcom",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Harlan, your pretty insightful. Yes, we launched Tomahawk 5 in '23. So you're right by late '25, the time we should be coming out with Tomahawk 6, which is the 100 terabit switch. Yes."
+    },
+    {
+      "speaker": "Harlan Sur",
+      "company": "JPMorgan",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "And is this acceleration of Cadence buyer GPU and CPU partners? Is that's also what's kind of driving the strong growth in the networking products?"
+    },
+    {
+      "speaker": "Hock Tan Broadcom",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Well, you know what, sometimes you have to let things take its time. But is two-year cadence, so we are right on. Late 2023, once when we showed it out to Tomahawk 5, adoption. You're correct with AI has been tremendous because it ties in with the needs for very large bandwidth in the networking -- in the fabric for on AI clusters, AI data centers. But regardless, we have always targeted the Tomahawk 6 after then, which then we should put it into late '25."
+    },
+    {
+      "speaker": "Harlan Sur",
+      "company": "JPMorgan",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. Thank you, Hock. Operator Ben Reitzes, Melius."
+    },
+    {
+      "speaker": "Ben Reitzes Melius Research",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hey, thanks a lot and congrats on the quarter and guide. Hock, I wanted to talk a little bit more about VMware. Just wanted to clarify if it is indeed going better than expectations, how would you characterize know the customer willingness to move to subscription? And also, just a little more color on cloud foundation. You've cut the price there and are you seeing that beat expectations? Thanks a lot. affiliated companies. JUNE 12, 2024 / 9:00PM GMT, Q2 2024 Broadcom Inc Earnings Call"
+    },
+    {
+      "speaker": "Hock Tan Broadcom",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks and thanks for your kind regards on the quarter. But it's go -- as far as VMware is concerned, we're making good progress. The journey is not over by any means, but it's pretty much, very much to expectation. Moving to subscription, in VMware, we're very slow compared to I mean, a lot of other guys, Microsoft Salesforce, Oracle, we've really been pretty much in subscription. So VMware is late in that process. But when trying to make up for it by offering it and offering it very, very compelling manner, because subscription is the right thing to do, right? it is a situation where you put out your product offering, and you update it, patch it, but update it feature wise, everything, its capabilities. On a continual basis, almost like getting your news on ongoing basis, subscription online versus getting it in a printer manner once a week, that's how I compare perpetual the subscription. So it is very interesting for people who want to can get on. And so that's no surprise we are getting -- they are getting on very well. The big selling point we have, as I indicated, is the fact that we're not just trying to keep customers kind of stuck just server or compute virtualization. That's a great product, great technology, but has been out for 20 years. Based on what we are offering now at a very compelling price point, compelling been very attractive price point, the whole stack, software stack to use vSphere and his basic fundamental technology to virtualize networking storage operation and management, the entire data center, and create this cell service private cloud. And Thanks for saying it, you're right, we have priced it down to the point where it's comparable. We've just compute virtualization. So yes, that's getting a lot of interest, a lot of attention from the customers we have signed up, who would like to deploy -- the ability to deploy private cloud -- their own private cloud on-prem. That is a nice complement, maybe even alternative or hybrid to public cloud. That's the selling point. And we're getting a lot of interest from our customers in doing that."
+    },
+    {
+      "speaker": "Ben Reitzes Melius Research",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. And then it's on track for bill by the fourth quarter still, which is reiterated."
+    },
+    {
+      "speaker": "Hock Tan Broadcom",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Well, I didn't give a specific timeframe, did I? But it's on track, as we see this product process growing towards $4 billion quarter."
+    },
+    {
+      "speaker": "Ben Reitzes Melius Research",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. Thanks a lot, Hock."
+    },
+    {
+      "speaker": "Hock Tan Broadcom",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks. Operator Toshiya Hari, Goldman Sachs."
+    },
+    {
+      "speaker": "Toshiya Hari Goldman",
+      "company": "Sachs",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi. Thank you so much for taking the question. I guess kind of a follow-up to the previous question on your software business. Hock, you seem to have pretty good visibility into hitting that $4 billion run rate over the medium term. Perhaps you also talked about your operating margins in that business converging to classic Broadcom levels. I know the integration is not done and you're still kind of in debt paydown mode. But how should we think about your growth strategy beyond VMware? Where do you think you have enough drivers both on the semiconductor side and the software side to continue to drive growth? Or is M&A still an option beyond VMware? Thank you."
+    },
+    {
+      "speaker": "Hock Tan Broadcom",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Interesting question. You're right, as I indicated in my remarks, even without the contribution from VMware this past quarter, where we have AI am helping us, but we have known non-AI semiconductors sort of bottoming out, we're able to show 12% organic growth year on affiliated companies. JUNE 12, 2024 / 9:00PM GMT, Q2 2024 Broadcom Inc Earnings Call year. So almost have to say, so do we need to rush to buy another company? Answer is no. But all options are always open because we're trying to create the best value for shareholders who have entrusted us with the capital to do that. So I would not discount that our alternative because our strategy, our long-term model has always been to grow through a combination of our acquisition, but also on the assets we acquire to really improve, invest, and operate them better to show organic growth as well. But again, organic growth often enough is determined very much by how fast your market would grow. So we do look towards acquisitions now and then."
+    },
+    {
+      "speaker": "Toshiya Hari Goldman",
+      "company": "Sachs",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great, thank you. Operator Blayne Curtis, Jefferies."
+    },
+    {
+      "speaker": "Blayne Curtis",
+      "company": "Jefferies",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hey, thanks for taking my question. And I wanted to ask you, Hock, on the networking business kind of ex AI. Obviously, I think there's an inventory correction, the whole industry is seeing. But just kind of curious, I don't think you mentioned that it was at a bottom. So just perspective, I think, it's down about 60% year over year. Is that business finding a bottom? I know you said overall whole semi business should -- non AI should see recovery. Are you expecting there and any perspective on just customer inventory levels in that segment?"
+    },
+    {
+      "speaker": "Hock Tan Broadcom",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "We see ir behaving -- I didn't particularly call it out obviously because more than anything else, I kind of like linked very much to server storage non-AI that is. And we call server storage as at the bottom Q2 and we call it to recover modestly second half of the year. We see the same thing in networking, which is a combination of enterprise networking as well as the hyperscalers who run the traditional workloads on those, though it's hard to figure out sometimes, but it is. So we see the same trajectory as we are calling out on server storage."
+    },
+    {
+      "speaker": "Blayne Curtis",
+      "company": "Jefferies",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay, thank you. Operator Timothy Arcuri, UBS."
+    },
+    {
+      "speaker": "Timothy Arcuri",
+      "company": "UBS",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi, thanks. Hock, is there a way to sort of map GPU demand back to your AI networking opportunity? I think I heard you say in the past that and $10 billion GPU compute, you need to spend another $10 billion on other infrastructure, most of which is networking. So I so I'm just kind of wondering if when you see these big GPU numbers, is there sort of a rule of thumb that you use to map it back to what the opportunity will be for you? Thanks."
+    },
+    {
+      "speaker": "Hock Tan Broadcom",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "There is, but it's so complex. I stop creating such a model, I am serious. But there is, because one would say that, for everything -- you want to say for every billion spend on GPU, you probably would spend probably on networking. And if you include the optical interconnects as part of it, though, we are not totally in that market, except for the components, the DSPs, lasers, pin diodes, id they go into those, high-bandwidth optical connect, but if you just take optical connect in totality, switching, all the networking components that goes into attaches itself to clustering a bunch of GPUs, you probably would say that about 25% of the value of the GPU goes to networking, the rest of networking, Not entirely all of it is mine available market. I don't do the optical connect, but I do the few components that are bound in it. But roughly, the simple way to look at it is probably about 25%, maybe 30% of all these infrastructure components is kind of attached to affiliated companies. JUNE 12, 2024 / 9:00PM GMT, Q2 2024 Broadcom Inc Earnings Call the GPU value point itself. But having said that, it's never one -- never that precise that deployment is the same way. So you may see the deployment of GPU or access -- purchase of GPU much earlier, and the networking comes later of them, sometimes less the other way around, which is why you're seeing the mix going on within my AI revenue mix, but typically you run towards that range over time."
+    },
+    {
+      "speaker": "Timothy Arcuri",
+      "company": "UBS",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Perfect. Thank you so much. Operator Thomas O'Malley, Barclays. Thomas O'Malley Barclays Investment Bank - Analyst Hey, guys. Thanks for taking my question and nice results. But my question regards to the customeristic AI. I've talked you've had a long run here of a very successful business, particularly with one customer. If you look in the market today, you have a new entrant who's playing with different customers. And I know that you said historically, that's not really a direct customer to you. But could you talk about what differentiates you from a new entrant in the market as of late? And then, there has been profitability questions around the sustainability of gross margins longer term. Can you talk about if you see any increased competition and if there's really areas that you would deem more or less defensible in your profile today, and if you would see that additional entrant, maybe attack any of those in the future?"
+    },
+    {
+      "speaker": "Hock Tan Broadcom",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Let me take the second part first, which is our AI -- customer AI accelerated business. It is a very profitable business. And let me put the scale -- look at -- examine from a model point of view. I mean, each of these AI accelerators, no different from a GPU. The way this we do -- this more large language models get run, computing that run on these accelerators, no one single accelerator, as you know, can run this large language models in multiple of them, no matter how big how powerful those accelerators. But also, the way the models are run there's a lot of memory -- access to memory requirements. So each of this accelerate that countries a large amount of catche memory, as you call it, what you guys probably know as HBM, high-bandwidth memories, specialized for AI accelerators or GPUs. So we are supplying both in our custom business. And the logic side of it, the way the compute function is on chips, the margin there are no different than the margin in any in -- most of -- any of our semiconductor silicon chip business. But when you attach to it a huge amount of memory, memory comes from a third-party. Now a few memory makers to make this specialized thing. We don't do margin stacking on that onw. So by-- almost by basic math would dilute the margin of these AI accelerators when you sell them with memory, which we do. It does push our revenue somewhat higher, but it is dilute the margin. But regardless, the spend, the R&D, the OpEx that goes to support this as a percent of the revenue, which is a higher revenue, so much less. So on an operating margin level, this is easily as profitable, if not more profitable, given the scale that each of those custom AI accelerator can go up to. It is even better than our normal operating margin scale. So that's the return investment that attracts and keeps us going at this game. And this is more than a game. It's a very difficult business. And to answer your first question, there's only one Broadcom period. Thomas O'Malley Barclays Investment Bank - Analyst Thanks, Hock. Operator Karl Ackerman, BNP."
+    },
+    {
+      "speaker": "Karl Ackerman BNP",
+      "company": "Paribas",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yes, thank you. Good afternoon. Hock, your networking switch portfolio with Tomahawk and Jericho chipsets allow hyperscalers to build clusters using either a switch scheduled or endpoint scheduled network. And that, of course, is unique among competitors. But as affiliated companies. JUNE 12, 2024 / 9:00PM GMT, Q2 2024 Broadcom Inc Earnings Call hyperscalers seek to deploy their own unique AI clusters, are you seeing a growing mix of white-box networking switch deployments? I asked because one of your custom silicon business continues to broaden, it would be helpful to better understand the growing mix of your $11 billion AI networking portfolio combined this year. Thank you."
+    },
+    {
+      "speaker": "Hock Tan Broadcom",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Let me have Charlie address this question. He is the expert here."
+    },
+    {
+      "speaker": "Charlie Kawwas Broadcom",
+      "company": "Corp",
+      "role": "President, Semiconductor Solutions Group",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you, Hock. So on two quick things on this. One is the you're exactly right, that the portfolio we have, it's quite unique and providing that flexibility. And by the way, this is exactly why Hock in his statements earlier on mentioned that seven out of the top eight hyperscalers use our portfolio, and they use it specifically because it provides that flexibility. So whether you have an architecture that's based on an endpoint and you want to actually build your platform that way or you want that switching to happen in the fabric itself, that's why we have the full end-to-end portfolio. So that actually has been a proven differentiator for us. And then on top of that, we've been working, as you know, to provide a complete network operating system that's opened on top of that using Sonic and site, which has been deployed in many of the hyperscalers. And so the combination of the portfolio plus the stack really differentiates the solution that we can offer to these hyperscalers. And if they decide to build their own mix, their own accelerators or our custom or use standard products, whether it's from Broadcom or other, that platform, that portfolio of infrastructure switching gives you that full flexibility."
+    },
+    {
+      "speaker": "Karl Ackerman BNP",
+      "company": "Paribas",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you. Operator CJ Muse, Cantor Fitzgerald."
+    },
+    {
+      "speaker": "CJ Muse Cantor",
+      "company": "Fitzgerald, L.P.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yes, good afternoon. Thank you for taking the question. I was hoping to ask two parts software question. So excluding real were your Brocade CA semantic business is now running $500 million higher for the last two quarters. So curious, is that the new sustainable run rate or were there one-time events in both January and April that we should be considering? And then, the second question is, as you think about VMware cloud foundation adoption, are you seeing any sort of crowding out of spending like other software guys are saying is they repurpose their budgets to IT? Or is that business so less discretionary that it's just not an impact for you? Thanks so much."
+    },
+    {
+      "speaker": "Hock Tan Broadcom",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Well, on the second one, I don't know about any crowding out to be honest. It's not -- what we are offering, obviously is not something that they would like to use themselves to be able to do themselves, which is they're already spending on building their own on-prem data centers. And typical approach, people take a -- lot of enterprises take historically contained today that most people do. A lot of people do is they have best of breed. What I mean was they create a data center that is compute as a separate category, best compute AI. And the often in our views vSphere for compute virtualization, due to improve productivity, but best-of-breed. And then you have best of breed on networking and best of breed on storage with a common management operations layer, which very often is also VMware, vRealize. And what we're trying to say is this mixed bag, and what they see is this mixed bag, best-of-breed data center very heterogenous is not driving -- it is lot of highly resilient on data center. I mean, you have a mixed bag, so it goes down. Where do you find -- where do you find quickly root cause? Everybody is pointing fingers at the other. So we've got a problem not very resilient and not necessarily secure affiliated companies. JUNE 12, 2024 / 9:00PM GMT, Q2 2024 Broadcom Inc Earnings Call between bare-metal in one side and software on the other side. So it's a natural and thinking on a bunch of many CIOs, we talk to to say, hey, I want to create one common our platform as opposed to just best of breed of age. So that gets us into that. So it is a greenfield. That's not bad, they started from scratch. If it's a brownfield, that means they have existing data center trying to upgrade. It is -- sometimes that's more challenging for us to get that adoption. So I'm not sure there's a crowding out here. Some competition, obviously on greenfield, where they can spend a budget on an entire platform versus best-of-breed. But on the existing data center where you're trying to upgrade, that's a trickier thing to do and it cuts the other way as well for us. That's how I see it. So in that sense, the best answer is I don't think we are seeing a level of crowding out that is any -- that's very significant for me to mention. In terms of the revenue mix, Brocade is having a great field year so far and still chugging along. But what has sustained? Hell no, you know that. Brocade goes through cycles, like most enterprise purchases. So we're enjoying while it lasts."
+    },
+    {
+      "speaker": "CJ Muse Cantor",
+      "company": "Fitzgerald, L.P.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Hock Tan Broadcom",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks, Operator William Stein, Truist Securities."
+    },
+    {
+      "speaker": "William Stein Truist",
+      "company": "Securities",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. Thanks for squeezing me in. Hock, congrats on yet another great quarter and strong outlook in AI. I also want to ask about something you mentioned with VMware. In your prepared remarks, you highlighted that you've eliminated a tremendous amount of channel conflict. I'm hoping you can linger on this a little bit and clarify maybe what you did, and specifically, also, what you did in the heritage Broadcom software business, where I think historically you've shied away from the channel and there was an idea that perhaps you'd reintroduce those products to the channel through a more unified approach using VMware's channel partners or resources? So any sort of clarification here, I think be helpful. Thank you."
+    },
+    {
+      "speaker": "Hock Tan Broadcom",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. Thank you. That's a great question. Yeah, VMware taught me a few things. They have 300,000 customers, 300,000, that's interest -- amazing. And we'll look at it, I know under CA, we took opposite position that less bring a less strategic guys and focus on it. I can do that in VMware, I approach it differently and we started. I started learn the value of a very strong bunch of partners they have, which are a network of distributors and something like 15,000 VARs, Value Added Resellers supported with this distributors. So we have doubled down and invested in this reseller network in a big way for VMware. It's a great move, I think about six months into the game, but we are seeing a lot more velocity out of it. Now this resellers, having said and tend to be very focused on a very long tail of that 300,000 customers. the largest 10,000 customers of the VMware are large enterprises, who tend -- they are very large enterprises. The largest banks, the largest health care companies, and their our view is one very peaceful service support engineering solutions from us. So we've created a direct approach supplemented choice where they need to. But on the long tail of 300,000 customers, they get a lot of services to from the resellers, value-added resellers in their way. So we now and strengthen that whole network of resellers so that they can go direct manage supported financially with distributors. And we don't try to challenges guys, unless the customers, both on the end of the day, the customer chose where they'd like to be supported. And we're -- we kind of simplifying this together with the number of skews that are. affiliated companies. JUNE 12, 2024 / 9:00PM GMT, Q2 2024 Broadcom Inc Earnings Call In the past, unlike what we're trying to do here, everybody's a -- you're talking a full range of partners, and everybody -- and whoever the make the biggest still gets the lowest -- the partner that makes the biggest deal gets the biggest discount, lowest price. And they are out there basically kind of creating a lot of channel chaos and conflict in the marketplace. Here, We don't -- the customers they have a way. They can take it direct from VMware to the direct sales force or they can easily move to the resellers to get it that way. And as a third alternative which we offer if they chose not -- they want to run the applications on VMware and they want to run it efficiently on a full stack, they have a choice now of going to a hosted environment managed by a network of managed service providers, which we set up globally that will run the infrastructure, invest, and operate the infrastructure. And this enterprise customer run their workloads in and get it as a service, basically VMware as a service as certain alternative. And we have clear to make it very distinct and differentiated for our end user customers. They are available to all three is how they chose to consume our technology."
+    },
+    {
+      "speaker": "William Stein Truist",
+      "company": "Securities",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. Thank you. Operator Thank you. I would now like to hand the call over to Ji Yoo, Head of Investor Relations, for any closing remarks."
+    },
+    {
+      "speaker": "Ji Yoo Broadcom",
+      "company": "Corp",
+      "role": "IR",
+      "speaker_type": "other",
+      "section": "qa",
+      "text": "Thank you, Sharin. Broadcom currently plans to report its earnings for the third quarter of fiscal '24 after close of market on Thursday, September 5, 2024, a public webcast of Broadcom's earnings conference call will follow at 2:00 PM Pacific Time. That will conclude our earnings call today, and thank you all for joining. Operator, you may end the call. Operator Thank you all for participating. This concludes today's program. You may now disconnect. In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. affiliated companies."
+    }
+  ]
 }

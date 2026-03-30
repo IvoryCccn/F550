@@ -4,5 +4,454 @@
   "quarter": "2023Q4",
   "sector": "IT",
   "filename": "2024-Feb-08-LITE.OQ-137812475795-Transcript.pdf",
-  "segments": []
+  "segments": [
+    {
+      "speaker": "Alexander Henderson Needham",
+      "company": "& Company, LLC, Research Division",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Ananda Prosad Baruah Loop Capital Markets LLC, Research Division - MD"
+    },
+    {
+      "speaker": "Vivek Arya BofA",
+      "company": "Securities, Research Division",
+      "role": "MD in Equity Research & Senior Semiconductor Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Operator Good day, everyone, and welcome to the Lumentum Holdings Second Quarter Fiscal Year 2024 Earnings Call. (Operator Instructions) Please also note that today's event is being recorded for replay purposes. (Operator Instructions) At this time, I would like to turn the call over to Kathy Ta, Vice President of Investor Relations. Ms. Ta, please go ahead."
+    },
+    {
+      "speaker": "Kathryn Ta Lumentum Holdings",
+      "company": "Inc.",
+      "role": "VP of IR",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "This is Kathy Ta, Lumentum's Vice President of Investor Relations. Joining me today are Alan Lowe, President, and Chief Executive Officer; Wajid Ali, Executive Vice President and Chief Financial Officer; and Chris Coldren, Senior Vice President and Chief Strategy and Corporate Development Officer. Today's call will include forward-looking statements, including statements regarding our expectations and beliefs regarding recent acquisitions, including Cloud Light and NeoPhotonics, financial and operating results, macroeconomic trends, trends and expectations for our products and technologies, our end markets, market opportunities and customers and our expected financial performance, including our guidance as well as statements regarding our future revenues, financial model and margin targets. These statements are subject to risks and uncertainties that could cause actual results to differ materially from our current expectations, particularly the risk factors described in our SEC filings. We encourage you to review our most recent filings with the SEC, particularly the risk factors described in the 10-K for the fiscal year ended July 1, 2023, and our 10-Q that will be filed soon. The forward-looking statements provided during this call are based on Lumentum's reasonable beliefs and expectations as of today. Lumentum undertakes no obligation to update these statements, except as required by applicable law. Please also note that unless otherwise stated, all financial results and projections discussed in this call are non-GAAP. Non-GAAP financials are not to be considered as a substitute for, or superior to, financials prepared in accordance with GAAP. Lumentum's press release with the fiscal second quarter results and accompanying supplemental slides are available on our website at www.lumentum.com, under the Investors section. With that, I'll turn the call over to Alan. affiliated companies. FEBRUARY 08, 2024 / 1:30PM GMT, Q2 2024 Lumentum Holdings Inc Earnings Call"
+    },
+    {
+      "speaker": "Alan S. Lowe Lumentum Holdings",
+      "company": "Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thank you, Kathy, and good morning, everyone. Lumentum stands the leading edge of Photonics innovation, partnering with customers to enable the future of data centers and the networks that connect them. We equip our customers with the industry's most comprehensive Photonics portfolio, enabling them to unlock unparalleled performance and efficiency, from pluggable high-speed transceivers to enabling customers AI optimized architectures with industry-leading transmitters and photonics. We are at the forefront of data centers' needs. Together with our cloud customers, we are shaping the future of data transmission through pioneering technologies, such as chip scale photonics and advanced data transmission protocols, as well as highly efficient and automated manufacturing at scale. It has been just 3 months since we acquired Cloud Light, and we are thrilled with the team that has joined us and the many opportunities that lie ahead. In this brief period, we have had meaningful traction with customers on new data center opportunities, which we expect will drive significant additional growth as we complete the development of the new products and receive customer qualifications. The market opportunity is accelerating, and we expect broader customer adoption of 800G technology as these qualifications finalize. Additionally, the initial ramp-up of 1.6 terabit products by early technology adopters is creating a lot of pull from customers, and we expect to have a first-to-market advantage given our vertical integration and test results from our labs. Cloud Light transceiver shipments were very strong in the December quarter, contributing $59.5 million during the approximately 8 weeks after the acquisition. We expect our shipments will be even stronger in the March quarter. Given a mid-calendar year product transition planned by our largest data center customer, we expect revenue from data center transceivers to temporarily dip in the June and September quarters, and then grow significantly through the end of the year and into calendar year '25 as this transition completes and other new customer programs start to ramp. Given the surge in data demand of AI data centers and our strong traction on new transceiver opportunities, we are strategically expanding our leading-edge transceiver manufacturing capacity. As a key part of this expansion, we are investing in state-of-the-art production lines at our manufacturing facility in Thailand. Our Thai factory has proven photonics manufacturing capabilities and has received numerous customer accolades, giving us confidence in our ability to ramp rapidly. This capacity will come online this summer, and we expect to lead the first wave of 1.6 terabit transceivers for multiple customers at this site. In addition to this new capacity expansion in Thailand, we will be leveraging Lumentum's components in new Cloud Light transceiver designs. We believe the combination of our established history of customer partnership, proven manufacturing leadership, and unrivaled breadth of differentiated photonic component capabilities puts us at an excellent position to accelerate top line revenue growth and margins in this rapidly growing cloud transceiver market. While cloud data centers are forecasting double-digit CapEx growth in calendar '24, we are navigating challenging market conditions in other parts of our business. Based on sluggish carrier CapEx spending and our latest customer discussions, we now expect customer inventory digestion to extend through the balance of fiscal '24. Nevertheless, we are highly confident in our market position and the ultimate recovery and growth of this business. As fiber transmission reaches its physical capacity, network providers increasingly recognize the value of technologies like ours that enable continued network scaling, reinforcing our long-term confidence in this business. Moving to our Industrial Tech segment. We are very excited about our traction on new products, serving new applications, particularly for our ultrafast lasers. These are ramping up and are adding to our customer and market diversification in our Industrial Tech segment. That said, we do expect a period of lower demand over the coming quarters driven by typical seasonality in our consumer business and by macro softness in the industrial market, along with elevated customer inventory levels at one of our large laser customers. We expect the industrial laser inventory to be corrected over the next 6 months, around the same time frame as the seasonal uptick in our consumer business. This combined with our wins at new customers in new markets should lead to an Industrial Tech segment affiliated companies. FEBRUARY 08, 2024 / 1:30PM GMT, Q2 2024 Lumentum Holdings Inc Earnings Call recovery during the second half of the calendar year. Moving on to fiscal second quarter results. Second quarter revenue and EPS results were above the midpoint of our guidance ranges, with revenue of $366.8 million and EPS of $0.32. I'm very excited about the contribution that our Cloud Light acquisition had on the quarter and will have in the future, given the technology and capability of the combined companies to address the rapidly growing AI and ML photonics market. We have continued to drive acquisition synergies to drive down our fixed costs, and Wajid will provide more color on this shortly. The combination of these lower fixed costs and the rebound in revenue will result in an accelerated expansions in our margins during fiscal '25. Cloud and networking revenue was up 25% sequentially, driven by strong cloud data center demand and the contribution from the Cloud Light acquisition, but down 25% year-on-year, given broad-based softness across most of our telecom networking product lines due to the continued inventory correction at our network equipment customers. The future is bright for our cloud technology road map. In the second half of calendar '24, we expect to qualify the industry's first power-efficient 800G transceivers that employ 4 by 200 gig lanes of traffic using silicon photonics technologies. As I mentioned earlier, we expect to ramp capacity this summer at our campus in Thailand and expect to lead the first wave of 1.6 terabit transceivers for multiple customers in this facility. These ultra high-speed transceivers provide additional bandwidth needed for AI workloads, while also alleviating data bottlenecks with lower power consumption and latency as customers move to 200 gig per lane technology. We expect that 200 gig per lane optics using not only photonics technology, but also our vertically integrated EML lasers, will be the workhorse of the next generation of hyperscale data centers once these new products are qualified at leading cloud and cloud infrastructure customers. We have been receiving positive customer feedback about our 100 gig VCSEL performance for short distance data center applications, and expect to start ramping production in the second half of calendar '24. We will qualify our VCSELs in Cloud Light's active optical cables and transceiver platforms in the coming quarters. We are also working closely with cloud infrastructure providers on novel components and modules that leverage our unique technology capabilities to enable new future AI hardware architectures for higher bandwidth, lower power density and low-latency optical interconnects essential for training and inference applications. With the rapid build-out of AI and ML data centers, connecting those data centers with high speed, power and cost-efficient interconnects is becoming even more important. To that end, we continue to have success in our 400 gig ZR module business, where in Q2, we grew over 30% sequentially. Additionally, we are receiving positive customer feedback on our 800 gig ZR modules, and we are on track to be the first to market with customer samples this year. These modules will enable even higher speed, extended reach data center interconnects to help keep pace with rapidly expanding data center infrastructure. Our coherent transmission products outside of the data center are receiving positive customer feedback and traction on our next-generation 130 and 200 gigabaud data rate technologies that enable next-generation coherent applications at 800G, 1.2T and 1.6T. These high-speed products are available in both discrete and integrated form factors to enable enhanced performance in next-generation metro and long-haul applications. As we move through calendar '24, we believe we are at the forefront of 200 gigabaud optical technology with our first-to-market and first-to-volume products. Turning to Industrial Tech. Fiscal Q2 was down 9% sequentially as expected, driven by seasonality in our 3D affiliated companies. FEBRUARY 08, 2024 / 1:30PM GMT, Q2 2024 Lumentum Holdings Inc Earnings Call sensing business and inventory consumption at one of our large industrial lasers customers. Industrial Tech was down 35% year-over-year, primarily due to increased competition for market share on a certain 3D sensing socket that we have discussed previously and overall macroeconomic softness. We expect revenue of 3D sensing for consumer applications to contribute approximately 5% or less of company revenue in Q3 and Q4 of fiscal '24. As the shift to Industry 4.0 and 5.0 drives demand for greater automation and precision manufacturing, our laser products are well positioned to address evolving industrial needs. With precise control and pulse parameters, beam quality and stability, we are seeing growing opportunities for our ultrafast and solid-state lasers across key micromachining applications in semiconductor, EV batteries, displays, PCBs and solar cell manufacturing. Growth in new micromachining applications will help to partially offset the near-term headwinds I mentioned earlier. To summarize, high-speed data center demand is skyrocketing, and we are accelerating product development and production to capture this growth, armed with long-standing customer partnerships, industry-leading manufacturing, and an unmatched portfolio of advanced photonic components, we are positioned to capture market share in the surging cloud transceiver market, driving significant top line and margin growth for Lumentum. Before turning it over to Wajid, I would like to thank our employees and our customers around the world for their focus and dedication as they continue to collaborate and partner with Lumentum. With that, Wajid?"
+    },
+    {
+      "speaker": "Wajid Ali Lumentum Holdings",
+      "company": "Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thank you, Alan. As Alan mentioned, we are confident about our market position and growth opportunities across our served markets. We are focused on lowering our fixed cost base so that as revenue recovers, operating margin dollars will expand faster than revenue. To this end, we've made significant progress on manufacturing synergies by hitting key milestones on closing 2 NeoPhotonics factories in China this past December. The benefit will accrue to our financial position as we ramp production of most of those products at our Thailand facility. Additionally, our Japan wafer fab consolidation plans are progressing well, and we expect to execute this plan by the first half of fiscal '25, allowing us to attain significant additional synergies in both manufacturing and operating expenses beginning in the fiscal third quarter of 2025. As well, we continue to see incremental synergy and efficiency opportunities within our operating expenses. Consequently, we are increasing our synergy attainment expectations to $100 million, up from the prior target of $80 million. To date, we have achieved approximately $60 million in annual run rate savings, and expect to achieve the remaining $40 million as we execute against our plan. We will provide you with further updates as we achieve critical milestones. As I have mentioned previously, we had prebuilt inventory of NeoPhotonics products to enable these factory transitions. In Q2, we reduced Lumentum's overall inventory levels by approximately $20 million sequentially, excluding the increase in inventory related to Cloud Light. In addition, despite incorporating the operational expenses of our recent acquisition of Cloud Light in Q2, our tight financial discipline drove company-wide operating expenses down by $4 million on a year-over-year basis. We're confident that our combined efforts on manufacturing efficiency, inventory management and cost control will pave the way for continued improvements in gross and operating margins as telecom revenue recovers and our cloud revenue continues to grow. Net revenue for the second quarter was $366.8 million, which was up 15.5% sequentially and down 27.5% year-on-year. As Alan mentioned, during the quarter, we recognized $59.5 million in revenue from a partial quarter of Cloud Light. The majority of this revenue came from affiliated companies. FEBRUARY 08, 2024 / 1:30PM GMT, Q2 2024 Lumentum Holdings Inc Earnings Call 800G transceiver shipments. GAAP gross margin for the second quarter was 17.4%, GAAP operating loss was 28.7%, and GAAP diluted net loss per share was $1.47, with a large portion of the GAAP net loss due to acquisition-related charges and amortization. Second quarter non-GAAP gross margin was 32.6%, which was down sequentially and down year-on-year, driven by product mix and factory underutilization. Second quarter non-GAAP operating margin was 3.5%, which was up sequentially and down year-on-year. Second quarter non-GAAP operating income was $13 million, and adjusted EBITDA was $39 million. Second quarter non-GAAP operating expenses totaled $106.7 million or 29.1% of revenue, up $6.6 million from Q1 due in part to the acquisition of Cloud Light, and down $3.6 million from the year ago quarter due to tight expense controls and continued synergy attainment. Q2 non-GAAP SG&A expense was $38.4 million. Non-GAAP R&D expense was $68.3 million. Interest and other income was $12.3 million on a non-GAAP basis due to interest earned on our cash and investments. Second quarter non-GAAP net income was $21.7 million, and non-GAAP diluted net income per share was $0.32. Our fully diluted share count for the second quarter was 67.4 million shares on a non-GAAP basis. Our cash position decreased by $720 million during the quarter to $1.22 billion. This was primarily due to the $705 million in cash used for the purchase of Cloud Light. In addition, we incurred approximately $8 million of normal course expenses associated with the transaction. Turning to segment details. Second quarter Cloud and Networking segment revenue at $286.7 million increased 24.8% sequentially, and was down 25.1% year-on-year. Cloud and Networking segment non-GAAP reporting profit at 10.1% decreased sequentially and year-on-year. Our second quarter Industrial Tech segment revenue at $80.1 million was down 8.9% sequentially, and down 34.9% year-on-year. Second quarter Industrial Tech non-GAAP reporting profit of 15.9% was down sequentially and year-on-year. Before I move to our guidance, I would like to add some context to an impact to our revenue related to export regulations. Late last year, we were notified by certain critical IC suppliers that service the industry broadly, that their products do not comply with the latest export regulations. Consequently, in December, we stopped the majority of our product shipments to the largest networking equipment manufacturer in China. Our assumption is that these export regulations will continue indefinitely, and result in an approximate $40 million to $50 million reduction in calendar year '24 revenue from our prior expectations. Longer term, we believe geopolitical factors could pose a benefit to our revenue opportunity, given our larger product footprint within other customers who are expected to be end market share gainers over time. Now, let me move to our guidance for the third quarter of fiscal '24, which is on a non-GAAP basis and is based on our assumptions as of today. We expect net revenue for the third quarter of fiscal '24 to be in the range of $350 million to $380 million. This Q3 revenue forecast includes the following assumptions: Cloud and Networking to be up, driven by strong cloud demand, and a full quarter of Cloud Light despite more than a $10 million impact from the export regulations just mentioned, and Industrial Tech to be down nearly $40 million sequentially at the midpoint due to 3D sensing seasonality and share dynamics as well as industrial laser customer inventory digestion that Alan mentioned earlier. Based on this, we project third quarter non-GAAP operating margin to be in the range of 2% to 5%, and diluted net income per share to be in the range of $0.20 to $0.35. Our non-GAAP EPS guidance for the third quarter is based on a non-GAAP annual effective tax rate of 14.5%. These projections also assume an approximate share account of 67.8 million shares. With that, I'll turn the call back to Kathy to start the Q&A session. Kathy? affiliated companies. FEBRUARY 08, 2024 / 1:30PM GMT, Q2 2024 Lumentum Holdings Inc Earnings Call"
+    },
+    {
+      "speaker": "Kathryn Ta Lumentum Holdings",
+      "company": "Inc.",
+      "role": "VP of IR",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you, Wajid. (Operator Instructions) Now let's begin the Q&A session. Operator (Operator Instructions) Our first question today comes from Simon Leopold from Raymond James."
+    },
+    {
+      "speaker": "Simon Matthew Leopold Raymond James",
+      "company": "& Associates, Inc., Research Division",
+      "role": "Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I will try to keep to that one. So I just wonder if you could maybe talk a little bit about your customer mix, customer concentration in this quarter. I'm wondering if you did have a new 10% customer? And how you see that particular concentration changing or evolving both sequentially and then longer term? And then I've got a quick follow-up."
+    },
+    {
+      "speaker": "Alan S. Lowe Lumentum Holdings",
+      "company": "Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. Thanks, Simon. Yes, we did have a new 10% customer primarily due to the Cloud Light addition to revenue to that customer. And I'd say that, as we talked about on the scripts, we expect that diversification around our transceiver business will grow rapidly towards the end of this calendar year and into '25 as new 800 gig and 1.6T products are qualified with other hyperscalers as well as AI infrastructure companies. So we're very excited about that and the diversification of the customers around our transceiver business. I would say that -- one of the things we did talk about was the less dependency on our consumer business. And that's why we gave specifics around 5% or less of our revenue in the next 2 quarters. And I think that's a healthy place to be with our consumer business. Did I answer your question, Simon?"
+    },
+    {
+      "speaker": "Simon Matthew Leopold Raymond James",
+      "company": "& Associates, Inc., Research Division",
+      "role": "Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "And then -- it does. And you sort of teed up my follow-up nicely in that. In the deck, the footnote mentions that Industrial Tech is expected to decline approximately $40 million sequentially. And I'm still sort of adjusting to this new segmentation. And I'm just wondering whether that implies, 3D is essentially dropping to 0. I know you said less than 5% of 0 is also less than 5%, or whether there's a significant portion of that $40 million coming out of this inventory adjustment, product cycle angle on your industrial lasers. So just looking for a little bit more help how to split that $40 million."
+    },
+    {
+      "speaker": "Alan S. Lowe Lumentum Holdings",
+      "company": "Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. I would say that we're pretty confident in that 5-ish percent for consumer in Q3. So the balance would come from what we mentioned on the call around the inventory reduction efforts by one of our largest laser customers. So that's how you could kind of split up that $40 million. Operator Our next question comes from Alex Henderson from Needham."
+    },
+    {
+      "speaker": "Alexander Henderson Needham",
+      "company": "& Company, LLC, Research Division",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. I wanted to dig into the Cloud Light business a little bit, and understand some of the dynamics there. But I also wanted to understand whether Cloud Light's technology in selling transceivers has changed the dynamics around your chip sales to other transceiver companies at all. First question is the 800 gig products that you're talking about ramping in VCSELs, is there a 1.6 terabit product coming down the pipe for that? Because we just heard from Fabrinet that they're expecting some impact on their business because of a product transition. I would assume that, that is in the AOC segment because they don't really do much in the InfiniBand segment. And I'm not aware of affiliated companies. FEBRUARY 08, 2024 / 1:30PM GMT, Q2 2024 Lumentum Holdings Inc Earnings Call anybody having a 200 gig VCSEL product to ramp. So can you talk about whether you -- that technology is out there and whether that's something that's in your cards on the AOC side?"
+    },
+    {
+      "speaker": "Alan S. Lowe Lumentum Holdings",
+      "company": "Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Let me address your first question first, which is around the dynamics of our chip sales. And I would say, certainly, our chip customers had some concern around us being a competitor, but we assured them that we are their partners, and we really treat those 2 businesses very separately with a wall between our chip development team and our transceiver team, so there's no cross-contamination or concerns. And I think we've alleviated a lot of those concerns to the point where I am sold out on datacom chips today and through next quarter, and we're adding capacity to meet the demands of our EML business and bringing up our CW laser business in a rapid way. On the VCSELs, we talked about the 100 gig VCSEL being released in the second half of this year. Very positive results, just going through final qualifications. And that would be more of an 800 gig AOC or 800 gig SR, multi-mode transceiver. As far as 200 gig VCSELs, that's a little bit out for us and I think for the industry. So 1.6T would be more of a silicon photonics or EML-based transceiver. But I'll let Chris talk a little bit more about his thoughts on 200-gig VCSELs or 1.60T. Chris?"
+    },
+    {
+      "speaker": "Christopher W. Coldren Lumentum Holdings",
+      "company": "Inc.",
+      "role": "Senior VP and Chief Strategy & Corporate Development Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. I mean, as you alluded to Alan, we are focused -- initial products of 1.6 terabit will be silicon photonic based. The industry is, however, developing 200 gig VCSELs on our road map developing, other third-party suppliers developing 200 gig VCSELs. So those will feather in overtime as well. And the Cloud Light transceiver platform has multimode transceivers, single-mode transceivers. So we're well positioned to participate in both opportunities."
+    },
+    {
+      "speaker": "Alexander Henderson Needham",
+      "company": "& Company, LLC, Research Division",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "So just that I understand, then if there is a 1.6 terabit product coming in the June quarter, it would have to be 16 lanes of 100? Because I mean, there's clearly an implication that there is something of that sort of coming down the pike in the June quarter and by other people's commentary. Is that not true?"
+    },
+    {
+      "speaker": "Christopher W. Coldren Lumentum Holdings",
+      "company": "Inc.",
+      "role": "Senior VP and Chief Strategy & Corporate Development Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I can comment on what our plans are, which involve silicon photonics-based approaches. I think we also have alluded to on the call that 200 gig per lane technology is also on the horizon, let's say, and will be coming out over the next year. So I think you can put those facts together."
+    },
+    {
+      "speaker": "Alan S. Lowe Lumentum Holdings",
+      "company": "Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. But just to be clear, we have 1.6 terabit silicon photonics in our labs today, and we have 200 gig EMLs that we have qualified internally that are ready to go and waiting for both internal qualification at the transceiver level as well as our customers' transceivers qualification using 200 gig EMLs that I think will come out later this year."
+    },
+    {
+      "speaker": "Alexander Henderson Needham",
+      "company": "& Company, LLC, Research Division",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Just for clarification, that would then be an InfiniBand related product, not AOCs, right?"
+    },
+    {
+      "speaker": "Alan S. Lowe Lumentum Holdings",
+      "company": "Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Well, it would be the Ethernet or InfiniBand. However, customers use our datacom chips. It's really up to them. And we're kind of -- we don't really care whether it's InfiniBand or otherwise. So Chris, do you have any other comments on InfiniBand?"
+    },
+    {
+      "speaker": "Christopher W. Coldren Lumentum Holdings",
+      "company": "Inc.",
+      "role": "Senior VP and Chief Strategy & Corporate Development Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Nothing to add. That certainly, we have both capabilities in both end development. affiliated companies. FEBRUARY 08, 2024 / 1:30PM GMT, Q2 2024 Lumentum Holdings Inc Earnings Call Operator Our next question today comes from Samik Chatterjee from JPMorgan."
+    },
+    {
+      "speaker": "Samik Chatterjee JPMorgan Chase",
+      "company": "& Co, Research Division",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Maybe just not to sort of keep going on datacom, but to just make sure I'm not confused. You talked about the product transition that your primary customer there for Cloud Light is undergoing. Maybe you can flesh that out a bit in your own words, what's the transition? And more curious to hear what's your visibility in terms of market share with the customer following that transition? Any thoughts or any color on whether you expect any changes in relation to market share? And then I have a quick follow-up."
+    },
+    {
+      "speaker": "Christopher W. Coldren Lumentum Holdings",
+      "company": "Inc.",
+      "role": "Senior VP and Chief Strategy & Corporate Development Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, I'll comment on product transition. Certainly, we have to be a little careful, customer sensitivity, but you can imagine that as 800 gig is launched, there are subsequent generations of 800 gig, whether that be a different form factor or transitioning from 100 gig to 200 gig per lane. So there are range of changes, as you get further into technology maturity to reduce power consumption and power density challenges in your systems. I think with regard to market share, we're very excited and believe that we have lots of opportunity to gain share, and that's why, as we talked about in our prepared remarks, that we're expanding capacity very significantly so that we can come out and really accelerate growth later this calendar year and into calendar '25."
+    },
+    {
+      "speaker": "Samik Chatterjee JPMorgan Chase",
+      "company": "& Co, Research Division",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "And maybe just for my follow-up. On the telecom segment, your primary competitor of your company is calling out a recovery in demand in China, which I'm assuming you're not able to capitalize on because of the trade regulations. But just curious if this is a situation where you would sort of just go rework the product and get through some of the supply chain reorganization to still try to address that market with a different customer? Or is this sort of an area where you really don't have an option to go around and capitalize on that demand recovery in the China market?"
+    },
+    {
+      "speaker": "Alan S. Lowe Lumentum Holdings",
+      "company": "Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. Samik, there are deployments about to happen in China that we're part of through non-Huawei customers. And we're, in a meaningful way, a very large part of the share of non-Huawei in China network equipment manufacturers. And in fact, that's one of the areas of strong strength. We stopped shipping due to the need to follow regulations, obviously. And I think that will trickle down eventually to the point where share will shift from network equipment manufacturers that we have a higher share of wallet on that over the long term, we believe, will be a tailwind for us. Operator Our next question today comes from Christopher Rolland from SIG."
+    },
+    {
+      "speaker": "Christopher Adam Jackson Rolland Susquehanna",
+      "company": "Financial Group, LLLP, Research Division",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Mine is about Cloud Light. So first of all, you talked about maybe the end of a program and a dip in June and September. If you could kind of describe why that program just ends and why there isn't something fluid into the next segment of AI or what have you? And then you talked about a broadening into new customers. How many are you thinking? And how large do you think they may be versus your primary customer?"
+    },
+    {
+      "speaker": "Christopher W. Coldren Lumentum Holdings",
+      "company": "Inc.",
+      "role": "Senior VP and Chief Strategy & Corporate Development Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, Chris. I mean, we do, as you're alluding to, have a degree of customer concentration in the Cloud Light business. So the customer that's driven a lot of 800 gig growth over the past several quarters, there's a time to ramp down of the current generation of product and takes time to ramp up the next generation of products. So while there are other customers and other customers are growing, they're not affiliated companies. FEBRUARY 08, 2024 / 1:30PM GMT, Q2 2024 Lumentum Holdings Inc Earnings Call sufficient to offset that product transition, if you will. And as Alan alluded to, we are, through the capacity expansions as well as new product activities, expanding the number of sockets that we have with multiple customers so that such product transitions, which do occur time to time, will be more smoothed out as the revenue base grows and diversifies in terms of the magnitude of other customer opportunities. Certainly, as we talked about when we announced the acquisition of Cloud Light, I mean, this is a very large market. And so the opportunity to add multiples of current revenue in the coming years is certainly well ahead of us, and we're very well positioned with both the Cloud Light capabilities, then you add what Lumentum brings to the table. Customers to date are very encouraged by the possibilities, and are working closely with us to bring that to a reality over the coming years. We have to -- you can't develop a product, qualify it, and ramp it in a few quarters. That does take a little bit of time. And so that's why we're talking about having significant capacity additions and revenue growth later this calendar year."
+    },
+    {
+      "speaker": "Alan S. Lowe Lumentum Holdings",
+      "company": "Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. Maybe I can add to that as well. ."
+    },
+    {
+      "speaker": "Christopher Adam Jackson Rolland Susquehanna",
+      "company": "Financial Group, LLLP, Research Division",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yes."
+    },
+    {
+      "speaker": "Alan S. Lowe Lumentum Holdings",
+      "company": "Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Just to add to that. I think given that we're a U.S. headquartered company and now investing heavily outside of China, is a very attractive alternative U.S. partner to all the cloud customers as well as the cloud infrastructure companies. And so that's what's really got our traction with, I'd say, every one of the customers, and that's why we're investing strongly in Thailand, and we'll continue to invest to meet the needs of the demands that our customers are asking for, because when they say go, they want to make sure we have the capacity in place. And so that's what gives us confidence and why we're investing so strongly."
+    },
+    {
+      "speaker": "Christopher Adam Jackson Rolland Susquehanna",
+      "company": "Financial Group, LLLP, Research Division",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Maybe as a follow-up. Just to understand some of these moving product dynamics. When will 100 gig VCSELs be meaningful for you in terms of revenue? And then it sounds like you don't have a road map for 200 gig VCSELs, you'll have a hard cut to [SiPh] or EMLs for 200 gig, and that will be going into Cloud Light products as well. Did I get that transition correct?"
+    },
+    {
+      "speaker": "Alan S. Lowe Lumentum Holdings",
+      "company": "Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sort of. I would say today our 100 gig VCSELs have a lot of positive feedback, will start revenue in the second half of the calendar year, will be meaningful in calendar '25, both from an AOC standpoint as well as a multi-mode SR transceiver. We do have 200 gig on our road map. We are doing development work. And the progress that we made over the last year on 100 gig gives us a lot of confidence that we will have a 200 gig at the right time and that's probably end of '25 and into '26. So 100 gig VCSELs have a very nice runway through '25. And I think our confidence in our 200 gig road map is very strong. So we will have both silicon photonics that will hit first. Silicon photonics first, EMLs as well around the same time at the 200 gig per line, and then VCSELs, 200 gig will come after them. Operator Our next question comes from Meta Marshall from Morgan Stanley."
+    },
+    {
+      "speaker": "Meta A. Marshall Morgan",
+      "company": "Stanley, Research Division",
+      "role": "VP",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. It's been touched on a couple of questions, but just wanted to kind of narrow down into kind of the process or timeline of bringing your lasers into the Cloud Light portfolio. Just kind of what the timing of that vertical integration would be? affiliated companies. FEBRUARY 08, 2024 / 1:30PM GMT, Q2 2024 Lumentum Holdings Inc Earnings Call And then maybe, just as a second question, more on the 3D sensing side of the portfolio, there are new kind of devices out from your major customer. Just anything in terms of kind of contextualizing how big that opportunity either is or could contribute to the year?"
+    },
+    {
+      "speaker": "Alan S. Lowe Lumentum Holdings",
+      "company": "Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. So the timing of our lasers into Cloud Light's portfolio in the lab, certainly, they're already there in the short period that we've been one company, both on 100 gig VCSELs as well as EMLs. So then it's just a matter of customers don't want to do changes in existing product. And so it will come up as we get new product qualifications in new customers and new opportunities. And so I would say that it's all dependent upon how fast those qualifications happen. But I would say that, that would be really a second half of calendar '24 and into '25 in a more meaningful way. 3D sensing, new devices, they're very secretive. We believe we are in some of their new devices. But quite frankly, the volumes of those devices are very small relative to handsets. So I don't think you should model any meaningful contribution on those new devices in the short term. Operator Our next question today is from Karl Ackerman BNP Paribas."
+    },
+    {
+      "speaker": "Karl Ackerman BNP Paribas",
+      "company": "Exane, Research Division",
+      "role": "Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I have a question for Alan and one for Wajid. Wajid, within telecom, 130 and 200 gigabaud and Coherent optics would eventually, your own Coherent DSPs appear to be growth drivers for you. But where do you think your customers are on digesting inventory? I know you indicated it may not recover until September quarter. But have you seen book-to-bill trough in that area of business? Any color on that would be helpful as we think about the recovery in telecom?"
+    },
+    {
+      "speaker": "Alan S. Lowe Lumentum Holdings",
+      "company": "Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. So on the high gigabaud products, those are constrained by our ability to meet customer demand today. And you're right, I think the combination of 130 gigabaud, 200 gigabaud and our own DSP is a real winning solution to meet the needs of next-generation ZR products as well as the long-haul and metro products. So today, our 200 gigabaud and 130 gigabaud are going into more metro and long-haul applications, just as prior products, and prior generations, as then they cost reduce over time and get into a smaller form factor into ZR products. So that is often to the races, and it feels like the old times, the number of e-mails I get from executives asking us to ramp up faster and work with our suppliers to get product to them when they need it. So that's a very, very strong positive. As far as digestion is concerned, I'd say that we have a lot of single source or primary source products that during the pandemic, we're in short supply, where customers ordered in anticipation. For example, our tunable laser that came from NeoPhotonics is the workhorse of the industry, and there's inventory at many of our customers of those products as the anticipation of ZR demand was very, very strong, and it became less so over the horizon. So inventory needs to be digested out tunable lasers and when that goes away, and we believe that will take another quarter and a half or so that -- those products will ramp back up. So I think putting aside the short-term inventory glut, we're very well positioned on existing products on new products and the new product demand is very strong. So I think from that perspective, we're very confident in our position, and the share -- market share today and going forward."
+    },
+    {
+      "speaker": "Karl Ackerman BNP Paribas",
+      "company": "Exane, Research Division",
+      "role": "Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Maybe a follow-up. You indicated how you are expanding production capacity in Thailand for high-speed laser components. At the same time, there seems to be quite a strong willingness by your customers to accept that. So are you seeing a willingness across the supply chain for your customers to co-invest in your capacity as they ready some of these very highly capable products really for AI clusters and next-generation AI networks as they ready for that demand? affiliated companies. FEBRUARY 08, 2024 / 1:30PM GMT, Q2 2024 Lumentum Holdings Inc Earnings Call"
+    },
+    {
+      "speaker": "Alan S. Lowe Lumentum Holdings",
+      "company": "Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I would say, on existing capacity and short-term growth of capacity, that's on our dime and our customers are encouraging us and will reward us over time with orders. They're investing their R&D and engineering resources to qualify our products in the short term. I would say that we are getting co-investment on development projects to develop unique alternatives to transceivers. So for the long term, I think we have share of mind with some of the AI infrastructure companies around what does the next generation of datacom or optical interconnect or GPUs, et cetera? What does it look like? And they're willing to help us make those investments that will turn into revenue a little bit further out. But they're clearly partnering with us because they see the breadth of technology and capabilities that we have. So I'd say that's kind of the answer both from the short term as well as longer term. Does that answer your question, Karl?"
+    },
+    {
+      "speaker": "Karl Ackerman BNP Paribas",
+      "company": "Exane, Research Division",
+      "role": "Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yes, it does. Operator Our next question comes from Dave Kang from B. Riley."
+    },
+    {
+      "speaker": "Ku Kang B. Riley",
+      "company": "Securities, Inc., Research Division",
+      "role": "Senior Research Analyst of Optical Components",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Just more question on the datacom segment. So with that fall or dip in June and September, how should we think about the datacom revenue for those 2 respective quarters?"
+    },
+    {
+      "speaker": "Alan S. Lowe Lumentum Holdings",
+      "company": "Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, Dave it's -- go ahead. Okay. Yes, let me take that. I'd say it -- we're still working on what that dip looks like. And clearly, our customer is looking to help us smooth that dip. And so I would think from a modeling standpoint, it could be down 30% through that transition period. But again, that's a matter of still working through? And then can we pull in the new products into the September quarter, that would make that June quarter the low. And I think that's probably the case as we have made tremendous progress on the new products, and the demand for those new products are strong. So I'd say you can model kind of a dip in the June quarter with a slight pickup in the September quarter, but that's a little bit dynamic."
+    },
+    {
+      "speaker": "Ku Kang B. Riley",
+      "company": "Securities, Inc., Research Division",
+      "role": "Senior Research Analyst of Optical Components",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it. And then my second question is on the telecom. Just wondering, you talked about tunable lasers. Just wondering how big that business is? And also, can you -- any update on the ROADM segment?"
+    },
+    {
+      "speaker": "Christopher W. Coldren Lumentum Holdings",
+      "company": "Inc.",
+      "role": "Senior VP and Chief Strategy & Corporate Development Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, Dave, we don't break those products out specifically, but I think maybe a key point, as Alan highlighted on the call or in the previous question, is both of those products are ones where there are more inventory out there, given the position we have and the criticality we are to our customers and the supply challenges around semiconductors or ICs a year ago or so. That's an area where inventory was built quite heavily. So for example, as our ZR modules ourselves are ramping up, tunable lasers aren't yet. So will be a time lag here a quarter or two before they starts to recover, given the amount of inventory that's out there. So unfortunately, the situation is that some of the major product lines that we have, that have driven a lot of our historical revenue are the ones where there are high levels of inventory that are remaining to burn off in the coming couple of quarters. Operator Our next question today comes from Ruben Roy from Stifel. affiliated companies. FEBRUARY 08, 2024 / 1:30PM GMT, Q2 2024 Lumentum Holdings Inc Earnings Call"
+    },
+    {
+      "speaker": "Ruben Roy",
+      "company": "Stifel, Nicolaus & Company, Incorporated, Research Division",
+      "role": "MD & Equity Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I hope my first question is quick because you guys talked about this quite a bit. But Chris, I think this is for you, an answer to a previous question, just around this a little bit of a pause in the June and September quarters on the transceiver technology. I just wanted to make sure I understood. That's a design change 100% related to kind of your product and not because of other network elements. Is that the right way to think about it?"
+    },
+    {
+      "speaker": "Christopher W. Coldren Lumentum Holdings",
+      "company": "Inc.",
+      "role": "Senior VP and Chief Strategy & Corporate Development Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I would say, well, maybe a slightly different, which is to say that the customer wants to purchase different products that then we have to make a new product. And so there is a period of ramping down the old before we ramp up the new, and that's what presents the dip. The customer is trying to improve system or network performance, if you will, through a different sort of product design, if you will."
+    },
+    {
+      "speaker": "Ruben Roy",
+      "company": "Stifel, Nicolaus & Company, Incorporated, Research Division",
+      "role": "MD & Equity Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. And then on the industrial side, you have -- outside of 3D sensing, you've got the inventory consumption at a large customer and obviously, macro weakness ongoing. I'm wondering if you could kind of sort out the macro side of it? Are you -- how has design activity been, Alan? I know you've gotten some new products out there with some of the fast industrial lasers. Are you seeing any sort of pickup in design activity or discussions around either additive manufacturing or otherwise? Just curious how you're thinking about that over the next 12 to 18 months?"
+    },
+    {
+      "speaker": "Alan S. Lowe Lumentum Holdings",
+      "company": "Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. Good question. I'd say, as we said in the script, a lot of new applications, I'd say the one that we are ramping today is primarily around solar processing and manufacturing, and our laser gives them a differentiated efficiency of the solar cell. So it's -- as you can imagine, 1% efficiency or even a fraction of a percent efficiency for solar cells is a big deal. And so for whatever reason, our unique capability in our ultrafast laser has a lot of traction in that space. And similarly, we are seeing a lot of design activity around other applications. And we talked about those on the call around EV batteries and PCBs and displays that are coming to fruition, and will turn into business really in the second half of calendar '24 and into '25. So yes, a lot of activity and a lot of success with respect to our femtosecond and picosecond lasers. Operator Our next question today comes from Vivek Arya from Bank of America."
+    },
+    {
+      "speaker": "Vivek Arya BofA",
+      "company": "Securities, Research Division",
+      "role": "MD in Equity Research & Senior Semiconductor Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I just wanted to nail down what we have heard so far about June and September. So it seems like June is at least $30 million below March levels, all else being equal. And then September, it recovers, but maybe it doesn't get back to March levels, but I wanted to confirm that. And if June and September are both below March levels, then what happens to gross margins? Are they also below March levels. I just wanted to make sure that we just connect all the dots that we have heard so far on the call."
+    },
+    {
+      "speaker": "Alan S. Lowe Lumentum Holdings",
+      "company": "Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Wajid, I think you're on mute."
+    },
+    {
+      "speaker": "Wajid Ali Lumentum Holdings",
+      "company": "Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sorry. Vivek, so I think that sounds about right. We do try to guide one quarter at a time, just given the number of customers that we have that are over 10%, and the type of volatility we can see. But based on the information we've provided, that's probably about the right math. Gross margins were going -- well, gross and operating margins, we should be able to see some of the synergies flowing through in our June and September quarter that we talked about earlier. We've achieved $60 million exiting the December quarter, and we're expecting additional synergies to help us a little bit in March and probably more in June. And so we should be able to see the benefit of that flowing affiliated companies. FEBRUARY 08, 2024 / 1:30PM GMT, Q2 2024 Lumentum Holdings Inc Earnings Call through. And so gross margin should be probably about flat at least into the June quarter with some improvement into the September quarter. So some of the new programs that Alan talked about do require some incremental R&D expenses for those large hyperscale customers. And so we won't be backing off on those. And so OpEx will modulate between June and September as well. But I think that's the right way to think about it."
+    },
+    {
+      "speaker": "Alan S. Lowe Lumentum Holdings",
+      "company": "Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "But just for -- sorry, just sort of clarification. 30% datacom down, not the company down in the June quarter, right?"
+    },
+    {
+      "speaker": "Wajid Ali Lumentum Holdings",
+      "company": "Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So $30 million, that's about $30-ish million, yes."
+    },
+    {
+      "speaker": "Vivek Arya BofA",
+      "company": "Securities, Research Division",
+      "role": "MD in Equity Research & Senior Semiconductor Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "My follow-up, how do you think about your balance sheet right now? Net leverage is, it's kind of higher than peers. And so how do you think about the balance sheet track now? Do you think you need to do anything extraordinary to shore it up? And in general, how should we think about just cash flow generation this year? So just any comment on the balance sheet would be helpful."
+    },
+    {
+      "speaker": "Wajid Ali Lumentum Holdings",
+      "company": "Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. So we exited the December quarter with a little over $1.2 billion in cash. Our expectation is that we'll continue to generate cash flow from operations both in the March quarter and in the June quarter as well. We are making some incremental investments in capital in our Thailand facility that Alan talked about. And so that will modulate between March and June, just depending on when the CapEx comes in and when we pay for it. We have a convertible debt due in March -- in the middle of March. And so our expectation is, is that we'll be able to pay that off from the cash that we have on the balance sheet. And that still leaves us with a comfortable level of cash exiting that payoff. So we're quite comfortable with the level of debt we have both on a gross and a net basis, just kind of given those dynamics."
+    },
+    {
+      "speaker": "Kathryn Ta Lumentum Holdings",
+      "company": "Inc.",
+      "role": "VP of IR",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So [Drew], I think we have time just for one more question. Operator Okay. Our next question comes from Ananda Baruah from Loop Capital. Ananda Prosad Baruah Loop Capital Markets LLC, Research Division - MD Just sort of going back to the transceiver complex. Alan, Chris, what's the good way to think about overall Gen AI for you right now? I guess, how big would you size your kind of Gen AI-related business in the December quarter? And I guess, what's a good way to think about -- and if you can include ZR in there if you think that, that belongs. Sounds like Alan, you, in your prior remarks, you think to some degree, you think it belongs. And then what's a good way to think about sort of, I guess, kind of like the growth rate of those? How you size that Gen AI related business over the next 12 to 24 months? There are a lot of moving parts with new customers and programs and stuff like that coming on. But any context on both of those questions would be probably pretty useful for us. Appreciate it."
+    },
+    {
+      "speaker": "Christopher W. Coldren Lumentum Holdings",
+      "company": "Inc.",
+      "role": "Senior VP and Chief Strategy & Corporate Development Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure. I would say, as we highlighted on the call, the Cloud Light revenue around $60 million, and will be going up significantly here in the March quarter with a full quarter of it. I think the vast, vast majority of that, given the vast, vast majority of that is 800 gig, is going into AI platforms. If you were to look beyond that then obviously, we've got our datacom chip business, which is several tens of millions of dollars a quarter. affiliated companies. FEBRUARY 08, 2024 / 1:30PM GMT, Q2 2024 Lumentum Holdings Inc Earnings Call As well, adding into that, I would be cautious to start throwing in some of the telecom revenue at this point, certainly, data going in and out of the data centers is relevant, but I think that's more of a longer-term story as more data centers are built -- purpose-built and spread out further for power consumption reasons that will start to really drive the telecom space. Now, going back to the revenue pieces that I highlighted between the Cloud Light transceivers and our datacom chips, I expect -- I mean, obviously, we've talked about kind of the dip here over the coming quarters, but if we were to look at that over a several year period to smooth those out, I think the industry is expecting that AI is growing at a 50% CAGR or something like that over the next 3-plus years. So I think we've got an opportunity to grow at least as fast as that, if not faster, given our more modest overall market share, but having all of the essential ingredients to be able to be a share gainer."
+    },
+    {
+      "speaker": "Kathryn Ta Lumentum Holdings",
+      "company": "Inc.",
+      "role": "VP of IR",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And now I think we're going to turn the call back over to Alan for some closing remarks."
+    },
+    {
+      "speaker": "Alan S. Lowe Lumentum Holdings",
+      "company": "Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Great. Thank you, Kathy. I would like to leave everybody with a few thoughts as we wrap up the call. We are confident in our agility and leadership position to navigate the current market environment. Lumentum stands at the forefront of the data center revolution from pioneering chip-scale photonics to automated manufacturing, and to new and growing partnerships with hyperscale cloud customers and infrastructure providers. Our Cloud Light acquisition has already proven to be a success with a fantastic team and valuable insight propelling our high-speed transceiver production to meet surging demand. With that, I would like to thank you for attending today's call, and we look forward to meeting you again at investor conferences, upcoming meetings and at the OFC show in San Diego. Thank you. Operator That concludes today's 2024 Lumentum Earnings Conference Call. You may now disconnect your lines. In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. affiliated companies."
+    }
+  ]
 }

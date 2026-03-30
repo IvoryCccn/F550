@@ -4,5 +4,454 @@
   "quarter": "2024Q3",
   "sector": "Industrials",
   "filename": "2024-Dec-19-FDS.N-137645241123-Transcript.pdf",
-  "segments": []
+  "segments": [
+    {
+      "speaker": "Goran Skoko Factset Research Systems",
+      "company": "Inc",
+      "role": "Executive Vice President, Managing Director EMEA and Asia Pacific, Head of Research &",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Advisory Solutions"
+    },
+    {
+      "speaker": "George Tong Goldman Sachs",
+      "company": "& Co.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Operator Good day, and thank you for standing by. Welcome to the FactSet First Quarter 2025 earnings conference call. (Operator Instructions) Please be advised that today's conference is being recorded. I would now like to hand the conference over to your speaker today, Yet He, Interim Head of Investor Relations."
+    },
+    {
+      "speaker": "Yet He Factset Research Systems",
+      "company": "Inc",
+      "role": "Investor Relations",
+      "speaker_type": "other",
+      "section": "presentation",
+      "text": "Thank you, and good morning, everyone. Welcome to FactSet's first fiscal quarter 2025 earnings call. Before we begin, the slides to be referenced during this presentation can be found through the webcast on the Investor Relations section of our website at factset.com. A replay of today's call will be available on our website. After our prepared remarks, we will open the call to questions from investors. The call is scheduled to last for one hour. (Operator Instructions) Before we discuss our results, I encourage all listeners to review the legal notice on slide 2, which explains the risks of forward-looking statements and the use of non-GAAP financial measures. Additionally, please refer to our Forms 10-K and 10-Q for a discussion of risk factors that could cause actual results to differ materially from these forward-looking statements. Our slide presentation and discussions on this call will include certain non-GAAP financial measures. For such measures, reconciliations to the most directly comparable GAAP measures are in the appendix to the presentation and in our earnings release issued earlier today. During this call, unless otherwise noted, relative performance metrics reflect changes as compared to the respective fiscal 2024 period. Also, please note that beginning in this first quarter fiscal 2025, FactSet will be reporting organic ASV rather than organic ASV plus professional services and focus on the recurring nature of our revenues. Joining me today are Phil Snow, Chief Executive Officer; Helen Shan, Chief Financial Officer; and Goran Skoko, Chief Revenue Officer. I will now turn the discussion over to Phil."
+    },
+    {
+      "speaker": "Philip Snow Factset Research Systems",
+      "company": "Inc",
+      "role": "CEO",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thank you, Yet, and good morning, everyone. I'm pleased to share our first quarter results. We're off to a good start in fiscal 2025 with solid operating performance, growing organic ASV 4.5% year-over-year, delivering adjusted operating margin of 37.6% and achieving affiliated companies. DECEMBER 19, 2024 / 4:00PM GMT, Q1 2025 Factset Research Systems Inc Earnings Call adjusted diluted EPS of $4.37. While a backdrop of macro uncertainty and cost pressure faced by clients continues to persist, we saw momentum building during the first quarter. We remain cautious, but I'm encouraged by the constructive dialogue we are having with clients and the trends we are seeing in the pipeline. As a reminder, the ASV we added in the first quarter is seasonally the lowest of the year. Given the timing of large deals, it is also important to look at half and full year performance as more holistic measures of our progress. Consistent with our prior guidance, we expect ASV growth in fiscal 2025 will be second half-weighted. Before turning to our financial results, I want to thank those of you that joined our Investor Day last month and for the positive feedback we received. For those that missed it, we discussed FactSet's strategy to supercharge financial intelligence and help clients as their trusted data and technology partner by delivering efficiency and innovation to their end-to-end workflows. This strategic direction builds on our market-leading franchises across the firm types we serve and is underpinned by our technology evolution, investment priorities and product road map. There's still much to do, but we are confident in our ability to execute and achieve the medium-term targets we shared with you at Investor Day. Demand for our solutions remained steady with ASV retention over 95% and client retention at 91%. During the first quarter, we grew our client base to almost 8,250 and our continued expansion within wealth drove our user count to over 218,000. Turning now to our organic ASV performance by region. In the Americas, we grew 5% as we lapped a significant wealth win in Q1 last year. New business accelerated in the quarter across wealth, hedge funds and asset owners. And improved retention across asset managers was overshadowed by softness in areas where clients are reprioritizing budgets. In EMEA, we experienced 4% growth driven by wins in partnerships and asset owners with additional contribution from PE/VC, hedge funds and overall improved retention in the region. And in Asia Pacific, we maintained 7% growth. Improved seasonal hiring and banking relative to last year was a driver, particularly among global bulge bracket banks. Data solution wins with partners were offset by lower retention with asset manager clients. From a firm-type perspective, our results were mixed. After a very strong Q4 to close the year, wealth organic ASV growth was more subdued in the first quarter. Seat count continues to increase at a strong clip, sequentially adding over 2,000 users driven by marquee accounts. We also continue to add smaller wealth management clients this quarter. It's difficult to control the timing of when large deals close, but we remain confident that deceleration this quarter is temporary. And within wealth, we continue to see a healthy pipeline of seven-figure opportunities with potential to upsell existing clients and expanding solution set, giving us conviction that growth will reaccelerate over the next several quarters. In dealmakers, growth was in line with last quarter. Banking seasonal hiring continues to normalize but remains a drag to growth. As discussed at Investor Day, we expect several new products will add to the acceleration of our banking business in the second half of the year. Most notably, our gen AI-powered Pitch Creator offering is already seeing traction in our client conversations with two wins in Q1 ahead of our formal launch in early calendar 2025. Outside of banking, we saw continued acceleration in PE/VC to double-digit growth led by several competitor displacements and strength in Cobalt, our modern portfolio monitoring tool. Adding to corporates, we closed the acquisition of Irwin in early November to expand FactSet's ability to address the integrated workflow needs of IR professionals with an integrated modern solution. We have a strong pipeline and have already seen increased inbound interest from Investor Relations users since the acquisition was announced. For the institutional buy side, we maintained growth consistent with last quarter. The highlight for the quarter is a landmark seven-figure performance solutions win, where we beat our competitor and displaced key incumbents at a global outsourced CIO provider seeking to affiliated companies. DECEMBER 19, 2024 / 4:00PM GMT, Q1 2025 Factset Research Systems Inc Earnings Call overhaul their technology stack and solutions across the portfolio life cycle. This wide-ranging enterprise deal includes our portfolio analytics, multi-asset class capabilities and performance reporting solutions. This win also underscores FactSet's ability to effectively partner with clients using our managed services offering to deliver workflow efficiencies and an improved operating model. Within asset management, we continue to see erosion pressure as clients scrutinize their budgets and pursue vendor consolidation, particularly with small and midsized firms where it is more difficult to reach scale efficiencies. Our recently announced partnership with JPMorgan Securities Services seeks to address this total cost of ownership challenge by coupling FactSet's performance reporting and portfolio analytics solutions with accounting and investment book of records through JPMorgan's fusion data management platform. The partnerships in CGS growth was solid. Improved retention and an increase in larger wins with partners contributed to accelerating growth. CGS continues to perform well, buoyed by the strong issuance market and content expansion. As we execute against the strategy we outlined at Investor Day, clients are increasingly viewing FactSet as an innovation partner that can help them gain greater insights, drive lower cost of operations and elevate productivity so they can focus on high-value work. We are leveraging our industry-leading data and technology to responsibly harness the power of gen AI to bring more speed, accuracy and efficiency to our clients. Building on the AI Blueprint we announced last year, we recently unveiled our Intelligent Platform initiative, which integrates conversational AI at the platform level to enable next-generation search intelligence. This latest innovation in our series of new product developments leverages FactSet Mercury, our conversational knowledge engine, to provide actionable and auditable insights across our extensive content refinery of structured and unstructured data assets. We hear loud and clear from our clients that they are not interested in marketing hype and promises of the future. They are demanding practical workhorse solutions to boost productivity, unlock efficiencies, and optimize daily workflows. We will be launching new workflow solutions throughout the year that will add to our rapidly evolving gen AI capabilities and product set. In summary, I'm pleased with the start to this year. It's worth reiterating that similar to last year, we expect growth to be weighted towards the back half of the year. As we head into the start of calendar 2025, I'm encouraged by early signs of momentum picking up as clients reset budgets in what many are anticipating as an improved macro backdrop. There's budding confidence that the operating environment may improve as we progress through the year. A few examples of green shoots this quarter include greater client engagement in banking, strength in data solution sales to hedge runs and greater pace of competitor displacements in PE/VC, to name a few. We have a robust pipeline, greater visibility on some larger opportunities and many new innovative products that resonate with clients. I'm confident in our path forward. As such, we are reaffirming our fiscal 2025 guidance. I will now turn it over to Helen to discuss our first quarter performance in more detail."
+    },
+    {
+      "speaker": "Helen Shan Factset Research Systems",
+      "company": "Inc",
+      "role": "Executive Vice President, Chief Revenue Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you, Phil, and hello to everyone on the call. It is great to be back with you all again. As you've seen from our press release this morning, we began our fiscal 2025 with solid operating performance and an uncertain but constructive market environment. Q1 organic ASV increased $3.4 million or 4.5% growth in a quarter that is seasonally our lowest. Also, a reminder that starting this quarter, we are no longer reporting professional services in our ASV in order to better reflect the recurring nature of our revenues. On this new basis of reporting, the comparable ASV for the prior year is provided in this morning's press release. For the quarter, GAAP revenue increased 4.9% to $569 million. Organic revenue, which excludes any impact from both acquisitions or dispositions over the past 12 months and foreign exchange movements, increased 4.7% to $568 million, driven by sales to wealth firms, asset owners and institutional asset managers. For our geographic segment, organic revenue grew by 5% in the Americas, 3% in EMEA and 6% in Asia Pacific. affiliated companies. DECEMBER 19, 2024 / 4:00PM GMT, Q1 2025 Factset Research Systems Inc Earnings Call Turning now to expense. GAAP operating expenses increased 6.8% year-over-year to $377 million, driven by the amortization of intangible assets, compensation-related expenses, and professional fees. This captures certain onetime nonrecurring items, including acquisition-related costs. On an adjusted basis, operating expense grew 4.9% at the same rate as revenue. Technology spend was the primary expense driver, which increased 18% year-over-year, largely due to higher amortization of internal software and our continued investment in generative AI. As outlined at Investor Day, we are committed to investing in products and technology to maintain the market leadership needed to drive sustained and future growth. For the quarter, technology costs were just under 10% of revenue compared to 9% last year. Employee expenses increased approximately 2% versus the prior year as we held our headcount largely flat. People-related costs remain our largest expense category at 39% of revenue, down 130 basis points year-over-year. We continue to exercise operational discipline to self-fund investments in our strategic priorities through more efficient operations and increased productivity. Third-party content costs increased 4% year-over-year and remain less than 5% of revenue. Real estate and related facilities expense decreased 4% year-over-year. These expenses are now less than 3% of revenue, approximately 30 basis points lower compared to the prior year. For a more detailed walk from revenue to adjusted operating income, please refer to the appendix in today's earnings Compared to the previous Q1, GAAP operating margin decreased by approximately 120 basis points to 33.6%, largely due to onetime items. On an adjusted basis, operating margin was flat year-over-year at 37.6%. In the quarter, our cost of services as a percentage of revenue was lower year-over-year by approximately 90 basis points on a GAAP basis and just under 70 basis points on an adjusted basis, primarily due to lower compensation expense, partially offset by increased intangible asset amortization. SG&A as a percentage of revenue was approximately 210 basis points higher year-over-year on a GAAP basis, primarily due to people expense and an increase in professional fees. On an adjusted basis, SG&A was 70 basis points higher than prior year. Turning now to taxes. Our effective tax rate in Q1 was 16.5%. This was an increase compared to the 15.2% tax rate in the first quarter of last year, primarily due to the revaluation of a foreign deferred tax asset associated with the tax rate change. Our GAAP diluted EPS increased 1.3% to $3.89 this quarter versus $3.84 in the prior year period, driven by higher revenue, offset by margin compression and a higher tax rate. Given these same factors, adjusted EPS increased by $0.25 or 6.1% to $4.37. EBITDA increased 5% to $230 million compared to the same period last year, driven by higher net income and higher add-back items. And finally, free cash flow, which we define as cash generated from operations less capital spending, decreased 56% year-over-year to $60 million in Q1. This was largely due to the resolution of a sales tax dispute, timing of vendor payments and higher capital expenditures during the quarter. As we discussed at our Investor Day, we remain disciplined in our approach to capital allocation and are committed to returning capital to shareholders through a combination of stock buybacks and dividends. In the quarter, we repurchased more than 104,000 shares for approximately $49 million at an average share price of $467. At the end of the quarter, we had $251 million of capacity remaining under the $300 million share repurchase authorization approved by our Board of Directors back in September. Today, we paid a quarterly dividend of $1.04 per share to holders of record as of November 29, 2024. Also in the first quarter, we reduced our term loan principal by another $62.5 million, lowering our gross leverage ratio to 1.5 times. We expect the term loan to be repaid in full by the end of Q2. Our capital allocation remains consistent with our commitment to maintain investment-grade metrics. affiliated companies. DECEMBER 19, 2024 / 4:00PM GMT, Q1 2025 Factset Research Systems Inc Earnings Call And finally, as you heard from Phil, we are reaffirming our previously issued guidance. While there's still some variability around client budgets, we've observed encouraging signs with increased engagement and a growing willingness to make purchasing decisions. In the final weeks of Q1, we've experienced positive momentum, which we are determined to maintain in order to achieve our full year objectives. We are actively taking steps in pricing and packaging to enhance our competitiveness against incumbent providers such as with hedge funds and PE/VC firms. These actions have resulted in higher new business. And with multiple pilots currently being tested, we are looking to replicate the success across various firm types in different markets globally. Our sales pipeline is healthy. And we continue to witness promising demand for our new gen AI products and enterprise solutions, setting the stage for this year to be another story of two distinct halves. In conclusion, we remain confident in FactSet's ability to deliver sustainable long-term shareholder value. By harnessing the power of our data and technology investments, we are poised to enhance our clients' financial insight and workflow significantly. And with that, we are now ready for your questions. Operator? Operator (Operator Instructions) Alex Kramm, UBS."
+    },
+    {
+      "speaker": "Alex Kramm UBS Group",
+      "company": "AG",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yes. Sorry to be so short-term focused here, but obviously, you're talking about the two halves, but I feel like both Phil and Helen, both of you talked about green shoots and optimism to the second quarter. So, if I look at the 1Q, probably a little bit softer than what you saw last year. Maybe something slipped a little bit. I also think there's a chunkier deal coming into the second quarter. So, shouldn't we be positioned for acceleration in ASV growth already in the second quarter? Or how should we be thinking about the cadence from here?"
+    },
+    {
+      "speaker": "Philip Snow Factset Research Systems",
+      "company": "Inc",
+      "role": "CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks, Alex. Appreciate the question. So yes, let me talk a bit more about the momentum that we just talked about in the script. And it's not all just Q2 but let me talk about the rest of the year. So, we are very encouraged by the momentum we're seeing. In any given year, we're going to have a number of big rocks that are out there that could be new RFPs or renewals. And I would say in the balance, I'm very happy with how that's landed so far in terms of Q1, the big deal we did and some of the visibility we see moving out. More -- and across firm types, wealth is just continuing to look very strong. Out of our top 10 deals for the year, wealth makes up about half of those, and I talked about the seven-figure deals. So, we're -- that is a very well-performing part of our business with a lot of opportunity. I would say that we're also seeing, as Helen mentioned, increased momentum in private equity, venture capital. We're seeing really good momentum in the hedge funds. Some of that is driven just by data that they're consuming. And then corporates, we did the acquisition of Irwin. That's always been a good part of our business. But all of those end markets look poised to grow potentially at 10% this year. So, we're very excited about those. Thinking about banking, it's still a bit more uncertain sort of going into the year, what the hiring is going to look like. But we're having really good renewal conversations in the middle markets. And the feedback that we're getting from our clients around the Pitch Creator product, which is the productivity tool, on top of our current suite using AI is getting really exceptional feedback relative to what people are seeing from our competitors. And that's playing a big part, honestly, in some of the renewals that we're doing. So that's sort of one angle. Maybe what I'll do is I'll ask Goran now to talk a little bit more about some of the sales activity and how that compares to last year. affiliated companies. DECEMBER 19, 2024 / 4:00PM GMT, Q1 2025 Factset Research Systems Inc Earnings Call"
+    },
+    {
+      "speaker": "Goran Skoko Factset Research Systems",
+      "company": "Inc",
+      "role": "Executive Vice President, Managing Director EMEA and Asia Pacific, Head of Research",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "& Advisory Solutions So I think we have certainly seen improvement in the pipeline and activity as we have gone through the quarter. Phil alluded to the last six weeks particularly being very productive for us. To illustrate the increase in activity, I think our trials have gone up 23%, the Americas and 13% in Europe. And RFPs, we see a 30% increase year-over-year in Q1 of this year versus last year. So I think that's where the optimism for the remainder of the year comes in for us and we are quite optimistic about the activity and the client interaction that we've had to date."
+    },
+    {
+      "speaker": "Philip Snow Factset Research Systems",
+      "company": "Inc",
+      "role": "CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. I'll just end with this one, Alex, which is I think we've already talked about this, but the CPI increase that we'll be able to capture this year is lower than last year as inflation has come down. But I've seen really good work from Goran and the sales team on closing that difference in terms of what we would get. And on the buy side, even though that's outside of hedge funds, even though that's the piece of our business that's under the most cost pressure, that team has done an amazing job of beginning to build up a stronger pipeline as we enter the second half. So we're optimistic, and all signs so far are pointing green compared to how we were feeling maybe three or six months ago. Operator Shlomo Rosenbaum, Stifel."
+    },
+    {
+      "speaker": "Shlomo Rosenbaum",
+      "company": "Stifel, Nicolaus & Company, Inc.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I hate to use my one question on the kind of housekeeping thing, Helen, but I'm going to do it anyway. Can you explain the total company ASV growth of 4.5%, but the components were each lower than that, like buy side at 4.3 and sell side 3.5. Is there some kind of calculation adjustment that's being made to those items that would get you to 4.5?"
+    },
+    {
+      "speaker": "Helen Shan Factset Research Systems",
+      "company": "Inc",
+      "role": "Executive Vice President, Chief Revenue Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. No. And thank you for that. I do understand why that might be a little bit confusing. So, in the past, we've always included all of CGS and ASV calculations of both licensing and issuance. But we did not include in the buy side and sell side calculations the CGS issuance growth because it doesn't quite fit into that. But this quarter, as you I'm sure have noticed that there's been quite a lot of issuances. And as a result, CGS issuance really helped drive some of the organic ASV growth rate this quarter. It contributed about 25 basis points to get us to the 4.5%. So that's why you're seeing that disconnect where buy sides at 4.3, sell side at 3.5, but CGS added another 25 basis points. That's how strong it was. Operator Kelsey Zhu, Autonomous."
+    },
+    {
+      "speaker": "Kelsey Zhu Autonomous Research US",
+      "company": "LP",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "It sounds like managed services could be a key growth driver for buy side ASV going forward. I was just wondering if we have any updated thoughts on total addressable market, who the key competitors are in this space and just generally your strategy to expand in that market."
+    },
+    {
+      "speaker": "Philip Snow Factset Research Systems",
+      "company": "Inc",
+      "role": "CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks, Kelsey. I'll start, and then I'll ask Goran to weigh in as well. So yes, we've seen some great momentum and work there for the team. We closed a good deal in Q1 for an out-store CIO provider that will include quite a bit of managed services here. And there are some deals that we announced last year that did as well. And I think you probably saw the press release where we have entered into sort of a partnership with JPMorgan to do some work for them. So that's -- that -- there were managed services associated with that as well even though that deal has been going on for a little affiliated companies. DECEMBER 19, 2024 / 4:00PM GMT, Q1 2025 Factset Research Systems Inc Earnings Call while now. So we do see a good opportunity here. And it is really linked to our product suite. So, in many cases, these services are being applied to our technology and the fact that we've opened up the platform, particularly for the analytics suite that's traditionally served the buy side. And that's -- the performance solution that we have is, I think, best in class. And that's now being leveraged pretty heavily by some of these firms. So, I'll stop there. And maybe Goran, you could add a little bit more color as to what else you see in terms of opportunity."
+    },
+    {
+      "speaker": "Goran Skoko Factset Research Systems",
+      "company": "Inc",
+      "role": "Executive Vice President, Managing Director EMEA and Asia Pacific, Head of Research",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "& Advisory Solutions Yes. So, I think a couple of things. In terms of competition, I still have -- as Phil said, I think, the managed services for us a little bit different than you would expect from managed services-type providers. And it's really that highly skilled talent that we have that can help clients with their performance reporting or risk reporting type activities. That is what we are providing to the clients, and augmenting their internal capabilities in the process is particularly affected in the environment of where the clients are cost sensitive. And we can help them in their total cost of ownership by providing managed services and allowing them to focus on the higher-value activities. So we are excited about the progress over the last five, six quarters since we launched managed services, and we think that there is considerable upside there. I don't have the market size because, quite frankly, there is no direct competition to it."
+    },
+    {
+      "speaker": "Helen Shan Factset Research Systems",
+      "company": "Inc",
+      "role": "Executive Vice President, Chief Revenue Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Comment on that since this is a relatively newer service that we're offering, but it was performance and now risk and reporting. And what we're tracking are the attach rates, and they're quite good. So back to Phil's comment, we've already been with clients in the middle office, and what we're seeing is that they're turning to us to help them, especially to gain more scale. Operator Faiza Alwy, Deutsche Bank."
+    },
+    {
+      "speaker": "Faiza Alwy Deutsche Bank",
+      "company": "AG",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "So I wanted to ask about -- you mentioned that you're getting exceptional feedback on sort of some of the gen AI products and what folks are seeing from your competitors. So curious if you could give us a bit more color around that? Is that across the board? Are there any specific products where you're maybe getting more traction? And maybe if you can dimensionalize that for us? Like is there a way to think about potential contribution from ASV this year? Is it incremental to the guide? Just a bit more color there would be helpful."
+    },
+    {
+      "speaker": "Philip Snow Factset Research Systems",
+      "company": "Inc",
+      "role": "CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, sure. I'd be happy to, Faiza. Thanks. So, on our last call, I think Helen stated that we continue to expect or we're expecting 30 to 50 bps of growth in FY25 from the monetization of gen AI. So that is included to some degree in the guidance that we gave you. But it's obviously a wildcard, and we could potentially do better than that. We certainly -- we didn't have a huge number as a goal for Q1. So some more of it is sort of weighted to Q2, Q3 and Q4. But what we have seen are very encouraging signs. So we monetized six or seven things already. One was the conversational API that we spoke about last year, which is the client's ability to essentially take that FactSet Mercury experience that you could have if you had a FactSet Workstation and plug it into your own environment. So that was a wealth use case that we monetized last year. The banking products are getting great feedback. So, we have something called Pitch Creator, which further automates the pitch creation process. And there's all kinds of news out there right now about how really tough it is for junior bankers, the number of hours they're putting in and the strain that they're under. And this will -- things like our tombstone creator will really help them with productivity. So that will be officially released in the coming months, but it's already played a key part in a few renewals. So great affiliated companies. DECEMBER 19, 2024 / 4:00PM GMT, Q1 2025 Factset Research Systems Inc Earnings Call feedback there. We also have, I think, shown some ability to monetize AI from our data, so -- in two ways. So, we now had -- we had a close where we sold data specifically for somebody that was building a gen AI product. And then as we've spoken about previously, we have our AI partner program, where we'll work with small technology providers to empower them for their workflows. Portfolio Commentary, which we've had out there for a while now. We got our first commitment to that, which will show up after Q1. So the good news is we're proving that we've got the product can be monetized, and the question now is sort of building up -- and we have a very solid pipeline, by the way. So now as we get into January 1, it's monetizing these at scale, which is the exciting part of it. So overall, it's still a very exciting thing for us as a company. It's the type of stuff we love to build. We certainly see great potential. Of course, there's lots of news out in the market about firms maybe not monetizing this as quickly as they thought or is it real. We believe vehemently that it is real. It may take some firm types longer than others to get comfortable bringing these solutions on board, but we're ready, and we're already seeing the demand. Operator Ashish Sabadra, RBC."
+    },
+    {
+      "speaker": "Ashish Sabadra RBC Capital",
+      "company": "Markets",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "In the prepared remarks, there was a reference to softness in areas where clients are [deprioritizing] these budgets. I was just wondering if you could provide some color on that front. But also, as you -- as we get into calendar year '25, any early commentary on how those budgets are shaping up for your customers?"
+    },
+    {
+      "speaker": "Philip Snow Factset Research Systems",
+      "company": "Inc",
+      "role": "CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Ashish, I didn't -- that came across a little muted for me. So, are you asking about the -- just overall across all firm types sort of how the budget discussions are going?"
+    },
+    {
+      "speaker": "Ashish Sabadra RBC Capital",
+      "company": "Markets",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yes. That's right."
+    },
+    {
+      "speaker": "Philip Snow Factset Research Systems",
+      "company": "Inc",
+      "role": "CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Okay. Goran, do you want to address that, please?"
+    },
+    {
+      "speaker": "Goran Skoko Factset Research Systems",
+      "company": "Inc",
+      "role": "Executive Vice President, Managing Director EMEA and Asia Pacific, Head of Research",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "& Advisory Solutions Sure. I think we do not see a big change in terms of the budgets. Early signs are that the budget -- client budgets will remain flat. And the clients will continue to focus on cost for the foreseeable future. We are encouraged in terms of clients' continued engagement in terms of their transformation of technology and in terms of implementation of new tools and new content that can really help them across their investment process. So we're quite encouraged by all of the activity. And like I said, a number of trials and RFPs has increased significantly, which I think gives us reason for optimism and more productive client conversations for the rest of the year. Operator Scott Wurtzel, Wolfe Research."
+    },
+    {
+      "speaker": "Scott Wurtzel Wolfe Research",
+      "company": "Securities",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Just a quick housekeeping one. Just on the Irwin acquisition and how we should think about the contribution from that to total revenue for this year would be helpful. affiliated companies. DECEMBER 19, 2024 / 4:00PM GMT, Q1 2025 Factset Research Systems Inc Earnings Call"
+    },
+    {
+      "speaker": "Helen Shan Factset Research Systems",
+      "company": "Inc",
+      "role": "Executive Vice President, Chief Revenue Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks for your question. I'll take that one, Scott. So, it's not going to have a material impact in terms of the acquired revenues themselves. So broadly speaking, if it's small, we don't call it out. So it's not going to have a material impact on the top line, but it will help our corporates business overall."
+    },
+    {
+      "speaker": "Philip Snow Factset Research Systems",
+      "company": "Inc",
+      "role": "CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And just to add to that, the -- it's early days, but the acquisition case we had and what we expected to deliver between now and the end of August, our fiscal year, is either on or above what we thought it was going to be. Operator Jeffrey Silber, BMO Capital Markets."
+    },
+    {
+      "speaker": "Jeffrey Silber BMO Capital",
+      "company": "Markets",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I wanted to shift gears to talk about margins a bit. If I remember correctly, you're guiding to margins for 2025 to be somewhat slightly down. They were flat in the first quarter. Is that something that we should expect to continue? Should we expect to continue or expect to see some margin compression in the back half of the year? And if so, what are the reasons for that?"
+    },
+    {
+      "speaker": "Helen Shan Factset Research Systems",
+      "company": "Inc",
+      "role": "Executive Vice President, Chief Revenue Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. Thanks for that question. So, this quarter, we saw some good favorability compared to year-over-year with lower people costs. If you recall, we did take some actions through the year. So, in comparison, that came through. There's some timing of some third-party credits that also came in that was favorable. And then, of course, we've had productivity overall. But as we reaffirmed our guidance, we do expect to ramp up on expenses starting in the second quarter. We've had a little bit of slow start in investments that we talked about in our last call. So, it takes some time to hire. So, the people cost, we think, will be higher in Q2. And then keep in mind, last year, we also had a comparison with our adjustment to a bonus accrual. So, there's going to be some of that comparison. We do expect tech costs to go up as well as we're really ramping up on infrastructure spend in cloud-related expenses. So I would look at the H1 margin to be closer to the midpoint of our guidance range. Operator Toni Kaplan, Morgan Stanley."
+    },
+    {
+      "speaker": "Toni Kaplan Morgan Stanley",
+      "company": "& Co. LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I wanted to look at the wealth part again because I think you mentioned that you were lapping a big well win in the quarter, but specifically called out maybe a deceleration because of timing around large deals, but a good pipeline. So, I was hoping to talk about like are you seeing even more elongated decision-making in wealth? Are you seeing any changes in the competitive environment? Are people being particularly aggressive? I know it's always been sort of a competitive market. But just wanted to get more color there."
+    },
+    {
+      "speaker": "Philip Snow Factset Research Systems",
+      "company": "Inc",
+      "role": "CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Great. Thanks. I mean I'll start, and then I'm sure Goran has a lot to say about this. So yes. I mean it was -- we had a very large deal in last Q1. So, I wouldn't read anything more into my comments other than we didn't have something of that size in Q1 or enough singles and doubles to sort of match that. But as I spoke about already, Toni, I think we see that snapping back here pretty quickly. And we see continued momentum in the space at different levels of wealth shops. At the very largest shops, it takes a long time for these decisions to be made, and then you go through the implementation. But I would not see that we're seeing a massive change there, honestly, in terms of timing or so on. So, Goran? affiliated companies. DECEMBER 19, 2024 / 4:00PM GMT, Q1 2025 Factset Research Systems Inc Earnings Call"
+    },
+    {
+      "speaker": "Goran Skoko Factset Research Systems",
+      "company": "Inc",
+      "role": "Executive Vice President, Managing Director EMEA and Asia Pacific, Head of Research",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "& Advisory Solutions I think Phil covered it well. I think it's really just we didn't have a win of similar size this quarter. We are very confident that wealth will reaccelerate for the rest of the year. We mentioned that we saw an uptick in new business in wealth management. We saw seat growth. But I think we continue to successfully displace competitors. We see geographic expansion this year. We're particularly focused on Switzerland and UK as growth markets. And we continue to penetrate additional workflow. So, we're very confident about the wealth continuing to do very well for us. And I think Phil already mentioned that we're expecting double-digit growth this year. Operator Owen Lau, Oppenheimer."
+    },
+    {
+      "speaker": "Owen Lau Oppenheimer",
+      "company": "& Co.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I think I heard that you had the seven-figure landmark win away from a key incumbent. What were the key reasons for the win? Do you have more competitive pricing strategy or products? And do you expect more wins like that in the coming quarters?"
+    },
+    {
+      "speaker": "Philip Snow Factset Research Systems",
+      "company": "Inc",
+      "role": "CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Well, I'll chat about this one a little bit and then as usual, ask Helen to weigh in. So yes, this was an outsourced CIO. And of course, there's a limited number of those globally. So, it was a complicated deal. There were many aspects to what we were doing for them. And I think it really just comes down to the quality of our technology, our analytics solutions, and our approach to partnership. And in fact, Helen, you spent a lot of time, I think, (technical difficulty) this deal and getting it over the line. So, what would you add for that?"
+    },
+    {
+      "speaker": "Helen Shan Factset Research Systems",
+      "company": "Inc",
+      "role": "Executive Vice President, Chief Revenue Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. No, I think that's right. And our ability to partner was a big piece of this. As Phil mentioned, it's also the managed services aspect, which they wanted. So, I think there were a number of things that we really brought to the table here, the connectivity that they -- and the flexibility of our open platform so they were able to bring partners to bear. So Owen, those would be the ones that helped us and has continued to help us, I think, as we go forward."
+    },
+    {
+      "speaker": "Philip Snow Factset Research Systems",
+      "company": "Inc",
+      "role": "CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I think our multi-asset class capabilities also played significantly into it. Operator Manav Patnaik, Barclays."
+    },
+    {
+      "speaker": "Manav Patnaik Barclays Bank",
+      "company": "PLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Helen, I think you made some remarks around just the pricing packaging versus competition. I was hoping you could just elaborate on that just in the context of it sounds like your growth pipelines are obviously really strong, but what exactly are you tweaking, I suppose to make the conversions better?"
+    },
+    {
+      "speaker": "Helen Shan Factset Research Systems",
+      "company": "Inc",
+      "role": "Executive Vice President, Chief Revenue Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, sure. Thanks for that question. So clearly, it's a competitive environment and all along, we've been investing to improve our products. So, I'll point to, for example, our new business, where that's where you typically see the most price pressure. And it's usually driven in part because to move someone off of a displacement, they're switching costs. And so what we've done is had a very proactive approach, where we've targeted specific types of firms, where we've changed our pricing structure. And the result of that because of the strength of our product, which has improved in certain cases like in the private markets, the result is having higher volume. We have seen low price realization. So, we are being a bit more aggressive there. But overall, that's resulted in increased ASV. And in particular, we're seeing this in the Americas and in EMEA. So that's where our affiliated companies. DECEMBER 19, 2024 / 4:00PM GMT, Q1 2025 Factset Research Systems Inc Earnings Call packaging and pricing is being used as a competitive tool. And along with enterprise as well, we've been able to leverage some of our enterprise solutions with our -- especially during renewals. And that has been very, very effective also. Operator Andrew Nicholas, William Blair."
+    },
+    {
+      "speaker": "Andrew Nicholas William Blair",
+      "company": "& Company LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I wanted to ask on your appetite for M&A, the latest and greatest there? And relatedly, does your conviction in kind of monetization of your AI investments change that appetite at all? Or does it inform the types of assets that are most attractive to you in terms of inorganic action?"
+    },
+    {
+      "speaker": "Philip Snow Factset Research Systems",
+      "company": "Inc",
+      "role": "CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, that's an interesting question. So yes, we have a high appetite for M&A. I think we're in a better position to do more now, and there's a couple of gaps in our product suite across firm types that if we can find the right asset, we'd be excited to execute on. Most of the things we've been looking at, though, Andrew, were not AI-related, although if -- we always look at somebody that has a good technology stack, modern, that we don't have to do a ton of repair work. So that always plays into it. And very often, folks will have already done some work in that area. I believe we've invested enough so far in our AI suite to make a real impact. And by empowering like so many of our employees, I think that was the trick to how we've gotten to where we are so far. But any other thoughts?"
+    },
+    {
+      "speaker": "Helen Shan Factset Research Systems",
+      "company": "Inc",
+      "role": "Executive Vice President, Chief Revenue Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "No, I think that's exactly right. As we mentioned, we've got a strong balance sheet. We've got ability for increased leverage. And we've also been very deliberate in how we've been allocating our capital. We will spend more on CapEx this year, for example, to help do the internal builds, but that gives us still ample room to be able to use inorganic as part of our growth strategy. Operator Surinder Thind, Jefferies LLC."
+    },
+    {
+      "speaker": "Surinder Thind Jefferies",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I guess I'd like to touch base on the monetization of some of your AI products over the past year. Can you maybe talk about the value proposition from the perspective of the client? And what you're seeing in terms of maybe the uplift to your revenues, and where the offset is from the perspective of the client in terms of the savings or the efficiencies that they're seeing because one of the things that we found is that a lot of gen AI solutions tend to be quite expensive. And it's quite easy to use a lot of your, what I would call your credit tokens or your AI budget, especially given that the earlier commentary around clients not really seeing a material improvement in their overall budgets."
+    },
+    {
+      "speaker": "Philip Snow Factset Research Systems",
+      "company": "Inc",
+      "role": "CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. Let me kick it off here. I think there's a lot to talk about. So, we're definitely looking to get adoption right and just proof that where we are, I think, value to clients. And then think of -- I like what you said about token, just think about how do you monetize this and how do clients feel like they're getting value and not exposing themselves to big spikes in expense. So we're hitting a lot of singles and doubles here. There are some deals that are in the tens of thousands, some that are in the hundreds of thousands, but we're not going out there right now in selling multimillion dollar AI solutions. So the value proposition really is saving clients' time. So, the Portfolio Commentary solution gets you an excellent, auditable commentary on how you did versus the benchmark in a minute or less versus however long it would take somebody to write that. The Pitch Creator product, we've already talked about it. It's just saving tens of hours of a junior analyst's times in terms of arranging logos on affiliated companies. DECEMBER 19, 2024 / 4:00PM GMT, Q1 2025 Factset Research Systems Inc Earnings Call spreadsheets or running their models or building their templates or the charts. So that's how we're approaching it is really just brute force efficiency. And there's an idea generation aspect to this, which is important. But we think the low-hanging fruit are the efficiency gains. So, Goran or Helen, I don't know if you want to add on."
+    },
+    {
+      "speaker": "Goran Skoko Factset Research Systems",
+      "company": "Inc",
+      "role": "Executive Vice President, Managing Director EMEA and Asia Pacific, Head of Research",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "& Advisory Solutions I think, Phil, you covered it well. I think it is really gains in the efficiency. You can just imagine the month-end process and on the asset management side and portfolio managers having to deliver their commentary in time, that certainly probably help them, and clients are finding value. In terms of the cost itself, I think we have done a lot to optimize on our side to make sure that the costs do not run away. And then we spoke about our pricing model here, which is basically subscription plus consumption based that client will have lots of visibility into. But improved productivity on the client side is really the value that we are offering. And then for those that build their own solutions, we are really enhancing their time-to-market capabilities. Operator Craig Huber, Huber Research Partners."
+    },
+    {
+      "speaker": "Craig Huber Huber Research",
+      "company": "Partners, LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. You talk about pricing, if you would, for this fiscal year. You talked about that it won't be probably as strong as last year. What are you expecting for realized pricing this fiscal year versus last year? It's just interesting you're talking about you're expecting overall revenues to accelerate in the second half of the year. It's obviously against -- it sounds like not quite as beneficial pricing. Can you quantify it as best as you could this year versus last?"
+    },
+    {
+      "speaker": "Helen Shan Factset Research Systems",
+      "company": "Inc",
+      "role": "Executive Vice President, Chief Revenue Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Craig, it's Helen. Thanks for that question. So yes, as Phil noted, our pricing is based off the higher of CPI or 3%. So, CPI being where it's at, it does put a bit of a lower or a headwind on that front. But yes, the stronger pipeline helps. Right now, we're still seeing the price realization essentially overall quite flat to the last year. So, we're not necessarily seeing an uplift, but we're not seeing a degradation either. Now the only place where I noted earlier where that might be the case is where we're doing new business and in some renewals. But what we're seeing is while the price realization against our rate card might be a little bit lower, we're actually seeing more in terms of volume. So that's sort of P-times-Q concept. Please note that we've also increased our rate cards. So, the price realization percentage gets a little bit harder to completely track. But overall, the value that we've been able to provide, we've been able to capture it pretty firmly again year-over-year. Operator David Motemaden, Evercore ISI."
+    },
+    {
+      "speaker": "David Motemaden MotemadeN Evercore",
+      "company": "ISI",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I had a question just on the client retention. It was good to see that. It's been around 90% for the past year. That ticked up a little bit to 91% this quarter. Historically, we've seen that when retention has moved up, you've also seen ASV accelerate. That wasn't the case this quarter. Is that just the pricing dynamic? Or maybe you could unpack what was driving that increase in the retention, and why we're not seeing that translate to a reacceleration in ASV this quarter? affiliated companies. DECEMBER 19, 2024 / 4:00PM GMT, Q1 2025 Factset Research Systems Inc Earnings Call"
+    },
+    {
+      "speaker": "Goran Skoko Factset Research Systems",
+      "company": "Inc",
+      "role": "Executive Vice President, Managing Director EMEA and Asia Pacific, Head of Research",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "& Advisory Solutions Just a couple of things. I think we're seeing -- obviously, we spoke quite a bit about our focus on improving retention during the Investor Day. I think we're putting processes, procedures in place to help our client-facing organization to focus on retention. We're encouraged by the improvement in client retention. There are certainly fewer client cancels, these full client cancels this quarter than previously, which accelerated our retention rate. And that, I think, is a good sign of what's to come. All of the retention efforts we're putting in place are currently reflected, I would say, in specific areas. We saw improvement of retention in investment management in Americas, in particular, both for our workstation and our analytics solution. And everything that we are focusing on currently, we expect better results as we go along. But I think not immediate, but we do expect that retention will continue to improve over the coming quarters."
+    },
+    {
+      "speaker": "Helen Shan Factset Research Systems",
+      "company": "Inc",
+      "role": "Executive Vice President, Chief Revenue Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. Maybe I can add a little bit to what Goran was just saying. Given the number of clients that we have, we see a fair amount of churn, David, and at the bottom. So that 1% change while we like to obviously see higher client retention, the number that is more impactful will be the ASV retention, which is -- continues to be above 95%. But just to make that part, if there's a lot of churn happening, it might make the numbers move a point. But it's probably more rounding than a strong indicator. Operator Jason Haas, Wells Fargo."
+    },
+    {
+      "speaker": "Jason Haas Wells",
+      "company": "Fargo",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I'm trying to reconcile a couple of comments that you've made. So, it's good to hear that you're seeing some more optimism on client engagement and a better pipeline. But I think you also said that you're expecting your customers' budgets to remain flat and still be pretty cost focused. So, I wasn't sure if that implies that you're seeing potential for more share gains or you're seeing a situation where clients are spending more time shopping? And maybe just following up on the budget point. I think given that we've had pretty good equity market performance and there's generally an expectation for M&A activity to pick up, why don't you think clients will increase their budget? What's holding them back at this point (technical difficulty). Thanks."
+    },
+    {
+      "speaker": "Goran Skoko Factset Research Systems",
+      "company": "Inc",
+      "role": "Executive Vice President, Managing Director EMEA and Asia Pacific, Head of Research",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "& Advisory Solutions A couple of things. Maybe my comment was a little bit too pessimistic about clients not increasing the budget. So I think certainly, the improved M&A activity and improvement in banking fees is something that we spoke about correlation of our sell-side revenues to banking fees. And we do expect that some of the macro conditions will improve as we go through the year and then the hiring in banking in the fourth quarter takes place. I also think it's really important that our strategy is to make sure -- make certain that we can perform well in the cost-constraint or cost-sensitive times as much as we can rely on markets improving. So if you look at the services that provide, we spoke about managed services or helping clients with efficiency gains without gen AI tooling, I think all of that can help us weather the more difficult market conditions as well. So, we are focused on performing well regardless of the conditions. And the early signs of budgets, I do not see significant increase. But on the sell side, certainly improving -- improved M&A activity would indicate that we will see some upward movement in budgets there."
+    },
+    {
+      "speaker": "Helen Shan Factset Research Systems",
+      "company": "Inc",
+      "role": "Executive Vice President, Chief Revenue Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "But I think to add to what Goran just said, even if the budgets are relatively flat, and it’s still early days here. So, we're obviously talking with clients as they end up -- end out their calendar year or fiscal years. We are seeing a shift more into tech budgets. That's one. And we affiliated companies. DECEMBER 19, 2024 / 4:00PM GMT, Q1 2025 Factset Research Systems Inc Earnings Call are doing more in having discussions with the CTOs. So, the gen AI products, what that helps us do is change whom we're speaking with as well and the sales changes along with that. And the other point around market share gain, I think that's exactly right. Goran already spoke to the point around having higher RFPs and trials. That is, in some cases, clients who are looking now to, we think, who their providers are. And that puts us in a very favorable spot as we try to win new business. Operator George, Goldman Sachs."
+    },
+    {
+      "speaker": "George Tong Goldman Sachs",
+      "company": "& Co.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "As you look across your different client segments on a relative basis, can you talk about which you expect to show the most improvement going into the second half of the year and which may perhaps show lesser improvement in performance?"
+    },
+    {
+      "speaker": "Philip Snow Factset Research Systems",
+      "company": "Inc",
+      "role": "CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "George, maybe I'll just go back to some of my earlier comments. So, I talked about some of the PE/VC and hedge funds. So, they're smaller parts of FactSet, but I think is showing very strong signs of growth this year. The wealth space we've spoken about, which is bigger, and we continue to feel that we'll see that do well. The two bigger chunks which have more uncertainty around honestly, right, the banking business and the rest of the sell side -- rest of the buy side, sorry, beyond hedge funds. So in banking, I think we showed at Investor Day a graph that was very popular to many of you, which showed how FactSet's ASV and revenue kind of have a lag to the revenues that the banks generate. So if that comes through, and there's more hiring, more banking activity and greater adoption of our products as we move through the year, I'm optimistic about the sell side. Again, the piece of our business which has been under the most pressure for a long time is the buy side that's leveraged to active management. So that's a little bit more uncertain. As I mentioned earlier, the team has done a great job of building the pipeline and closing the gap we had versus the pipeline last year. So hopefully, that helps you in terms of stack ranking those in your model. Operator Shlomo Rosenbaum, Stifel."
+    },
+    {
+      "speaker": "Shlomo Rosenbaum",
+      "company": "Stifel, Nicolaus & Company, Inc.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I just wanted to ask you a little bit about the pickup you said in the last six weeks that you're seeing. It seems to be like a noticeable pickup in terms of decision-making with the clients. And do you think that has something to do specifically with the FactSet efforts in the product that is resonating more? Do you think that might have to do with just more optimism after, let's say, the presidential elections because last six weeks seems to be coincidental like right around the presidential elections, things seem to pick up. And just in general, are you seeing anything in terms of administrative picks that could be positive or negative for the industry or for FactSet on its own, if you can just address those items."
+    },
+    {
+      "speaker": "Philip Snow Factset Research Systems",
+      "company": "Inc",
+      "role": "CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Shlomo, I'm going reverse order. So, I just think in terms of the election and having it behind us, obviously, the bankers that we speak to are excited. They think it's -- the environment is going to be good for M&A activity. And I think just potentially having less regulatory burden on the different clients out there, obviously frees up time and dollars to do other stuff, which would help us. So, Goran, do you want to maybe address the rest of Shlomo's question?"
+    },
+    {
+      "speaker": "Goran Skoko Factset Research Systems",
+      "company": "Inc",
+      "role": "Executive Vice President, Managing Director EMEA and Asia Pacific, Head of Research",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "& Advisory Solutions Yes. Shlomo, I think part of it, I would attribute -- I think we have also put things in place to increase client-facing activities, making sure that we're increasing reach outs and things of that nature. The optimism in the market there is certainly -- I think we certainly see better affiliated companies. DECEMBER 19, 2024 / 4:00PM GMT, Q1 2025 Factset Research Systems Inc Earnings Call optimism in the market. I see more optimistic sales force around me every day. So I think that's all part of it. So, I think it's a combination of things. We are certainly doing everything that we can to improve the pipeline and do as much as we can to improve our results for the rest of the year. And even the market is feeling a little bit more optimistic than it did three months ago."
+    },
+    {
+      "speaker": "Philip Snow Factset Research Systems",
+      "company": "Inc",
+      "role": "CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Great. Okay. Thank you all for such great questions and for joining us today. In closing, I'm pleased with the solid performance we delivered to start our fiscal 25. While the current market environment remains uncertain, I'm encouraged by the conversations we're having with our largest clients and look forward to executing on the robust pipeline of opportunities in front of us to accelerate growth year-over-year. I'm proud of the progress we are making on strategic priorities we outlined at Investor Day. These efforts are already taking root and give us confidence that FactSet is well positioned to deliver on our medium-term outlook. And I want to conclude by thanking all the FactSetters around the world for their continued great work and efforts. Happy holidays, everyone. We look forward to speaking with you again next quarter. Operator, that ends today's call. Operator Thank you. This concludes today's conference call. Thank you for your participation. You may now disconnect. In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. affiliated companies."
+    }
+  ]
 }

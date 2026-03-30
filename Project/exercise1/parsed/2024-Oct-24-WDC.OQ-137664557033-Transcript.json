@@ -4,5 +4,414 @@
   "quarter": "2024Q3",
   "sector": "IT",
   "filename": "2024-Oct-24-WDC.OQ-137664557033-Transcript.pdf",
-  "segments": []
+  "segments": [
+    {
+      "speaker": "Amit Daryanani Evercore",
+      "company": "ISI",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Thomas O'Malley Barclays - Analyst"
+    },
+    {
+      "speaker": "Matt Bryson Wedbush",
+      "company": "Securities, Inc",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Operator Good afternoon, and thank you for standing by. Welcome to Western Digital's fiscal first quarter 2025 conference call. (Operator Instructions) As a reminder, this call is being recorded. Now I will turn the call over to Mr. Peter Andrew, Vice President, Financial Planning and Analysis and Investor Relations. You may begin."
+    },
+    {
+      "speaker": "Peter Andrew Western Digital",
+      "company": "Corp",
+      "role": "IR",
+      "speaker_type": "other",
+      "section": "presentation",
+      "text": "Thank you, and good afternoon, everyone. Joining me today are David Goeckeler, Chief Executive Officer, and Wissam Jabre, Chief Financial Officer. Before we begin, let me remind everyone that today's discussion contains forward-looking statements based on management's current assumptions and expectations and as such does include risks and uncertainties. These forward looking statements include expectations for our product portfolio, our business plans and performance, the separation of our flash and HDD businesses, ongoing market trends, and our future financial results. We assume no obligation to update these statements. Please refer to our most recent financial report on Form 10-K and our other filings with the SEC for more information on the risks and uncertainties that could cause actual results to differ materially from expectations. We will also make references to non-GAAP financial measures today. Reconciliations between non-GAAP and comparable GAAP financial measures are included in the press release and other materials that are being posted in the Investor Relations section of our website. With that, I will now call over to David for introductory remarks."
+    },
+    {
+      "speaker": "David Goeckeler Western Digital",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thanks, Peter, and good afternoon, everyone, and thank you for joining the call to discuss our first quarter fiscal year 2025 performance. Western Digital delivered revenue of $4.1 billion, non-GAAP gross margin of 38.5% and non-GAAP earnings per share of $1.78. Our dedication to lasting quality and reliability through our industry-leading innovation and diversified portfolio have allowed us to proactively mix fits into the most profitable end markets, resulting in sequential revenue growth and margin improvement across both affiliated companies. OCTOBER 24, 2024 / 8:30PM GMT, Q1 2025 Western Digital Corp Earnings Call flash and HDD. These growth opportunities are bolstered by the AI data cycle, substantially increasing the long-term need for storage across both our flash and HDD markets. In flash, the proactive measures we took during the downturn, along with our disciplined capital investment strategy, have significantly enhanced Western Digital's business agility and structural margin potential. Combined with our flexibility and bit allocation and continued progress in bringing highly the compelling enterprise SSDs to market, we mitigated headwinds in certain core end markets, achieving sequential and year-over-year revenue growth and improving flash gross margin beyond our through-cycle target. In HDD, the strength of our portfolio lies in our Ultra SMR technology, which empowers us to deliver the industry's highest capacity hard drives while ensuring unmatched reliability, quality, and performance. Western Digital has achieved record HDD gross margin in the highest revenue levels in 11 quarters, driven by the growing adoption of our Ultra SMR drives to meet the demand for scalable and cost-effective storage solutions. This technology is a key driver of our continued gross margin improvement with wide adoption at two cloud customers and a third expected ramp shortly. We anticipate Ultra SMR will continue to grow across the US and beyond, solidifying our leadership in the market over time. Now I would like to provide an update on our business separation plans. We are on track with the separation of our flash and HDD businesses. At the start of the fiscal second quarter, we completed our soft spin phase. Through meticulous planning and project management, this massive initiative has been executed exceptionally well, in the businesses have hit the ground running, thanks to the dedicated efforts of numerous teams over the past year. In the fiscal second quarter, we continued to execute our soft spin stage and are working diligently on the critical work streams needed as we make significant progress on the regulatory filings required in connection with the spin. Financing activities are anticipated to start soon, which will set the stage for us to execute the separation, which we expect will occur once we close the second quarter. I'll now turn to business updates. Starting with flash, revenue reached its highest level in nine quarters. Sequentially, revenue growth was driven by continued recovery in data center, fueled by strong demand for our enterprise SSD applications, which grew 76% sequentially, reaching the highest revenue levels since fiscal fourth quarter of 2022. The cloud tailwind in the quarter was offset by ongoing weakness in consumer and in client with PC OEMs, working down inventory and pushing out the refresh purchase cycle. On the technology front, we made significant progress with several hyperscaler and storage OEM qualifications, including developments with PCIgen5 data center enterprise SSD and our 30 and 60 terabyte high-capacity offerings. In addition, we continue to enhance our premium SanDisk brand by delivering on our leadership group blueprint and core devices roadmap, expanding our platform capabilities with product partnerships developing robustly. I'll now to our flash outlook. As we look ahead to the fiscal second quarter, we expect a continued ramp of our new enterprise SSD offerings to supplement seasonal strength in our consumer end market. Within client, we expect PC OEM demand to stabilize while gaming declines as we have successfully met the demand for the holiday season. We anticipate a recovery in our consumer and client end markets as we move through calendar year 2025. Furthermore, we are seeing high demand for our enterprise SSD product offering and anticipated to serve as the primary driver for revenue growth for the full fiscal year with qualifications doubling since the start of the fiscal fourth quarter 2024. We now expect our enterprise SSD mix to comprise over 15% of our overall portfolio bit shipments in fiscal year 2025, growing at a pace significantly faster than previously anticipated. Our overall view of the flash market remains positive as we maintain supply and demand balance by remaining committed to disciplined affiliated companies. OCTOBER 24, 2024 / 8:30PM GMT, Q1 2025 Western Digital Corp Earnings Call capital spending in improving profitability through proactive bit allocation across our most high value end markets, increasing our exposure to enterprise SSDs. Turning to HDD, in the fiscal first quarter, we achieved record revenue and data center, reflecting the strength of our near-line portfolio and our ongoing efforts to capitalize on market tailwinds. We are operating in an environment where demand for our products exceeds supply. To address this, we are working with our customers to improve our visibility into their future needs with our largest customers on a two to six quarter agreements cycle, aligning seamlessly with our proactive supply management strategy that supports predictable business operations and sustainable profitable growth. This long-term visibility allows us to not only better serve our customers, but also mitigate volatility while structurally improving our through-cycle profitability. On the technology front, we see increasing adoption of our Ultra SMR technology, showcasing strong confidence in our product's capabilities and benefits. In the fiscal second quarter, we launched our 32 terabyte Ultra SMR and 26 terabyte CMR drives, marking the world's first commercially available hard drives, with 11 disks. Developed with our time-tested and reliable EPMR and Ultra SMR technologies, we expect these products to complete customer qualifications and ramp in the coming quarters, delivering a compelling TCO to our customers and improving portfolio profitability. Turning to the HDD outlook. As we head into the fiscal second quarter, we anticipate continued momentum in data center to drive growth across our near-line portfolio. Adoption of our Ultra SMR product line is expanding, particularly among cloud customers. The HD business continues to undergo a positive structural transformation. Our thoughtful approach to commercializing our product line, especially our Ultra SMR technologies, has enabled us to drive record revenue in the midst of AI's emergence as another pivotal growth driver for the industry. And with improved visibility into future demand, the focus on operational excellence, efficient cost structure, and a strong commitment to maintaining a balanced supply demand dynamic, we are well positioned to continue delivering the most profitable and innovative product portfolio while establishing long-term industry leadership through our earnings potential. Let me now turn the call over to Wissam, who will discuss our fiscal first quarter results."
+    },
+    {
+      "speaker": "Wissam Jabre Western Digital",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thank you, David, and good afternoon, everyone. And the fiscal first quarter, Western Digital delivered great results with gross margin and earnings per share above the midpoint of the guidance range. Total revenue for the quarter was $4.1 billion, up 9% sequentially and 49% year over year. Non-GAAP earnings per share was $1.78. Looking at end markets, cloud represented 54% of total revenue at $2.2 billion, up 17% sequentially and more than doubling year over year. On a sequential and year-over-year basis, the increases were driven by higher nearline shipments in HDD and enterprise SSD bit shipments to data center customers. Client represented 29% of total revenue at $1.2 billion, flat sequentially and up 5% year over year. Compared to last quarter, flash bit shipment growth in gaming and mobile was offset by declining PC OEM while HDD revenue was flat. Year over year, an increase in flash revenue was primarily due to higher ASPs as bit shipments declined and was partially offset by lower HDD revenue. Consumer represented 17% of revenue of $0.7 billion, flat sequentially and down 7% year over year. Sequentially, a slight growth in HDD offset the declining flash driven by softer consumer demand. Year over year, the decrease was due to lower flash and HDD bit shipments, partially offset by improved pricing in both flash and HDD. Turning now to revenue by segment. In the fiscal first quarter, flash revenue was $1.9 billion, up 7% from last quarter and 21% year over year. Continued recovery in data center drove strong demand for enterprise SSD products. Sequentially, flash ASPs increased 4% on a like-for-like basis and decreased 6% on a blended basis. affiliated companies. OCTOBER 24, 2024 / 8:30PM GMT, Q1 2025 Western Digital Corp Earnings Call Bit shipments were up 14% from the previous quarter and down 12% compared to last year. HDD revenue was $2.2 billion, up 10% sequentially and 85% year over year. Sequentially, strong performance in the new loan portfolio led to a 14% increase in HDD exabyte shipments. On a year-over-year basis, total HDD exabyte shipments increased 107% and average price per unit increased 46% to $164. Nearline bit shipments were at a record level of 441 gigabytes, up 12% from the previous quarter and 157% compared to the fiscal first quarter of 2024. Moving to the rest of the income statement, please note, my comments will be related to non-GAAP results unless stated otherwise. Gross margin for the fiscal first quarter was 38.5%, which was at the higher end of the guidance range. Gross margin increased 220 basis points sequentially due to improved mix, better pricing, and continued focus on cost reduction. Flash gross margin was 38.9%, up 240 basis points sequentially, driven by a higher mix of enterprise SSD bits, improvement in like-for-like pricing, and continued cost reduction. In HDD, strong demand for nearline drives as well as efficient manufacturing operations and cost structure have driven continued margin expansion, resulting in gross margin of 38.1%, up 200 basis points sequentially. We have structurally changed the way we operate our businesses. Combined with our strong product portfolio, this has enabled us to generate gross margins above our long-term target ranges in both flash and HDD. Operating expenses were down sequentially to $691 million, including the synergies of $8 million. These results demonstrate continued focus on cost discipline while making progress on the execution of the business separation plans. Operating income was $884 million, up 33% sequentially, driven by better gross margins and disciplined spending. Operating margin was 21.6%, up 390 basis points sequentially, which is the highest in five years and was previously achieved at the higher revenue level. Income tax expense was $124 million, and effective tax rate was 16.1%. Earnings per share was $1.78. Operating cash flow for the fiscal first quarter was $34 million and free cash flow was an outflow of $14 million. Operating and free cash flows included payments of $418 million for the company's repatriation, tax installment, along with IRS settlement payments. Cash, capital expenditures, which include the purchase of property, plant and equipment and activity related to flash joint ventures on the cash-flow statement represented a cash outflow of $48 million. Fiscal first quarter inventory increased sequentially to $3.4 billion, with days of inventory declining by 5 days to 121 days. A decrease in HDD inventory was more than offset by an increased in flash inventory. Gross debt outstanding was $7.5 billion at the end of the fiscal first quarter. Cash and cash equivalents were $1.7 billion and total liquidity was $3.9 billion, including undrawn revolver capacity of $2.2 billion. After the close of fiscal first quarter, we completed the previously announced sale of 80% of equity interest in SanDisk Semiconductor Shanghai to JCET, thereby forming a joint venture between SanDisk China and JACET. Proceeds from the sale will be reflected in the fiscal second quarter's cash flow. I'll now turn to the fiscal second quarter non-GAAP guidance. We anticipate both flash and HDD revenue to grow on a sequential basis. In flash, we expect the ramp of the enterprise SSD products and seasonality of consumer demand to drive bit shipment increases in the mid-single digit percentage points. In HDD, we expect continued growth momentum in the nearline product portfolio. We anticipate revenue to be in the range of $4.2 billion to $4.4 billion. Gross margin is expected to be between 37% and 39%. We expect operating expenses to increase slightly to a range of $695 million to $715 million, including the synergy costs of $25 million to $35 million as we continue to make progress executing on the business separation plans. Interest and other expenses are anticipated to be approximately $110 million. Tax rate is expected to be between 15% and 17%. We affiliated companies. OCTOBER 24, 2024 / 8:30PM GMT, Q1 2025 Western Digital Corp Earnings Call expect EPS of $1.75 to $2.05 based on approximately $357 million shares outstanding. As shown in our guidance, we remain committed to executing our business, driving higher profitability and cost discipline while making great progress towards the completion of our business separation plans. I will now turn the call back over to David."
+    },
+    {
+      "speaker": "David Goeckeler Western Digital",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks Wissam. Let me wrap up and then we'll open it up for questions. Our results this quarter are a testament to our efforts to optimize our business for the long term and execute on our strategic initiatives. We are confident in our product road map across both our flash and HDD businesses and are excited by the significant opportunities ahead that each present, especially with the content renewed proliferation of the AI data cycle. As we continue to work towards the completion of our business separation plans, we are confident in our ability to drive long-term shareholder value and deliver the most compelling and innovative products to our customers. Let's begin the Q&A. Operator (Operator Instructions) CJ Muse, Cantor Fitzgerald."
+    },
+    {
+      "speaker": "C.J. Muse Cantor",
+      "company": "Fitzgerald",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yeah, good afternoon, and thank you for taking the question. I guess first question, you raised your enterprise SSD as part of the mix of 15%, which I think is a pretty important inflection. So I'm just hoping you could speak to the qualifications that you've seen. And in particular, would love to hear more around the recently announced qualification and with NVIDIA GB200 NVL72 rack-system. If there's any way to go to quantify how to think about the ramp and magnitude of incremental dollars your business, would be great."
+    },
+    {
+      "speaker": "David Goeckeler Western Digital",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Hey, CJ. Thanks for the question. Yeah, we feel really good about where the portfolio, as we've talked, I think, for quarter or so now about this. Our compute focus to PCIgen5 product, that's what was qualified by NVIDIA in their reference architecture that allows us to go to all the folks that are building those products for customers and being a good position to have those conversations as we drive that product more broadly in the market. We also have a very deep engagement with one -- couple of large hyperscalers on that product as well. So to your point, we've got more confidence in the growth of the portfolio. It's a very good demand environment. I don't think that's new news for enterprise SSDs. And it's nice to have the portfolio where we can play into that. And as you said, we expect our mix of bits. When you add it all up the in the fiscal year last quarter, we having this conversation. We thought it would be around 10% now are more in the 15% to 20% range. So demand keeps going up. The number of qualifications, we've doubled in the last quarter. So the traction with the portfolio is good. It's all -- aligns well with the AI data cycle. We put out there both for the compute focused SSDs and then the high capacity data lake focus, SSDs 30 and 60 terabytes. And again, the traditional products that we were selling to the hyperscalers are also doing well also. So just, I think that portfolio is something we've been working on for quite some time. As you know, we got qualified before the downturn. We came out of it with a better portfolio. I think we really did a good job. Teams did a great job throughout the downturn of staying focused on building those products and build a stronger portfolio. And now we're seeing the results of that. affiliated companies. OCTOBER 24, 2024 / 8:30PM GMT, Q1 2025 Western Digital Corp Earnings Call"
+    },
+    {
+      "speaker": "C.J. Muse Cantor",
+      "company": "Fitzgerald",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Very helpful. Thank you. And I guess a quick follow-up. You talked around the ongoing transformation of the HDD industry and now two to six quarters of customer visibility. We'd love to hear kind of how perhaps pricing negotiation is evolving and within that construct, do you have visibility today for pricing beyond one quarter in the drive business? Thank you."
+    },
+    {
+      "speaker": "David Goeckeler Western Digital",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure. I think as you said, we've gotten to the plant where I think we have a better supply demand balance in this industry for the first time. Well, let's just talk about our business. In our business for a very, very long time based on the actions we took coming out of the downturn. That matched against a fantastic portfolio that continues to get traction. We talked a lot about it in the script. Ultra SMR technology is really getting very good traction with customers that had adopted. Quite a bit of scale. I mean, once you go through the work to implement that technology, you get that additional 10% of capacity on every drive you deploy. So it gives customers a very good reason to keep deploying those drives. And we just had the third hyperscaler and get the official qualification very recently, and we expect them to ramp pretty quickly now over the next several quarters. So both of those things allow us to get more visibility into the business. More visibility, more predictability is always great on a business where you were vertically integrated. And it does give us also -- I've said it for many years now pricing is all about TCO. It's about delivering a better product. We deliver a better product that drives the TCO down for our customers. We get to participate in that equation and monetize that R&D that we developed. And we do just launched a 26 terabytes CMR, 32 terabyte Ultra SMR drive. So we expect that to ramp as we go through '25. And as we do that, that will bring better pricing and margin dynamics to the business."
+    },
+    {
+      "speaker": "C.J. Muse Cantor",
+      "company": "Fitzgerald",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. Thanks so much. Operator Joe Moore, Morgan Stanley."
+    },
+    {
+      "speaker": "Joe Moore Morgan",
+      "company": "Stanley",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. Thank you. I just want make sure I understand the steps towards separating the companies. You talked about having kind of prepared to stop spenders. So you're going to report -- you'll have two separate sets of numbers for the December quarter. And assuming if that goes well, you'll be able to file the Form 10 at some point during the March quarter. Is that the plan? And where the -- anything that could cause that to come later?"
+    },
+    {
+      "speaker": "David Goeckeler Western Digital",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. Let me walk through that, Joe, because a little different than you describe. So we will -- we're in the soft spin stage, which means we're still running the company has Western Digital, right? There's one company. But behind the scenes, we've separated all the systems into basically two stacks system. So for example, if customers want to send this orders now. They have to send us to different orders for HDDs and flash because they go into two different sets of systems, they have a different vendor ID for those. All of those kinds of issues. Our own teams as they go through the process to build those products, ship those products are logging into different systems to manage the flow of that business through the enterprise. Now in -- so what we're doing as we were running Western Digital, we're doing this behind the scenes. That's called the soft spin. We're actually essentially doing both. And what we'll do is we will execute in this mode for a full quarter because we want to go through a full quarter of all the financial things we do on a monthly and quarterly basis to give ourselves confidence that both of those systems work great. And then we'll go do the spin. affiliated companies. OCTOBER 24, 2024 / 8:30PM GMT, Q1 2025 Western Digital Corp Earnings Call So what we expect to do now is we will execute the business in this Form for the full second quarter. We will close the December quarter as Western Digital. We will only issue one set of numbers for Western Digital. We only did one guide for Western Digital this time. But behind the scenes, we're doing all that work to build confidence, we can do it as two separate companies. Sometime in the next, I would say a couple of months we'll flip the Form 10 to public. We're going through the final phases of that with the appropriate authorities. Once we get that done will make it public. So we can start financing activities for both businesses to basically get all the financing in place so that we -- once we close the books and we get confidence in that than we could then move on with the actual distribution. So that's the way it'll work. So cut through all that we got a lot of work to do. It's on track. You should think about this happening around the time we would do an earnings call for the December quarter."
+    },
+    {
+      "speaker": "Joe Moore Morgan",
+      "company": "Stanley",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. Thank you so much for that. And I guess, I get a lot of questions from more event driven types of investors about the resolve to do this in the wake of things are happening with your JV partner, things like that. So just maybe you could just kind of state how focused you are getting this time? Any impediments? Any chance that this doesn't happen from out of your discretion?"
+    },
+    {
+      "speaker": "David Goeckeler Western Digital",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "We're very focused on getting this done, Joe. As you know, we went through a thorough strategic review that we announced the outcome of October 30, of last year, and we started down this path. We knew it was a big thing to do vote. We're not -- the result of the strategic review. Is this is there right answer for our shareholders. We're not trying to time the cycle or anything else. So we plan to move forward with this when we're ready. And it's all about building confidence and the ability to execute two independent companies. And that's what we're driving to. I can't predict any -- everything that will happen in the future, but from our perspective we're driving to get this done as expeditiously as we can."
+    },
+    {
+      "speaker": "Joe Moore Morgan",
+      "company": "Stanley",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. Thank you, much."
+    },
+    {
+      "speaker": "David Goeckeler Western Digital",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks, Joe. Operator Karl Ackerman, BNP Paribas."
+    },
+    {
+      "speaker": "Karl Ackerman BNP Paribas Securities",
+      "company": "Corp.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yes, thank you. Two, if I may. First off, how much room do you have in your existing facilities to expand capacity of heads and media for hard disk drives? I ask if you just reported record exabytes in hard drives are moving about 180. And as we address that question, you spoke of a third hyperscaler that is qualified SMR, David and will ramp in the coming quarters. Is that for your 32TB offering? Or is that just a broad statement? Thank you."
+    },
+    {
+      "speaker": "David Goeckeler Western Digital",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I think there's a general -- we're not getting into specifics on any particular customer. I think in general, most customers want to go with the most dense drive they can once they start deploying. So we expect that customers will move to the 32 terabyte drive pretty quickly. And I think this is -- the product strategy I think is really playing out well here. These drives can be qualified very quickly. Customers understand the technology. It's been in their environment for quite some time. So I'm talking about the base ePMR technology and the base architecture we have in these drives. And now we can move capacity affiliated companies. OCTOBER 24, 2024 / 8:30PM GMT, Q1 2025 Western Digital Corp Earnings Call quickly. So in general, customers want to deploy the densest drive possible. So we expect the 32s as they once they get through qualifications, will start being deployed, let's say, as we move through '25. Your first question on capacity for heads and media. I mean, we don't really talk about what are you capacity is. We've sized our infrastructure for a number of units that we think is going to satisfy the market. And then we're going to increase exabytes by continuing to drive innovation and more density per unit. You're seeing that happen in real time as we just launched a new drive. And we've got the capacity at all the way through heads and media and test capacity and assembly to support that level of capacity. And that was really a big move in the downturn to get that right. And so that we can get our -- make sure we keep our costs under control. And then Karl, the real focus is to get more visibility from our customers and what their plans are and planning so that we can make sure we've got that capacity aligned with what demand is and try and dampen some of the volatility of the typical --. We typically talk about -- maybe not anymore, hopefully not anymore. We're talking about being ingestion cycles and then big degestion cycles. And we want to more predictable business and as we wanted to -- the key to that is visibility into customer demand."
+    },
+    {
+      "speaker": "Karl Ackerman BNP Paribas Securities",
+      "company": "Corp.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Very clear. Thanks. Operator Aaron Rakers, Wells Fargo."
+    },
+    {
+      "speaker": "Aaron Rakers Wells Fargo",
+      "company": "Securities, LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yeah, thanks for taking the questions. I'll stick with you as well. I guess the first question is going back to kind of operating the two entities separately now starting in this October period, can you just remind us again of how we should think about dissynergies? What may be factored into your December quarter guide? Clearly you're carrying two company cost structures. And then as kind of a follow-up to Karl's question, you are shipping nearline capacity 25% above your prior peak levels. If my math close to be right. How much of it -- how quickly can you bring on new capacity? And is there any way to frame like -- I can appreciate technology and aerial density expansion of the key driver, but do you see a situation where you will be constrained over the foreseeable next couple of quarters or just --? I'll love to dig a little bit deeper into Karl's question there."
+    },
+    {
+      "speaker": "Wissam Jabre Western Digital",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So let me start with the first part of the question, and I think your question was on dissynergies. So in the first quarter that we announced, we had approximately $8 million of this synergies in the operating expenses. And the guide there is a $25 million to $35 million of OpEx assumed in the OpEx in the current guide. In other words, the [705] midpoint of OpEx includes approximately, let's say, mid-point $30 million. Basically, as we said last time, the dissynergies are assumed to be roughly split 50-50 between the two operating businesses. And so this is what's in the guide. In terms of where we would be at this stage state. I would say at this point to it hasn't changed from what we discussed last quarter. And the steady state, I anticipate it to be roughly in the, let's say, $40 million range, divided equally by each of the businesses. So that's how we should think of it beyond this quarter. But for this quarter, it is around $30 million, plus or minus $5 million. Maybe for the second part of your question. I don't know, David, maybe I'll start making some comments and I'll ask David to chime in. With respect to the manufacturing capacity, our focus in the hard drive business, as we've said all along, is really on driving profitability and maintaining that supply-demand balance for our business. affiliated companies. OCTOBER 24, 2024 / 8:30PM GMT, Q1 2025 Western Digital Corp Earnings Call And so from where we stand now, we think is -- with good visibility that we're getting from our customers in the implementation of build-to-order, we think we're in a good place from a capacity or from a manufacturing capacity perspective, and we don't see the need for us to expand our manufacturing capacity footprint. I don't know, David, if you had a few things to add?"
+    },
+    {
+      "speaker": "David Goeckeler Western Digital",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I think that's right, Aaron. Look, I mean, at least the way I think about this, capacity -- if you look at the units we've shipped in the last two or three quarters, they've all converge pretty closely. So there's not a lot of variability in that number. It goes up and down some like less than 1 million units. But for an industry that shipped hundreds and hundreds of millions of units, not there that long ago, that's a pretty tight window. I think the way we're thinking about this is, what's demand going to be a year from now? It takes a year to build a hard drive. No matter what our wafer capacity is for heads, once we start a wafer, it's going to be a year before that shows up in a hard drive. So we really are working to understand is what demand is going to be a year from now and how our customers are thinking about that. And that's something new for them, right? And we're working through that process with them. And it's -- that everything's going in the right direction. We talked about -- we have between two and six quarters of visibility as we continue to get more visibility and develop conviction about what demand is going to look like over the next year plus then we'll start looking at the capacity question. And if it's different than what we plan, we'll think about capacity at that point. But we've there's still more work to do to understand what capacity is going to look like in that kind of timeframe before we start adding that cost back into the system. We don't want to -- I talked about in the script better through cycle dynamics. We don't want underutilization charges. We want more predictable flow of business and our supply chain wants that too. So that's just a little bit on how I'm thinking about it."
+    },
+    {
+      "speaker": "Aaron Rakers Wells Fargo",
+      "company": "Securities, LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Very helpful. Thank you, guys. Operator Timothy Arcuri, UBS."
+    },
+    {
+      "speaker": "Timothy Arcuri UBS",
+      "company": "Equities",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks a lot. Can you just talk about bookings on the HDD side? I mean, they see pricing going higher. They see you and Seagate talking about not adding capacity. So why would they not just placed shadow orders to make sure they get what they need a year from now? I mean, that's often how it works in memory. I certainly understand that the cycle times here are a much, much longer. But can you talk about that as sort of what is two to six quarter agreement cycle mean? Are these take-or-pay so that they can't just place shadow orders that they'd be on the hook to take this stuff when you build it? Can you talk about all that? Thanks."
+    },
+    {
+      "speaker": "David Goeckeler Western Digital",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, Tim, I would say the industry's evolving, right? This is something new. I mean this is an industry, the ones that long ago, all the business transacted every quarter. So we're asking customers more visibility, understanding what their demand is. They haven't particularly thought about this franchise that way and getting that much visibility into it. So they're big relationships, especially with the big hyperscalers, like very, very big relationships. Nobody wants to yank each other around unnecessarily. So I think it's in all of our best interest of us have as much visibility as possible so that we can supply the market. We don't want to short the market, but we are also don't want to basically build capacity that we don't have visibility into how it's going to be used. So at this point, it's not take-or-pay is just about getting visibility into kind of how they're thinking about their infrastructure and what affiliated companies. OCTOBER 24, 2024 / 8:30PM GMT, Q1 2025 Western Digital Corp Earnings Call their demand is going to be. So we know how much supply we're going to have, the ability to produce from a unit perspective that we get that align with their demand. And I would say we're working through that process right now. And I mean, clearly, the more visibility people -- our customers and partners can give us than we can allocate that future supply to them. And that's just kind of the process we're going through right now. So it's -- we're kind of walking into this and changing the industry, we think, in a very positive way for everybody involved. Operator Wamsi Mohan, Bank of America."
+    },
+    {
+      "speaker": "Wamsi Mohan BofA Global",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you so much. Your guidance suggests that a slight tick down in gross margins at the midpoint sequentially. Can you just help us think through the drivers of that? And you obviously the larger 11 flatter mass capacity drives too. How should we think of margins of with that scale higher as you go through the course of the course of fiscal '25? Thank you."
+    },
+    {
+      "speaker": "David Goeckeler Western Digital",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. So you got it right, Wamsi that is as we introduce new products, we have the opportunity to drive margin higher. We just launched the new product. It'll just start qualifications. So it's not going to start deployment for another couple of quarters. So in the HDD business, we're going to see margins basically flat q-to-q. Flash will see a little bit down driven by some -- the cost to the next quarter are a little bit up from what they usually would be probably what you guys model on a 15% down year over year we're going to get a quarter. We have a little cost increase just given the way the expenses are flowing. So I think that should help you understand the way the margins are going to work. Operator Harlan Sur, JPMorgan."
+    },
+    {
+      "speaker": "Harlan Sur J.P. Morgan Securities",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Good afternoon, and thanks for taking my question. So on enterprise SSD, it's taken a while, but now there's clarity on the really strong pie and right to the AI and accelerated compute clusters. Can you give us your view on a bit mix. But according to my calculations, I think June quarter enterprise SSD was about 7%, 8% of your total flash fabs effect. In the September quarter, it stepped up to about 12%, 13% of your flash revenues. Is that about right? And then on some of the recent stats on your high capacity 54 terabyte, 128 terabyte platforms targeted for AI. Looks like the team has really stepped up their competitiveness here. What have been the biggest drivers of that better performance with controller technologies, with firmware? Is it reliability, quality metric? Like any color here would be great. Thank you."
+    },
+    {
+      "speaker": "Wissam Jabre Western Digital",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, let me start with the first part of the question, Harlan, with respect to where we are from an enterprise SSD as a mix, we're basically in the Q1, we've exceeded little bit the 15% of that mix. And as David mentioned in his in his comments a bit earlier that we would expect for the year the mix of enterprise SSD as a percentage of total for that flash business to be between 15% and 20%."
+    },
+    {
+      "speaker": "David Goeckeler Western Digital",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So Harlan, on the competitive part, I mean, kind of you got it right. I mean, it's about getting the controller technology, right? And as I said, during the downturn, we stayed very focused on that. Got the right thing controllers built. We've always had great underlying nanotechnology. The bits roadmap is something we've talked about a lot. And we feel good about that now and going forward. We still got all the bit site in front of us in the 2 terabit die that helps build higher density enterprise SSDs as well because lower number of die to get the density. We're not quite there yet, but we have that in our future. So it's about getting it all of it aligned. And we stayed very focused over the last two, three years since I got here. This was a big focus of, again, going back to how we structure the company into kind of a business unit affiliated companies. OCTOBER 24, 2024 / 8:30PM GMT, Q1 2025 Western Digital Corp Earnings Call model, bringing in a general manager that can stay very focused on what should be built, stay on top of all the program, and make sure we deliver the right products that drive -- make the highest ROI investments and make sure those products -- those projects deliver the right products to market. And I think we feel good about where we're at. We're hitting this AI data cycle with the right -- it's the right time for the portfolio to emerge. We still got some more work to do, but we feel good about where we're at in the trajectory. Operator Krish Sankar, TD Cowen."
+    },
+    {
+      "speaker": "Krish Sankar TD",
+      "company": "Cowen",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yeah, hi. Thanks for taking my question. And Dave, thanks for the color. When I look at December quarter, you said flash revenues should grow, while bit shipments should be up mid-single digits. So what does it mean for ASPs. The reason I'm asking is that while eSSD is strong, you keep hearing the non-eSSD data points are not good. So that's what I'm wondering how to think about ASP. And if I may extrapolate, how to think about March quarter for both flash and hard drives, given there is some seasonality aspects of both those segments in March? Thank you."
+    },
+    {
+      "speaker": "David Goeckeler Western Digital",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, Krish, so you got. I mean, again, I think you've got it in the way you framed your question. The flash market is a big market. There's a lot of submarkets inside of it. The PC market is -- some inventory there. Those customers restocked and not replenished inventory there, just building to demand at this point,. Same with smartphone. The consumer business has just been a little bit soft. So you've got kind of that dynamic. And on the other side of it, you've got very, very strong enterprise SSD. Now as we go through '25, we expect those smartphone and PC markets to recover as we go throughout the year and be stronger. We could talk about that more detail. But I think that's a well understood topic. And we expect enterprise SSD to stay very strong. But when you then you look at on a sequential basis, you're looking at basically flat blended pricing and a little bit of cost headwind, which is where you get a little bit of a sequential decline in margins. Going, it's a little early to talk about the March quarter, but again, you got it right on seasonality there. There might be some seasonality head. I would expect some seasonality headwinds going into the March quarter, but we'll have more to say about that as we move through the quarter and especially gets at this time next quarter. Operator Amit Daryanani, Evercore."
+    },
+    {
+      "speaker": "Amit Daryanani Evercore",
+      "company": "ISI",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks for taking my question. I guess, Dave, if I just go back to the 100 -- exabyte shipments of 163 on the HDD side, how do you get confidence that this is not sitting in inventory versus actually getting deployed by customers? Is there any metrics in the UC internally that gives you confidence that this is actually getting used up and not piling up as inventory potentially? Anything on that front would be really helpful to understand. And then Wissam, have you just touch on your CapEx expectations for HDD and flash business for rest of the year, that would be helpful. Thank you."
+    },
+    {
+      "speaker": "David Goeckeler Western Digital",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, we know we don't see a lot of inventory at the big players, right? We're coming off of --. We're still like in a cyclical recovery from the very deep, deep downturn we're coming out of and we're very, very close to these customers given the size of the relationship. So we affiliated companies. OCTOBER 24, 2024 / 8:30PM GMT, Q1 2025 Western Digital Corp Earnings Call don't think so there's excessive inventory being built here or double ordering or any of that happening. We think everybody's just trying to figure out what their future demand is, so we can make sure we do the best we can to meet it. And they give us the best, the highest integrity signal possible on what that demand is."
+    },
+    {
+      "speaker": "Wissam Jabre Western Digital",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And with respect to the CapEx, Amit, what we've started doing last quarter is we're talking about CapEx for the quarter. So for this quarter, I expect our gross CapEx to be more or less in line with the last few quarters -- the average over the last few quarters. So there's no reason inflection. Operator Thomas O'Malley, Barclays. Thomas O'Malley Barclays - Analyst Hey, Dave, Wamsi. Thanks for taking the question. I just wanted to ask you to help quantify the benefit on the eSSD side versus the traditional million portfolio. Obviously, you're saying that grows from 15% today, 15% to 20%, so a nice tailwind throughout the year. But just on a like-for-like basis, could you just try to help describe what that tailwind means? Obviously, you're not going to give exact pricing, but just give us a flavor for how beneficial that is for the business. Thank you."
+    },
+    {
+      "speaker": "David Goeckeler Western Digital",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, it's accretive to the portfolio, let's put it that way. That's a good starting point. You probably knew that, but it tends to be one of the better, if not the best price markets in the flash business. So it provides a nice tailwind to the portfolio. Operator Srini Pajjuri, Raymond James."
+    },
+    {
+      "speaker": "Srini Pajjuri Raymond",
+      "company": "James",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you, David, just to follow up to the previous question, I'm looking at your flash ASPs being down 6% on a blended basis. But on a like-for-like basis, it's only down 4%. So it seems somewhat counterintuitive because your eSSD mix is growing, but the blended ASP is actually worse then like for like. I'm just trying to understand those dynamics as to why that's the case. And as I guess, eSSD grows, how should we think about the blended ASP going forward? Thank you."
+    },
+    {
+      "speaker": "David Goeckeler Western Digital",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. So I think it's even a little different that what you said, I think you said down 4% on like-for-like. Like-for-like was up 4% blended was down 6%. So it's all mix related. I think we said going into this quarter, we were mixing more into mobile. Clearly, as we mix in more enterprise SSD, that helps. But that's an emerging story and ascendant story for us. And so that's why you see that dynamic there. Operator Ananda Baruah, Loop Capital."
+    },
+    {
+      "speaker": "Ananda Baruah Loop Capital",
+      "company": "Markets, LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I appreciate it. Thanks for question. Actually, I wanted to ask you could you refresh our memory on what your conventional technology areal density roadmap looks like kind of up until -- I know you talked about Hammer loosely kind of next few year, but how should we think about the conventional tech areal density roadmap up until then? That would be helpful. Thanks a lot."
+    },
+    {
+      "speaker": "David Goeckeler Western Digital",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Well, it's -- that's a very interesting area to explore. One thing is, as it changes over time as you keep getting better -- and I think a good example of that is we just introduced in 11 platter drive. I think for a long time, people thought 10 was probably the limits, given the form factor. But advance is it material science and things like that allows us to build dinner platters and we can put it in 11 thin and there you go, you get 10% more just by doing that. So it's always an evolving story, but we clearly see the ability to drive our current platform to 40 terabytes to make that bridge from 30 to affiliated companies. OCTOBER 24, 2024 / 8:30PM GMT, Q1 2025 Western Digital Corp Earnings Call 40. We're driving through that now. And that's where we expect hammered be introduced to carry the portfolio from there. So we think we've still got a generation or so here to go. We just announced one generation that just came into the market this quarter. Customers are excited about it. They have it in their labs. They're trying to get it qualified. They want to get it deployed. I'm not going to announce a new product here right now, but you can assume there's going to be another generation after that. So we've got quite a bit of runway here on the portfolio, and those drives are drives that customers really understand they're in their infrastructure now. There are, it's a straightforward qualification process. They understand the performance. They understand the reliability, the quality of those drive. So really feel good about the technology decisions we've made to kind of fuel this market. And now we have kind of these AI tailwinds behind it. And I think the portfolio is just extraordinarily well positioned to continue to drive growth in the business and continue to drive increased profitability. Operator Asiya Merchant, Citigroup."
+    },
+    {
+      "speaker": "Asiya Merchant Citi Investment",
+      "company": "Reserach",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. Thank you for taking the call -- taking the question. So just in terms of HDD, I understand that this trend here continued trend here in the December quarter. We typically see some seasonality on the flash side in the March quarter. Given the strength you're seeing the HDD side, should we expect some seasonality here in the March quarter on the HDD side as well, both in terms of bit shipments and then also on the ASP side? Thank you."
+    },
+    {
+      "speaker": "David Goeckeler Western Digital",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. I mean, it's a little early for March, but I don't think that's a bad assumption to make at this point from where we are. I see that on the HDD side as well. Operator Steven Fox, Fox Advisors."
+    },
+    {
+      "speaker": "Steven Fox Fox Advisors",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi, good afternoon. I was just wondering if you could provide a little bit more color into the manufacturing efficiencies you think you get on a regular basis, how the HDD business. I would imagine there's de-bottlenecking still going on and also as mix changes, it helps to utilization on that had some platters. I don't know if there's any rule of thumb we can think about or just maybe a little bit more color on that would be helpful. Thank you."
+    },
+    {
+      "speaker": "Wissam Jabre Western Digital",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I mean, the way to think of it is we typically have -- obviously many programs in terms of cost reductions, which would drive manufacturing efficiency as well as things like improving yields, et cetera, and various parts of the supply of our manufacturing sort of process. The typical, I mean -- I don't know if there's a typical, but to the way to think of it is we would still be getting in the cost improvements in the probably mid to high single digit percentage on annual basis. That will be probably a fair assumption. But of course, it varies. It varies, of course, with respect to how we move from one capacity point to another as well. So it's not like a linear thing. Operator Vijay Rakesh, Mizuho."
+    },
+    {
+      "speaker": "Vijay Rakesh Mizuho Securities",
+      "company": "USA",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks. Just a quick question on the Ultra SMR 32 terabyte, with 11 disk, are you be able to still make it accretive on the margin side to your current portfolio? And also on the flash side, just wondering what the CapEx looks like for next year? This year, I think you had like a pointed fairly low cash outlay on the CapEx side. But just wondering how it looks like next year. Thanks. affiliated companies. OCTOBER 24, 2024 / 8:30PM GMT, Q1 2025 Western Digital Corp Earnings Call"
+    },
+    {
+      "speaker": "David Goeckeler Western Digital",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, I mean, the 32 terabyte Ultra SMR drive is a perfect example of us delivering a drive to our customers that drives our TCO down. So as we drive their TCO down, it will drive our profitability up. And so we're very anxious to get that drive deploy just like our customers are. And we expect that will provide some profitability tailwinds to the business."
+    },
+    {
+      "speaker": "Wissam Jabre Western Digital",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. And with respect to the flash CapEx, as I mentioned earlier, we're not providing any sort of longer-term view in terms of quantitatively. But what I would say is, we'll continue to be focused on the profitability of the business. And so when -- our focus is really to drive costs down. But when you look at CapEx, last fiscal year, our CapEx was very, very low. So you'd expect it to be a little bit higher from there. Operator Matt Bryson, Wedbush."
+    },
+    {
+      "speaker": "Matt Bryson Wedbush",
+      "company": "Securities, Inc",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks for taking my question. Sure. What I was wondering, your hardware pricing was relatively stable quarter over quarter. I would have thought with the greater shipments into the cloud as well as the mix of towards hard copy drives. you would have seen a little bit of benefit there. And then just one more point. When you talk about there being production constraints, one of the things that are I've heard is being constraining factors test paradigm telling us that they're not seeing a test stores. Should we take that as a sign that the hard drive industry is acting in a more rational fashion than in the past? Thank you."
+    },
+    {
+      "speaker": "David Goeckeler Western Digital",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. I mean, look, on the second part of the question, I think we've just been pretty clear. We've kind of set our manufacturing capacity for a certain number of units. We think that unit times what our product roadmap is going to satisfy the exabyte growth in the industry. And we are good with where we're at. And again, if we get strong enough signals from our customers that four to six quarter timeframe, then we'll -- we can start talking about what that means for our production capacity. But we got a ways to go before we get something like that. On pricing, we did see a little bit of like-for-like pricing increase, very low single digits this quarter. It was good, a good quarter for margin improvement again in HDD. 38.1%, another record. I think we've added over 15 points of margin in the last four quarters. So it's been a good run. We'll take a little breather here maybe for a quarter. And then as new products get deployed, will see more tailwinds behind that. So we just feel like this business is in a great spot. And quite frankly, that's because our technology is in a great spot and it's really being adopted strongly by our customers. They're very much voting with their dollars behind the architecture that we're driving. And then during the downturn, the teams just did an awesome job of really getting our costs in the right spot to support this business and get supply demand balance. So we feel good about the business, and we look forward to drive us forward over the next several years. Operator Thank you. That concludes the question-and-answer session. I'd like to turn the conference back over to the management team for any final remarks."
+    },
+    {
+      "speaker": "David Goeckeler Western Digital",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Hi, everyone. Thanks for joining today. I really appreciate the interest in the business and all great questions, and we look forward to talking to you throughout the quarter. Take care. affiliated companies. OCTOBER 24, 2024 / 8:30PM GMT, Q1 2025 Western Digital Corp Earnings Call Operator Thank you. This concludes today's conference call. We thank you all for joining. You may now disconnect your lines and have a wonderful day. In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. affiliated companies."
+    }
+  ]
 }

@@ -4,5 +4,422 @@
   "quarter": "2024Q2",
   "sector": "IT",
   "filename": "2024-Aug-07-HOOD.OQ-140182351124-Transcript.pdf",
-  "segments": []
+  "segments": [
+    {
+      "speaker": "Chris Allen",
+      "company": "Citi",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Matthew O'Neill FT Partners - Analyst"
+    },
+    {
+      "speaker": "Ben Budish",
+      "company": "Barclays",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Operator Thank you for standing by, and welcome to Robinhood's second-quarter 2024 earnings conference call. (Operator Instructions) I would now like to hand the call over to Chris Koegel, VP of Corporate FP&A and Investor Relations. Please go ahead."
+    },
+    {
+      "speaker": "Chris Koegel Robinhood Markets",
+      "company": "Inc",
+      "role": "Vice President, Investor Relations and Corporate Financial Planning and Analysis",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thank you, Latif, and thank you to everyone for joining Robinhood's Q2 earnings call. With us today are CEO and Co-Founder, Vlad Tenev; and CFO, Jason Warnick. Before getting started, I just want to remind you that today's call will contain forward-looking statements. Actual results could differ materially from our expectations, and we have no duty to provide updates unless legally required. Potential risk factors that could cause differences, including regulatory developments that we continue to monitor, are described in the press release we issued today, the earnings presentation, and our SEC filings, all of which can be found at investors.robinhood.com. Today's discussion will also include non-GAAP financial measures. Reconciliations to the GAAP results we consider most comparable can be found in the earnings presentation. With that, let me turn it over to Vlad."
+    },
+    {
+      "speaker": "Vladimir Tenev Robinhood Markets",
+      "company": "Inc",
+      "role": "Chairman of the Board, President, Chief Executive Officer, Co-Founder",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thanks, Chris. Hi, everyone. Let me start with the three things Robinhood is focused on: number one, winning the active trader market; number two, increasing wallet share with our customers; and number three, expanding internationally. We're making progress across all three of these. And in Q2, we delivered another quarter of strong outcomes and several financial records. More specifically, our retail trading market share continue to increase, leading to year-over-year growth in equity option and crypto volumes. Net deposits were a new record of $13 billion in the quarter, translating to a 41% annualized growth rate. With $11 billion in Q1, we've already exceeded our long-term annual target of 20%-plus, and we're only halfway through the year. Gold subscribers reached a record 2 million, which is over 60% year-over-year growth, and now over 8% of funded customers are Gold members. And these results, combined with continued expense discipline, drove 40% year-over-year revenue growth to a record $682 million as well as record EPS of $0.21. There's still so much to do, so we're not slowing down. On the active trader front, we've been consistently growing our market share among equities and options. But until recently, one area affiliated companies. AUGUST 07, 2024 / 9:00PM GMT, Q2 2024 Robinhood Markets Inc Earnings Call where candidly our progress has not been so great is margin. And this is a huge opportunity for us as brokerage incumbents generate far more revenue on margin than even trading. In particular, we were not getting much adoption from customers with larger margin balances because our rates were not very competitive. So we introduced industry-leading rates for active traders in May. And this, coupled with the continued improvements we're making to the accounts transfers flow led margin balances to grow by over 20% in the last five weeks of the quarter to a two-year high of $5 billion. Now, 75% of that growth came from customers with margin balances over $100,000. So we're really pleased with the progress we're making on margin with our large active customers. And we're continuing to see strong margin balance growth in Q3. Finally, we're nowhere close to being done building for active traders. There's plenty more coming, including our inaugural Hood Summit in October. We have a lot of positive feedback from our gold event in March. So we decided to host this special event just for our active traders, and this will be much bigger than the Gold event. We'll be launching some awesome new products that we can't wait to tell you about. Now, let me turn it over to Jason to review our financial results, and then I'll offer some additional thoughts."
+    },
+    {
+      "speaker": "Jason Warnick Robinhood Markets",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thanks, Vlad. It's good to speak with everyone today. As we discussed last quarter, we are focused on driving another year of profitable growth. And in Q2, we continue to make good progress. We drove new highs in revenues, adjusted EBITDA, net income, and GAAP EPS in Q2. Compared to a year ago, total net revenues grew 40% to $682 million. Adjusted EBITDA roughly doubled to $301 million. Incremental margins were 77%. Adjusted EBITDA margins expanded by 13 points to 44% as we make progress over time toward the 50%-plus levels comparable to what we see from incumbent brokerage firms. And net income was $188 million, or $0.21 per share, up 7 times from a year ago. And taking a look at the past year, it's great to see how a number of strong quarters came together. For the last 12 months, revenues were over $2.2 billion, and adjusted EBITDA was over $800 million, both new highs. We're pleased with these results as we aim to continue delivering profitable growth in 2024. Now let's move to Q2 business results. Assets under custody finished Q2 at a record $140 billion, up 57% year over year. A key driver of that asset growth was record Q2 net deposits of over $13 billion, which translates to a 41% annualized growth rate. It's also great to see how assets continue to diversify. Retirement AUC was nearly $9 billion in Q2, more than doubling from last quarter. And cash sweep balances were a record $21 billion in Q2, up 76% year over year. We're also driving growth in Robinhood Gold, which continues to deliver value to both our customers and our shareholders. As a reminder, Gold subscribers, on average, are seven times larger than our customers overall, have been growing net deposits twice as fast and adopt products at higher rates, leading to Gold ARPU that is over seven times our customer average. In Q2, we grew Gold subscribers to 2 million up over 60% year over year. This represents an adoption rate of 8.2% of customers, up from 5.3% a year ago. We are excited to see continued momentum in our Gold program, which now includes annualized recurring subscription revenue of over $100 million. Now let's turn to our financial results, starting with Q2 revenues compared to last quarter. Transaction-based revenues were roughly flat as equities and options increased, while crypto revenues declined with industry volumes. Net interest revenues grew due to higher securities lending activity and higher interest-earning asset balances, and other revenues increased driven by proxy seasonality and continued growth in Robinhood Gold. affiliated companies. AUGUST 07, 2024 / 9:00PM GMT, Q2 2024 Robinhood Markets Inc Earnings Call Turning to second-quarter expenses. Combined adjusted OpEx and SBC was $493 million in Q2. This includes increased employee bonus accruals given the strong start we've had to the year, as well as some costs related to our two recently announced acquisitions, Bitstamp and Pluto. All in, through the first half of the year, our expenses are on track with the middle of our full-year outlook range of $1.85 billion to $1.95 billion. So we're keeping our outlook unchanged, and we'll continue actively managing our expenses based on the returns we see on our growth investments as well as the macro environment. Before I pass the call back to Vlad, I want to share some perspectives about how we are thinking about capital deployment. When we think about capital allocation, our primary objective is to maximize earnings and free cash flow per share over time. We do this by allocating capital to organic growth and M&A to drive earnings and free cash flow higher, and we complement that with share repurchases that can increase the value per share. And in Q2, we made good progress. First, we continued to invest in organic growth in areas like product development, marketing, and customer matches. We have a lot of momentum and I like the economics we're driving. Second, we announced two acquisitions. In June, we signed an agreement to acquire Bitstamp, a global crypto exchange. We believe it will accelerate our crypto roadmap, enabling us to serve a broader user base, enhance our capabilities, and provide additional liquidity for crypto trading. Additionally, we acquired Pluto to help us move even faster in AI and advisory. We're excited to share more as we make progress here. And finally, we announced a $1 billion share repurchase authorization which we started executing in July and currently expect to execute over a two- to three-year period. This timeline could vary depending on market conditions and other capital allocation opportunities. Looking ahead, we believe we are well positioned to drive higher earnings and free cash flow per share over time, driven by our 20%-plus net deposit growth, naturally hedged business model, and 90% fixed cost base. And we have a lot of momentum entering the second half of the year as our business is having a great start to Q3. As context, June was a strong month with nearly record options volume close to a 24-month high for equities volume and over $4 billion of net deposits. And in July, trading volumes were more than 20% higher than June across equities, options, and crypto, and net deposits were again over $4 billion. While August is just getting started, so far, it looks a lot like July, including over $1 billion of net deposits in the first week of August. With that, I'll turn the call back to Vlad."
+    },
+    {
+      "speaker": "Vladimir Tenev Robinhood Markets",
+      "company": "Inc",
+      "role": "Chairman of the Board, President, Chief Executive Officer, Co-Founder",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks, Jason. As I said earlier, the second part of our strategy is increasing wallet share with customers, including growing Robinhood Gold subscriptions, which hit an all-time high in Q2. And we've been busy rolling out additional value for Robinhood Gold customers, including a 1% unlimited deposit boost and a new Gold credit card with 3% cash back. Now I've talked before about how we've been seeing the flywheel accelerate, and I thought I would explain in a little bit more detail how it works. So here it goes. First, our Gold members receive industry-leading economics and a world-class customer experience across all of our products and services. This leads to double the net deposit growth and higher multi-product adoption, including retirement adoption that's five times that of average customers. And as the flywheel spins, it leads to greater customer loyalty and ARPU, that's over seven times that of our average customer. And this leads to faster Gold member growth at a better ROI. The different components of the flywheel are self-reinforcing, leading to higher customer satisfaction, higher revenues, and greater diversification for our business over time. So we had a strong Q2, and you should know our team has been working incredibly hard to affiliated companies. AUGUST 07, 2024 / 9:00PM GMT, Q2 2024 Robinhood Markets Inc Earnings Call deliver even more value to our customers. Roadmap is full. There's so much to do. Now, let's move to questions."
+    },
+    {
+      "speaker": "Chris Koegel Robinhood Markets",
+      "company": "Inc",
+      "role": "Vice President, Investor Relations and Corporate Financial Planning and Analysis",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you, Vlad. For the Q&A session, we'll start by answering the top few shareholder questions from Say Technologies ranked by number of votes. We passed over questions that have already been answered on this call or in prior quarters and group together questions that share a common theme. After the Say questions, we'll turn to live questions from our analysts. So, I'll kick it off with our first question from Say. The first question is, when are you rolling out the credit cards?"
+    },
+    {
+      "speaker": "Vladimir Tenev Robinhood Markets",
+      "company": "Inc",
+      "role": "Chairman of the Board, President, Chief Executive Officer, Co-Founder",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks. Thanks to Chandler, the question asker. So we started rolling out the credit card a few months ago, and we recently announced that we've crossed 50,000 cardholders. And we recognize the demand for the credit card is high, and the feedback that we've gotten so far from customers is also very, very positive. People love the card. Customers love the rewards. They love everything about it, the in-app experience, the digital experience, the card itself. The app so far has a 5.0 rating on the App Store with over 7,000 reviews. So there's a lot of demand to roll it out faster. Just to set the context, if you compare the rollout of our credit card with other successful card programs in the past, we're kind of right on track, rolling it out at the same rate roughly in year one. And these programs tend to start off a little bit more slowly as the unit economics are validated and the customer activity around borrowing and spending is validated as well. So we recognize that there's a ton of demand. Part of that is also because people are seeing the card in the wild and seeing the positive reviews. And we want to build that demand, but we're going to be prudent and make sure we do it while carefully managing the risks of any new business."
+    },
+    {
+      "speaker": "Chris Koegel Robinhood Markets",
+      "company": "Inc",
+      "role": "Vice President, Investor Relations and Corporate Financial Planning and Analysis",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "All right. Thank you, Vlad. The next question asks, can we get more information on the AI company that you just acquired?"
+    },
+    {
+      "speaker": "Vladimir Tenev Robinhood Markets",
+      "company": "Inc",
+      "role": "Chairman of the Board, President, Chief Executive Officer, Co-Founder",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, absolutely. I'll take this one as well. We're really excited about Pluto. They're an AI-powered investment research platform, and the team is really, really great. And in terms of what we plan to do with the team and the technology, we think they can help us accelerate the work we're doing both in AI and in advisory. And we've got some really good stuff in the works there. So stay tuned."
+    },
+    {
+      "speaker": "Chris Koegel Robinhood Markets",
+      "company": "Inc",
+      "role": "Vice President, Investor Relations and Corporate Financial Planning and Analysis",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "All right. Thank you, Vlad. And then the last question from Say, do you ever plan on releasing a desktop version of Robinhood with more in-depth chart analysis capabilities?"
+    },
+    {
+      "speaker": "Vladimir Tenev Robinhood Markets",
+      "company": "Inc",
+      "role": "Chairman of the Board, President, Chief Executive Officer, Co-Founder",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. As a matter of fact, this is one of the top things that we've been focused on this year. And we've been actually making sure that the platform is very, very good. I've seen some demos of it, and the demos are looking great. And I think it's going to be an amazing product that customers will love. So stay tuned. We can't wait to share it with you, guys. affiliated companies. AUGUST 07, 2024 / 9:00PM GMT, Q2 2024 Robinhood Markets Inc Earnings Call"
+    },
+    {
+      "speaker": "Chris Koegel Robinhood Markets",
+      "company": "Inc",
+      "role": "Vice President, Investor Relations and Corporate Financial Planning and Analysis",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "All right. Thanks, Vlad. That concludes our shareholder questions from Say Technologies. We appreciate our shareholders taking time to ask these questions to Vlad and Jason and look forward to more next quarter. Now, I'll turn the call back over to Latif to lead Q&A from our analysts. Operator (Operator Instructions) Dan Dolev, Mizuho."
+    },
+    {
+      "speaker": "Dan Dolev Mizuho Securities",
+      "company": "USA",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hey, Vlad. Hey, guys. Really good results here. Really amazing results here as always. I want to know about all the growth you're seeing in the 24-hour markets. And can you give me some color on the outage from earlier this week because we've got a lot of questions about it? Thank you and great stuff."
+    },
+    {
+      "speaker": "Vladimir Tenev Robinhood Markets",
+      "company": "Inc",
+      "role": "Chairman of the Board, President, Chief Executive Officer, Co-Founder",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, yeah. I'll field that one. And thank you, Dan. So about 24-hour market, I first want to say that with this product, we're on the bleeding edge of technology in trading. This product is not commonly available with such a large instrument base to customers. And with any new product, there's some -- sometimes things don't go exactly right. In this particular case, the third-party ATS that we route orders to, which is called Blue Ocean ATS, had some technology issues. They couldn't handle the extreme demand this Sunday. And they had to shut down, and this is disappointing for customers. I mean, we've had our share of scaling pains in the past. This time, it's a third party, which is nonetheless, very, very frustrating. But we've been working with the team over at Blue Ocean, making sure that we're being as helpful as possible in them scaling their infrastructure, helping them with testing. And we are confident that they have a testing and scaling plan in place that will allow us to release this product safely and handle much larger load across all the symbols we offer. And I think that's planning to be instituted in the next week or so. I should also mention, 24-hour market has been incredibly successful, and that's partly the cause of all this attention. We're nearing $30 billion in volumes since launch in the overnight hours, and we're really excited because this product is one of the reasons why we believe that customers would be advantaged on Robinhood, and they would have access that they wouldn't have on other platforms. So we're going to continue to invest in it. As with any product on the bleeding edge of innovation, you should expect the reliability and the quality to improve consistently over time. And we're going to make sure we continue to work with our partners, including Blue Ocean, so that we can deliver that for you all."
+    },
+    {
+      "speaker": "Dan Dolev Mizuho Securities",
+      "company": "USA",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Amazing momentum. Thanks again."
+    },
+    {
+      "speaker": "Vladimir Tenev Robinhood Markets",
+      "company": "Inc",
+      "role": "Chairman of the Board, President, Chief Executive Officer, Co-Founder",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks, Dan. Operator Steven Chubak, Wolf Research."
+    },
+    {
+      "speaker": "Steven Chubak Wolfe",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Vlad, Jason, Chris, good afternoon. Hope you're well. Hi there. So I wanted to start off with a question just on a bigger picture one, the crypto strategy. There's been some speculation that we could get some improved regulatory clarity on the crypto side, especially with the change in administration. affiliated companies. AUGUST 07, 2024 / 9:00PM GMT, Q2 2024 Robinhood Markets Inc Earnings Call I was just hoping you could speak to the incremental revenue opportunity or how the strategy might evolve expanding your crypto offering, whether it's adding additional coins, staking, or lending. And specific to the quarter, what drove the higher crypto take rate in 2Q?"
+    },
+    {
+      "speaker": "Jason Warnick Robinhood Markets",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So I'll go ahead and start. It's Jason here, and Vlad can contribute with his thoughts as well. So in terms of what the implications would be of improved regulatory environment for crypto, I think what that would do is really allow us to innovate more rapidly and bring more to market what customers would like to see in crypto. And in the current situation, we're able to do that more in the EU than we are in the US. And I know that can be frustrating for our customers. And so, I think you hit on some of the top things. We'd be able to offer more coins. And certainly, there's a wide selection of coins that because of the regulatory environment, we're not comfortable listing today. We'd also be able to innovate in new products and services, things like lending and staking, and bring that to market. So in terms of the revenue opportunity, I mean, I think for tokens, you could just estimate looking at share of market and overall industry volumes as they are traded in other platforms here in the US and abroad, as well as the other services that we don't yet offer. So I think it could be meaningful, and we're continuing to work with our regulators to gain that clarity."
+    },
+    {
+      "speaker": "Vladimir Tenev Robinhood Markets",
+      "company": "Inc",
+      "role": "Chairman of the Board, President, Chief Executive Officer, Co-Founder",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. And I would just add that, of course, clarity is good, and we believe the US needs to be a leader in crypto, and we will get the clarity here in the domestic market. We haven't felt constrained by this with regards to our crypto business. We've been really happy at the speed of execution and innovation. Of course, we built a system that offers different products, Solana staking, more asset selection in the EU. In the US, there's plenty of work to do, and we believe we can be successful regardless of what administration ultimately ends up taking power in November or if it's the same one. We've done a lot of work to innovate on pricing. And you've seen year-over-year increases in market share and volumes of our crypto business as well. So there's plenty of work to do."
+    },
+    {
+      "speaker": "Jason Warnick Robinhood Markets",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "The second part of your question, Steven, was around take rates. And so, in the quarter, the crypto take rate was 38 bps. That's up 3 bps quarter over quarter. That's really due to pricing experiments. Looking at Q3 and July, the crypto take rates were in the low $0.40 range. And we'll see how we go from there. But we continue to offer great pricing to customers and we're excited to see how the quarter plays out."
+    },
+    {
+      "speaker": "Steven Chubak Wolfe",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "That's great color. And if I could just squeeze in one more just on the rate outlook. Fed future's now pricing in four additional cuts since the last earnings call. It might be helpful if you could just speak to the sensitivity to rate cuts or provide an update. But also, what are some of the potential offsets that you envisage on the revenue side that could help mitigate some of that pressure on NII?"
+    },
+    {
+      "speaker": "Jason Warnick Robinhood Markets",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure. I'll take that one. So first of all, we've got a lot of experience operating in different rate environments, high-rate environments, low-rate environments. One thing that we really like about our business is the natural offset between rates and trading. So as rates fall, asset values and trading tend to increase. And overall, lower rates tend to be a tailwind for growth for our business. I think there's a couple of important things to call out. affiliated companies. AUGUST 07, 2024 / 9:00PM GMT, Q2 2024 Robinhood Markets Inc Earnings Call First, we've been growing our interest-earning assets at a really nice pace. But not all of our interest-earning assets are sensitive to rate changes. So actually, over half of the balance of interest-earning assets relates to our cash sweep, and the spread we earn there is relatively fixed, which minimizes the impact of changes in rates. Second, we're broadening the way that we serve our customers. And that's leading to a much more diversified business for us. Specific to the question you asked about what the rate impact is, so assuming a 25-basis-point change or decline that would affect NIM by $40 million. And hard to predict the exact timing, but we feel good about the natural hedge. We have $1 billion of transaction-based revenue, and it takes a relatively small uptick in trading activity to offset that decline in interest."
+    },
+    {
+      "speaker": "Steven Chubak Wolfe",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "That's great color. Thanks so much for taking my questions."
+    },
+    {
+      "speaker": "Jason Warnick Robinhood Markets",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, you bet. Operator Craig Siegenthaler, Bank of America."
+    },
+    {
+      "speaker": "Craig Siegenthaler BofA Global",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Good afternoon, everyone. Hope you're all doing well. So my question is on big-picture organic growth. This was the second quarter in a row that your total organic growth has exceeded 40% annualized. Now, there's a lot of drivers in there like the matching efforts, but some of your initiatives like the UK brokerage and Europe crypto are very early innings. So we wanted to get your thoughts on the potential organic growth rate in the second half just given all the moving pieces. So is 40% sustainable?"
+    },
+    {
+      "speaker": "Jason Warnick Robinhood Markets",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So we have a long track record of 20%-plus organic growth rate, and we have a really strong first half of the year, as you pointed out. I think what I can say that would be helpful here is that that's continuing so far into Q3. We're seeing an incredibly strong July with activity across the three trading categories up 20% over the June levels, and we're seeing that continue in August. So over $4 billion of net deposits in July and over $1 billion in the first week of August. So all signs at this point in the quarter are showing that our customers continue to engage with us, continue to deposit their money with us. And I think as Vlad mentioned, we now have eight businesses where the annualized revenue run rate is over $100 million. And so, we're much more diversified today than we were even just a couple of years ago, and I think very well positioned, especially as we continue innovating for customers and rolling out new products to continue driving outsized organic growth."
+    },
+    {
+      "speaker": "Vladimir Tenev Robinhood Markets",
+      "company": "Inc",
+      "role": "Chairman of the Board, President, Chief Executive Officer, Co-Founder",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And I just want to emphasize one other thing I mentioned earlier in the remarks, which is that we haven't really taken the lid off of the new active trader products. Our active trader business is the most mature and investments that we make there have the most immediate impact on our business relative to our investments growing wallet share and also internationally. And we've got an event for our active traders in October, where we're going to unveil some new products. And I think we're getting very, very excited about it. So those results that you're seeing, I mean, they're good results. We're proud of them, but I think we have plenty of room to run on the active trader side, and that includes margin, but it also includes new product innovations that we've been making for the majority of the year. affiliated companies. AUGUST 07, 2024 / 9:00PM GMT, Q2 2024 Robinhood Markets Inc Earnings Call"
+    },
+    {
+      "speaker": "Craig Siegenthaler BofA Global",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Vlad, that's great to hear. On the innovation side, I think there's still a few product gaps versus some of the more established online brokers. And I'm thinking like custody mutual funds, fixed income products, CDs. Now, you do have ACAT functionality now and I think that helps, but can you provide us an update on some of the near-term product gaps that you can fill?"
+    },
+    {
+      "speaker": "Vladimir Tenev Robinhood Markets",
+      "company": "Inc",
+      "role": "Chairman of the Board, President, Chief Executive Officer, Co-Founder",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. Well, what I'll tell you is that on the active trader front, we've talked a lot about futures. We've talked a lot about how we're great on mobile, but there's a lot of existing customers that need the more power of a web interface and a desktop interface so they can take advantage of extra screen real estate and use better tools and charting. So those are gaps in a way, but also opportunities for us to really differentiate and innovate and jump ahead of what we've seen elsewhere. I think regarding more sort of like passive buy-and-hold assets like CDs and mutual funds, we're climbing the capability curve with our ACATS transfers product, and we made a ton of progress just this year, making the process of moving assets into Robinhood as easy as possible. I think that's really led to some of the bottom-line results that you're seeing, including net positive account transfers from every major incumbent brokerage firm for several quarters running now. And the goal would be to actually accelerate that over time. We see plenty of opportunity. We want to remove reasons that customers have for withdrawing, and we think we can systematically reduce reasons for withdrawals over the long run and also increase reasons for customers to deposit. And so, this is one thing we're really focused on, and it's going to take some time to play out. But I think you should see that reflect over the long run and increased net deposit activity. We're going to go through and add all of the assets that are missing. We're going to add all the capabilities, and then we're going to make sure the process of transferring is better at Robinhood than anywhere else. And then the incentives that we offer because of our economics are just kind of the cherry on top that I think will really accelerate asset growth into the platform. So there's so much to do here and we're just at the beginning. And we only started offering incoming ACATS in the past couple of years, and we've already made a ton of progress here. Operator Devin Ryan, Citizens JMP."
+    },
+    {
+      "speaker": "Devin Ryan JMP Securities",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi. Good afternoon, Vlad, Jason. Great quarter. Question, would love to just dig in a little bit around how you guys are thinking about the incremental margin potential from here over the intermediate term. So you're obviously already at a mid-40% EBITDA margin, 90% of the current expense base is fixed. And I know 50%-plus is the objective, but you really aren't that far away from 50%. So just love to think about like what the ceiling looks like here. Is there, one, because you have such an efficient tech stack infrastructure? And then is there anything on the roadmap that could drive a material acceleration in fixed expenses from the core base? I'm just trying to think about where we could go. I know what the targets are, but just the algorithm. Thanks."
+    },
+    {
+      "speaker": "Jason Warnick Robinhood Markets",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. I view the 50%, Devin, is more of a way station on our path to the longer-term margins. You've seen us drive substantial incremental margins over the last few years. This quarter it was 77%. And it's really a reflection of us driving up revenue and managing our costs closely. I think a good analogy to how we're thinking about costs long term is looking at what we did in 2024. We looked at our existing businesses and held those businesses to a low single digit and in some cases, negative OpEx growth rate. And we use those savings to help fund specific growth investments for the business. And there are many that we've been talking about and alluding to on this call. And we set aside an extra $100 million in marketing budget. And all of that translated to operating expense guidance that was up 5% at affiliated companies. AUGUST 07, 2024 / 9:00PM GMT, Q2 2024 Robinhood Markets Inc Earnings Call the midpoint, which we continue to reiterate. And so, I think we have a lot of opportunity to see continuing leverage in our existing business. And then you're going to see us on top of that continue to make very targeted high expected ROI investments for growth. In terms of things that are out there on the roadmap, it's too early to give specific guidance. The one thing I'd point to is we are rolling out our credit card. And as Vlad talked about, we're being very patient in the short term in the way that we approach that, but there will certainly be some incremental investments next year. But we'll stay tuned for specific guidance on next year."
+    },
+    {
+      "speaker": "Vladimir Tenev Robinhood Markets",
+      "company": "Inc",
+      "role": "Chairman of the Board, President, Chief Executive Officer, Co-Founder",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. The only thing that I would add to that, which I think is interesting, is I think we've talked a lot -- you hear a lot about AI and the impact on different sorts of companies. I think one area that we maybe haven't emphasized as much is how we've been making use of that operationally, including for engineering. And as we look at kind of the core engine of our business, we're creating software. We're rolling out products to companies. And our business, even though we're in financial services, is technology at its core. And we've seen a lot of impact in applying these AI tools on the engineering side, just making different parts of software development process easier and simpler. That's an area we're investing a lot in. And I think there's a lot of room to run. We've already seen significant productivity gains in the past year, and we think we're closer to the beginning than to the maturation point of that cycle. Operator Patrick Moley, Piper Sandler."
+    },
+    {
+      "speaker": "Patrick Moley Piper Sandler",
+      "company": "Companies",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yes, good evening. Thanks for taking the question. So I had one on the Gold offering. You've added a number of things over the last few quarters. You're planning to add more before the end of the year with the web-based platform and options and futures trading -- or index options and futures trading, rather. Just talk to us about your thoughts on pricing here. You're at $5 a month now. What's the appetite to go higher? And how do you kind of balance that pricing dynamic with your desire to continue to grow that subscriber base? Thanks."
+    },
+    {
+      "speaker": "Jason Warnick Robinhood Markets",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. I'll go ahead and take this one. What I'd say is our focus right now is increasing the adoption rate of our customers in Gold, and we're doing that by just continuing to invest in the Gold program. And we love the economics. I mean, it's great that we have the subscription revenue that's north of $100 million annually, but it leads to downstream effects, higher adoption faster net deposits, and seven times the ARPU. And so we're not feeling pressured in the short term to raise the price. It is something that we will continue to look at. And we don't have religion that we wouldn't touch the price over time. But right now, it's not the top priority. Operator Kyle Voigt, KBW."
+    },
+    {
+      "speaker": "Kyle Voigt",
+      "company": "KBW",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi. Good evening. Maybe a question on margin balances. So the impact of cutting your margin rates and the subsequent margin balance growth of 20%, I guess is there any way you can disaggregate how much of that growth is coming from existing Robinhood margin clients, simply utilizing margin more versus maybe customers where you know they were utilizing margin elsewhere and has simply transferred or switch that activity to Robinhood? And if there is some of that switching that's happening, can you comment on if the customer margin inflows have generally been from one firm or broad-based for retail brokers across the industry? affiliated companies. AUGUST 07, 2024 / 9:00PM GMT, Q2 2024 Robinhood Markets Inc Earnings Call"
+    },
+    {
+      "speaker": "Jason Warnick Robinhood Markets",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. I'll go ahead and take this. So it's mostly from existing customers, but we're seeing both existing as well as new customers take advantage of the lower margin rates. And we continue to see this grow in July. We talk about one of our top three strategic pillars is to be number one in active trading. And as Vlad mentioned, we've made a lot of progress on market share for both equities and options, and overall, are number two in active trading for those categories for trading, but we're a distant fifth in market share in margins. So it's a huge opportunity for us. We just lowered the rates in May, and we saw the 20% move to the end of the quarter, that's continuing in July. And we think that this is a really big opportunity, and we're definitely starting to take share there. We grew much faster than our peers in the second quarter, even with the May change in the rates. Operator Michael Cyprys, Morgan Stanley."
+    },
+    {
+      "speaker": "Michael Cyprys Morgan",
+      "company": "Stanley",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hey, good afternoon. Thanks for taking the question. Just wanted to ask for a little bit more color and update on the international expansion efforts, in particular in the UK, in Europe, and around the world. Just curious what sort of traction you're seeing so far, what steps are you looking to take here in the second half and into '25 in order to accelerate growth? And as you think about -- and look at building out the platform overseas, just curious what challenges you face versus having built out the business in the US and how you're looking to overcome some of those hurdles. Thank you."
+    },
+    {
+      "speaker": "Vladimir Tenev Robinhood Markets",
+      "company": "Inc",
+      "role": "Chairman of the Board, President, Chief Executive Officer, Co-Founder",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. Thanks for the question. I'll field that. In a nutshell, we like the early signs that we're seeing. So far, account balances overseas are a little bit smaller than the US on average, but the trading characteristics are pretty similar. And what we really like is as we hear from customers, both in the UK for brokerage and in the EU for crypto, they want things that we offer in the US. So UK customers are requesting margin and options, and EU customers are requesting the ability to trade stocks. So that, I think, validates in part our strategy of expanding with one unified platform internationally. And having the same technology be available in as many markets worldwide as possible. So our focus really is rounding out the feature set in the UK and in the EU, making sure that all of the great products that we have available in the US can be made available there. And that involves working with the relevant regulators in these jurisdictions, taking them along, and giving their customers access to all of these awesome products. We feel really, really good about that. And then simultaneously, we are looking into expanding to other jurisdictions. Operator John Todaro, Needham."
+    },
+    {
+      "speaker": "John Todaro Needham",
+      "company": "& Company LLC",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hey, guys. Congrats on the quarter. Good results here. I just wanted to drill down a little bit more on the Bitstamp. They offer a number of crypto offerings and then also the trading payers. This first part of that is, do you anticipate growing products with that acquisition in the US? Or are you still a little bit hamstrung on regulation that is the deciding factor? And then just two within that, Bitstamp historically has had higher trading fees than HOOD? Do you think those fees on the platform could kind of go higher as we saw take rate going higher here? Or should we not read into that Bitstamp piece?"
+    },
+    {
+      "speaker": "Vladimir Tenev Robinhood Markets",
+      "company": "Inc",
+      "role": "Chairman of the Board, President, Chief Executive Officer, Co-Founder",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I think there's two interesting things about the Bitstamp acquisition that you should know. One of them is international, the second one is institutional. The business is a global business. It operates in a lot of jurisdictions, and we could see that accelerating our international affiliated companies. AUGUST 07, 2024 / 9:00PM GMT, Q2 2024 Robinhood Markets Inc Earnings Call expansion on the crypto side significantly and also dovetailing quite nicely with the large retail business that we currently have at Robinhood and the great product innovation that we're driving there. The other thing we're excited about is institutional business, and they have great relationships with institutions. It's an area that we believe we're well positioned to tackle because we've built great technology for consumers, and institutions also want low cost for market access to crypto. And so, we're really excited about the acquisition and working really closely with the team and making our joint products better and better. And I wouldn't over-index on their fee structure at this point. I'd tell you, philosophically, we want to be the market share leader, and we want to offer really competitive rates to customers. And that's kind of the North Star that Robinhood operates under. We'd rather offer low fees and due to our investments in technology and infrastructure operate at larger scale than our competitors. So you should see us continuing to be aggressive there. But we don't have any specific. I think it's premature to talk about the specific changes to the fee structure at this point. Operator Chris Allen, Citi."
+    },
+    {
+      "speaker": "Chris Allen",
+      "company": "Citi",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks for taking the question, guys. I want to dig in a little bit on SEC lending, if possible. Seeing some really nice growth in the customers enrolled and the sort of custody enrolled. Just maybe talk about the outlook here. Are you seeing customers enrolled putting more money to work here? Are you seeing just the momentum pick up? And just during the quarter, was there any -- how would you frame the environment from a SEC lending perspective because it's a little slower at some of your competitors out there?"
+    },
+    {
+      "speaker": "Jason Warnick Robinhood Markets",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure. I'll go ahead and take that. I mean, the primary inputs to the business are signing up more customers, and we saw a really nice pick up there. About 400,000 customers joined the program in the quarter, and the assets that are enrolled, and that increased by a little over $6 billion. So really strong inputs into the business. I thought the trading desk did a really nice job. The other input is just the rates that are available and the specific names that we call specials, where there's a higher rebate that we'll earn on lending activity. And we saw some nice attractive returns in the quarter. So I'd say the inputs and the momentum of growing that program is really strong. The trading desk is just doing a great job, and we'll have to see how the rest of the year plays out. Operator Matthew O'Neill, FT Partners. Matthew O'Neill FT Partners - Analyst Yeah, hi. Good afternoon, good evening, everybody. Thanks so much for the question. Just wanted to follow up. Really, the only knit to pick here maybe was the monthly active user number, and I fully recognize the importance of that number is probably coming down over time as you diversify in some more products, and some are longer term and less frequently used. But just curious if there's anything to call out maybe around crypto activity or otherwise. Thanks."
+    },
+    {
+      "speaker": "Vladimir Tenev Robinhood Markets",
+      "company": "Inc",
+      "role": "Chairman of the Board, President, Chief Executive Officer, Co-Founder",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. I'll field that, and then maybe Jason will have some thoughts. What are the reasons we deemphasized monthly active users besides, as you mentioned, us investing in all these diversified products like Robinhood Gold, which is a yield-based product and retirement and us not directly monetizing monthly active users yet, like we don't have an advertising business, for instance, is that it's just volatile quarter to quarter. And a lot of the monthly active user variation is just driven by what's going on in the crypto market. affiliated companies. AUGUST 07, 2024 / 9:00PM GMT, Q2 2024 Robinhood Markets Inc Earnings Call So since we're so large in retail crypto, that can cause meaningful swings in monthly active users quarter over quarter. And that's pretty much what you see going on. When the crypto markets are hot, there's a huge immediate spike in monthly active user engagement metrics. But then when crypto cools down, that tends to drop more acutely as well. And I think that's pretty similar to what you'd see across the entire crypto market. I think that's not an idiosyncratic Robinhood phenomenon. Operator Ken Worthington, JPMorgan."
+    },
+    {
+      "speaker": "Ken Worthington",
+      "company": "JPMorgan",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi. Thanks for taking the question. I'd love to get a bit more color on how the recent market sell-off has impacted your customers. You gave us some color on trading activity, but margin balances have been growing as you called out, sort of recovering with the market, but then growing with the more competitive market rates that you announced going right into this sell-off. So how did Robinhood customers perform in the sell-off in August in recent days? And can you distinguish the health of your equity long-only customers given their access to leverage versus those with option capabilities where they can both hedge and speculate with options?"
+    },
+    {
+      "speaker": "Jason Warnick Robinhood Markets",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. I'll go ahead and take this, and Vlad, you can add some context. So first of all, customers who are trading options and those that are using leverage tend to be our more advanced customers, and they're using a variety of trading strategies to create returns. The thing that I would point to is that we feel great about offering low price and attractive rates. And the rates that we offer on the margin book, as an example, are on average, leading across the industry. And so, feel really good about that. I don't think we've shared any specifics on specific returns that individual customers are having or groups of customers. What I'll tell you is almost every time I look at the daily summary reports, when there is a sell-off our customers are buying, or when prices are up, our customers are selling. And that contributes to kind of a pretty attractive return capability for customers."
+    },
+    {
+      "speaker": "Vladimir Tenev Robinhood Markets",
+      "company": "Inc",
+      "role": "Chairman of the Board, President, Chief Executive Officer, Co-Founder",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. The only thing that I'd add, Ken, is there's a number of areas that we're focused on, and I outlined them in the call. One of them is being the leader in the active trader market. And I think the goal there is when people think of Robinhood in the active trader space, they should associate us with being at the frontier of technology and innovation in trading. And I think products like 24-hour market reinforce that. And we do have work to do, both on the product side and in how we tell the story to move away from this like thought that for novices. The reality is most of our customers are in their 30s. They're definitely adults, and they're extremely sophisticated. And we're in a competitive market for serving this very real use case, and we're gaining market share, and it's a big part of the core business. But we also have customers that are coming to us for Robinhood Gold for our high-yield products, for our awesome retirement products that has been growing assets very, very tremendously. And they're less interested in trading actively, and that's fine, too. We think that we can be a leader in wallet share, particularly for the millennial generation. And that's something that we're also focused on. There's going to be tens of trillions of assets going from baby boomers down to Gen X and Gen Y and beyond. And we're putting Robinhood in a position to be one of the, if not the primary beneficiary of that long-term shift in assets, and that kind of how you're seeing the work we're doing in ACATS, diversifying the business and adding support for different assets. And so, we're very excited about that, but we think we can be leaders in both. affiliated companies. AUGUST 07, 2024 / 9:00PM GMT, Q2 2024 Robinhood Markets Inc Earnings Call Operator Ben Budish, Barclays."
+    },
+    {
+      "speaker": "Ben Budish",
+      "company": "Barclays",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi. Good evening, and thanks for taking the question. I was wondering -- maybe following up some your comments there, Vlad. If you could unpack a little bit the growth in options over the course of the year. What are you seeing in terms of like-for-like growth or almost the same unit or same sales, if you will? Are you seeing any stats you can share around the number of customers enabled for options? Or is it sort of the existing base sort of getting more active? And when you talk about market share, clearly, your options activity as a percentage of overall industry activity is going up. What about on the customer side? To what extent are you seeing customers coming to Robinhood for options? Or how much of the growth is coming from new customers versus increased activity from prior customers? Thank you."
+    },
+    {
+      "speaker": "Vladimir Tenev Robinhood Markets",
+      "company": "Inc",
+      "role": "Chairman of the Board, President, Chief Executive Officer, Co-Founder",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. I mean, the thing I'd tell you and maybe Jason can jump in too, our options team has been doing a great job. We have one major advantage -- I mean, several major advantages relative to what you see elsewhere in the options market. First of all, we don't charge options contract fees. So most of our competitors charge $0.65 a contract, which can add up if you're an active trader. And so, purely economic perspective. You're kind of disadvantage if you trade options outside of Robinhood, particularly for active traders. The other area is the user experience. And we've built and announced some amazing tools in the past couple of quarters, including option-simulated returns, which gives people a pretty advanced analytic tool that they previously were downloading other products and paying subscription fees to get. Now that's built in with Robinhood. And we've done awesome improvements to the user experience to make it easier for customers to do the transactions that they want to do. And we've got a lot of remaining work to do. We know a lot of our customers like trading options on desktop where they get additional screen real estate and have the opportunity to do more research on platform. And so, we're confident that we can keep growing that market share even further."
+    },
+    {
+      "speaker": "Jason Warnick Robinhood Markets",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. I would just say that the number of customers' trading options are up about 25% year over year."
+    },
+    {
+      "speaker": "Vladimir Tenev Robinhood Markets",
+      "company": "Inc",
+      "role": "Chairman of the Board, President, Chief Executive Officer, Co-Founder",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. The team has really been doing a great job. Operator Thank you. I would now like to turn the conference back to Vlad Tenev for closing remarks. Sir?"
+    },
+    {
+      "speaker": "Vladimir Tenev Robinhood Markets",
+      "company": "Inc",
+      "role": "Chairman of the Board, President, Chief Executive Officer, Co-Founder",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Okay. Well, thank you, everyone, for listening. We really appreciate the engagement from shareholders and the analyst community. And also, special shoutout to the retail analysts. We have a lot of retail analysts that cover the company as well. Maybe they're not on these calls, but they're on YouTube and on X. We appreciate you all. And look out for us on podcasts and other things in the next couple of days where we'll share more about the company. Operator This concludes today's conference call. Thank you for participating. You may now disconnect. affiliated companies. AUGUST 07, 2024 / 9:00PM GMT, Q2 2024 Robinhood Markets Inc Earnings Call In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. affiliated companies."
+    }
+  ]
 }

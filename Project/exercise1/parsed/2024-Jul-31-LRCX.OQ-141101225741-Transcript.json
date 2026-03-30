@@ -4,5 +4,710 @@
   "quarter": "2024Q2",
   "sector": "IT",
   "filename": "2024-Jul-31-LRCX.OQ-141101225741-Transcript.pdf",
-  "segments": []
+  "segments": [
+    {
+      "speaker": "Melissa Weathers Deutsche Bank",
+      "company": "Securities, Inc.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Operator Good evening and welcome to the Lam Research June quarterly earnings call. (Operator Instructions) Please note this call is being recorded. I would now like to turn the conference over to Mr. Ram Ganesh, VP, Investor Relations. Please go ahead."
+    },
+    {
+      "speaker": "Ram Ganesh Lam Research",
+      "company": "Corp",
+      "role": "Investor Relations",
+      "speaker_type": "other",
+      "section": "presentation",
+      "text": "Thank you and good afternoon, everyone. Welcome to the Lam Research quarterly earnings conference call. With me today are Tim Archer, President and Chief Executive Officer; and Doug Bettinger, Executive Vice President and Chief Financial Officer. During today's call, we will share our overview on the business environment, and we will review our financial results for the June 2024 quarter and our outlook for the September 2024 quarter. The press release detailing our financial results was distributed a little after 1:00 PM Pacific time. The release can also be found on the investor relations section of the company's website, along with the presentation slides that accompany today's call. Today's presentation and Q&A include forward-looking statements that are subject to risks and uncertainties reflected in the risk factors disclosed in our SEC public filings. Please see accompanying slides in the presentation for additional information. Today's discussion of our financial results will be presented on a non-GAAP financial basis unless otherwise specified. A detailed reconciliation between GAAP and non-GAAP results can be found in the accompanying slides in the presentation. This call is scheduled to last until 3:00 PM Pacific time. A replay of this call will be made available later this afternoon on our website. And with that, I will hand the call over to Tim."
+    },
+    {
+      "speaker": "Timothy Archer Lam Research",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thanks, Ram, and good afternoon, everyone. In the June quarter, Lam delivered another set of solid results with revenues, profitability, and earnings per share all coming in above the midpoint of our guidance. Our CSBG business posted strong growth with revenues up 22% sequentially, led by Reliant and spares. On the manufacturing side, we achieved a key milestone in the quarter with our Malaysia factory shipping its 5,000th chamber. This is the fastest ramp of a new manufacturing facility in Lam's history, and we remain on track to achieve our long term cost reduction goals through an expanded global manufacturing and supply chain footprint. As previously communicated, 2024 is a year of strategic investment for Lam, where we are prioritizing product development for key affiliated companies. JULY 31, 2024 / 9:00PM GMT, Q4 2024 Lam Research Corp Earnings Call technology inflections, global R&D infrastructure close to our customers and digital transformation for operational efficiency at scale. We believe these investments will put Lam in a position to outperform as the industry moves into a period of multiyear WFE spending expansion. Now turning to WFE, we expect this year spending to be in the mid $90 billion range. Our customer investment profile is generally unchanged from our prior view, apart from slightly stronger domestic China spending and additional demand related to the ramp of high bandwidth memory or HBM capacity. We see foundry, logic, DRAM and NAND investments all up on a year on year basis. Global spending on mature node technologies is expected to be roughly flat year on year. Looking ahead to 2025, we see a positive environment for continued growth in WFE spending. The power of AI is a transformative business tool is still yet to be fully realized. Today, the focus on AI model training is driving strong demand for GPUs and HBM. However, as AI use cases expand, we believe inferencing at the etch will spur content growth of low power DRAM and NAND storage in enterprise PCs and smartphones. Investments for AI enabled etch devices play particularly well to Lam's strengths. We anticipate that memory customers looking to scale capacity and lower bid costs will bias WFE spending toward technology upgrades of the installed base. For NAND, the etch and deposition intensity of upgrades is significantly higher than in a greenfield investment. When you consider Lam's sizable installed base in memory, including roughly 7,500 high aspect ratio dielectric etch chambers for NAND alone, we are positioned to outgrow overall WFE when customers upgrade existing memory production lines to next-generation nodes. Longer term, etch and deposition are set to play an increasingly vital role in the industry's efforts to develop faster, more power efficient, and lower cost semiconductors to serve AI related applications. By delivering critical solutions for atomic level device scaling, new materials innovation, and advanced packaging integration, we see tremendous opportunity for Lam to expand our served market and increase our share at each successive process technology node. To this end, our R&D focus is yielding exciting new products, including this year, our first direct power coupled conductor etch tool with matchless power source and bias, known as DIRECTDRIVE. This new power source uses solid state drivers to stabilize the plasma in the etch chamber 500 times faster than current industry standards. By combining direct power coupling with Lam's unique plasma pulsing capabilities, our latest conductor etch systems are delivering best in class performance for newly emerging 4F2 DRAM applications. In 4F2 devices, the nature of the bit line placement requires precise etching of ultra small high aspect ratio silicon structures to avoid device shorts or leakage. With direct power coupling and plasma pulsing, Lam connects to vertically oriented 4F2 transistor architectures with unprecedented depth uniformity, and profile control. Similarly, conductor etch is becoming a critical enabler for EUV patterning for gate-all-around and DRAM due to the need to reduce etch placement error. For nodes below two nanometers, the requirement is for roughly 40% tighter control than five nanometers. Our new conductor etch tool delivers a 30% reduction in feature roughness, which is one of the main contributors to etch placement error. In addition, we can achieve one to two orders of magnitude improvement in defectivity for a given EUV dose, further helping customers reduce the overall cost and improve the capability of the EUV patterning process. Turning to NAND, AI applications are driving demand for faster, higher capacity enterprise SSDs. NAND makers are pursuing both vertical and lateral scaling of NAND arrays as well as increasing bits stored per cell through implementation of QLC and TLC technologies. affiliated companies. JULY 31, 2024 / 9:00PM GMT, Q4 2024 Lam Research Corp Earnings Call In support of these efforts, Lam is developing new dielectric etch and deposition capabilities. Earlier today, we announced Lam Cryo 3.0, Lam's third generation of cryogenic etch technology. Building on our learning from nearly 1,000 cryogenic etch chambers running in NAND fabs worldwide, this new patented cryogenic etch process delivers industry leading control of the NAND, memory channel whole profile. When Lam Cryo 3.0 is deployed on our Vantex system, the etcher delivering the industry's highest available ion energy, we can create a 10 micron deep channel hole that has a top to bottom profile deviation of less than 10 nanometers, or less than 0.1% relative to its depth. Such tight profile control allows customers to increase bit density by packing more cells per layer, while also having the flexibility to add more layers per tier. Lam Cryo 3.0 also addresses our industry's need for more sustainable solutions, delivering a 40% reduction in energy consumption per wafer and a 90% reduction in greenhouse gas emissions per wafer compared to non-cryogenic etchers. Deposition technology is also advancing quickly to support increased bit density and lower cost through multi-tier stacking. Poly silicon and tungsten gap fill materials have typically been used to enable tier stacking in high layer count NAND. Integration of these materials, however, has resulted in poor control of critical dimensions and overlay, negatively impacting yield and performance. Lam's innovative PECVD-based pure carbon gap fill process provides an attractive alternative material. With a unique combination of high etch selectivity, superior mechanical properties, and simplified dry post-process removeability, it also reduces the number of process steps required in some cases by approximately 50% compared to traditional approaches. Overall, etch and deposition are becoming increasingly critical to addressing the complex semiconductor requirements of a growing AI environment. We are excited by the breadth of opportunities we see ahead for the company, especially those created by technology inflections to gate-all-around, backside power delivery, advanced packaging, and dry EUV resist processing. All of these are etch and deposition intensive, and each represents a $1 billion or higher growth opportunity for Lam. We look forward to sharing our progress on these fronts as well as our long term financial model at our next Investor Day, which we are planning to hold in February 2025. With that, I'll turn it over to Doug."
+    },
+    {
+      "speaker": "Douglas Bettinger Lam Research",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Great. Thank you, Tim. Good afternoon, everyone, and thank you for joining our call today. We executed well on the June 2024 quarter. Our June quarter results came in above the midpoint or exceeded our guidance ranges for all financial metrics. We were pleased with the company's strong execution. For fiscal year 2024, we achieved the highest gross margin percentage since the merging of Lam with Novellus in 2013 coming in at 48.2% and we generated quite strong free cash flow of approximately $4.3 billion or 29% of revenue. Let's look at the details of our June quarter results. Revenue came in at $3.87 billion, which was an increase from the prior quarter and over the midpoint of guidance. Our deferred revenue balance at the end of the quarter was $1.55 billion, which is a decrease of $194 million from the March quarter, related to revenue recognized that was tied to customer advance payments. As we sit here today, I believe deferred revenue will remain stable at these levels for the foreseeable future. Let's turn to the revenue segment details. June quarter systems revenue and memory was 36%, which was a decrease from the prior quarter level of 44%. Decline in the memory segment was mainly attributable to DRAM. DRAM came in at 19% of systems revenue compared with 23% in the March quarter as investments in mature nodes declined in the June quarter. DRAM revenue reached a new record in fiscal year 2024, with spending focused on DDR5 and HBM enablement as well as on the 1Y node. Non-volatile memory came in at 17% of our systems revenue, which was down from the March quarter level of 21%. And just a reminder, we are characterizing one customer's investment in specialty DRAM as a non-volatile investment since it has a affiliated companies. JULY 31, 2024 / 9:00PM GMT, Q4 2024 Lam Research Corp Earnings Call non-volatile component in the device. Net revenue was at a low point for this year, and I expect NAND investment to gradually improve as utilization rates return to more normal levels and our customers slowly increase spending in conversions to 2XX and 3XX layer devices into the next year. The foundry segment represented 43% of our system revenue, which was roughly flat with the percentage concentration in the March quarter of 44%. Growth in shipments for gate-all-around nodes was offset by a decline in mature node spending. The logic and other segment were 21% of system's revenue in the June quarter, up from the prior level of 12%. The increase was driven by strength in mature node spending in China. With respect to the regional composition of our total revenue, the China region came in at 39%, down slightly from the prior quarter level of 42% and a little bit higher than our expectation from previous earnings call. This was driven by domestic China spending. The next largest geographic concentration was Korea at 18% of revenue in the June quarter versus 24% in the March quarter. Taiwan was 15% of revenue in the June quarter, which was an increase from 9% in the March quarter. The Customer Support Business Group revenue in the June quarter totaled approximately $1.7 billion, an increase of 22% from the prior quarter level and 14% higher than the June quarter in calendar 2023. CSBG revenue represented 44% of our June quarter revenues and reached the highest point since the end of calendar 2022, driven primarily by an increase in Reliant systems, followed by growth in spares. Our Reliant systems revenue benefited from strength in domestic China spending for specialty and mature nodes. Spares revenue increased largely due to continued improvement in utilization at our memory customers as well as a little bit of inventory stocking. I do now think CSBG will grow modestly in calendar year 2024. Let's look at profitability, our June quarter gross margin came in at 48.5% at the top end of our guided range. And slightly down from 48.7% in the March quarter. June quarter gross margin benefited from continued improvement in factory efficiencies, which largely offset the headwind we saw in customer mix that we talked about on the last earnings call. Operating expenses for the June quarter were $689 million, down marginally from the prior quarter amount of $698 million. As Tim mentioned, we continue to prioritize spending in research and development to extend our technology differentiation as well as expand our product portfolio. I'd just point out that more than 70% of our total operating expenses were concentrated in research and development. The June quarter operating margin was 30.7% above the guidance range mainly because of that strong gross margin performance. Our non GAAP tax rate for the quarter was 11.5%. We estimate the tax rate for the remainder of calendar year 2024 to be in the low to mid-teens level and this rate will fluctuate from quarter to quarter. Other income and expense for the June quarter was approximately $19 million in income compared with $10 million in income in the March quarter. The increase in OI&E was primarily the result of fluctuations in the fair value of our venture investments. And as we've talked about in the past, you will see variability in OI&E quarter to quarter. Let's turn to the capital return. We allocated approximately $382 million to share repurchases, and we paid $261 million in dividends in the June quarter. During the quarter, we announced that our Board of Directors approved a $10 billion share repurchase authorization. We have $10.8 billion remaining in the plan at the end of the June quarter. For fiscal year 2024, we returned $3.7 billion or 88% of free cash flow, which was in line with our long term capital plan of returning 75% to 100% of free cash flow. June quarter diluted earnings per share were $8.14, close to the high end of our guidance range. The diluted share count was 131 million shares on track with our expectations and down from the March quarter. affiliated companies. JULY 31, 2024 / 9:00PM GMT, Q4 2024 Lam Research Corp Earnings Call Let's look at the balance sheet. Cash and cash equivalents totaled $5.9 billion at the end of the June quarter, up a little bit from $5.7 billion at the end of the March quarter. Day sales outstanding were 59 days in the June quarter, a slight increase from 57 days in the March quarter. June quarter inventory turns of 1.9 times compared with 1.8 times in the prior quarter, we are making progress in bringing inventory levels down and we will continue to work on this throughout the rest of calendar year 2024. Our non-cash expenses for the June quarter included approximately $79 million for equity compensation, $74 million in depreciation and $14 million in amortization. Capital expenditures were $101 million, flat with the March quarter level spending mainly centered on lab investments in the United States and Asia, as well as manufacturing facilities in Asia, supporting our global strategy to be close to our customers' development and manufacturing locations. We ended the June quarter with approximately 17,200 regular full time employees, which was flat with the prior quarter. Let's turn to our non-GAAP guidance for the September 2024 quarter, we are expecting revenue of $4.05 billion plus or minus $300 million. Gross margin of 47% plus or minus 1 percentage point. This gross margin decline is reflective primarily of an unfavorable quarter to quarter change in customer mix. I expect this change to continue to be a slight incremental headwind in the December quarter. Operating margins of 29.5% plus or minus 1 percentage points. Gross margin and operating margin include an impact from ongoing transformation costs related to projects to improve our systems and operations. As we communicated at the beginning of the year, we are focused on reengineering our business processes and systems to drive operational efficiencies and to implement AI at greater scale. And finally, we're forecasting earnings per share of $8 plus or minus $0.75 based on a share count of approximately 131 million shares. So let me wrap up. As we finish the first half of calendar year 2024, I was pleased that we were able to execute to the objectives we shared at the beginning of the year. We prioritize investment to extend our technology differentiation while driving operational improvements. We're encouraged that the spares business recovery is beginning and upgrade activity should improve as we exit the calendar year. Longer term, Lam is well positioned to capitalize the increase in etch and deposition intensity by delivering new capabilities of multiple new manufacturing inflections that we see ahead. We look forward to talking to you in February at our planned Investor Day about the long term opportunities for Lam to continue our performance in the semiconductor industry. Operator, that concludes our prepared remarks. Tim and I would now like to open up the call for questions. Operator (Operator Instructions) Tim Arcuri, UBS."
+    },
+    {
+      "speaker": "Tim Arcuri UBS Securities",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks a lot. Doug, I wanted to ask about the service system mix in the guidance. So you said that the service -- I thought you said that you now think it's going to grow modestly this year. But if I flatline service in September and December, it's up 8% year over year. So can you just clarify what you're thinking for service in the guidance? Thanks."
+    },
+    {
+      "speaker": "Douglas Bettinger Lam Research",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, Tim, we don't decompose the individual components of the guide. You know, I was clarifying, we now expect CSBG to be up a little bit for the year. It was particularly strong in the June quarter whether it is up, down, or sideways from that as we go forward, I'm not going to give you the individual components of the forecast. But I do think for the year it's going to grow a little bit. affiliated companies. JULY 31, 2024 / 9:00PM GMT, Q4 2024 Lam Research Corp Earnings Call"
+    },
+    {
+      "speaker": "Tim Arcuri UBS Securities",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay, great. Doug, thanks. And then can you can you talk a little bit about just in DRAM. I think there's generally more excitement, Tim, about DRAM WFE than NAND WFE among most investors out there about where it could go during this next peak. Obviously, you do very well in NAND. But in DRAM, you did talk about a lot of the investments that you're making. Can you just talk about I know you're levered to the advanced packaging part of the HBM dollars being spent, but that's still a pretty small piece of it. So can you just maybe give a chance to kind of dispell some of the view that you're not very levered to DRAM and give us a sense of maybe where you're investing and where you think you can gain share in DRAM? Thanks."
+    },
+    {
+      "speaker": "Timothy Archer Lam Research",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure. Thanks, Tim. And as you said, we do very well in NAND and we still think that NAND day is coming as I said. We've seen some of that -- those commentaries around the enterprise SSDs, et cetera. But on the DRAM side, the reason we highlighted, you know, the progress we're making especially in this conductor etch. I mean one, it's a new tool. We've introduced it. It's new capabilities that are very exciting for the industry and really targeted towards the types of ultra small structures that are known to exist will in future DRAM nodes going forward. Lam is the global leader in conductor etch, and so we're applying all of that expertise and learning we have towards future DRAM challenges. And I think there's tremendous opportunity for us on those applications as I pointed out. The other side of it, a lot of the excitement around DRAM is related to HBM, and there as you commented, we play extremely well with our strong position in both TSV, etching as well as the TSV electroplating. And I think that we don't see any change in that strong position going forward. So we get the benefit both from the scaling and architectural changes that are occurring in DRAM going forward and from the advanced packaging and HBM related expansion. And all of these on both of those sides have multiplied by the fact that you get fewer bits per wafer. And so everybody recognizes you're going to need a lot more DRAM wafers processed going forward. And ultimately, that translates into more equipment from Lam."
+    },
+    {
+      "speaker": "Tim Arcuri UBS Securities",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you Tim."
+    },
+    {
+      "speaker": "Douglas Bettinger Lam Research",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks Tim."
+    },
+    {
+      "speaker": "Timothy Archer Lam Research",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks. Operator Krish Sankar, Cowen & Company."
+    },
+    {
+      "speaker": "Krish Sankar TD Securities",
+      "company": "(USA) LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yeah, hi. Thanks for taking my question. My first one is with Doug. I think Doug you gave some color on China. Kind of curious how to think about China into the back half of this calendar year and into calendar '25 And along the same path you kind of mentioned that December quarter could be a slight more gross margin headwind. Is there a way to quantify how much that -- how many basis points of headwind would be in December compared to the 47% in September? And then I had a follow-up with Tim. affiliated companies. JULY 31, 2024 / 9:00PM GMT, Q4 2024 Lam Research Corp Earnings Call"
+    },
+    {
+      "speaker": "Douglas Bettinger Lam Research",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, sure. Krish, I'll just remind you what we said last quarter, it hasn't really changed from this quarter and what that statement was that for the year '23, '24, China is up. However, it is a somewhat first half-weighted year this year, as opposed to last year, it was somewhat second half weighted. I'm not communicating, hey, it's going away, it's not going away. It's just the spending because sometimes these customers are a little bit bigger than a bread box, it can be a little bit lumpy. And that's very much what we're seeing in China. I'm not ready to tell you exactly what next year looks like from the China region. But I do think it's going to be a pretty solid year, right? Again, it's not going away. It's too soon for us to quantify things for next year, but '25 should be a pretty decent year in China, Krish."
+    },
+    {
+      "speaker": "Krish Sankar TD Securities",
+      "company": "(USA) LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "And then, Doug, any highlight on the December quarter gross margin?"
+    },
+    {
+      "speaker": "Douglas Bettinger Lam Research",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "You know, I'm not going to give you a number, Chris, but I've been signaling for a while because of customer mix, you know, margin will have a little bit of some headwind going into the second half of the year. I just guided you to 47% in September and suggested that there might be a little bit of incremental headwind into December because of customer mix as what I said in the script."
+    },
+    {
+      "speaker": "Krish Sankar TD Securities",
+      "company": "(USA) LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it. Thank you for that, Doug. And then, Tim, just a quick follow up. When I look at all the upcoming tech inflections like gate-all-around, backside power delivery, maybe down the road 3D DRAM. You spoke within that the transition to products to 4F2 DRAM from 6F2. I'm kind of curious, is that really that material? And if so, is there a way to size the opportunity for Lam at 4F2. You spoke a little bit conductor etch just kind of wondering if you could give some more color around how to quantify that number for the 4F2 architecture transition?"
+    },
+    {
+      "speaker": "Timothy Archer Lam Research",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Well, I don't think we're prepared to quantify it for you today, but I think that what my comment was we see each of these inflections and 6F2 to 4F2 is a technology inflection that brings with it some important changes. I mean one, the architectural layout of the device itself puts additional requirements on etch, which I think we're very well suited to serve. That's already been developing a new conductor etch capabilities to target those new requirements. So there is some incremental opportunity there. Clearly, the jump to 3D NAND is on a much bigger step up in etch and dep intensity. But you know, our goal is to increase our SAM and grow our share at every technology node. So we look at whatever is the new requirement and how we can best address that. We also look at -- as you look at DRAM going forward, another thing that's happening, whether it's 6F2 or 4F2 is the implementation of more EUV layers and how Lam plays in EUV. Again, anything where effectively pattern transfer etches, the feature sizes are getting smaller, precision is required. These are the kinds of high tech etches that Lam excels at. And so we are looking to participate in those. And then on the deposition side, of course, we've talked about things like our dry EUV resist process and how that plays into EUV on DRAM and foundry, logic transition from EUV to high- NAEUV. And so we're just looking at every technology node as an opportunity for us to gain."
+    },
+    {
+      "speaker": "Krish Sankar TD Securities",
+      "company": "(USA) LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you. affiliated companies. JULY 31, 2024 / 9:00PM GMT, Q4 2024 Lam Research Corp Earnings Call"
+    },
+    {
+      "speaker": "Douglas Bettinger Lam Research",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks, Krish. Operator Srinivas Pajjuri, Raymond James."
+    },
+    {
+      "speaker": "Srinivas Pajjuri Raymond James",
+      "company": "& Associates, Inc.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you. Tim, I have a question on DRAM. Obviously the recovery has been ongoing and HBM is a secular driver that you talked about and you do have a very strong position in that market as well. And then I look at your revenue, I think it peaked around December of '23 and it's been kind of declining on a sequential basis. I'm guessing some of that is maybe mature node DRAM. Just wondering if you're kind of at the bottom and then given all the talk about HBM spending, I would think that, you know, it's going to kind of should at some point come back strongly. So just want to hear your thoughts on why it has been declining and how should we think about in particular in DRAM revenue?"
+    },
+    {
+      "speaker": "Timothy Archer Lam Research",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, I think you generally have -- it's pretty correct. We had talked about the fact that some mature node DRAM spending was a little bit heavily concentrated in the second half of last year through early part of this year, even, and that came off, there was some of a reset in what we call kind of traditional or conventional DRAM, that is being picked up at some rate by the growth in HBM. But HBM itself is still in its ramping phase. And I think as we look into 2025 becomes an even bigger driver of wafers in DRAM. And so I think that explains probably the profile. And I think that as we look forward, the secular driver of HBM, the impact on wafer, effectively how many wafers it requires to produce that number of bits due to the die size and due to the complexity of stacking these DRAM means that we see DRAM demand for DRAM equipment continued to grow through 2025 and probably well beyond that."
+    },
+    {
+      "speaker": "Srinivas Pajjuri Raymond James",
+      "company": "& Associates, Inc.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. Got it. Thank you. And then on the CSBG business being up 20% sequentially, 22%. I know you don't want to give us guidance going forward, at least for next quarter. I'm just curious about the sustainability of the some of the trends that you're seeing, Tim. And then what does that mean for the overall WFE? Is this a prelude to something? And is this just the utilization improving? And then does that usually follow in terms of WFE increasing in terms of new tech migrations or capacity additions. So any color on that would be helpful."
+    },
+    {
+      "speaker": "Timothy Archer Lam Research",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure. It's a good question. And I guess, again, reminding people that the CSBG business includes our Reliant business, which sells into mature nodes. It includes spares, it includes upgrades and services. And so each of those components move somewhat differently and we talked about this quarter, particularly being strong as a result of Reliant and spares. We are starting to see a pickup in utilization in the memory fabs, as we've talked about and I've talked a little bit about the fact that as we look forward, we think that upgrades will begin to become a much more prominent part of our customers' WFE spending if they look to upgrade memory fabs that they really haven't been upgraded in quite some time because of the severe downturn that we've seen in that in those markets over the last few years. And so I do think going forward, you see a little bit more of a balance between those different segments, upgrades coming up stronger, in spares continuing to grow simply because our installed base itself continues to get bigger. Traditionally, we would have always said that we would expect the CSBG business to grow every single year, and that's simply a fact of every year, we ship more tools and those tools then require services and spares and basically present new opportunities for Lam to capture revenue from those systems. affiliated companies. JULY 31, 2024 / 9:00PM GMT, Q4 2024 Lam Research Corp Earnings Call So I think long term, CSBG will be returning back to that growth and in next year probably much more biased towards the upgrades business as customers start to do memory fab upgrades."
+    },
+    {
+      "speaker": "Srinivas Pajjuri Raymond James",
+      "company": "& Associates, Inc.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it."
+    },
+    {
+      "speaker": "Douglas Bettinger Lam Research",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks Srini."
+    },
+    {
+      "speaker": "Srinivas Pajjuri Raymond James",
+      "company": "& Associates, Inc.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks Tim. Operator CJ Muse, Cantor Fitzgerald."
+    },
+    {
+      "speaker": "CJ Muse Cantor Fitzgerald",
+      "company": "& Co.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yeah, good afternoon. Thank you for taking the question. I guess first question, I was hoping to focus on gross margins. A couple of quarters ago, Doug you talked about kind of looking back to the June kind of '23 quarter as normalized. But given the guide today, it sounds like that was conservative and it's a higher number. So just as you think about calendar '25, as you get to kind of a normalized China mix and you normalize to Reliant, what would be kind of the base level we should be thinking about for gross margins? And then can you talk to what kind of accretion we should be thinking about related to Malaysia and or some of these higher margin upgrade drivers?"
+    },
+    {
+      "speaker": "Douglas Bettinger Lam Research",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. CJ, I mean, you've alluded to some of the things that move gross margin and obviously yeah, I had previously anchored you and others back to that June quarter before the China mix improved or strengthened, I guess maybe not improved as the baseline in guiding to down a little bit in September, described customer mix softening a little bit relative to move in that. And I'm not suggesting, hey, a little bit more in December, potentially. It's all about customer mix. It's too soon for me to guide you for next year. But the things you should be thinking about is what does that customer mix look like next year. I'm not sure yet, and I'm not ready to point it to numbers. But what will begin to show up in a more significant fashion is the accretion from those Asia factories as we ramp up, that will be a benefit to gross margins. So those are the moving pieces to be thinking about. The customer mix, I'm not entirely sure. But as we see a likely WFE environment next year, that's somewhat stronger, increasingly, the incremental volume will be supported from those Asia factories, which should be beneficial to gross margin CJ."
+    },
+    {
+      "speaker": "CJ Muse Cantor Fitzgerald",
+      "company": "& Co.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Very helpful. And then I guess as my follow-up. In your prepared remarks, you spoke to 7,500 high aspect ratio etch chambers installed in the NAND industry. And just curious, as you see upgrades there, what kind of growth could that add to overall NAND WFE specific to you guys? Is there kind of percentage we should think about? Any help there would be great."
+    },
+    {
+      "speaker": "Timothy Archer Lam Research",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "We haven't really quantified that. But the reason I included was simply to point out the installed base itself becomes a powerful driver of revenue during those upgrade cycles. And we do think that the next phase we've seen higher memory fab utilization typically we've talked about the NAND beginning to improve last quarter and that seems to be continuing as we move through the remainder of this year. You'll get to next year and the upgrades start in earnest. Those tools represent opportunities for Lam to help our customers achieve both affiliated companies. JULY 31, 2024 / 9:00PM GMT, Q4 2024 Lam Research Corp Earnings Call a technology upgrade and a bit cost reduction as they move forward and accrues a quite a lot of revenue for Lam relative to the amount of WFE spend. I'll remind people that the WFE Lam's capture rate of spending in an upgrade is significantly higher because etch and deposition represents so much of the upgrade. So that was the reason to point out the size of our installed base."
+    },
+    {
+      "speaker": "CJ Muse Cantor Fitzgerald",
+      "company": "& Co.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks so much."
+    },
+    {
+      "speaker": "Douglas Bettinger Lam Research",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks CJ. Operator Stacy Rasgon, Bernstein Research."
+    },
+    {
+      "speaker": "Stacy Rasgon Bernstein Institutional Services",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi, guys. Thanks for taking my question. Just wanted to ask like if the NAND business next year is primarily driven by upgrades, what does that imply for growth? Like would it be conceivable that NAND and WFE could double year over year in calendar '25 that was purely upgrade driven? Or would you need capacity additions to get there? Are you seeing any signs at all of capacity additions right now? Doesn't sound like it."
+    },
+    {
+      "speaker": "Timothy Archer Lam Research",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Well, Stacy, what I would say is that obviously we're not going to guide what NAND WFE is next year, frankly, I think it's still a developing story. But what we're trying to say is that as customers move to upgrades, whatever WFE is spent, Lam will be the primary beneficiary of that WFE spend. And so that's a year in which my comment was we would be confident that we would outgrow WFE in the NAND space if it was primarily upgrade spend. And upgrades represent a tremendous the efficient way for customers to essentially advance their technology and lower their costs and so we do think that will be the next phases of NAND investment based on our thoughts."
+    },
+    {
+      "speaker": "Stacy Rasgon Bernstein Institutional Services",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it. And maybe to follow up on that, just a little bit. I mean, if you look at your current like NAND outlook for this year, would you say that, that outlook has gotten better or worse or stayed the same versus like 90 days ago."
+    },
+    {
+      "speaker": "Douglas Bettinger Lam Research",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Probably hasn't changed much. Stacey, this is Doug. Maybe a little bit better. We're trying to see a little bit of an uptick in utilization, but I don't think it's meaningfully different, Stacey."
+    },
+    {
+      "speaker": "Stacy Rasgon Bernstein Institutional Services",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "So got it. So it's kind of a noise."
+    },
+    {
+      "speaker": "Douglas Bettinger Lam Research",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, kind in the noise."
+    },
+    {
+      "speaker": "Stacy Rasgon Bernstein Institutional Services",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it. Okay that's helpful. Thank you, guys. Appreciate it."
+    },
+    {
+      "speaker": "Douglas Bettinger Lam Research",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure. Thanks Stacey. affiliated companies. JULY 31, 2024 / 9:00PM GMT, Q4 2024 Lam Research Corp Earnings Call"
+    },
+    {
+      "speaker": "Timothy Archer Lam Research",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks Stacey. Operator Harlan Sur, JPMorgan."
+    },
+    {
+      "speaker": "Harlan Sur J. P. Morgan",
+      "company": "Securities LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yeah, good afternoon. Thanks for taking my questions. Given the strength in CSBG, it looks like utilization by your customer base continues to rise. Did that also broaden out to start to include not just leading etch, logic, foundry, DRAM, and NAND, but maybe also start to include mature and specialty fabs as well or are at a minimum mature and specialty utilization at least stabilizing in line with some of the cyclical improvements that were seen in the semi industry."
+    },
+    {
+      "speaker": "Douglas Bettinger Lam Research",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Harlan, the mature nodes stuff is still pretty soft, frankly. And I think you understand what's going on. If you just listen to everybody else's earnings calls in the analog, industrial, automotive space, and I know there's still a lot of inventory out there. It's still relatively soft. Those statements are making our utilization have more to do with what we're seeing in the memory fabs, quite frankly."
+    },
+    {
+      "speaker": "Harlan Sur J. P. Morgan",
+      "company": "Securities LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I appreciate that. And then on HBM and advanced packaging, I mean last night, we heard AMD talk about supply dynamics being tight on the AI GPU supply next year, CoWoS and HBM. On the custom ASIC front, we heard companies like Broadcom keep getting upside orders from their AI customers like Google. Last quarter, you talked about doing $1 billion in advanced packaging and HBM revenues this year. Has that number moved higher and is the team capacity constrained on advanced packaging systems and are your lead times here for those tools starting to stretch out?"
+    },
+    {
+      "speaker": "Timothy Archer Lam Research",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Well, it has moved higher and we're not going to re-quantified just yet, but it is -- we're seeing very strong demand in those areas. I talked about the expansion of our global manufacturing supply chain footprint, and obviously, that's given us more flexibility than we had during the last ramp. Our goal through all those investments was people to respond. In this next year, a few years of expansion better than we did in the expansion that we saw right around the time of COVID. And so I think that will position us. I'm sure you're always a little bit short and customers always drop in tools within your lead time, which keeps you busy. But I think that we're doing quite a nice job of responding to the urgent request from our customers. We actually like this. Yeah, I would say that generally from running the business, we like this environment where all parts of our business are a little bit supply constrained. I mean, you hear a lot of our customers talking about being cautious about adding capacity, other customers talking about having a little problem getting tools. I think that's a good place for us to be because it means that I think we're setting up for a more manageable, long term ramp of demand, than sort of a short spike followed by, again, periods of digestion that always creates a little bit of chaos in the industry."
+    },
+    {
+      "speaker": "Harlan Sur J. P. Morgan",
+      "company": "Securities LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you, Tim. Thanks, Doug."
+    },
+    {
+      "speaker": "Douglas Bettinger Lam Research",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks Harlan."
+    },
+    {
+      "speaker": "Timothy Archer Lam Research",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks Harlan. affiliated companies. JULY 31, 2024 / 9:00PM GMT, Q4 2024 Lam Research Corp Earnings Call Operator Atif Malik, Citi."
+    },
+    {
+      "speaker": "Atif Malik Citigroup Global Markets",
+      "company": "Inc.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi, thank you for taking my question. Doug, if I look at between '23 year-over-year, China sales growth among the big five equipment makers, all of them are quite well, and ASML was up 250% and the US peers are up mid-teens or 20%, but you guys were down 11% total China sales in 2023. And this year, you're expecting your China sales to be up. So I'm just trying to understand the dynamics, last year, were this just a function of maybe NAND spending and the NAND project not being active or are there competitive elements in China that are working against you?"
+    },
+    {
+      "speaker": "Douglas Bettinger Lam Research",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Atif, I remind you that perhaps our largest customer got restricted when the regulations come out, our NAND customer in China. That customer was pretty strong in '22, went away in '23. So the year-over-year comparisons you're making, you've got to factor that in. And then the strength we're seeing '23 to 24 is a different mix entirely. Clearly not any NAND in China to speak of at least not domestic China. I don't know if that helps you, but make sure you're thinking about that."
+    },
+    {
+      "speaker": "Atif Malik Citigroup Global Markets",
+      "company": "Inc.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yeah, I'll make sure, that's helpful. And then on the cryo improvement, Tim, that you mentioned, are those improvement are process tool-of-record is going to solidify your market share next year or the year after?"
+    },
+    {
+      "speaker": "Timothy Archer Lam Research",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Well, I think that it's all of these things and when you introduce something new, I think what people can lose sight of is generally we're working several years ahead with our customers on R&D. I talked about the investments we're making where we make -- we're building labs close to our customers in different geographies. That's because, in many cases, we're engaging those customers a good five years ahead of production implementation. That's not to say Lam Cryo 3.0 is going to take five years to get into production. But it's not a technology that's ramping, say this year, but it really is looking out at the needs of our customers one or two generations out and really solving their difficult etch challenges. So sometimes when the benefits are so good and I talked about the fact that we get about 2.5x the etch rate, tremendous profile control. Yeah, customers often pull that in sooner, but really this is designed for kind of the 400 plus layer may ultimately end up being pulled in earlier than that. But that's where you really start to see the needs for this kind of capability."
+    },
+    {
+      "speaker": "Atif Malik Citigroup Global Markets",
+      "company": "Inc.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Exactly I was asking about is it 400 layers or 200 layers, but it sounds like 400 layer."
+    },
+    {
+      "speaker": "Timothy Archer Lam Research",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. And I think that what you'll see in our press release today we talked a little bit about we are trying to chart the path across not only etch, but also our dep position films towards more of the industry needs to go to get to a 1,000 layers because we truly see over the next decade that that's where you want to get in terms of satisfying bit density and cost as NAND demand continues to expand with AI."
+    },
+    {
+      "speaker": "Atif Malik Citigroup Global Markets",
+      "company": "Inc.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. Thank you."
+    },
+    {
+      "speaker": "Douglas Bettinger Lam Research",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you. affiliated companies. JULY 31, 2024 / 9:00PM GMT, Q4 2024 Lam Research Corp Earnings Call Operator Toshiya Hari, Goldman Sachs."
+    },
+    {
+      "speaker": "Toshiya Hari Goldman Sachs",
+      "company": "& Co. LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi guys. Thank you so much for taking the question. I joined late. So I do apologize if these questions have been addressed. Just on the third generation cryo tool, Tim, you spoke about. How is this technology tool fundamentally different or better than your nearest competitor. I know you just spoke to some of the characteristics, but if you can clarify that for us to the extent you're comfortable, that would be really, really helpful. And then my second question, again on the CSBG side, probably one for Doug. And again, you may have address this. So for the full year, calendar year, I think you previously said flattish plus or minus. Is that still the view or given the strength you saw in June, is that -- should we be thinking about a higher growth rate for the full year? Thank you."
+    },
+    {
+      "speaker": "Douglas Bettinger Lam Research",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Toshiya, maybe I'll take that first and then I'll let Tim comment on the 3.0 stuff. Yeah, you might have missed my scripted statements. As we sit here today, we now expect that for 2024, CSBG, the word I used was modestly grow this year versus last year and part of that is we saw particularly strength in the June quarter in Reliant, little bit of an improvement in spares. And as we think about the utilization trends that are likely occurring with our memory customers, I think spares continues to be decent. And we're optimistic that we'll start to see some of the upgrades spend that we've been talking about for a while. I'll hand it over to Tim on the 3.0 stuff."
+    },
+    {
+      "speaker": "Timothy Archer Lam Research",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure, Doug. I think obviously, what I would just start with is the biggest difference between what we're delivering Lam Cryo 3.0 and what our competitors do is in the results on the wafer, which we talked about, pretty amazing 10 micron deep holes with less than a 10 nanometer taper from top to bottom. At etch rates that are 2.5 times conventional etching. So it's the results that are pretty amazing. We talked about the fact that this is based on some new surface chemistries that are enabled in our tool. And there's a whole combination of hardware issue -- hardware configuration capabilities and our tool I think allow us to achieve that result. And I can't go into all of those details today, but it is -- I did allude to one of them, which is on our Vantex system. The chamber design allows us to deliver a significantly higher ion energy than what is available from any other system available in the semiconductor industry and that does place some role in etching these very, very deep near -- holes with near perfect verticality. So that's about all I can say today."
+    },
+    {
+      "speaker": "Toshiya Hari Goldman Sachs",
+      "company": "& Co. LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you. Appreciate it."
+    },
+    {
+      "speaker": "Douglas Bettinger Lam Research",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks Toshiya. Operator Joe Moore, Morgan Stanley. affiliated companies. JULY 31, 2024 / 9:00PM GMT, Q4 2024 Lam Research Corp Earnings Call"
+    },
+    {
+      "speaker": "Joe Moore Morgan Stanley",
+      "company": "& Co. LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. Thank you. I wanted to ask you, I mean, there's been a number of press concerns about export controls with talking about the foreign direct product rule, which doesn't seem like it would affect you, but also talking about entity list. And I'm just wondering obviously we don't know what would happen with any of that. But are you seeing any different behavior from your China customers? Are you seeing them push things in or pull things -- push things out because of any of those anxieties?"
+    },
+    {
+      "speaker": "Timothy Archer Lam Research",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, Joe, I think that obviously we don't know exactly what's going to happen either just as you said. And so we can't really speculate on that. I have mentioned in the last couple of calls that there are ongoing discussions all the time with the US government and regulatory agencies. We're part of those discussions and we'll continue to be. I think, in terms of change in behavior by any of our customers, I don't think it's something that's noticeable nor would it be something that we would be able to easily react to. We've talked about how we deal with some of these new customers that emerge with the downpayments and other things to make sure that we understand the those customers as viable customers. But beyond that, we service them like others at this point as long as we can ship to them. And I would say lead times and responsiveness from our perspective is same as we treat any customers of those size."
+    },
+    {
+      "speaker": "Joe Moore Morgan Stanley",
+      "company": "& Co. LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Very helpful. Thank you."
+    },
+    {
+      "speaker": "Douglas Bettinger Lam Research",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks, Joe. Operator Blayne Curtis, Jefferies."
+    },
+    {
+      "speaker": "Blayne Curtis Jefferies",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hey thanks for letting me ask question. I actually I know you got a couple on this, Doug, on the China business. I just kind of curious your -- I think you qualified as a solid year next year, I just didn't know what that meant? So I know you've been hesitant to kind of call China, I think you called it like flat plus or minus, maybe up or down last time. Do you feel better about it, I guess outside of this June that's the other kind of part of the question, just if you can qualify a little bit, I mean you should have some idea of what you're going to ship and pay ahead. So was June kind of a cleanup and it might be a bit lumpy and or is China actually trending a bit better for you?"
+    },
+    {
+      "speaker": "Douglas Bettinger Lam Research",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I don't know Blayne that I'm trying to communicate anything any different than we said on the last call, to be honest with you. We described this year as somewhat first half-weighted, really no change to that. The June quarter was maybe a little tiny bit stronger in China, but only a little tiny bit. It's too soon for me to -- for us to quantify 2025. But what I would tell you is I expect next year to be a solid year in terms of spending in China. I'm not going to give you a number yet because I'm not completely sure. But what I wouldn't want anybody to think is it's going to away, because it's not."
+    },
+    {
+      "speaker": "Blayne Curtis Jefferies",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got you. And then I'm just kind of curious, the broad strokes was growth for next year. I know you don't want to give a forecast. But in terms of the moving pieces there, I mean, it's pretty, leading etch is strong. DRAM has been strong. I'm just kind of curious as you look into that forecast if you're willing to venture a kind of a view on the NAND business. affiliated companies. JULY 31, 2024 / 9:00PM GMT, Q4 2024 Lam Research Corp Earnings Call"
+    },
+    {
+      "speaker": "Douglas Bettinger Lam Research",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, I think NAND spending next year has to be greater than it is this year, right? We're off two years of quite low spending in NAND. I don't know to what magnitude I expect next year. We expect next year you're going to see a lot of upgrades in NAND but too soon for us to give you a number, but I would be shocked if it's not stronger than it is this year, it has to be."
+    },
+    {
+      "speaker": "Blayne Curtis Jefferies",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks Doug."
+    },
+    {
+      "speaker": "Douglas Bettinger Lam Research",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. Thanks Blayne. Operator Joe Quatrochi, Wells Fargo."
+    },
+    {
+      "speaker": "Joe Quatrochi Wells Fargo Securities",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yeah, thanks for taking the question. I wanted to try on the NAND side again, if we just think about your prior peak NAND revenue ex your customers that are obviously now restricted, can capacity upgrade to just higher layer counts support your return to those levels, just given your higher share etch -- of higher etch and depth intensity for the transitions?"
+    },
+    {
+      "speaker": "Douglas Bettinger Lam Research",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Joe, you know, if it's just an upgrade, your spending will be lower than when capacity gets added. Obviously, our share of wallet will be greater. The fact that we lost a pretty large NAND customer churn in the China region, hard to replace that. I'm not ready to tell you what kind of next year is relative to previous peaks. But I know next year is going to be a stronger year in NAND than it is this year for sure."
+    },
+    {
+      "speaker": "Timothy Archer Lam Research",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, Joe. I think that yeah, obviously, we're talking next year, it's very specific to the demand environment and the upgrade business in 2025. Longer term, I mean, we've laid out in our view is that NAND spending rises. And so it's just a matter of the time frame you're looking at. And from the standpoint of Lam's business, etch and depth components and the complexity of tier stacking, the precision that's required for implementation of QLC and PLC technologies, all of these skewed towards Lam's technical strengths and also SAM expansion opportunities. I talked about the PECVD pure carbon gap fill process, which is a new addition to the portfolio for NAND scaling technology, going forward. And so, if I go back and I look at where we were in the portfolio, we had to sell when people used to think of NAND is a very, very strong business for Lam. We've expanded that portfolio quite substantially with the gap fill, the backside stress management, the ALD oxide gap fill process plus the etch and stack depth that we've always had as well as metallization. So it's one of growth in NAND demand, but also growth in Lam's portfolio and served market as well, opportunities ahead. So I think that bodes well for us once the NAND business itself starts to recover."
+    },
+    {
+      "speaker": "Joe Quatrochi Wells Fargo Securities",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you. That's helpful color. And just as a quick follow-up. You talked about global mature node spending being roughly flat this year. Can you help us understand just kind of how does that break down I mean -- I think clearly the non-China piece is pretty weak, but just any kind of color that you could help us parse that out."
+    },
+    {
+      "speaker": "Douglas Bettinger Lam Research",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. You kind of answered your own question, Joe. China is decent right now. Outside of China, it's pretty soft. And I think you understand what's going on. There's inventory that's built up for these inventories still need to come down and then mature node, affiliated companies. JULY 31, 2024 / 9:00PM GMT, Q4 2024 Lam Research Corp Earnings Call analog, industrial, automotive space, and investment won't meaningfully occur until that gets adjusted. So that's kind of what's going on. And you sort of answered your own question."
+    },
+    {
+      "speaker": "Joe Quatrochi Wells Fargo Securities",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Fair enough. Thanks."
+    },
+    {
+      "speaker": "Douglas Bettinger Lam Research",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks Joe. Operator Krish Sankar."
+    },
+    {
+      "speaker": "Krish Sankar TD Securities",
+      "company": "(USA) LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yeah, hi. Thanks for taking my follow-up. Doug, I just had a quick follow-up. It's a question on inventory. We spoke about bringing inventory turns down. Well, I'm kind of curious like how to think about inventory next year, especially you're planning for a strong WFE year in 2025? Or do you think most of this inventory would be in a bin? How to think about inventory next year? Thank you."
+    },
+    {
+      "speaker": "Douglas Bettinger Lam Research",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. Listen, if you think back to when business declined for us last year, a big part of what fell off pretty rapidly was our NAND business. And so a lot of the inventory that we still have sitting on the balance sheet will support NAND. So when assuming NAND is stronger next year, and it will be, we would consume that NAND inventory that's been sitting on the balance sheet for a while. What will offset that to a certain extent is growth elsewhere, where we'll need to procure new inventory. So I'm not ready to give you an inventory forecast quite yet, but we're continuing to work as we go through the remainder of this year to kind of bring it down. And then what we do with next year will depend largely on the timing of business, the mix of business, the geographic distribution of business. But we'd like to get turned back to where they historically have been and they're not there yet. So that's how you should be thinking about it, Krish."
+    },
+    {
+      "speaker": "Krish Sankar TD Securities",
+      "company": "(USA) LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you very much. Very helpful. Thanks Doug."
+    },
+    {
+      "speaker": "Douglas Bettinger Lam Research",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks. Operator Melissa Weathers, Deutsche Bank."
+    },
+    {
+      "speaker": "Melissa Weathers Deutsche Bank",
+      "company": "Securities, Inc.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi there. Thank you for taking my question. I wanted to ask on the leading etch and specifically gate-all-around nodes. I don't think I heard an update to your $1 billion gate-all-around revenues in 2024 target. So is that still the case? And as we think about those nodes ramping through next year like what's the trajectory of that ramp that we should be thinking about as you move from pilot lines into high volume manufacturing?"
+    },
+    {
+      "speaker": "Timothy Archer Lam Research",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. Thanks, Melissa. I mean, there is -- we always make choices about what we do and don't include in the prepared remarks and that gate-all-around fell out this time, just no intended message. In fact, if I look at what happened in the quarter, Lam, again, as we've talked on previous calls, is really positioned quite nicely with our forward-looking etch and depth portfolios. affiliated companies. JULY 31, 2024 / 9:00PM GMT, Q4 2024 Lam Research Corp Earnings Call We really target those kind of markets with new tools in selective etch, which is a market we hadn't been in before and in fact, in the quarter, we had the additional selective etch wins for gate-all-around at multiple customers. We targeted investment in ALD films that are specifically needed for things like spacers and gate-all-around, and we had additional wins in the quarter for those films. You know, often with gate-all-around, we think of those technology -- obviously different technologies, but kind of occurring at the same node. The backside power delivery, that's an area that is really right in our sweet spot in terms of deposition and etch. And in the quarter, we had wins in backside power in ALD oxide. And so I would say net-net, I mean, given those wins and what you're hearing from the end markets about the need for high power computing demand for AI, I think the $1 billion forecast we gave you certainly as we move through next year would be going higher. And so again, that's a combination of rising demand. But also our product portfolio is both expanding and one in which we're winning share. And so there was no message about leading -- leaving it off. But thank you for asking the question so we could get that in right at the end. Thank you so much."
+    },
+    {
+      "speaker": "Melissa Weathers Deutsche Bank",
+      "company": "Securities, Inc.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yeah. Thank you. That's all my questions there."
+    },
+    {
+      "speaker": "Timothy Archer Lam Research",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Great. Okay, thank you."
+    },
+    {
+      "speaker": "Douglas Bettinger Lam Research",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Awesome operator, I think that concludes our call. I want to thank everybody for joining us today. We'll look forward to seeing you at a variety of conferences and interactions as we go through the remainder of the quarter. Appreciate it."
+    },
+    {
+      "speaker": "Timothy Archer Lam Research",
+      "company": "Corp",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you. Operator The conference is now concluded. Thank you for attending today's presentation. You may now disconnect. In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. affiliated companies."
+    }
+  ]
 }

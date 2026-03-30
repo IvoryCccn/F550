@@ -4,5 +4,350 @@
   "quarter": "2023Q4",
   "sector": "IT",
   "filename": "2024-Feb-13-DDOG.OQ-137589725343-Transcript.pdf",
-  "segments": []
+  "segments": [
+    {
+      "speaker": "Frederick Christian Havemeyer Macquarie",
+      "company": "Research",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Ittai Kidron Oppenheimer & Co. Inc., Research Division - MD"
+    },
+    {
+      "speaker": "Keith Frances Bachman BMO Capital",
+      "company": "Markets Equity Research",
+      "role": "Research Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Mark Ronald Murphy JPMorgan Chase & Co, Research Division - MD"
+    },
+    {
+      "speaker": "Sanjit Kumar Singh Morgan",
+      "company": "Stanley, Research Division",
+      "role": "VP",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Operator Good day, and thank you for standing by. Welcome to the Fourth Quarter 2023 Datadog Earnings Conference Call. (Operator Instructions) Please be advised that today's conference is being recorded. I would now like to hand the conference over to the Vice President of Investor Relations, Yuka Broderick."
+    },
+    {
+      "speaker": "Yuka Broderick",
+      "company": "Datadog, Inc.",
+      "role": "IR",
+      "speaker_type": "other",
+      "section": "presentation",
+      "text": "Thank you, Carmen. Good morning, and thank you for joining us to review Datadog's fourth quarter 2023 financial results, which we announced in our press release issued this morning. Joining me on the call today are Olivier Pomel, Datadog's Co-Founder and CEO; and David Obstler, Datadog's CFO. During this call, we will make forward-looking statements, including statements related to our future financial performance, our outlook for the first quarter and the fiscal year 2024 and related notes and assumptions, our gross margins and operating margins, our product capabilities, our ability to capitalize on market opportunities and usage optimization trends. The words anticipate, believe, continue, estimate, expect, intend, will and similar expressions are intended to identify forward-looking statements or similar indications of future expectations. These statements reflect our views only as of today and are subject to a variety of risks and uncertainties that could cause actual results to differ materially. For a discussion of the material risks and other important factors that could affect our actual results, please refer to our Form 10-Q for the quarter ended September 30, 2023. Additional information will be made available in our upcoming Form 10-K for the fiscal year ended December 31, 2023, and other filings with the SEC. This information is also available on the Investor Relations section of our website, along with the replay of this call. We will also discuss non-GAAP financial measures, which are reconciled to their most directly comparable GAAP financial measures in the tables in our earnings release, which is available at investors.datadoghq.com. With that, I'd like to turn the call over to Olivier. affiliated companies. FEBRUARY 13, 2024 / 1:00PM GMT, Q4 2023 Datadog Inc Earnings Call"
+    },
+    {
+      "speaker": "Olivier Pomel",
+      "company": "Datadog, Inc.",
+      "role": "Co-Founder, CEO & Director",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thanks, Yuka, and thank you all for joining us this morning. We had a good Q4 to end what has been a very productive year to 2023. Throughout the year, we kept innovating at a fast pace, going broader and deeper into the problems we solve for our customers. We also continued to add new customers and expand with existing ones, driving both usage growth and adoption of new products. But most of all, I'm very pleased that we mobilized as a company to help our customers get through a tougher economic environment. We helped our customers make more efficient use of their cloud and observability, leaving them in a better position at the end of the year from which they can focus again on growing their businesses and migrating to the cloud. Now let me start with a review of our Q4 financial performance. Revenue was $590 million, an increase of 26% year-over-year and above the high end of our guidance range. We ended with about 27,300 customers, up from about 23,200 last year. We ended the quarter with about 3,190 customers with an ARR of $100,000 or more, up from about 2,780 last year. These customers generated about 86% of our ARR. We had 396 customers with an ARR of $1 million or more compared to the 317 we had at the end of last year. And we generated free cash flow of $201 million with a free cash flow margin of 34%. Turning to platform adoption. Our platform strategy continues to resonate in the market. As of the end of Q4, 83% of customers were using 2 or more products, up from 81% a year ago. 47% of customers were using 4 or more products, up from 42% a year ago. 22% of our customers were using 6 or more products, up from 18% a year ago. And as a sign of continued penetration of our platform, 9% of our customers were using 8 or more products, up from 6% a year ago. And our success with cross-product adoption isn't limited to core observability as our newer products continued to gain traction. Note, for example, that the ARR for products outside of infrastructure monitoring, APM suite and Log Management grew by more than 75% year-over-year. As a reminder, within the APM suite, we include core APM, Synthetics, RUM and continuous profiler. During 2023, we continued to land and expand with larger customers. As of December 2023, 42% of the Fortune 500 are Datadog customers, up from 37% last year. We think many of the largest enterprises are still very early in their journey to the cloud. The median Datadog ARR for Fortune 500 customers is still less than $0.5 million, which leaves a very large opportunity for us to grow with these customers. Now let's discuss this quarter's business drivers. In Q4, we saw usage growth from existing customers that was similar to Q3. Our usage growth during the quarter played out roughly as expected, including a strong start in October and a slowdown we typically see at the end of December. We also note that the greater intensity of optimization we've seen over the past 6 quarters appears to have dissipated. For the last couple of quarters, we have discussed with you a cohort of customers who are optimizing. In Q4, this core usage grew at a faster pace than the broader customer base. We take this as a positive sign. To be clear, we see optimization activity with our customers every quarter. We expect them to continuously make sure they are using their cloud efficiently, and we'll keep helping them do that. And we do still see attention to costs in certain parts of our customer base. But overall, we see less headwinds than we did a few quarters ago. Meanwhile, we had a strong bookings quarter in Q4. Our go-to-market teams delivered our largest annualized bookings since Q1 of '22. And our enterprise team, in particular, executed on a record amount of annualized bookings in Q4. We are also seeing more customers enter into multiyear deals with us, which speaks to our deepening relationships with them as well as affiliated companies. FEBRUARY 13, 2024 / 1:00PM GMT, Q4 2023 Datadog Inc Earnings Call customers planning for growth and for the longer term after a period of optimization and uncertainty. As a reminder, our bookings don't translate immediately into revenue growth, but it is an indicator that we continue to serve our new and existing customers well and they are growing with us over time. Finally, churn has remained low with gross revenue retention stable in the mid- to high 90s, highlighting the mission-critical nature of our platform for our customers. Moving on to R&D. We released over 400 new features and capabilities during 2023. Of course, that's too much for us to cover today, but let me speak to a few. In observability, we now have more than 700 integrations allowing our customers to benefit from the latest AWS, Azure and GCP abilities as well as from the newly emerging AI stack. We continued to see increasing engagement there with the use of our next-gen AI integrations growing 75% sequentially in Q4. In the generative AI and LLM space, we continued to add capability to Bits AI, our natural language incident management copilot. And we are advancing LLM observability to help customers investigate where they can safely deploy and manage their models in production. Today, about 3% of our ARR comes from next-gen AI native customers, but we believe the opportunity is far larger in the future as customers of every industry and every size start doing AI functionality in production. In the APM space, we launched Data Streams Monitoring to monitor queuing, streaming and event-driven pipelines, which is a technically challenging type of workloads APM products have historically struggled to cover. We also rolled out single-step APM onboarding, allowing a single engineer to enable APM across complex applications in minutes. And with dynamic instrumentation, engineers can add logs, metrics and traces to the application on the fly without code changes or redeployments. In the digital experience area, we've added heat maps and scroll maps to our Real User Monitoring product to show developer and product owners what their users are actually seeing. And our customers can now create synthetic tests directly from session replay for which we have received very positive feedback. And in Log Management, we continued to expand our capabilities. Starting with Flex Logs, customers can have a very cost-effective way to retain their logs at a very large scale. With error tracking for logs, customers can quickly cut down millions of error lines into a handful of actionable summaries. And our Log Pipeline Scanner allows customers to inspect log events in near real-time, building greater visibility into data quality and data governance. In cloud service management, we made workflow automation generally available enabling customers to easily automate and orchestrate processes across operations and security. And today, we are announcing the general availability of case management to provide engineers with a single view for investigations, ticketing, to-do items, tasks and follow-ups across the Datadog platform. Moving on to Cloud Security. We kept executing against an ambitious road map and are pleased to now count over 6,000 customers using one or more Datadog security products. This month, we launched Software Composition Analysis to enable our customers to proactively detect and remediate vulnerabilities before the code gets to production. We announced Cloud Infrastructure Entitlement Management to help customers prevent identity and access management security issues. We shipped Cloud SIEM Investigator, so customers can conduct deep security investigation using logs over long periods of time. We simplified security operations with our Security Inbox to allow our customers to correlate security issues into one single list to investigate and remediate. And we also expanded our data security capabilities. Sensitive Data Scanner now finding secrets and sensitive data in traces and RUM events in addition to logs. affiliated companies. FEBRUARY 13, 2024 / 1:00PM GMT, Q4 2023 Datadog Inc Earnings Call In Software Delivery, we launched Intelligent Test Runner, which dramatically accelerates the testing process in CI/CD. And we ship code-quality and security gates to enforce best practices, catch security vulnerabilities and prevent flaky tests. And last, but not least, we delivered on a number of platform-wide initiatives. We launched our latest data center in Japan to have customers comply with local data private laws. We opened up CoScreen throughout our platform for collaboration, incident response, pair programming and debugging. We extended Cloud Cost Management, which is now GA for AWS and Azure and will soon be for GCP to offer a comprehensive view of costs across our customers' cloud footprint. And we announced our intent to achieve FedRAMP High and Impact Level 5 authorizations. So I'd like to thank our product and engineering team for a very productive 2023. And I'm super excited with what we have planned for 2024. Let's move on to sales and marketing. First of all, I'd like to welcome Sara Varni to the team as our new Chief Marketing Officer. Sara brings more than 15 years of marketing experience centered around developers and enterprise software. And we really look forward to her leadership in this pivotal role. As I said earlier, we had a very strong close to 2023 with record levels of bookings and some very exciting new logos and expansions. So let's discuss some of our wins. First, we signed a 3-year expansion and our first ever 9-figure TCV deal with a major global fintech company. This expansion brings us into a major new business unit that we were not deployed in before. And this time, the customer focused on bringing end-to-end observability to their mobile applications and they focus, in particular, on being in front of any user-impacting issues through the use of our Real User Monitoring product. With this renewal, this customer expects to use 15 Datadog products and we'll consolidate what used to be 10 separate tools, including the replacement of 3 commercial products across infrastructure monitoring, APM and RUM. Next, we signed a 7-figure expansion with one of the world's largest restaurant chains. This customer is using AWS, Azure, GCP and Oracle Cloud and they believe Datadog is the only platform that can deliver a consistent experience across all 5 clouds. With this expansion, the customer plans to deploy Datadog for Cloud Service Management use cases and will expand to a total of 10 Datadog products. Next, we signed an 8-figure multiyear expansion with a leading European financial services company. This customer is undergoing a large-scale migration to Azure and will expand its use of Datadog across on-prem, private and public cloud. Today, Datadog is used by 3,000 users every month in over 400 teams to monitor 13,000 hosts. With the migration, the Datadog platform usage will expand to more than 1,000 teams and 50,000 hosts. This customer plans to use 14 Datadog products and consolidate more than 10 legacy open-source and cloud monitoring tools. Next, we signed a 7-figure land with one of the world's largest food and consumer goods company. This customer wants to be more proactive with risk mitigation and system resilience as they migrate to Azure. They also want to reduce the thousands of hours of engineering time they spend every year in incidence triage. This customer brought in Datadog to be the observability foundation of their AIOps strategy, in particular, using Watchdog and our incident management capabilities. This new land includes 17 Datadog products and the customer expects to consolidate at least 6 commercial observability tools. Finally, we signed a 6-figure land deal with one of the largest U.S. utilities. This customer is rearchitecturing its customer-facing website and replatforming its customer support experience. They identified Datadog as the only platform that could still integrate end-to-end with their existing sales, customer experience and data workflows. This customer expects to start with 6 Datadog products and they will displace 2 commercial observability tools in the process. affiliated companies. FEBRUARY 13, 2024 / 1:00PM GMT, Q4 2023 Datadog Inc Earnings Call And that's it for this quarter's highlights. Congrats, again, to our go-to-market teams for their great work in 2023, an excellent close of the year and ambitious plans for 2024. Before I turn it over to David for a financial review, a few words on our longer-term outlook. During 2023, we continued to execute on our product innovation plans and we solved more problems and delivered more value to customers. As we enter 2024, it appears that the worst of cloud optimization may be behind us. We continue to believe digital transformation and cloud migration are long-term secular growth drivers of our business and critical motion for every company to deliver value and competitive advantage. We see AI adoption as an additional driver of investment and accelerator of technical innovation and cloud migration. And more than ever, we feel ideally positioned to achieve our goals and help customers of every size in every industry to transform, innovate and drive value through technology adoption. With that, I will turn it over to David."
+    },
+    {
+      "speaker": "David M. Obstler",
+      "company": "Datadog, Inc.",
+      "role": "CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks, Olivier. Q4 revenue was $590 million, up 26% year-over-year and up 8% quarter-over-quarter. To dive into some of the drivers of this Q4 performance, first, regarding usage growth. Overall, we saw usage growth from existing customers in Q4 that was similar to what we saw in Q3. Last quarter, we mentioned that the larger and more intense optimizers had begun to show signs of stabilization. In Q4, we saw those trends continue and the large optimizers begin to grow again. While we may still be in a cost-conscious environment overall, we believe that the higher intensity of optimization has dissipated and clients are continuing to invest in new digital applications. For the first time in 6 quarters, our sequential ARR adds in Q4 were higher than in the year-ago quarter. As we look at early data for Q1, January usage growth was solid. The rebound we're seeing from the slower end of December is better than what we experienced last January. We note, as always, that it's too early to know how the quarter will play out and we would caution investors from extrapolating too much, but we're encouraged by the near-term trend. Regarding usage growth by customer size, we experienced our highest growth in our largest and smaller spending customers in this quarter. This includes a record increase in sequential ARR added from customers who spend $1 million or more annually with us and an expansion of $1 million-plus customers from 317 to 396 over 2023. In terms of new logos, our customer additions on a gross and net basis, as well as on a new dollar -- a new logo dollar basis were similar to that of Q3. As before, our net adds included slightly elevated churn in our very long tail of small customers, many of whom are self-service. Geographically, we experienced stronger year-over-year revenue growth in international markets in North America. Our international markets represented 31% of our revenue in Q4 2023, up from 28% in Q4 of last year. Finally, for our retention metrics. Our trailing 12-month net revenue retention was in the mid-110s in Q4. Our trailing 12-month gross revenue retention continues to be stable in the mid- to high 90s. And our dollar churn is low and declined sequentially. Now moving on to our financial results. Billings were $723 million, up 35% year-over-year. Billings duration increased year-over-year. Remaining performance obligations, or RPO, was $1.84 billion, up 74% year-over-year. Current RPO growth was in the mid-40s percent year-over-year. We are continuing to see an increasing interest with our larger customers in multiyear commitments, which results in longer RPO affiliated companies. FEBRUARY 13, 2024 / 1:00PM GMT, Q4 2023 Datadog Inc Earnings Call duration in both total and current RPO. We welcome the opportunity to have these longer-term, strategic partnerships with our clients. And we see that once customers are farther along in their optimizations, they feel comfortable committing over longer periods of time in the future. As we said before, we continue to believe revenue is a better indicator of our business trends than billings or RPO as those can fluctuate relative to revenue based on the timing of invoicing and the duration of customer contracts. Now let's review some of our key income statement results. Unless otherwise noted, all metrics are non-GAAP. We have provided a reconciliation of GAAP to non-GAAP financials in our earnings release. First, gross profit in the quarter was $492 million, representing a gross margin of 83.4%. This compares to a gross margin of 82.3% last quarter and 80.6% in the year ago quarter. We continued to experience efficiencies in cloud costs reflected in our cost of goods sold as our engineering teams pursue cost savings and efficiency products -- projects. Our Q4 OpEx grew 10% year-over-year, a decline from 17% year-over-year growth last quarter. As we discussed last quarter, while making meaningful investments in 2023, we were more cautious than in previous years given the macro condition and focused more on efficiency and optimization. We believe this will put us in a good position to accelerate investment in 2024 while maintaining margin discipline. Q4 operating income was $167 million, or a 28% operating margin, up from 24% last quarter and 18% in the year ago quarter. As with last quarter, our margins ended up being higher than we expected in Q4 as we executed well on our internal optimization and cost management efforts. Turning to the balance sheet and cash flow statements. We ended the quarter at $2.6 billion of cash, cash equivalents and marketable securities. Cash flow from operations was $220 million in the quarter. And after taking into consideration capital expenditures and capitalized software, free cash flow was $201 million with a free cash flow margin of 34%. Now for our outlook for the first quarter and the fiscal year 2024. Our guidance philosophy remains unchanged. As a reminder, we base our guidance on trends observed in recent months and apply conservatism on these growth trends. For the first quarter, we expect revenue to be in the range of $587 million to $591 million, which represents a 22% to 23% year-over-year growth. Non-GAAP operating income is expected to be in the range of $128 million to $132 million, which implies an operating margin of 22%. And non-GAAP net income per share is expected to be $0.33 to $0.35 per share based on approximately 35 -- 357 million of average diluted shares outstanding. For fiscal 2024, we expect revenues to be in the range of $2.555 billion to $2.575 billion, which represents 21% -- 20% to 21% year-over-year growth. Non-GAAP operating income is expected to be in the range of $535 million to $555 million, which implies an operating margin of 21% to 22%. And non-GAAP net income per share is expected to be in the range of $1.38 to $1.44 per share based on 361 million average shares diluted outstanding. Some additional notes on guidance. As it relates to our growth in OpEx and hiring, as I mentioned earlier, we took a more cautious attitude towards hiring during 2023 and our head count ended fiscal 2023 at about 5,200 people growing in the high single digits year-over-year. We remain excited by our numerous long-term growth opportunities, and as a result, our operating profit guidance reflects our intent to invest for future growth in 2024. We intend to accelerate hiring in R&D to execute on our long-term growth opportunities and in sales and marketing to reach customers worldwide. affiliated companies. FEBRUARY 13, 2024 / 1:00PM GMT, Q4 2023 Datadog Inc Earnings Call Because of that, our operating profit guidance implies operating expense growth in the mid-20% range year-over-year with operating expense year-over-year growth ramping throughout 2024 as we execute on our hiring plans. Meanwhile, we will continue to balance our investments in long-term growth with financial discipline as we have executed in the past. Now turning to other areas of the P&L. First, we expect net interest and other income for fiscal year 2024 to be approximately $100 million. Regarding taxes, while we expect to continue to be a modest cash payer in 2024, estimated to be $20 million to $25 million, we are establishing a non-GAAP tax rate of 21% in fiscal year 2024 and going forward. And this is reflected in our non-GAAP net income per share guidance. We have recasted our fiscal 2022 and '23 non-GAAP net income to reflect this non-GAAP tax rate, and that is available in the tables in our earnings release as well as the financial supplemental. Finally, we expect capital expenditures and capitalized software together to be in the 3% to 4% of revenue range in fiscal year 2024. Now to summarize. We are pleased with our execution in 2023. We are well positioned to help our existing and prospective customers with their cloud migration and digital transformation journeys. And we plan to innovate further and expand the set of problems we solve for our customers in 2024 and beyond. I want to thank Datadogs worldwide for their efforts in 2023, and I'm excited about our plans in 2024. Finally, I'd like to invite you to join us for our Investor Day this Thursday in New York City. Please go to the Datadog IR website for the live stream or contact the IR team at ir@datadoghq.com to attend in person. And with that, we'll open the call for questions. Operator, let's begin the Q&A. Operator (Operator Instructions) Our first question is from Sanjit Singh with Morgan Stanley."
+    },
+    {
+      "speaker": "Sanjit Kumar Singh Morgan",
+      "company": "Stanley, Research Division",
+      "role": "VP",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Congrats on the great bookings results to end the year. Oli, as we sort of come out of this sort of down cycle, reflecting the optimization cycle that we've seen for the last several quarters, I was wondering how you think about where the sources of growth are going to come from in terms of your various customer reports. I'm thinking about the digital natives, which drove a lot of growth in 2019, 2020 and '21 versus your enterprise opportunity and your mid-market customers. As we come out -- go into sort of the next cycle, where does that dollar growth do you think comes from for Datadog?"
+    },
+    {
+      "speaker": "Olivier Pomel",
+      "company": "Datadog, Inc.",
+      "role": "Co-Founder, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Well, it's a good question. I would say pretty much all of the above. I think the -- it's always a little bit hard to time the cycles for specific subsets of the customer base as various macro conditions [rip off] the economy like the (inaudible) different parts of our customer base. We suddenly saw a big slowdown from the digital native over the past year. On the other hand, they might be the first ones to fully leverage AI and deploy it in production. So you might see some reacceleration earlier from some of them at least. If you zoom a little bit, our focus over the past few years has been on really going to market aggressively on the enterprise, the mid-market, the more traditional side of the world that still has to largely get (inaudible) to the cloud. We've planted a lot of seeds there with a number of large companies that still have relatively small deployments in the cloud. And our focus over the next couple of years is affiliated companies. FEBRUARY 13, 2024 / 1:00PM GMT, Q4 2023 Datadog Inc Earnings Call going to be to grow them and obviously land the ones we still don't have. We mentioned on the call about 42% of the Fortune 500 are Datadog customers and they're still largely small, like a few hundred thousand dollars a year spent on us. So that's where we direct our efforts."
+    },
+    {
+      "speaker": "Sanjit Kumar Singh Morgan",
+      "company": "Stanley, Research Division",
+      "role": "VP",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "And I appreciate that thought. And one quick follow-up. When you get customers adopting almost 10% of the base 8 or more products and the number of customers you highlighted in your script had over 10-plus products, how are those deals being structured? Meaning that are they buying sort of individual SKUs at a time and sort of adding them on over time? Or are they being folded into a sort of like a rate card agreement or an enterprise licensing agreement? Just how that pricing and packaging works for customers that get up to that level of adoption."
+    },
+    {
+      "speaker": "Olivier Pomel",
+      "company": "Datadog, Inc.",
+      "role": "Co-Founder, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So in general, what we do is when we do these larger multiproduct or consolidation deals, we have a specific rate card and customers -- and total fund commitment and customers can allocate the funds in real-time to the products they need when they them, which, by the way, gives them a lot of flexibility they don't have when they have to manage like 5 different vendors for different parts of their coverage. There are some exceptions. There are some customers that have such a specific and large volume requirement for 1 product in particular. Typically, this would be things like logs or maybe metrics and things like that, where they get specific commitments in place around specific products. But in general, most customers have a lot of flexibility when they take this commitments with us. And we'll see -- we'll show some examples also at the Investor Day, how the mix of spend can change over time with customers while we expand and cover more and more of the environment. Operator And it comes from the line of Mark Murphy with JPMorgan. Mark Ronald Murphy JPMorgan Chase & Co, Research Division - MD David, the billings growth accelerated 5 points. It was also seasonally stronger than a year ago. And just eyeballing the cRPO figure, it's a pretty massive number. Is that strong bookings performance more tied to a small number of mega deals coming from your cloud natives? Or did you feel that it was kind of a broader phenomenon across the multiple verticals? And then I have a quick follow-up."
+    },
+    {
+      "speaker": "David M. Obstler",
+      "company": "Datadog, Inc.",
+      "role": "CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. There's a couple of aspects. First of all, given the sort of renewal cycle, Q4 tends to have more recommitments. So I think if you look back, you'll see that we tend to have nice billings growth. But in terms of where, it really was correlated with larger customers who, as Oli mentioned, are buying a more complete suite of Datadogs. It wasn't cloud native or not cloud native, it was our larger customers who have standardized on Datadog, have a good sense of their volumes and have committed longer resulting in a longer average billing and contract duration in Q4 than we have had previously."
+    },
+    {
+      "speaker": "Olivier Pomel",
+      "company": "Datadog, Inc.",
+      "role": "Co-Founder, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And really we should emphasize that this is really a change of stance of the customer base compared to last year. So last year, customers were in optimization mode. They didn't know what their consumption should look like. They didn't know economically what they were shooting for as businesses. After a year of optimization, a year of examining everything they could examine, we see customers recommit for much longer periods of time than they did before as they focus on growing and investing. So it's -- we like the setup a lot more than we did last year from that perspective and you see that in the billings numbers. affiliated companies. FEBRUARY 13, 2024 / 1:00PM GMT, Q4 2023 Datadog Inc Earnings Call Mark Ronald Murphy JPMorgan Chase & Co, Research Division - MD Yes, that's very encouraging. And just as a follow-up, if you think about the very long term, would you think attach rates of observability will end up being higher or lower for these AI workloads versus traditional workloads? Because on the surface, with AI, it's bringing the risk of hallucinations and bias, your products help to control that. It's also more computationally intensive and there's more value to unlock if the LLM runs reliably and creates that kind of great user experiences. So I'm just wondering how you might think about that attach rate 3 to 5 years down the road."
+    },
+    {
+      "speaker": "Olivier Pomel",
+      "company": "Datadog, Inc.",
+      "role": "Co-Founder, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, we see the attach rate going up. The reason for that is our framework for that is actually in terms of complexity. AI just adds more complexity. You create more things faster without understanding what they do. Meaning you need -- you shift a lot of the value from building to running, managing, understanding, securing all of the other things that need to keep happening after that. So the shape of some of the products might change a little bit because the shape of the software that runs it changes a little bit, which is no different from what happened over the past 10, 15 years. But we think it's going to drive more need for observability, more need for security products around that. Operator And it's from Raimo Lenschow with Barclays."
+    },
+    {
+      "speaker": "Raimo Lenschow Barclays Bank",
+      "company": "PLC, Research Division",
+      "role": "MD & Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Congrats from me as well. I have 2 quick questions. First for Olivier and then one for David. Olivier, if I think about some of your customers have some very, very large contracts. But then you talked earlier about like if you look at the average kind of large customer, it's still relatively small in terms of their spending with you. Can you speak a little bit about difference between one and the other and then what you can do to kind of change that for those that are not spending as much with you? And then also maybe as part of that, like is the competitive landscape changing with all the consolidation in the space of some of your larger competitors actually kind of being in a new home now? And then for David, any little -- more yardstick in terms of like how the timing of the investments play out this year? I know you mentioned in the comment that like [if] there are more sales and marketing earlier in the year to get the sales guys ramped in the latter part of the year. But -- so how should we think about that modeling?"
+    },
+    {
+      "speaker": "Olivier Pomel",
+      "company": "Datadog, Inc.",
+      "role": "Co-Founder, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Okay. So I'll start with the large companies that are still small customers. That's completely due to them being small in the cloud today. And so typically, they have maybe one of their business units, two of their business units in the cloud with maybe some fraction of their applications there. The goal is to have them consolidate on us as they move more into the cloud. So go end-to-end in a specific business unit and then expand to the whole enterprise at the end. So the difference between a customer that -- like the ones we mentioned today that signs a 9-figure deal with us and the customer that's still at the low hundreds of thousands of dollars is that the one that has signed a large deal has us pretty much wall-to-wall in a significant part of their business and has consolidated a large part of their observability. I should say, the customer that pays us 9 figures still hasn't consolidated everything on us. There are still more upside to be had, more parts of their businesses, more parts of their coverage we can get. The good news is that all of that business is coming to us as these customers move into the cloud. The bad news is that we don't drive the move to the cloud, right? So in periods where it goes a little bit more slowly than we've seen over the past year, that growth can be a little bit lower. But we are very confident into the fact that this is going to happen. AI is going to accelerate. It's growing [executive] and more affiliated companies. FEBRUARY 13, 2024 / 1:00PM GMT, Q4 2023 Datadog Inc Earnings Call relevant. And that's the trend that's going to stay with us for the next few years. On the competition side, there's no real change. I think I would say very boring from a competitive perspective in that the situation is pretty much the same as it was last quarter and the quarter before. There's definitely opportunity with a number of companies, including one (inaudible) and has been sold, I'm sure everybody has seen. These were not competitors. We were seeing very often on the cloudy side of the world already, I think these companies have retreated a bit more to their traditional on-prem bread-and-butter, but we think it is going to open more opportunity in the midterm, definitely. So that's something we are aware of."
+    },
+    {
+      "speaker": "David M. Obstler",
+      "company": "Datadog, Inc.",
+      "role": "CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. And on your second question, much of this growth is related to hiring, which takes time to do. We are trying to invest both in quota capacity, in terms of sales as well as in R&D capacity. Our intent is to open the heads earlier in the year in order to try to get return in the near term. But I think you can assume that, that investment will ramp throughout the year because it takes time to get the head count in. And we gave the guidance for Q1 indicating what we think to happen in Q1. Operator And it comes from the line of Ray McDonough with Guggenheim."
+    },
+    {
+      "speaker": "Raymond Michael McDonough Guggenheim",
+      "company": "Securities, LLC, Research Division",
+      "role": "Director and Equity Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Maybe first for Oli -- or maybe, David. As you think about the investments you're making to the sales force and your hiring capacities, are there any changes you're making to your go-to-market motion? Are you adding incremental overlay sales forces for security or anything else we should be thinking about in terms of changes to the go-to-market motion?"
+    },
+    {
+      "speaker": "Olivier Pomel",
+      "company": "Datadog, Inc.",
+      "role": "Co-Founder, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "There's no change at scale that we've done worth noting on this call. We made a lot of adjustments in the way we say all the time. We make adjustments in the way we package our products. For example, we package some of our security products directly into our infrastructure and APM products. We have a new tier called DevSecOps for both APM and infrastructure and these are great ways for us to actually bring those products into the conversation, make them easier for customer to discover and also make them easier for the sales force to bring up and to sell. And we're actually starting to see great success with that. So still very early, obviously, because we built that up last quarter, but we like what we see with those SKUs. More broadly, we're investing in the sales force. We're increasing capacities. We've increased capacity last year even though it was a slowdown year in the economy, and we have plans to increase the capacity in this year. And we think there's plenty more markets for us to be had, both in terms of the -- inside the segments in which we're already very present, but also in a number of new categories -- sorry, new segments of the market, new geographies that we don't cover very well yet."
+    },
+    {
+      "speaker": "Raymond Michael McDonough Guggenheim",
+      "company": "Securities, LLC, Research Division",
+      "role": "Director and Equity Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Maybe just as a follow-up, can you talk a little bit more about your pipeline construction? Specifically, how are larger opportunities weighted in your pipeline at this point? You talked a lot about more multiyear deals. We talked about kind of the construction of billings and cRPO. But maybe alongside that, can you talk about how long it takes typically to close an opportunity like the 9-figure deal you mentioned? Obviously, your go-to-market motion is more of a land-and-expand motion, but I'm just wondering if as you see larger opportunities in your pipeline, deals may be taking a little longer to close still than typically."
+    },
+    {
+      "speaker": "Olivier Pomel",
+      "company": "Datadog, Inc.",
+      "role": "Co-Founder, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. Because of the way we do business where we try to land fast in small and we expand after that on an ongoing basis, we don't really -- we haven't seen -- even in last year in what's been a tougher year for most sales organizations, we haven't seen an elongation of sales cycles. It's remained very, very stable. In general, we always felt that our sales pipelines were very solid. affiliated companies. FEBRUARY 13, 2024 / 1:00PM GMT, Q4 2023 Datadog Inc Earnings Call As a CEO, when I start the quarter, I can trust that what I see in the pipeline, in the forecast is going to materialize at the end of the quarter. It typically grows during the quarter, it doesn't go down. So it speaks, I think, to the quality of the work the sales team is doing and the quality of the motion we have put in place. When you talk about this specific customer, like the customer that pays us 8 or 9 figures, these deals are growth deals. They are expansion deals. And so we get those deals by making those customers successful over the last period of time and then engaging with their teams as we ship new products, making sure they get their hands on these products. And by the time we get to have a sales conversation, typically, the usage is there. The customers have tried the product. They understand them. They've spoken to our product teams about them or support teams about them. And then it's more a matter of understanding how we package that commercially and how we make a good case for it with the customer, including understanding what other products they might [retire] as part of that. When you think of sales times for brand-new customers, the time it takes is highly dependent on the size of the land. Most of our lands are small and can grow very fast, which is for a large enterprise, it could be a quarter or 2, which is very short for an enterprise deal; could be longer for some larger deals. Operator And it comes from the line of Ittai Kidron with Oppenheimer. Ittai Kidron Oppenheimer & Co. Inc., Research Division - MD And Oli, I wanted to dig into your comments on security. I think you mentioned that you have 6,000 customers that are now using one or more security product. Can you give us a little bit more color? First of all, who is the buyer usually do you see for these solutions initially? And then second, maybe you can kind of parse out a little bit more color on ranking order, kind of the more popular versus least popular security products right now? Would love to get more color on that."
+    },
+    {
+      "speaker": "Olivier Pomel",
+      "company": "Datadog, Inc.",
+      "role": "Co-Founder, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. So the buyers, it depends. For infrastructure security and application security, this tends to be the DevOps teams that start buying with some involvement on the security teams on their end. For our Cloud SIEM product, the buyer tends to be the security team. So we have a little bit of both. And it turns out we're successful in both ends. So both types of products are growing in a similar way. The focus has been, over the past year, on developing the products, getting them to maturity, getting them into the hands of as many customers as possible and also getting as much usage of those products as possible. So the metrics we look at internally with our security products are even more than the revenue, which can vie with usage and things like that. We look at the activity, how many of those customers are actually using the product, how many issues are being tracked, are being solved for the products. And these are the North Stars we use internally as we develop those products. Ittai Kidron Oppenheimer & Co. Inc., Research Division - MD Got it. And then as a follow-up, maybe just to dig into this a little bit more. When customers buy these, I mean, how often is it there's a vacuum there? There's no solution versus a displacement. Or how often do you kind of sit side by side by other solutions that do the same thing, like in the same way the companies have multiple monitoring solutions? Will they just have same security solutions from other vendors? Or this is a complete replacement or greenfield? Would love to get more color on that."
+    },
+    {
+      "speaker": "Olivier Pomel",
+      "company": "Datadog, Inc.",
+      "role": "Co-Founder, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. In most situations, we start side by side with other things because customers are going to have other security solutions, and they typically have a patchwork of a lot of different things, which is not very different from the situation when we started selling our infrastructure and APM products, I would say, 7, 8, 10 years ago. So very similar. affiliated companies. FEBRUARY 13, 2024 / 1:00PM GMT, Q4 2023 Datadog Inc Earnings Call The customers that spend more with us, so we have a number of customers that spend more than $1 million a year with us on security. A larger number of customers have spent more than $100,000 a year with us in security. Those tend to use less other products and consolidate more into what we do. And obviously, the playbook here is the same for us as it has been for observability. By the way, you did ask me to stack rank the security products, I didn't forget about that. It's easy in order of introduction. Like the cloud team has the most usage and was introduced first and then the other products are listed below that. Operator And it comes from the line of Mike Cikos with Needham."
+    },
+    {
+      "speaker": "Michael Joseph Cikos Needham",
+      "company": "& Company, LLC, Research Division",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I guess, first, a question for David. Again, just coming back to the guidance here. Wanted to get some more color, if we could, on December into January. So it's great to hear that January this year seems to be trending better than the seasonal drop that we saw in January of last year. But just wanted to get a better sense. The holidays seemed to play out the way that you guys expected, but can you provide some more color or parameters on that December holiday slowdown and then how that is playing out in January versus where we stand today in mid-February?"
+    },
+    {
+      "speaker": "David M. Obstler",
+      "company": "Datadog, Inc.",
+      "role": "CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. It's as you said, we've seen and we've tried to flag that in the second half of December, we have a slowdown of usage, particularly in our sort of our more use-oriented products like logs. It played out very similarly to what we expected. And I think we cautioned everybody, it's too narrow of a data point. But the bounce-back from that and the growth in January was stronger than the bounce-back last year and we'll have to see how the rest of the quarter plays out."
+    },
+    {
+      "speaker": "Olivier Pomel",
+      "company": "Datadog, Inc.",
+      "role": "Co-Founder, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And in general, I think we -- throughout the rest of the company, we've seen a slowdown in December, I mean, for good reasons. Like there's also some departments get turned off, developers -- some companies closed shop altogether for 1 week at the end of the year. So we -- it's become more pronounced starting last year, I think, because companies put -- wanted to see some cost control and maybe they automated some processes to downscale or shut things down at the end of the year. And this year was consistent with last year. It's hard to compare year-to-year exactly because some of that, for example, depends on which days of the week the holidays are in terms of how much the impact of usage. But overall, what we saw was very consistent with what we had last year."
+    },
+    {
+      "speaker": "Michael Joseph Cikos Needham",
+      "company": "& Company, LLC, Research Division",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. Understood. And thanks for that, Oli, I do appreciate the additional color. And just for a quick follow-up here. I know that you guys are citing the expanded penetration of the Fortune 500 and it's great to hear the 5 points of pickup when you think about the 42% of Fortune 500 customers using it today. Wanted to get a better sense. I know you guys are saying that, I guess, those customers on average are still spending less than $500,000 with you. So I know it's a bit of a point in time here, but two-parter. First, can you help us think about if you had 37% of the Fortune 500 last year and 42% this year, like how has that average spend per customer within the Fortune 500 increased over the last year? And then the second part of that question is, if the 42% of Fortune 500 customers with you are, on average, under $500,000 at this point, where is it Datadog ultimately sees that opportunity going to just given -- I know you guys are talking about the 400 new features and capabilities launched in the last year, but where does that spend increase to over time?"
+    },
+    {
+      "speaker": "David M. Obstler",
+      "company": "Datadog, Inc.",
+      "role": "CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. Just to give you -- we're not sort of giving specific data on the expansion of that group. We have -- if you look at our larger customers and you just look at the trend over time, you can see that in the land-and-expand model, we have had an increase of average customer affiliated companies. FEBRUARY 13, 2024 / 1:00PM GMT, Q4 2023 Datadog Inc Earnings Call size with us in the group over $100,000. And we said previously that we have customers in the tens of millions. We have those customers within the Fortune statistic as well as outside. And so we said in the past that we see buying patterns in the tens of millions. We think that in many of the larger, more traditional enterprises, they're just getting started and there's a lot of upside is what we're trying to communicate."
+    },
+    {
+      "speaker": "Olivier Pomel",
+      "company": "Datadog, Inc.",
+      "role": "Co-Founder, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. And definitely, customer on the Fortune 500, that's in the hundreds of thousands should be in the millions to tens of millions with us in the end. There's no question about that. Operator And it's from the line of Frederick Havemeyer with Macquarie Capital."
+    },
+    {
+      "speaker": "Frederick Christian Havemeyer Macquarie",
+      "company": "Research",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I wanted to ask a bit more of a forward-looking technological question here, perhaps to Oli. There's been quite a lot of, at this point, let's say, testing development, but a lot of interesting development with like autonomous agents for DevOps-related tasks. So I'm curious, as you're considering the opportunity and potentially some of the risks also around generative AI and perhaps like agentic usage of large language models, how are you thinking that Datadog is positioned strategically, both from a product and perhaps pricing perspective around this technology trend?"
+    },
+    {
+      "speaker": "Olivier Pomel",
+      "company": "Datadog, Inc.",
+      "role": "Co-Founder, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "We think we're ideally positioned for that. It's actually -- it's one of the things maybe if you attend our Investor Day, like we'll share some of our thinking on the topic. But we -- so we've been actively building on our Bits AI assistant. We've been interacting with customers based on that. There's a number of ways for us to build on that and to do more to automate work for our customers, and that's something we're working on. And we also see a lot of demand and expectations on the customer side for incorporating generative AI in the product. So I think from a positioning perspective, we feel great about that. We don't have much more to share today, but we are just definitely top of mind."
+    },
+    {
+      "speaker": "Frederick Christian Havemeyer Macquarie",
+      "company": "Research",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Sorry, I don't mean to ask about the Investor Day too early here. So look forward to that this week. Just quickly then also, I understand the perspective on complexity driving more usage of observability and DevOps tooling. But I think last quarter, we got an update on where GenAI-related operations were contributing to the business. Would you have into Q4 any data or points you could share about how much generative AI use cases are contributing?"
+    },
+    {
+      "speaker": "Olivier Pomel",
+      "company": "Datadog, Inc.",
+      "role": "Co-Founder, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, we said -- so we said 3% of our ARR comes from the AI native companies. And look, it's hard for us to wrap our arms exactly around what is GenAI, what is not among our customer base and their workload. So the way we chose to do it is we looked at a smaller number of companies that we know are substantially all based on AI so these are companies like the modal providers and things like that. So 3% of ARR, which is up from what we had disclosed last time. I know one number that everyone has been thinking about is one cloud, in particular, Microsoft, disclosed that 6% of their growth was attributable to AI. And we definitely see the benefits of that on our end, too. If I look at our Azure business in particular, there is substantially more than 6% that is attributable to AI native as part of our Azure business. So we see completely this trend is very true for us as well. It's harder to tell with the other cloud providers because they don't break those numbers up. affiliated companies. FEBRUARY 13, 2024 / 1:00PM GMT, Q4 2023 Datadog Inc Earnings Call"
+    },
+    {
+      "speaker": "Frederick Christian Havemeyer Macquarie",
+      "company": "Research",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. And congrats on a good quarter. Operator And it comes from the line of Patrick Colville with Scotiabank."
+    },
+    {
+      "speaker": "Patrick Edwin Ronald Colville Scotiabank",
+      "company": "Global Banking and Markets, Research Division",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I would like to actually double-click on this kind of ARR from AI native companies. I mean, my question is like are the product SKUs, these kind of GenAI companies are adopting, are they similar or are they different to the kind of other customer cohorts? And then, I guess, when I think about GenAI, I think we can all agree that these are pretty -- typically pretty computer-ly intensive workloads. So how does GenAI -- how do these companies kind of impact the financial model in -- versus traditional kind of -- your other customer cohorts? Is there any kind of differences to call out?"
+    },
+    {
+      "speaker": "Olivier Pomel",
+      "company": "Datadog, Inc.",
+      "role": "Co-Founder, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. There's not many differences today. I think -- and today, this is largely the same SKUs as everybody else. These are infrastructure, APM logs, profiling these kind of things that they are -- or really the monitoring, these kind of things that these customers are using. It's worth noting that they're in a bit of a separate world because they're largely the builders of the models. So all the tooling required to understand the models and -- that's less applicable to them. That's more applicable to their own customers, which is also the rest of our customer base. And we see also where we see the bulk of the opportunity in the longer term, not in the handful of model providers that [anybody] is going to use. In terms of the economics, look, we -- so there's 2 parts to the AI workloads today. There's training and there's inference. The vast majority of the players are still training. There's only a few that are scaling with inference. The ones that are scaling with inference are the ones that are driving our ARR because we are -- we don't -- we're not really present on the training side, but we're very present on the inference side. And I think that also lines up with what you might see from some of the cloud providers, where a lot of the players or some of the players that are scaling the most are on Azure today on the inference side, whereas a lot of the other players still largely trading on some of the other clouds."
+    },
+    {
+      "speaker": "Patrick Edwin Ronald Colville Scotiabank",
+      "company": "Global Banking and Markets, Research Division",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. Very helpful. I guess the other question I want to touch on is, for me, the standout comments from your prepared remarks that were just fascinating were about the kind of intensity of optimization having dissipated. I think you also called out the headwinds over the last few quarters have slowed materially, which is really great to hear. I guess with that in mind, looking at the guidance, the guidance for 4Q was 22%. The guidance for 1Q is the same. And for the fiscal year, it's 21% growth. So I guess, just help us understand the puts and takes between the commentary about kind of optimization having dissipated and guidance and what kind of the levers you pulled thinking about that guidance?"
+    },
+    {
+      "speaker": "Olivier Pomel",
+      "company": "Datadog, Inc.",
+      "role": "Co-Founder, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. We stick to our guns for guidance, which is our practice is we look at the trends for the past 2 quarters, we discount them and we carry that forward. This is how we build guidance. The beauty of our model is that it is usage driven and we benefit from the move to the cloud of our customers and the way they care. The only problem with that is that we do not drive that and it is hard to time it. It's hard to understand. If the customers have the intent to scale and they want [open] the application, it's hard to time it and understand whether it's going to be next quarter or 2 quarters from now. affiliated companies. FEBRUARY 13, 2024 / 1:00PM GMT, Q4 2023 Datadog Inc Earnings Call So that's why we look at the past trends, and we try not to think too hard about what we hope might happen in the near term. Obviously, we're in a much stronger setup than we were last year, though."
+    },
+    {
+      "speaker": "David M. Obstler",
+      "company": "Datadog, Inc.",
+      "role": "CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. I think if I repeat in a little bit different words, what Oli said. I think if you look at our history, we always take the most recent performance trends and discount that. So even if we are seeing improvement, what we do in our guidance in conservatism, again, because of the consumption model, is we do discount that. So that would be consistent with what we've done throughout our history as a public company."
+    },
+    {
+      "speaker": "Olivier Pomel",
+      "company": "Datadog, Inc.",
+      "role": "Co-Founder, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. And just to give you a better example, like we had a number of customers sign large long-term commitments with us that are well above their current level of consumption. But we do not know when those commitments are going to turn into revenue. We trust that they will, customers say that they will. They spend a lot of time over the past year thinking about optimizing and what they actually needed and where they were going in the future where I think they are less prone to overcommitting that they might have been a couple of years ago. But again, we do not -- we cannot put that into the revenue yet. Operator Our last question comes from Keith Bachman with BMO."
+    },
+    {
+      "speaker": "Keith Frances Bachman BMO Capital",
+      "company": "Markets Equity Research",
+      "role": "Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Congratulations on a really solid set of results for the quarter. I'll ask my question jointly. And could you talk about, first, how you see the net retention rate unfolding for the year. And I realize that's a backward-looking metric. But I just wanted to understand how you're thinking about that as we progress through the year even directionally. And the second broader question is about diversification. One of the interesting stats you gave was growth of outside of your core APM and infra growing 75%. Just is there any metrics you can give on what percent of that is your base? Or how we should be thinking about the diversification of the portfolio? In my opinion, Datadog has certainly the broadest portfolio in the category. I'm just wondering how that diversity is contributing to your growth as we look out? Again, if I'm pulling from the Investor Day, then I apologize."
+    },
+    {
+      "speaker": "David M. Obstler",
+      "company": "Datadog, Inc.",
+      "role": "CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. So we do not provide guidance on net retention. I think we said that for the first time in Q4, we had more ARR add than we had in the year ago quarter, and that would indicate the stabilization of net retention, but do not provide guidance. It's all incorporated revenue guidance. As far as platform, yes, totally we've given a number of metrics about this. Remember, last quarter, we talked about the 3 pillars and we said that we had essentially the $1 billion, $500 million and $500 million and that's been a huge driver. In terms of this metric, this is in addition to that, a metric that the expansion, as you said, of the platform is further than those 3 pillars and is an additional product and is a significant driver of our growth."
+    },
+    {
+      "speaker": "Olivier Pomel",
+      "company": "Datadog, Inc.",
+      "role": "Co-Founder, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I will say, though, having the growth portfolio of products really helps with this consolidation deals in particular. Sometimes -- maybe a couple of products are only going to get us $100,000 each as part of a $5 million deal. But having those 2 products help the customer rationalize what they have on the other end, [several] million dollars and help make the case for the other $4.8 million of the deal. So it's really -- the platform as a whole really has a strong impact beyond the revenue of some of the individual products. Operator And with that, we conclude the Q&A session for now. I will turn it back to Olivier Pomel for final comments. affiliated companies. FEBRUARY 13, 2024 / 1:00PM GMT, Q4 2023 Datadog Inc Earnings Call"
+    },
+    {
+      "speaker": "Olivier Pomel",
+      "company": "Datadog, Inc.",
+      "role": "Co-Founder, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you. Again, I want to thank you, everyone, for -- everyone at Datadog for a great year, all of our customers for going through what was -- I know it was a tougher time for them as well. Actually very exciting what was coming in 2024. I think we have a great setup from a customer perspective, a great lineup on the product side and we're excited to build. So thank you all. Operator And thank you all for joining our call today. You may now disconnect. In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. affiliated companies."
+    }
+  ]
 }

@@ -4,5 +4,486 @@
   "quarter": "2024Q2",
   "sector": "IT",
   "filename": "2024-Aug-01-MPWR.OQ-138487524407-Transcript.pdf",
-  "segments": []
+  "segments": [
+    {
+      "speaker": "Genevieve Cunningham Monolithic Power Systems",
+      "company": "inc",
+      "role": "Supervisor-Marketing Communications",
+      "speaker_type": "other",
+      "section": "presentation",
+      "text": "Welcome, everyone, to the MPS second-quarter 2024 earnings webinar. My name is Genevieve Cunningham, and I will be the moderator for this webinar. Joining me today are Michael Hsing, CEO and Founder of MPS; Bernie Blegen, EVP and CFO; and Tony Balow, Vice President of Finance. Earlier today, along with our earnings announcement, MPS released a written commentary on the results of our operations. Both of these documents can be found on our website. Before we begin, I would like to remind everyone that in the course of today's presentation, we may make forward-looking statements and projections within the meaning of the Private Securities Litigation Reform Act of 1995 that involve risk and uncertainty. Risks, uncertainties, and other factors that could cause actual results to differ from these forward-looking statements are identified in the Safe Harbor statements contained in the Q2 earnings release and in our SEC filings, including our Form 10-K, which can be found on our website. Our statements are made as of today, and we assume no obligation to update this information. Now I'd like to turn the call over to Bernie Blegen."
+    },
+    {
+      "speaker": "Bernie Blegen Monolithic Power Systems",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks, Gen. Good afternoon and a big welcome to all of you. Let me open by saying MPS reported yet another record quarter, with Q2 2024 revenue of $507.4 million, exceeding the high end of our guidance. Our strong revenue growth was attributed to three factors: increased demand for AI power solutions, improving order trends in several of our end markets, and lastly, initial revenue ramps associated with design wins secured in past years. Separately, we continue to expand and diversify our global supply chain to ensure supply stability and capture future growth. As we have emphasized for many years, our results reflect the continued success of our proven long-term growth strategy and our transformation from being only a chip supplier to a full solutions provider. I will now open the webinar up for questions. Gen, could you please ask our first caller?"
+    },
+    {
+      "speaker": "Genevieve Cunningham Monolithic Power Systems",
+      "company": "inc",
+      "role": "Supervisor-Marketing Communications",
+      "speaker_type": "other",
+      "section": "qa",
+      "text": "Matt Ramsay, Cowen."
+    },
+    {
+      "speaker": "Matthew Ramsay TD",
+      "company": "Cowen",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you very much, everybody. Good afternoon. Mike and Bernie, congratulations on a -- I'd just say it's nice to have a calm part in the storm relative to what's been -- all of us have been dealing with over the last few weeks. So congrats. affiliated companies. AUGUST 01, 2024 / 9:00PM GMT, Q2 2024 Monolithic Power Systems Inc Earnings Call I wanted to ask a couple of questions. I imagine the enterprise data segment is going to be a huge focus on this call, so maybe I'll just start with the first question. Bernie, if you could maybe give us some directional color by end market in your guidance for September, I'd appreciate it. And secondly, Michael, if you could talk a little bit about what you're seeing in some of the non-enterprise data segments, things like consumer, comms, auto. The model's been driven by this big growth in enterprise data, but from what I can tell, your company has had a lot of design win success in some of these other areas where the macro has really been challenging. And I'm wondering if you're starting to see any green shoots there yet for a recovery in some of those other segments. Thanks, guys."
+    },
+    {
+      "speaker": "Bernie Blegen Monolithic Power Systems",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Okay, sure. I'll keep my comments fairly short as far as the Q3 outlook by end market. Essentially, the bookings trend that we carried into Q3 has improved quite a bit over the last few quarters and has been fairly broad as far as the end market participation. If you look specifically at enterprise data, you'll see that we took a fairly large step up in each of the last two quarters. And then in the third-quarter outlook, we see continued growth in communications, storage, and computing with incremental improvements also in our other groups."
+    },
+    {
+      "speaker": "Michael Hsing Monolithic Power Systems",
+      "company": "Inc",
+      "role": "Chairman of the Board, President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. On your second question, so as Bernie said it, we do see some other business that now relate to AI. And now it is difficult to separate AI. Other business, we design it in which we, let's say, okay, we ship these products half a year ago. A year before, we see the market start to waking up. But that's whatever it is, whatever it is. Okay. And we do see a lot of new designs, new requirement, which is much higher power, especially for communications and -- well, as a matter of fact, across the board. These designs are much higher power than the previous versions. And these all relate to the new design, relate to AI and AI requirements. And these design wins probably will (inaudible)."
+    },
+    {
+      "speaker": "Genevieve Cunningham Monolithic Power Systems",
+      "company": "inc",
+      "role": "Supervisor-Marketing Communications",
+      "speaker_type": "other",
+      "section": "qa",
+      "text": "Dustin Fowler, Oppenheimer."
+    },
+    {
+      "speaker": "Dustin Fowler Oppenheimer",
+      "company": "& Co. Inc",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hey, guys. Just a couple of quick questions. So for power isolation, I believe you ramped later this year in auto followed by data center next year. And think both markets could be greenfield opportunities in the hundreds of millions each. Can you just give us a sense of the ramp in both markets, the competitive landscape, and maybe any market sizing if you can."
+    },
+    {
+      "speaker": "Bernie Blegen Monolithic Power Systems",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I apologize. This is Bernie. I didn't hear which two markets?"
+    },
+    {
+      "speaker": "Dustin Fowler Oppenheimer",
+      "company": "& Co. Inc",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Sorry, that was auto and data center for power isolation."
+    },
+    {
+      "speaker": "Michael Hsing Monolithic Power Systems",
+      "company": "Inc",
+      "role": "Chairman of the Board, President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Okay. Yes, we start to ship (inaudible) and product for the higher powers and for data centers. And this is only the beginning. And what you said, that's very true. All of those are being known and will aid us and became more and more -- the cars converting to the ADAS, in which we believe being a [torso year], all the cars will have their features. And so far we provide all of the -- we have design wins in all these carmakers, especially in the EVs."
+    },
+    {
+      "speaker": "Dustin Fowler Oppenheimer",
+      "company": "& Co. Inc",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. And I guess as we think about auto this year, I think the Street has auto model flat. I guess how realistic is that, given the 7% content gains you have with your largest auto customer before power installation plus the wins with Chinese OEMs? I guess maybe for Bernie, are you modeling auto flat this year? And how should we kind of think about share gains? affiliated companies. AUGUST 01, 2024 / 9:00PM GMT, Q2 2024 Monolithic Power Systems Inc Earnings Call"
+    },
+    {
+      "speaker": "Michael Hsing Monolithic Power Systems",
+      "company": "Inc",
+      "role": "Chairman of the Board, President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Well, we cannot pick -- you want to pick the models, and you want to pick them. I can't give you a model. My accuracy is a plus, minus,12 months. And going forward, we are very confident."
+    },
+    {
+      "speaker": "Bernie Blegen Monolithic Power Systems",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, I think the near-term outlook for automotive remains a little bit fuzzy. And for example, in Q2, we were expecting a nice uplift, which did not occur. And so Michael is correct is that the positioning within the next two, three quarters is hard to predict for auto, more broadly in EVs, specifically, but our long-term positioning is only getting better with additional design wins."
+    },
+    {
+      "speaker": "Genevieve Cunningham Monolithic Power Systems",
+      "company": "inc",
+      "role": "Supervisor-Marketing Communications",
+      "speaker_type": "other",
+      "section": "qa",
+      "text": "William Stein, Truist."
+    },
+    {
+      "speaker": "William Stein Truist",
+      "company": "Financial",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. Thanks for taking my question. Michael, I'm hoping you can linger on that comment you made about solution selling, I think might have been the term used. I think in the past we've been conditioned to hear about modules versus semis. Can you linger as to what you're -- maybe spend a minute explaining what sorts of products and what end markets and what growth you see coming from that activity?"
+    },
+    {
+      "speaker": "Michael Hsing Monolithic Power Systems",
+      "company": "Inc",
+      "role": "Chairman of the Board, President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I like that question. Yes. Okay. We said that we started that journey a long time ago. At the beginning, maybe I didn't know, we didn't know what the hell we were talking about. But that's the directions. And that's including a part of e-commerce. And we sell plug-and-play solutions. So the effort is that the journey will be we are known to be a semiconductor company. And yes, we do. We do all that we provide. And when we sell a silicon, we're selling -- actually, we're selling solutions. We know all the technical details in terms of how we implement the solutions. So my effort is we want to monetize all our knowledges. MPS in the end doesn't make anything. And we are making the money from our knowledge. Why we just capitalize entire our capabilities. And so the journey we started, now, we're selling the solutions. It's probably 20%, 25% of a total MPS total revenue. Every piece of silicon used to be sold somewhere between $1 to $1.50, some of them -- a lot of them even lower for the mass market, which kind of very little now, especially in the consumer business. Now we're turning to a solution company. It's still a semiconductor-based solutions. We sell those solutions. Now, particularly, as you call it, it's a module. I don't know what the appropriate word for that. And so today it's 20% to 25% of the total revenues. MPS is a module business, excluding AI. We're running close to $200 million. And we're growing every year by more than company's percentage growth. And if you look at this way, every chip we sell, all the solution is more than a chip price, okay? And you generate [$4, $5, $6, $10] of a content that we can sell. So that's the result today. And we will commit on the journeys. And again, we're transforming our company to a silicon-based solution providers."
+    },
+    {
+      "speaker": "Bernie Blegen Monolithic Power Systems",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And Will, if I could just add two comments quickly. The first is, and this is specific to your question, but it's across all of our markets. It primarily focuses on those that have long longer design cycles where we can add expertise in designing solutions. And the second point is, again, while we are driving a lot -- a higher percentage of our business to the modules or to the more complete solutions, we have the ability like no other company to be able to deliver the type of solution our customer wants, whether it's a die, a chip or some package in between."
+    },
+    {
+      "speaker": "Michael Hsing Monolithic Power Systems",
+      "company": "Inc",
+      "role": "Chairman of the Board, President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. And many traditional semiconductor companies, they have to distinguish whether they are solution providers or selling modules -- selling solutions or selling semiconductor only. And that's especially the case and apply for AI powers. And there's a very few company using a silicon-based module solution to power this AI solution or data centers. affiliated companies. AUGUST 01, 2024 / 9:00PM GMT, Q2 2024 Monolithic Power Systems Inc Earnings Call"
+    },
+    {
+      "speaker": "William Stein Truist",
+      "company": "Financial",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "If I can add a follow-up please. Can you talk about what you're doing in vertical power delivery? I know there's a lot of companies that are claiming to have it or be ramping it, and I know you guys are one of those companies that are, I think, more clearly delivering. But maybe you can talk about what your efforts are yielding in that area. Thank you."
+    },
+    {
+      "speaker": "Michael Hsing Monolithic Power Systems",
+      "company": "Inc",
+      "role": "Chairman of the Board, President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "We are in the leading positions. Okay. And there's maybe one, I will say, one or two company -- maybe one company have the capability similar to MPS. The market is a huge and it's growing. And MPS is with a leading position because not by one day. So when the AI happened, we developed that. We developed it years ago for that. And there's not many semiconductor companies that are based on the semiconductor company that have that kind of capability."
+    },
+    {
+      "speaker": "Genevieve Cunningham Monolithic Power Systems",
+      "company": "inc",
+      "role": "Supervisor-Marketing Communications",
+      "speaker_type": "other",
+      "section": "qa",
+      "text": "Quinn Bolton, Needham."
+    },
+    {
+      "speaker": "Quinn Bolton Needham",
+      "company": "& Company",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Let me offer my congratulations. Maybe just first, Bernie, a quick follow-up on Matt Ramsey's question on the drivers of sequential growth in the third quarter. I think you mentioned comms and storage and computing, but I didn't hear you specifically say enterprise data. I just wanted to confirm enterprise data is still one of the big growth drivers in the third quarter and then I'll get to the two questions."
+    },
+    {
+      "speaker": "Bernie Blegen Monolithic Power Systems",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "On the enterprise data, the way I tried to tee that up -- first off, yes, it is expected to grow, but we have grown significantly in each of the four prior quarters to this. So the rate of growth is slowing down. And the biggest for this quarter only. And I offer that because there's a lot of opportunities that have yet to begin to ramp with a number of the different companies that we're currently working on designs with. But I was calling out in particular that both storage and computing and communications will be good drivers in Q3."
+    },
+    {
+      "speaker": "Michael Hsing Monolithic Power Systems",
+      "company": "Inc",
+      "role": "Chairman of the Board, President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Quinn, you know the VR13 have 13.5 and we start to have significant revenues. And that was the beginning, you know that. And VR14 which hasn't really ramped up yet. And we have a lot of design. We increased -- VR13 is a test case. And so when they go into shortages, okay, a lot of revenues -- a lot of volumes shift to MPS and other -- our competitors couldn't deliver, and we delivered. We delivered. And now the benefit of this, okay, for VR14 we will be a significant players in that market segment. And"
+    },
+    {
+      "speaker": "Bernie Blegen Monolithic Power Systems",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And particularly in the second half of this year, it looks like that segment is starting to take off here."
+    },
+    {
+      "speaker": "Quinn Bolton Needham",
+      "company": "& Company",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. That was going to be sort of I guess my first question. Could you talk within the enterprise data about some of the opportunities, whether it's on the CPU power side or just broadening out of your AI portfolio? And then I'll have another question on vertical power, if I could squeeze in that second question."
+    },
+    {
+      "speaker": "Michael Hsing Monolithic Power Systems",
+      "company": "Inc",
+      "role": "Chairman of the Board, President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Go ahead."
+    },
+    {
+      "speaker": "Quinn Bolton Needham",
+      "company": "& Company",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "So the question on vertical power, different competitors may mean different things when they're talking about vertical power. And I just wanted to kind of get your guys' view on the market. When you guys talk about vertical power, is that true vertical power where the voltage regulator is sitting underneath the processor substrate and supplying current vertically into the processor? Or do you guys consider sort of stacked packages where you've got one or more voltage regulators or phases in a module with the power inductors and affiliated companies. AUGUST 01, 2024 / 9:00PM GMT, Q2 2024 Monolithic Power Systems Inc Earnings Call capacitors and other things that might be stacked vertically, but still delivering current laterally into the processor? What's your definition of vertical? Because I think there's some confusion in the market what may be vertical and what might look vertical, but actually still supply current laterally."
+    },
+    {
+      "speaker": "Michael Hsing Monolithic Power Systems",
+      "company": "Inc",
+      "role": "Chairman of the Board, President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, you're right. There's some customers using a top surface lateral power supply, which is like a very similar to the server CPU power supplied. And other ones turning into the backside, still lateral powers. And more advanced one is directly under the CPU. To answer the question, is the NPS supplied currently, we're running all three solutions. Chip, all modules, we have everything there."
+    },
+    {
+      "speaker": "Bernie Blegen Monolithic Power Systems",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And Quinn, if I can also add to this, that the necessity for the difference to deliveries of power is as you get into increasingly higher current, and in addition to either lateral or vertical power, we also have liquid-cooled that we believe that we have a position on."
+    },
+    {
+      "speaker": "Michael Hsing Monolithic Power Systems",
+      "company": "Inc",
+      "role": "Chairman of the Board, President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. Quinn, to answer your question, the most efficient and difficult to do is you're making a module directly under the CPU. And that's the highest efficiency power delivered. There's a lot of problem and a lot of technical issues associated with that type of approach. So many company take a a conservative approach. Some companies just do only like a servers and [pop] surface level power delivery. For those very high powers, well over 1,000 watt, all these powers, the power modules directly under the CPUs. And that these are the highest efficiency."
+    },
+    {
+      "speaker": "Genevieve Cunningham Monolithic Power Systems",
+      "company": "inc",
+      "role": "Supervisor-Marketing Communications",
+      "speaker_type": "other",
+      "section": "qa",
+      "text": "Chris Caso, Wolfe."
+    },
+    {
+      "speaker": "Chris Caso Wolfe",
+      "company": "Research, LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "The first question is on seasonality, how that may be changing for you. In the past, the December quarter typically was a seasonally down quarter, but your business mix has changed quite a bit since those days and the revenue is now coming from segments that are not as seasonal December quarter. With that, how should we look at December seasonality going forward? Or is the old model no longer appropriate as we look forward? And if there's anything you want to comment on with respect to December?"
+    },
+    {
+      "speaker": "Michael Hsing Monolithic Power Systems",
+      "company": "Inc",
+      "role": "Chairman of the Board, President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "We're seeking advice from you. What's our seasonality? With a new business, with all these inventory oscillation from our customers, we don't know. You have a huge shortage, then it comes up the huge oversupply. I assume our customers consume all this excessive inventory, now the market is waking up. Is this another shortage? I don't know. That is difficult to forecast. The lead time is still very short."
+    },
+    {
+      "speaker": "Bernie Blegen Monolithic Power Systems",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Okay. So we'll do our best. (multiple speakers)"
+    },
+    {
+      "speaker": "Chris Caso Wolfe",
+      "company": "Research, LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "All right. That's fair enough. As my follow-up question, I wanted to follow up with vertical power as well. And what we know, particularly within the enterprise segment, AI, we've got some higher wattage processors coming. Can you talk about what you expect for content on that? And what, in particular, do you expect for vertical power next year? Because I know there's some debate -- certainly doesn't seem to be a debate over whether you're ready for vertical power or the ecosystem is ready for vertical power. And does that make a difference with regard to your content as you go into the next generation of processors because the wattage is certainly going higher?"
+    },
+    {
+      "speaker": "Michael Hsing Monolithic Power Systems",
+      "company": "Inc",
+      "role": "Chairman of the Board, President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. I can tell you this. Our customers will not be appreciative talking about how many dollars per their unit or GPU unit. And so now they don't want us to talk about it. And second, I don't know. I don't want to know about it."
+    },
+    {
+      "speaker": "Chris Caso Wolfe",
+      "company": "Research, LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. I understand. And just in terms of the opportunity, maybe you could speak in more general terms about the opportunity that's available to you. affiliated companies. AUGUST 01, 2024 / 9:00PM GMT, Q2 2024 Monolithic Power Systems Inc Earnings Call"
+    },
+    {
+      "speaker": "Michael Hsing Monolithic Power Systems",
+      "company": "Inc",
+      "role": "Chairman of the Board, President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Oh, sure. Yeah. Now you look at our revenues, right? Okay. LatAm for a couple of companies from last year was (inaudible) 1% or 2%, or maybe last year's couple of percentage of our total revenue. Well, today, we're running like a, what, 20%. So that's a $400 million, $500 million. We were told this is the beginning, and that there's a lot of other companies where our opportunities and our design wins hasn't really ramped it up in a company like a Google and AWS and Meta. And those come in later. So I see the huge opportunities, and I do see some -- this is not MPS only, but the market is way too big. We don't want to turn into a AI company only."
+    },
+    {
+      "speaker": "Bernie Blegen Monolithic Power Systems",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, I think the only thing I'd probably add on top of that besides for the direct AI opportunity, I think you've heard us talk about the AI trickle-down effect. Whether that can be memory, it can be optical, it can be pull-through of networking, I think there's a lot of opportunity for MPS beyond even the direct AI business."
+    },
+    {
+      "speaker": "Michael Hsing Monolithic Power Systems",
+      "company": "Inc",
+      "role": "Chairman of the Board, President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "That's good. That's a good comment."
+    },
+    {
+      "speaker": "Genevieve Cunningham Monolithic Power Systems",
+      "company": "inc",
+      "role": "Supervisor-Marketing Communications",
+      "speaker_type": "other",
+      "section": "qa",
+      "text": "Tore Svanberg, Stifel."
+    },
+    {
+      "speaker": "Tore Svanberg Stifel Financial",
+      "company": "Corp",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yes. Thank you, Michael, Bernie, and congrats again on another stellar quarter. I wanted to follow up on enterprise data a bit. I'm going to move away from the processor power management and asking more about opportunities elsewhere in the data center, especially power supply. I know historically you haven't talked a whole lot about GaN silicon carbide, but I'm pretty sure you have some activities there. So can you elaborate a little bit on what you're doing on the power supply side of data centers?"
+    },
+    {
+      "speaker": "Michael Hsing Monolithic Power Systems",
+      "company": "Inc",
+      "role": "Chairman of the Board, President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, I like that one. But I can't tell you the revenue yet, but it's small. Since 2016, we started to develop our own silicon carbide. We're not selling a [FET]. It will be a part of our solutions. I said very, very early when I intend to sell a FET as a power device only. So now we designed those 3-kilowatt, 6-kilowatt, 12-kilowatt power supply. And you guess what? It's a data center, it's evaluating, so we have a very little revenues, but the biggest is the MPS only owned. All our test [float], we're using a huge amount of power supply, and MPS is our own customers. All these are testing equipment that we have to design. We have to invent it, how to test these modules, particularly, and also as well as burning. And MPS supply these power module to our vendors, and our vendors implemented it into the system, and it became our test equipment. And so that's the revenues we started generating. But for 4Gs and for data centers, these are still -- well, we engaged in a year ago or so, couple years ago. And so the revenue is small, but we're looking for the big revenues from that segment because MPS provides the highest efficiency and the smaller size."
+    },
+    {
+      "speaker": "Tore Svanberg Stifel Financial",
+      "company": "Corp",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yeah, that's great perspective. As my follow up, I recall -- because we've gone through a few cycles together, I recall usually you use downturns to gain a lot of share. I know everyone's excited about AI data centers today, but what are some of the areas where you're starting to see more meaningful share gains from a design perspective now that we're navigating here at the bottom of the cycle?"
+    },
+    {
+      "speaker": "Bernie Blegen Monolithic Power Systems",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure. So I think that we've been very clear about the positioning that we have in automotive and how that's continuing to grow across a multitude of different platforms with a multitude of different Tier 1 suppliers and OEMs. I think the most recent area for improvement, where some of these greenfield opportunities are becoming more visible in the market, would be in particular with communications. We're seeing that in the wireless and 5G. And I think that we've seen some early indications of continuing investment in that segment. So I'd say that's probably the area that will be most visible. But obviously, I don't want to forget industrial, which even though right now is affiliated companies. AUGUST 01, 2024 / 9:00PM GMT, Q2 2024 Monolithic Power Systems Inc Earnings Call a relatively modest part of our business, and it's not shown a lot of momentum towards growth, probably is the next area where we have a lot of greenfield opportunities that will materialize in the next four quarters."
+    },
+    {
+      "speaker": "Tore Svanberg Stifel Financial",
+      "company": "Corp",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I was just going to ask, the RV market, is that going to be under oil or industrial?"
+    },
+    {
+      "speaker": "Michael Hsing Monolithic Power Systems",
+      "company": "Inc",
+      "role": "Chairman of the Board, President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "RV?"
+    },
+    {
+      "speaker": "Tore Svanberg Stifel Financial",
+      "company": "Corp",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "The RV market, the camping car market. I know you've talked about that."
+    },
+    {
+      "speaker": "Michael Hsing Monolithic Power Systems",
+      "company": "Inc",
+      "role": "Chairman of the Board, President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Oh, yeah. No, no. Yes, okay. That's one of my favorite ones. I think it will be in the industrial market. Because all these products share the same signatures as we do for data centers, for our own test fraud, and for test equipment, okay, will be shared, very much share, the same characteristics, and also for robotics. Especially for those moving, not stationary robot, and these robots move around, and that they all need that type of a power supply and the charging and the battery management. And these share very much the same characteristics as RVs."
+    },
+    {
+      "speaker": "Tore Svanberg Stifel Financial",
+      "company": "Corp",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "And those could be industrial or consumer or even the humanoid stuff too. So I don't think I want to just put those."
+    },
+    {
+      "speaker": "Michael Hsing Monolithic Power Systems",
+      "company": "Inc",
+      "role": "Chairman of the Board, President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I think it's a way of -- we're probably in the industrial side."
+    },
+    {
+      "speaker": "Genevieve Cunningham Monolithic Power Systems",
+      "company": "inc",
+      "role": "Supervisor-Marketing Communications",
+      "speaker_type": "other",
+      "section": "qa",
+      "text": "Quinn Bolton, Needham."
+    },
+    {
+      "speaker": "Quinn Bolton Needham",
+      "company": "& Company",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hey, guys, just wanted a quick follow-up question. There have been a few semiconductor companies this earnings season that have sort of mentioned having licenses to Huawei being revoked in the quarter, and it's raised some questions from investors. I'm just wondering if you guys could address. Do you have a license to ship to Huawei? If you did, has it been revoked? Is there any real exposure at MPS to that customer? It's obviously not impacting your near-term outlook, but I figured I'd just ask because we've gotten a number of questions on potential Huawei exposure across the semi-coverage. Thank you."
+    },
+    {
+      "speaker": "Bernie Blegen Monolithic Power Systems",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Quinn. I can make this pretty simple. We don't have any licensing or contractual arrangements with Huawei at all. So it can't be canceled. Any business we have with them has always just done on a PO basis. And we have no indication of a change in their relationship."
+    },
+    {
+      "speaker": "Quinn Bolton Needham",
+      "company": "& Company",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yeah. So Bernie, I guess there was more of that export license question. Do you need an export license to ship to them? Because I think that's what's sort of caught."
+    },
+    {
+      "speaker": "Michael Hsing Monolithic Power Systems",
+      "company": "Inc",
+      "role": "Chairman of the Board, President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Our product, it's not like below 24 nanometer or whatever. And as far as I know, we're not subject to the export limit, have any limitations. But we'll talk to our -- to answer your question precisely, I will consult our legal counsels."
+    },
+    {
+      "speaker": "Genevieve Cunningham Monolithic Power Systems",
+      "company": "inc",
+      "role": "Supervisor-Marketing Communications",
+      "speaker_type": "other",
+      "section": "qa",
+      "text": "If there are any follow-up questions, please click the raise hand button. As there are no further questions, I would now like to turn the webinar back over to Bernie. affiliated companies. AUGUST 01, 2024 / 9:00PM GMT, Q2 2024 Monolithic Power Systems Inc Earnings Call"
+    },
+    {
+      "speaker": "Bernie Blegen Monolithic Power Systems",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Great. I'd like to thank you all for joining us for this conference call and look forward to talking to you again during our third-quarter conference call, which will likely be in late October. Thank you and have a nice day. In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. affiliated companies."
+    }
+  ]
 }

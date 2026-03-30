@@ -4,5 +4,334 @@
   "quarter": "2024Q3",
   "sector": "IT",
   "filename": "2024-Oct-24-TER.OQ-140201635847-Transcript.pdf",
-  "segments": []
+  "segments": [
+    {
+      "speaker": "Gus Richard Northland Capital",
+      "company": "Markets",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Operator Good day, ladies and gentlemen, and welcome to the Q3 2024 Teradyne Incorporated earnings conference call. (Operator Instructions) Please note, this conference is being recorded. I would now like to turn the conference over to the Vice President of Investor Relations, Traci Tsuchiguchi. Please go ahead, ma'am."
+    },
+    {
+      "speaker": "Traci Tsuchiguchi Teradyne",
+      "company": "Inc",
+      "role": "President of Investor Relations",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thank you, operator. Good morning, everyone, and welcome to our discussion of Teradyne's most recent financial results. I'm joined this morning by our CEO, Greg Smith; and our CFO, Sanjay Mehta. Following our opening remarks, we'll provide details of our performance for the third quarter of 2024 and our outlook for the fourth quarter of '24. The press release containing our third quarter results was issued last evening. We are providing slides as well as a copy of this earnings script on the Investor page of the Teradyne website that may be helpful in following the discussion. Replays of this call will be available via the same page after the call ends. The matters that we discuss today will include forward-looking statements that involve risk factors that could cause the current results to differ materially from management's current expectations. We caution listeners not to place undue reliance on any forward-looking statements included in this presentation. We encourage you to review the safe harbor statement contained in slides accompanying this presentation as well as the risk factors described in our annual report on Form 10-K filed with the SEC. Additionally, these forward-looking statements are made only as of today. During today's call, we will refer to non-GAAP financial measures. We have posted additional information concerning these non-GAAP financial measures, including reconciliations to most directly comparable GAAP financial measures, were available on the Investor page of our website. Looking ahead between now and our next earnings call, Teradyne expects to participate in technology or industrial-focused conferences hosted by RW Baird and UBS. Additionally, please note that we are planning to host a financial analyst meeting at our headquarters in North Reading, Massachusetts in the afternoon of March 11, 2025. Following Greg and Sanjay's comments this morning, we'll open up the call for questions. This call is scheduled for one hour. Greg? affiliated companies. OCTOBER 24, 2024 / 12:30PM GMT, Q3 2024 Teradyne Inc Earnings Call"
+    },
+    {
+      "speaker": "Gregory Smith Teradyne",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thanks, Tracy. Good morning, everyone, and thanks for joining us. Today, I will summarize our third quarter results and discuss the trends we are seeing in the semiconductor and advanced robotics industry. Sanjay will then provide more color on our third quarter results and forward-looking guidance. Generally, the market dynamics that we identified in our July earnings call have continued through the third quarter. The ongoing strength of Cloud AI is driving demand in both the SOC and memory test markets and our Semiconductor business is performing above our expectations. Within SemiTest, the memory business delivered record high revenue in the third quarter on strong HPM demand. Our SoC business was driven by networking and by vertically integrated producers or VIPs who are designing silicon for their own use in cloud and edge AI applications. Beyond compute and memory, we're beginning to see stabilization and in some cases, modest levels of improvement in our other SemiTest segments. We are seeing utilization rates continue to tick higher as testers initially purchased for mobile are increasingly being upgraded to test cloud AI compute devices. By the beginning of 2024, our lead times had returned to normal, and while our customers are not generally providing forecasts beyond a quarter or two, which limits our visibility, we do expect a broader market recovery as we progress through 2025. Robotics powered by channel transformation and SAM expansion continues to outpace its peer group as it operates in a difficult macro industrial environment that has now persisted for more than two years. Hosting in on Q3. We delivered third quarter financial results at the high end of our revenue guidance range and above the high end of our gross margin and earnings guidance ranges. Memory and SOC came in above our plan, driven mainly by AI applications. In Q3, Cloud AI drove compute revenue with notable strength in networking devices. As we have discussed in the past, AI-enabled data centers require much denser networks and our incumbent leadership position in networking combined with shipments to VIPs has resulted in a considerable shift in our revenue mix. This year, we expect our revenue from compute to be 4x what it was in 2023. We are increasing our SOC TAM forecast for the compute market segment by $200 million from $1.6 billion to $1.8 billion in 2024. This compares to $1.4 billion in 2023, approximately 30% year-over-year TAM growth. The VIP portion of the compute TAM is growing fast, and our current estimate of this market for 2024 is approximately $300 million, of which we have roughly 50% share. In memory, AI-driven HPM DRAM demand remains very strong, and AI servers are driving demand for enterprise SSD NAND flash. Our memory business is at record levels, driven by volume shipments for DRAM wafer store and HBM stack die test. We are revising our estimated memory TAM expectation for the year to approximately $1.4 billion, above our prior estimate range of 1.2 to 1.3. The memory tester TAM in 2024 is now expected to be over 35% higher than the last peak in 2021, we note that the 2024 memory TAM includes a big slug of initial tooling for HBM at multiple memory suppliers. It's likely that the HBM TAM will flatten or reduce in 2025. Moving on to Q4. Cloud AI demand is expected to continue into the fourth quarter. However, given the surge of memory shipments in the third quarter, we expect that our memory revenue will moderate in the fourth, while SemiTest has consistently outperformed our expectations this year, our other test businesses have continued to see softer demand. Our wireless business, in particular, has been impacted by the slower-than-expected ramp of WiFi 7 in access points, PCs and laptops. Our HD business continues to wait for our primary customer to work through capacity and our production board test business continues to be weak, mainly due to low demand from Tier 1 automotive OEMs. Now turning to robotics. Despite roughly flat quarter-on-quarter revenue, our robotics business has delivered 8% year-to-date growth affiliated companies. OCTOBER 24, 2024 / 12:30PM GMT, Q3 2024 Teradyne Inc Earnings Call despite a worsening industrial macro backdrop. We see our industrial automation players with year-over-year declines averaging more than 10%. While the basic demand drivers for advanced robotics remain, low penetration rate the demographics of an aging population, fewer young workers willing to do factory work and the compellingly short ROI, the industrial market that we serve is inherently cyclical, and our customers have significantly cut back on capital investment plans. We believe a more appropriate short-term indicator of progress is to consider performance relative to the peer group rather than an absolute growth metric for this business, to consider absolute growth, one needs to look over a complete business cycle. Even in the adverse business environment, the robotics team is seeing good progress in executing its growth strategy. Our highest priority in robotics go-to-market transformation is the development of the OEM solutions channel for [UR]. This channel is highly valuable because customers purchasing cobot based solutions from these partners get into production more quickly and have fewer problems than customers that develop custom solutions. In the first three quarters of the year, OEM revenue at UR is up over 50% compared to 2023. Innovation-driven SAM expansion is central to outgrowing the market. The new heavy payload UR robots that began shipping late last year have lasted well in the market and represents 16% of UR units shipped year-to-date. The OEM growth and new product revenue essentially account for Teradyne Robotics outperforming our peer group in budget-constrained market conditions. We expect innovation-driven growth to continue in Q4. The MIR 1200 Palo Jack is a breakthrough product that brings NVIDIA-powered AI to solve a tough problem in the physical industrial world. Our beta customer trials have completed successfully, and we expect commercial shipments to begin late this quarter. Earlier this week, UR launched its AI accelerator, which is a ready-to-use hardware and software toolkit that will reduce time to market for AI-based workcell robotic solutions for UR's partners. To sum up, based on year-to-date outperformance of our SemiTest business and partially offset by the softer environment outside of Semi Test, we expect total company revenue growth of approximately 5%, up from our prior expectation of low single-digit revenue growth from 2023. As a reminder, excluding the impact of the sale of DIS to Technoprobe, our 2024 revenue growth would be a couple of percentage points higher. Our third quarter results have reinforced our belief that AI is a transformational secular growth driver across Teradyne's businesses, both in test and in robotics. It is powering demand in Semi Test and powering innovative products in robotics. We expect that this will only accelerate in the years ahead. With that, I'll turn the call over to Sanjay. Sanjay?"
+    },
+    {
+      "speaker": "Sanjay Mehta Teradyne",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Vice President, Treasurer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you, Greg. Good morning, everyone. Today, I'll cover the financial summary of Q3, provide our Q4 outlook and provide some color around 2025. Now to Q3. Third quarter sales were $737 million, which was at the high end of our guidance with non-GAAP EPS of $0.90, which was above our high-end guide of $0.86, non-GAAP gross margins were 59.7%. This was above our high guidance due primarily to product mix. Non-GAAP operating expenses were $275 million, up sequentially and year-over-year, consistent with our guidance as we invest in targeted opportunities to drive long-term growth. Non-GAAP operating profit was approximately 22%. Turning to our revenue breakdown in Q3. Semi Test revenue for the quarter was $543 million, with SoC contributing $393 million and memory $150 million. Strength in SOC was driven by compute, while mobile and industrial continued to ship at a consistent level with Q2. Memory Test revenue was driven by HVM DRAM shipments flash tooling for new UFS 4.0 standard in Mobility and DRAM wafer sort. In memory, we continue to expect DRAM to dominate the memory mix at over 80% of the memory TAM in 2024. In System Test group, affiliated companies. OCTOBER 24, 2024 / 12:30PM GMT, Q3 2024 Teradyne Inc Earnings Call Q3 revenue was $73 million with continued weakness across the businesses. Production Board Test business decline was driven by weakness in the automotive end market. Storage Test weakness in SLT was tied to the mobile end market, while the HDD end market is recovering, the demand is being satisfied with underutilized test capacity. In wireless test, revenue was $33 million in Q3, lower sequentially and year-on-year on a slower-than-expected ramp of WiFi 7 and continued weakness in the PC end market. Now to robotics. Revenue was approximately $89 million, flattish sequentially and up 3% year-over-year. In the quarter, UR contributed $73 million and MIR contributed $15 million. As noted, although the overall market is down, we are experiencing year-over-year growth tied to our SAM expansion and channel strategies. Some other financial information in Q3. Our equity investment in Technoprobe is reflected below the line in the income statement, where we recognized 10% of TPI's profit one quarter in arrears. Clarity, as the transaction closed at the end of May, our third quarter results reflect the impact of one month of the TPI investment. We had three 10% customers in the quarter. The tax rate, excluding discrete items for the quarter 13.6% on a GAAP basis and 13.8% on a non-GAAP basis. Full year rate is expected to be 14% on a GAAP basis, 14.5% on a non-GAAP basis. Shifting to some cash metrics. At a company level, our free cash flow was $114 million, primarily driven by earnings and net working capital improvements in the quarter. We repurchased $25 million shares in the quarter and paid $20 million in dividends. We ended the quarter with $678 million in cash and marketable securities. Now to our outlook for Q4. Q4 sales are expected to be between $710 million and $760 million. Gross margins are estimated at 59.5% to 60.5%. Recall in January, we had a plan to improve gross margins back to model in the second half of 2024. The first half of 2024 had subscale revenues tied to a seasonally low Q1 and operational resiliency spend. In the second half of 2024, we are back to our model gross margins of 59% to 60%. A little more color on gross margin seasonality. In Q1 2025, we anticipate revenue to be roughly 5% to 10% down quarter-over-quarter. With this lower volume, our gross margin is expected to be slightly below our target model. Back to Q4, OpEx is expected to run at 36.5% to 38.5% of fourth quarter sales. The non-GAAP operating profit rate at the midpoint of our fourth quarter guidance is 23% with non-GAAP EPS expected to be in the range of $0.80 to $0.97 on 164 million diluted shares. GAAP EPS is expected to be in the range of $0.73 to $0.91. A few comments on the semiconductor test market. We are revising up our total semiconductor ATE TAM estimates for 2024. We have provided a slide in the appendix of our earnings deck with this information. Recall, our SOC TAM range has been $3.6 billion to $4.2 billion with a midpoint of $3.9 billion. We now expect the SOC TAM to be at the high end of this range around $4.2 billion. This is comprised of compute, which we now estimate to be $1.8 billion, up $200 million from our prior midpoint estimate and industrial to be around $400 million, up $100 million from our prior estimate. We continue to estimate mobile to be around $800 million. Auto MCU to be around $500 million and services at $700 million. We are also raising our memory TAM estimate to $1.4 billion, up from an estimated range of $1.2 billion to $1.3 billion. Within our 2024 expectations, as Greg noted, we are calibrating our expectations of growth in robotics around the relative growth of the peer group. We are targeting growth in our robotics business to be 15% to 20% above the industrial automation peer group, which contemplates macroeconomic factors that are outside of our control. We are confident in the long-term growth of this business and will continue to have a disciplined approach to spending. Given the weak end market, we now expect robotics growth in 2024 to be between 5% and 10%. affiliated companies. OCTOBER 24, 2024 / 12:30PM GMT, Q3 2024 Teradyne Inc Earnings Call With regard to capital allocation, we will continue to target our share buybacks in 2024 to have an amount necessary to offset dilution from equity compensation and our employee share purchase program. Looking ahead to 2025, with an uptick in utilization and an expectation of end market improvement, we will be making investments that will increase our operating expenses. However, we expect to have a plan with operating leverage. We expect revenue growth to accelerate from 2024 levels across all businesses. That said, demand for most of our end markets outside of AI related to compute and memory is improving, but remains muted and the timing and magnitude of a broader-based recovery is not known. Our variable business model is scalable and resilient with outsourced manufacturing and our operating expenses having a variable component. During a cyclical downturn, we shed OpEx enabling greater profitability and free cash flow generation. During an upturn in the market, we expect in 2025, we will see an accelerated OpEx increase tied to our variable OpEx model. In 2025, given our expected top line growth, we are planning a low teens increase in year-over-year OpEx, mainly to fund our Semi Test growth initiatives, primarily in engineering and go-to-market. Also, approximately 30% of the growth is due to our variable compensation model. Q1 OpEx is expected to grow 15% to 20% year-over-year. Summing up, we delivered strong sales and earnings in the third quarter as memory and compute revenue helped us drive to the high end of the range. Our robotics team delivered year-over-year growth despite a difficult auto and industrial end market as the business continues to execute its new product development and go-to-market strategy. Overall, our midterm fundamentals remain strong, and we are investing to accelerate our long-term growth trajectory. With that, I'll turn the call back to the operator to open the line up for questions. Operator? Operator (Operator Instructions) Mehdi Hosseini of SIG."
+    },
+    {
+      "speaker": "Mehdi Hosseini",
+      "company": "SIG",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yes, the first one has to do with just the overall system level test, you have highlighted opportunities in compute I think of system-level test as an extension of compute impacting both your Semi Test and system level. So remind me, where do you see the TAM in '24 and your projection for '25? And what are the opportunities that Teradyne could benefit from? And for context, SLT was mostly opportunities in the smartphone, I'm under impression that the end market diversified, and I want to hear how Teradyne is positioned, and I have a follow-up."
+    },
+    {
+      "speaker": "Gregory Smith Teradyne",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Mehdi, so unlike the semiconductor ATE market, there aren't as accurate measures of TAM in the SLT space because there are a lot of sort of fuzzy edges between SLT and burn in, different methodologies. So we look more at this from a major customer perspective and a segment perspective. . So you're right. The thing that's happened over the past few years, maybe the last like five years or so is SLT becoming an important part of the test strategy for the processors that go into smartphones. affiliated companies. OCTOBER 24, 2024 / 12:30PM GMT, Q3 2024 Teradyne Inc Earnings Call And that has been the primary driver for us, our business. Over in 2024, we have added compute customers to that mix. And we're really going to hit more, like I think that's only going to be a meaningful contributor to SLT revenue once we get to 2025, there's a little bit in 2024, there will be more in 2025. We also while this the mobile downturn has been going on, we have been adding additional an additional customer in the mobile space. So when the mobile market hopefully recovers to an extent in 2025, we expect that to grow a little bit more robustly because we have an additional customer there. So I don't have a firm answer to give you, but we certainly believe that we're looking at a significantly stronger 2025 than 2024 in SLT."
+    },
+    {
+      "speaker": "Mehdi Hosseini",
+      "company": "SIG",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you. Sure. And just as a follow-up, when I asked your customers, it seems like the overall test time for the next generation of AI Blackwell increases by more than 30% versus the prior generation. And I'm just wondering given the fact that you've had limited exposure to accelerate part of the AI market, would the escalating test time open the door for Teradyne to come in and reduce the test time and this is where SLT could potentially become an enabler."
+    },
+    {
+      "speaker": "Gregory Smith Teradyne",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So it's a visit. The trend that you're talking about higher test times is really firmly tied to the complexity of the device. The Blackwell is a huge die, its test time is quite well optimized to the complexity that's there. And there are I see SLT as primarily a way to limit the growth. If the test time tracked with the transistor complexity increase, it would go up by a lot more than 30%. SLT is sort of the backstop that's keeping that growth down, and we have significant opportunities in AI accelerators, but I don't see a significant opportunity for us to gain share with in a specific part like Blackwell. Our future is much more strongly tied to the vertically integrated producers. So as the hyperscalers begin to deploy greater amounts of compute power on their own silicon, that's the thing that's going to be driving our improved results in the compute space. The other thing about that is coming along with that increased complexity in each of the devices is for when you're trying to do AI model training and the number of nodes in the model are increasing and increasing, the amount of networking is actually increasing at a faster pace than the number of nodes. So that is like the mix. If you look within a single company, they have they'll have AI accelerators and networking devices, the amount of test seconds required for the networking devices is going up at least as fast as the number of test seconds for the core compute devices because they're simply more links. So I think there's this test time expansion is kind of a broad tailwind for the ATE industry. We're going to be looking at larger TAMs, more testers and I think that the key message is that our primary opportunity is through the growth of the VIPs and networking. Operator Vivek Arya of Bank of America Securities."
+    },
+    {
+      "speaker": "Vivek Arya BofA Global",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you for taking my question. I'm not sure how the TAM is being taken up several hundred million dollars, but your Q4 and Q1 sales are going to be below Q3 sales. And as we look forward, Greg, do you think that this 20%, 25% sales growth, which is kind of in line with your midterm model CAGR, that's the realistic target for 2025."
+    },
+    {
+      "speaker": "Sanjay Mehta Teradyne",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Vice President, Treasurer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So let me take this in 2 parts. So in terms of the TAM expansion, there's three factors there's really two factors going on. One is that as we are measuring ourselves and our competitors, we're seeing significantly stronger business in AI compute and things that are related to that HBM memory. affiliated companies. OCTOBER 24, 2024 / 12:30PM GMT, Q3 2024 Teradyne Inc Earnings Call The other factor is that as the year is going on, we are getting better visibility into the size of the TAM in China and the success of the local Chinese tester companies serving that Chinese TAM. So there's demand from companies in China that's being served by companies in China. And it's not so much that, that is strengthening, but we're getting a clearer picture of how much of that's going on. So because of Teradyne's relatively low exposure in China, that isn't as big of a factor around our share of our growth, but it is certainly something that is accelerating the TAM, our estimate of the TAM in 2024. Now the second part of your question around like our model would suggest growth of 20% to 25% in 2025. We'll be giving you a complete picture of what we believe is like what our estimates are for 2025 specifically in our January call. But I think the ingredients are there for us to be able to stay on model towards our 2026 plan."
+    },
+    {
+      "speaker": "Vivek Arya BofA Global",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "And from a follow-up, if I do a five year look back for your automation or your robotics business, the 29% to 24% if my model is right, it shows a 5% CAGR, so what explains that software growth? How does that long-term trend compare against the industry? And what needs to happen for Teradyne to grow at this 20%, 30% forecast for the next handful of years?"
+    },
+    {
+      "speaker": "Gregory Smith Teradyne",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So that's a really good question. And it's something that we've spent a fair amount of time doing some soul-searching about ourselves. And when we were trying to look at this, we saw a number of different factors. One thing that is that has happened is that the if you rewind the tape, you had a sort of a five year look back. 2020 was a dismal year for industrial automation in general, that the semiconductor industry recovered very quickly because it was a critical industry during the COVID pandemic and results were really, really strong there. But for industrial automation, including our industrial automation, it was a very, very difficult environment to try to grow sales. There was a strong recovery from that in 2021. And then after that into 2022, our growth really flattened out, and we had negative growth in 2023. In the period from 2023 up through now, actually, the second half of 2022 through now, we've been looking at a very soft end market. The industrial PMI has been at or below 50%, indicating contraction for two years, and that is the longest period of time that, that indicator has been that low for the last 40 years. I'm not sure about the 40 years, a very long time. The that coincides with the post-COVID contraction in general and also the period of time when interest rates started going up, making capital tighter for industrial expansion. We haven't been sort of sitting around while that's going on. We have been looking at our own performance and our own issues in that business. And the key thing that we saw in that business was that our distribution was inadequate for the growth objectives that we had and that in order to serve this huge unserved market that we needed to actually broaden our offerings both in hardware and software. And so that's what we've been doing. While this while we've had these terrible end market conditions, we've added high payload robots to our UR line. We have we're out to introduce a product for that will roughly double our served market. And we've established an effective OEM solutions channel for UR, that's now accounting for a material part of their sales and growing 50% year-over-year in a weak market. So we definitely need better end market conditions than we see right now for us to be able to maintain 20% to 30% growth. What Sanjay said, I think is right, that we think we can outgrow the sort of traditional suppliers in robotics and industrial automation by 15 to 20 percentage points per year. affiliated companies. OCTOBER 24, 2024 / 12:30PM GMT, Q3 2024 Teradyne Inc Earnings Call And that market typically grows a little bit faster than GDP, sort of a 5% growth rate. So that would put us in the 20% to 25% growth just with a normal market. So I think we're we have pretty strong conviction that we've done the right things to set ourselves up for growth, but we're consistently looking at it and adjust it. Operator Tim Arcuri of UBS."
+    },
+    {
+      "speaker": "Timothy Arcuri UBS Group",
+      "company": "AG",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks a lot on, Sanjay, you guided OpEx next year up low teens, and you talked about how that's going to be focused in Semi Test, but you also said you want to show leverage next year. So implicit in that statement, you think you're going to grow revenue something higher than that. The Street right now has it up low 20s. So is that a reasonable number since you're growing OpEx up low teens. Is the Street projection of up low 20s. Is that a reasonable number? Or do you think you can grow even faster than that?"
+    },
+    {
+      "speaker": "Sanjay Mehta Teradyne",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Vice President, Treasurer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. Tim, I think it says a couple of things. One is we do have conviction in as I noted in my prepared remarks, we believe that across the business, we're going to see an improvement. However, we are in a downturn or a muted set of demand for mobility, auto and industrial. And when that exactly turns will be an interesting dynamic that will fluctuate where we end up in 2025. We will provide a view of 2025 and our January call. But the other implicit point that we wanted to make was, hey, this is a dynamic environment. We're going through our strategic planning process now that culminates with a review with our Board. And then we provide an update to the earnings model in January as we always do. And we're still going through that process. But one of the principles that we look at is how do we have operating leverage. We wanted to put that out there. Now tactically, as we do see that the market's changing pretty significantly, if you go back to 2008, you see mobility being very, very strong. And now obviously, with segment chip to compute, we believe we're as we've noted several years ago, we pivoted to VIP or hyperscaler strategy that is, we feel as being very successful in the short term. And we're making the right engineering and go-to-market decisions, we believe. So tactically, while we have this principle of driving operating leverage, tactically, we are looking at these investments very carefully. But this is where we expect to be. So we wanted to make sure we set the right expectation from our investment profile as well as came out with a principle of operating leverage."
+    },
+    {
+      "speaker": "Gregory Smith Teradyne",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "If I can just add sort of one comment that as we were looking at our 2026 earnings model and trying to make sure that we were providing useful like as much useful information as we can know without having complete plans for 2025, the thing that we were most concerned was that there was a chance that people would misunderstand our trajectory in OpEx going into 2025. We were less concerned about the sort of the impressions that existed, sort of the implication of our 2026 earnings model on 2025, we had less concerns about that in the area of revenue growth. Operator Okay. Great. And I mean, obviously, as you guys know, I don't say good things about the industrial automation business often. So I guess maybe I'll ask a question that could be kind of a green shoot question. And if you look at this white paper, I mean, Amazon obviously has Kiva for automated guided robots. But they do have this new white paper where it looks like they're looking to fill a niche with cobots for warehouse and full fulfillment, things like that. affiliated companies. OCTOBER 24, 2024 / 12:30PM GMT, Q3 2024 Teradyne Inc Earnings Call So is that a green shoot that maybe, I mean, AI obviously hasn't done has not grown much. But is that a green shoot that maybe should really start to catalyze that business?"
+    },
+    {
+      "speaker": "Gregory Smith Teradyne",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So yes, we don't comment on sort of specific customer engagements, the thing that I've seen the same white paper that you've seen. And it's really exciting technology. The thing that's exciting to me is that they're applying AI to allow for cobots to be able to react to deal with like the hundreds of thousands of SKUs that they need to deal with on a day-to-day basis. We have other customers in the logistics space that are using AI and cobots in a very similar way, like cube storage systems for online grocery picking, those kinds of applications. So the green shoot in our mind is how AI can be used to allow cobots to be applied to a much broader range of product, problems that it's been able to serve before. And I certainly believe that online retailing is one of the richest areas for that to possibly grow. Operator Samik Chatterjee of JPMorgan."
+    },
+    {
+      "speaker": "Samik Chatterjee JPMorgan Chase",
+      "company": "& Co",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi, thanks for taking the question. So for the first one, I'm just trying to go back to your comments on the prepared remarks about growth being significantly higher in 2025, compared to 2024 and just trying to think about it in terms of the TAM by segments that you outlined. And I remember previously, you've outlined that the complete TAM probably is really not where you see a lot of upside into 2025, but more in the cyclical parts of the TAM that you outlined like Mobility and others. I mean more curious if that's still your view as you look forward to 2025, because you just outlined today as well that the memory or the HP time might be sort of flattening out as well. So is it still very much when we start to think about next year significantly actual growth? Is it really driven by the cyclical parts of the TAM? Or is your view changing on compute or membrane aggregate in relation to that? And I have a quick follow-up."
+    },
+    {
+      "speaker": "Gregory Smith Teradyne",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. So I'll give my usual we'll tell you in more detail what our view of '25 is in January. But since we talked a little bit about this last quarter, what I'll do is I'll sort of give you an update sort of what we've seen to modify that view. So last quarter, we like what I was saying last quarter is like man, compute is hot. I don't I can't imagine it's going to get much hotter. You know what, it's probably going to get a bit hotter. It's probably going to grow a bit from where it is now. We certainly are expecting a recovery from the lower levels that we see in 2024 in the automotive and industrial space. There's a lot of end market demand that is going to come. The crossover from internal combustion to EV, even though it's delayed, it's going on in every single model year of car is increasing the semiconductor content. So we see that there are long-term growth drivers that are going to help us in auto and industrial. In memory, we do think that HBM will moderate, but honestly, the other parts of the memory market are still quite weak. The DRAM market is like was it 80% this year of the TAM. And it's usually much more balanced than that. So we think that there's definitely room for improved strength in the flash part of the memory market. So I think I guess the premise of your question is, is it like AI like being the sole growth driver next year, I think that the real story is that the rest of the market kind of improves incrementally underneath a very strong AI market. affiliated companies. OCTOBER 24, 2024 / 12:30PM GMT, Q3 2024 Teradyne Inc Earnings Call"
+    },
+    {
+      "speaker": "Samik Chatterjee JPMorgan Chase",
+      "company": "& Co",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it. Good. That's helpful. And for my second one, just on Sanjay, you mentioned the into 1Q. If I sort of look at your business as AI versus sort of the more cyclical part, are the AI pieces also going to go through a seasonality typical to the rest of the business? Or are you seeing those sort of stand out to see that and it's more driven by the cyclical aspects that you sort of take that step down into 1Q?"
+    },
+    {
+      "speaker": "Sanjay Mehta Teradyne",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Vice President, Treasurer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. I think if you look at our history, what you'll see is the seasonality come down in Q1. And we're seeing that in robotics specifically. Historically, we've seen strong Q4 and then come down in Q1. And then from a test perspective, the AI strength right now, it will be interesting to see because one thing I want to tie back to is that our lead times have come down significantly from where they were several years ago. And one of the drivers of our strength in Q3 was really tied to customers pulling in future forecast to meet current wafer routes and test requirements. . And we're seeing that more and more, and we're positioned well to service that. There have been some unforecasted demand. So I would say that the visibility is starting to get a little bit lower looking out into kind of Q1 from a tactical execution perspective. Now we are positioned well that if customers come in and we can service it. But even in test, we are seeing historically a little bit of seasonality, but a large part is driven by robotics and a little bit in test. Operator Brian Chin of Stifel."
+    },
+    {
+      "speaker": "Brian Chin Stifel Nicolaus",
+      "company": "& Co, Inc",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks for letting us ask a few questions, maybe just first question. Can you discuss why the industrial test TAM was revised higher for this year? Is there a connection to China there? Or would you explain that in another way?"
+    },
+    {
+      "speaker": "Gregory Smith Teradyne",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. So you hit the nail on the head that the this isn't a case of the industrial TAM strengthening from quarter-to-quarter. It's a case of us getting better visibility into the size of the TAM that existed in China that's being served by indigenous suppliers."
+    },
+    {
+      "speaker": "Brian Chin Stifel Nicolaus",
+      "company": "& Co, Inc",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. That's very clear and helpful. And Greg, maybe can you also you referenced this on prior calls, and I think this as well, but can you help to quantify roughly what percent of the mobile installed tester base? I assume that OSAT principally has been reduced, rationalized or repurposed for other chips and markets such as AI accelerator GPUs and ASICs."
+    },
+    {
+      "speaker": "Gregory Smith Teradyne",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, right now, like as of today, based on the upgrade shipments that we've done over 100 testers have been repurposed, and by the end of the year, we expect that over 200 testers will have been repurposed into other markets. Most of that isn't to compute, but not all of it. And the other thing that we look at is to see directionally what's happening with utilization. We don't trust the absolute numbers, but since we keep our measurement methodology consistent, you can get a better idea of whether this whether capacity is getting tighter or looser and we've seen a meaningful uptick in utilization as these testers have been converted and put to use, so we definitely believe that there's less idle capacity now than there was a quarter ago, and they'll be even less when we get the end of the year."
+    },
+    {
+      "speaker": "Brian Chin Stifel Nicolaus",
+      "company": "& Co, Inc",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "That's helpful. You understand kind of the supply side of that and the demand is what you're kind of floating at the moment for next year. Maybe one last quick question. And I understand maybe the reluctance to give a number for 2025 of that VIP compute TAM. But you revised it higher again for this year. Maybe it will ultimately push higher in terms of what your 2026 view has been. But maybe affiliated companies. OCTOBER 24, 2024 / 12:30PM GMT, Q3 2024 Teradyne Inc Earnings Call can you at least talk about the key considerations that maybe drive the size of that opportunity next year? And are constraints for things like cobot capacity or HBM supply one of those considerations?"
+    },
+    {
+      "speaker": "Gregory Smith Teradyne",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Okay. So first, in terms of the VIPs, what we've said before is that we by 2026, we believe that the TAM will be about for VIP compute that we believe that TAM will be about $500 million. This year, we believe that TAM is going to be about $300 million. And frankly, that was a positive surprise in terms of the market size for 2024. Because of that, we are currently taking a hard look at whether that $500 million number for 2026 is right, and we'll give you an update in January about whether we think that that's that needs to be revised upward. I certainly feel like there's upward pressure on it. The other thing that we've said about the VIP TAM is that because it's so few producers and so few part types, the TAM is really lumpy. So if you strike a winner, you get a big amount of orders in one period of time. And then that capacity gets in place and it's used. So that market has not sort of reached the level of maturity and breadth where you can draw a straight line to say it's this and this year, it's this two years later. Therefore, it's going to be halfway in between in the middle year. But the trend is definitely strengthening. Now in terms of the constraints, the things that we are seeing when we talk to VIP customers is that they are constrained in terms of the amount of HBM memory, they can get, they're constrained in the amount of advanced packaging in order to be able to assemble these kinds of parts. Those are probably the two most important constraints. The other thing that I think is an x factor in this space is the part has to work, these are huge dye, reticle constrained dye surprises and they are designing a fair amount of redundancy into them to try to make sure that they get adequate yields. But this is it's not a slam dunk that these parts are going to work the first time around. So the demand for these testers can shift around in time. So it's a kind of a challenging space to predict. But it's definitely the trend is moving faster than we thought it would."
+    },
+    {
+      "speaker": "Brian Chin Stifel Nicolaus",
+      "company": "& Co, Inc",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yes, that's super helpful color. Operator C.J. Muse of Cantor Fitzgerald."
+    },
+    {
+      "speaker": "C.J. Muse Cantor",
+      "company": "Fitzgerald, L.P",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yes, good morning. Thank you for taking the question. I guess first question, I realize you want to save the funder for your Analyst Day in March. But everything that I'm hearing in this call is telling me that 2025 is a transition year. Your OpEx in Q1 is at new highs, while your revenues are 37% below the prior peak. So can you give us a little bit of help here to understand that there's actually real leverage in the model in '25."
+    },
+    {
+      "speaker": "Sanjay Mehta Teradyne",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Vice President, Treasurer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. C.J. So when we take our as Greg noted, look, we're going through our strategic planning process. And but what we're seeing is early indicators are that we are talking to customers and hearing about their plans. We do we have gone through our early market kind of size assessments. And as Greg noted, look, we are seeing incremental or we are planning incremental growth in mobility, auto, industrial. And from a percentage-wise, that's coming off of a low base, so that would be higher, and compute is doing really well. So we feel comfortable that at this point, with all the facts we have, we did note that we do expect to see operating leverage while we do grow low teens in the way of OpEx and a lot changes in 90 days. And we've got to complete our planning process, and we'll provide an update. But we feel comfortable that at this point, we expect to see the operating leverage in our business in '25. affiliated companies. OCTOBER 24, 2024 / 12:30PM GMT, Q3 2024 Teradyne Inc Earnings Call"
+    },
+    {
+      "speaker": "Gregory Smith Teradyne",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. So if I can just add a little bit of add on to that. When we hit our prior peak like the upturn that was serving was it played precisely into Teradyne's strength. Like we are great in mobile, and it was a huge boom in mobile demand. And so we were operating at peak efficiency. We did not need to layer in significant OpEx in order to serve that level of revenue, coming out of like and it's pretty clear from our earnings model that we believe that we are set up for relatively robust TAM growth over the next couple of years. The difference is that, that TAM growth doesn't naturally play to where Teradyne's historic strength was. And so we needed to pivot, and we needed to invest in order to make sure that we were able to reap the benefit of the change in the market. And so we made significant investments to try and align to the HBM market, and we are making significant progress in terms of our exposure and our success in the performance stacked die test. We made significant investments in engineering and sales and marketing in order to align to VIP, and our share in compute VIPs is 50% this year versus like much, much lower share in traditional compute. So like the thing that you need to understand is this is a conscious decision on our part that we weren't able to control the changes in the market but we are able to react to it. And to be able to increase our investments moderately while still maintaining very, very good operating margins is the thing that we need to do to try and make sure that we maintain a leadership position in this industry."
+    },
+    {
+      "speaker": "C.J. Muse Cantor",
+      "company": "Fitzgerald, L.P",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "That's very helpful. As my follow-up, a near-term question on robotics, it looks like you're guiding that business to grow 50% sequentially in December. Can you kind of walk through the drivers there and how to think of what the business will look like after that? I believe that's driven primarily by mere product cycle, but would love to hear more color there."
+    },
+    {
+      "speaker": "Gregory Smith Teradyne",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you. Yes. So the Robotics business has historically had very, very large Q4. There's a lot of seasonality in that business, and this year is no exception, that we expect sort of the normal seasonality pattern. We also expect that the growth that we're seeing in the OEM channel and with heavy payload is going to continue to contribute. I also note, like it's a lesser factor, but now there's a more meaningful amount of service revenue that's coming into those businesses. So the like the near story is much more of a 2025 story than a 2024 story. We need to get our new pallet jack into the hands of customers. That is going to happen at the end of this quarter, but it's not going to be a material contributor to Q4 growth. So it's really more a view of the pipeline that we have, like our lead pipeline for Q4, how strong we expect that business to be from what we have going now than any contribution from like a mere new product. Operator Toshiya Hari of Goldman Sachs."
+    },
+    {
+      "speaker": "Toshiya Hari Goldman Sachs",
+      "company": "Group, Inc.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi, good morning. I had two questions as well. First on the mobile SoC test TAM. I know you're not giving guidance for '25. But Greg, I'm curious how you're thinking about the opportunity set medium to long term. I think the market peaked around $2 billion a couple of years ago, several years ago, you are at $800 million today, how do you think about sort of the through cycle? I know there is no steady state. But how do you think about sort of the through cycle opportunity for mobile? You talked about utilization rates coming up per year market intel, but medium to long term, are you thinking $1.2 billion, $1.3 billion for mobile test and some of the reasons behind that, that would be super helpful? affiliated companies. OCTOBER 24, 2024 / 12:30PM GMT, Q3 2024 Teradyne Inc Earnings Call"
+    },
+    {
+      "speaker": "Gregory Smith Teradyne",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. So I think once we get to a steady state in terms of like having shoot up the excess capacity, and I think that happens in 2025. I think the kind of like I would expect that the floor in mobile is going to be closer to $1 billion than the $800 million that it is now, up from that is really going to depend on whether AI-enabled smartphones are a thing or not, and whether AI-enabled smartphones deliver compelling customer value because that's a two for in terms of the market. if a phone comes out that has that like has a much more complex processor, that's going to require more test time, which means that you need more testers to do it. And if it offers features that customers want badly enough, then that drives the refresh cycle down. And right now, like the average age of smartphones is older now than it's ever been that people have been holding on to their phones much longer because there really hasn't been that compelling new feature that drives people to upgrade. So I really think that upside to like a $1 billion in mobile is going to depend on whether the refresh rate in phones goes up and phone unit volume goes up."
+    },
+    {
+      "speaker": "Toshiya Hari Goldman Sachs",
+      "company": "Group, Inc.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it. And then as my follow-up, just a question on how you're thinking about the overall business portfolio. It's been, I think, something like eight years since you guys acquired UR and I know that predate becoming CEO of the company. But since then, I think at the time, I think the growth expectation around Semi Test was lower perhaps than how you're thinking about the business today? And I think the market sort of perceived the acquisition as a diversification play. When you think about the opportunity set today, I think you've got a lot going on in Semi Test and you touched on quite of those part a few of those things, whether it be HBM or the VIP opportunity set. I guess to ask the question of bluntly, do you feel like you're still the right owner of the Robotics business? Do you feel like you're getting fair value for running this business? And do you guys ever internally debate separating the two businesses?"
+    },
+    {
+      "speaker": "Gregory Smith Teradyne",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks. Yes. No, that is a remarkably blunt question, but it's fair. So and you're right in terms of the initial motivation that the way the world looked to us in 2015 when we bought UR was that we were coming out of like a decade of shrinking TAMs in the semiconductor test market. And over that same decade, Paradigm also doubled our share in the semiconductor test market. So look, in that environment, we managed to become more profitable. We've managed to essentially double our share position, but we didn't see that as a great long-term growth strategy. Like you can end up owning up a market that goes away. That's not particularly satisfying. So we were definitely on the hunt for a way to ensure the long-term growth of the enterprise. That was our original motivation. The thing that we have discovered since we bought these robotics companies is that Paradigm essentially presents a unique value proposition in the advanced robotics space, that if you look at the people that can compete with us in the industrial automation world, the folks that are coming from industrial robots and industrial automation, the big players, they are typically not as comfortable in terms of delivering very high-tech products with very, very high tech very, very high reliability requirements. What we do with testers is honestly kind of astonishing. The level of reliability and the level of complexity is really kind of off the charts. And being able to bring that mindset and that skill set to our robotics businesses and also that reputation to our robotics businesses allows them to really compete well against the traditional IA folks that are pivoting into the advanced robotics space. And it gives us a killer advantage against the pure play advanced robotics folks because they're typically undersized, there under scale, their spending beyond their spending to a loss. They don't have international distribution or a spares logistics network. And so we kind of think that we are the right player to bring advanced robotics to an industrial scale. So the base that we have is, is there some point in the future where we where we may unlock shareholder value by having these two businesses be separate. Maybe. affiliated companies. OCTOBER 24, 2024 / 12:30PM GMT, Q3 2024 Teradyne Inc Earnings Call But right now, we think that like the Teradyne is like attaching Teradyne to the advanced robotics name is actually a significant differentiator and will allow us to lead in that space. Operator Krish Sankar of TD Cowen."
+    },
+    {
+      "speaker": "Krish Sankar TD",
+      "company": "Cowen",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yes, thanks for taking my question. Greg, I have two of them first, and I just wanted to come back those OpEx thing either for Greg or Sanjay, I thought the strategy and the SemiTest was with the idea is to engage earlier. And then on the GPU customer side was to get into the networking test side with the semi just OpEx increase. Are you trying to build new platforms to compete? And this is I understand that this is a structurally new OpEx level for the cemetery business closes. Just cyclical, trying to get market share. So on, I would consider it more to be cyclical on. It's not and And for sure, we're always trying to get more market share, right? So that's kind of a given. But the thing that we're seeing is that the VIP. customers, they're building extremely complex devices and the amount of applications and of field technical support required to help them get to market is on is significant. And it's worth it that if you invest that that money with that team, then you end up with a part that drives a significant amount of business. So the ROI. is there to make those investments. But those investments right now, we are we are definitely in the phase where we're making more investments than we're reaping the results of them. So I think it is a cyclical effect on long term. I would expect that we would be able to on like I think we will grow revenue into the OpEx that we're taking on on not reduce OpEx, again, lower revenue. That's sort of the view that we have that by getting in place in these IP and networking spaces that we're going to be able to hold and grow without without proportionate increase in OpEx the whole way. Cargo is very helpful, Greg, and do a quick follow up on HBM. on. Can you talk a little bit about your opportunity and market share in the post guide that this will also be resolved? Okay. So on. So on post stack die test, that's a market that Teradyne was not able to participate in and how we were qualified by our major supplier in the middle of this year."
+    },
+    {
+      "speaker": "Gregory Smith Teradyne",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And so we have significant excess capital for SaaS side performance tests in the second half of this year from one of the major HVM suppliers we are in call add an additional OEM supplier. And that's something that we would expect to drive some revenue in 2025 on depending on the success of that particular supplier to get share. How when it comes to wafer, sort of that's really more aligned to sort of the traditional traditional market share breakdown in the wafer starts storage space. So if you look at the bill is just a few two important memory players are we have great DRAM wafer starts share at one of the majors. We don't have much wafer start per share at the biggest on. And we have we're doing well in the on the memory manufacturers that are in China also as they grow, we will do well as well. So I think of wafer sort, it is probably the shares the share space in wafer sort of kind of stay about the same. But we're going to be gaining share and stacked die. Thanks a lot, Greg, very helpful. Our final question comes from Gus Richard of Northland Capital. Please go ahead."
+    },
+    {
+      "speaker": "Gus Richard Northland Capital",
+      "company": "Markets",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi, yes, thanks for taking my question. On China. Ask about Tom. Your expectations for complexity grows and mobile processors on next generation next year on inclusion of more AI capability, perhaps on integration of modem. Do you have any thoughts or any thoughts on what that might look like in 25? Yes. So on, it's interesting. It's an interesting take the on the devices that are going to ramp next year are at the test chip phase now on and and will we expect that there's modest Matas complexity increases on and a lot of that complexity increases associated with a I of modems is a different story that we don't see a trend towards additional mode, some integration, but we do see the opportunity for on changes in supply chain for affiliated companies. OCTOBER 24, 2024 / 12:30PM GMT, Q3 2024 Teradyne Inc Earnings Call Motive that you felt like different handset manufacturers may begin to get us to get motorhomes from different sources. And they get now in that feel that that's at play both in the iOS . and the Android space so on. So we don't we don't see modem integration, but we do see sort of shifts in terms of who's providing those modems. Great. That's super helpful. And then just touching on capacity utilization on new indicated it was up sequentially, and I was just wondering if you could quantify that a bit more. What was it in Q3 on what are you thinking beyond Q2, Q3 and Q4, how it's SOC utilization on trend it. Can you quantify that?"
+    },
+    {
+      "speaker": "Gregory Smith Teradyne",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I wish I could, but I can't we have the numbers and we use them internally and we don't feel that they are well as our auditors to use them externally in this way, saying that I can tell you is that it's on It's up a fair amount quarter-on-quarter, sort of mid- to high single digits range. But I don't really want to give absolute numbers because it's hard for us to do audit. And whether that continues in the fourth quarter, my expectation is that we will see significant continued increases in utilization in Q4, both because of normal seasonality and also because of the number of testers that we have upgrade kits to go from one market to another like someone is not going to upgrade a utilized investor to use it someplace else. They're going to upgrade an underutilized tester. So that's probably going to slide a bunch of testers from the unutilized column into the utilized column. So I think there's going to be additional improvement in utilization in Q4, but I can't give you a hard number. Operator Got it. Thanks so much. Appreciate it. Thank you. Ladies and gentlemen, we have reached the end of the question-and-answer session. I will now hand over to Traci Tsuchiguchi for closing remarks."
+    },
+    {
+      "speaker": "Traci Tsuchiguchi Teradyne",
+      "company": "Inc",
+      "role": "President of Investor Relations",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks so much for joining us this morning. We look forward to speaking with many of you through the course of this quarter. Thanks again. Operator Thank you. Ladies and gentlemen, that concludes today's event. Thank you for attending, and you may now disconnect your lines. In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. affiliated companies."
+    }
+  ]
 }

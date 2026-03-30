@@ -4,5 +4,246 @@
   "quarter": "2024Q1",
   "sector": "Industrials",
   "filename": "2024-May-02-XYZ.N-140970725336-Transcript.pdf",
-  "segments": []
+  "segments": [
+    {
+      "speaker": "Jack Dorsey",
+      "company": "Block, Inc.",
+      "role": "Co-Founder, Block Head, Chairman & Square Head",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Nikhil Dixit Alexander Wexler Markgraff KeyBanc Capital Markets Inc., Research Division - Associate"
+    },
+    {
+      "speaker": "Darrin David Peller Wolfe",
+      "company": "Research, LLC",
+      "role": "MD & Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Harshita Rawat Sanford C. Bernstein & Co., LLC., Research Division - Senior Research Associate"
+    },
+    {
+      "speaker": "Trevor Ellis Williams Jefferies",
+      "company": "LLC, Research Division",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Operator Good day, ladies and gentlemen, and welcome to the Block First Quarter 2024 Earnings Conference Call. Today's call will be 45 minutes. And I would now like to turn the call over to your host, Nikhil Dixit, Head of Investor Relations. Please go ahead. Nikhil Dixit Hi, everyone. Thanks for joining our first quarter 2024 earnings call. We have Jack and Amrita with us today. We will begin this call with some short remarks before opening the call directly to your questions. During Q&A, we will take questions from conference call participants. We would also like to remind everyone that we will be making forward-looking statements on this call. All statements other than statements of historical fact could be deemed to be forward looking. These forward-looking statements include discussions of our outlook, strategy and guidance as well as our long-term targets and goals. We may decide to shift our priorities or move away from these targets and goals at any time. These statements are subject to risks and uncertainties. Actual results could differ materially from those contemplated by our forward-looking statements. Reported results should not be considered an indication of future performance. Please take a look at our filings with the SEC for a discussion of the factors that could cause our results to differ. Also note that the forward-looking statements on this call are based on information available to us as of today's date. We disclaim any obligation to update any forward-looking statements, except as required by law. Further discussion during this call of Cash App's banking services referred to those offered by our bank partners. Within these remarks, we will also discuss metrics related to our investment framework, including Rule of 40. With Rule of 40, we are evaluating the sum of our gross profit growth and adjusted operating income margin. Also, we will discuss certain non-GAAP financial measures during this call. Reconciliations to the most directly comparable GAAP financial measures are provided in the shareholder letter and our historical financial information spreadsheet on our Investor Relations website. These non-GAAP measures are not intended to be a substitute for our GAAP results. Finally, this call, in its entirety, is being audio webcast on our Investor Relations website. An audio replay of this call and the transcript for Jack and Amrita's opening remarks will be available on our website shortly. With that, I would like to turn it over to Jack. affiliated companies. MAY 02, 2024 / 9:00PM GMT, Q1 2024 Block Inc Earnings Call"
+    },
+    {
+      "speaker": "Jack Dorsey",
+      "company": "Block, Inc.",
+      "role": "Co-Founder, Block Head, Chairman & Square Head",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thank you all for joining us. In the last 2 quarters, I focused my shareholder letter on our priorities for Square and Cash App strategy to become 1 of the top providers of banking services. This quarter, my letter was focused on the Bitcoin strategy. If you haven't yet, please read that letter for details. Before Amrita talks about our performance, there was a news report yesterday I wanted to address directly. In general, these sorts of stories can lack full context. First, we do not believe that there are any new investigation in the Block, but rather that these reports relate to the existing inquiry by the DOJ that we've previously disclosed. Second, there was critical information omitted from the article when it was first published. In 2022, our compliance engineering risk team, who proactively investigates threats, identified signals that lead us to conduct a thorough review of transactions potentially associated with sanctioned countries. We voluntarily reported these to the Office of Foreign Assets Control, OFAC, where we were transparent with them, and we stand by the scope of the transactions that were included in the report. OFAC then issued us a No Action Letter in which they determine no further investigation or action was needed at the time. This is how the process is supposed to work and this outcome not originally included in the article. Third, as it relates to preventing terrorist financing via Bitcoin, we have a robust control environment in place to mitigate exposure from adversaries. For instance, we use industry-leading blockchain analytics firms to screen transactions in real time. We also maintain some of the most restrictive limits in the industry for on-chain Bitcoin withdrawals, which are deliberately calibrated to prevent bad activity. And of course, we require identity verification for customers engaging with our Bitcoin products and file suspicious activity reports when warranted, which is an important contributor to keeping the broader financial ecosystem safe and secure. We take compliance seriously at Block. Our culture of compliance is foundational to our work. We have a radically transparent culture that supports us. Employees are empowered to raise issues through multiple channels, including directly to me or anonymously through our whistleblower hotline. We continuously improve our compliance program based on the number of different inputs, including self-identified issues, audits and guidance from our regulators. Adversaries have always and will continue to try to exploit the global financial system. No company is perfect at preventing this. Our work is to constantly be steps ahead of their attacks through better use of technology. This includes leveraging industry-leading machine learning models and product controls aimed at detecting and preventing bad activity in real time. It's an always-on part of our business, and it always will be. And with that, I'll turn it over to Amrita to talk about the quarter."
+    },
+    {
+      "speaker": "Amrita Ahuja",
+      "company": "Block, Inc.",
+      "role": "COO, CFO & Treasurer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks, Jack. I'll keep my remarks brief as we've included information on our performance and guidance in the financial discussion of our shareholder letter. We delivered strong results across the company during the first quarter. Gross profit was $2.09 billion, up 22% year-over-year, consistent with the fourth quarter. Adjusted EBITDA was $705 million, nearly doubling year-over-year. And adjusted operating income was $364 million, up 7x year-over-year. By business, Cash App's gross profit was $1.26 billion, up 25% year-over-year. And Square's gross profit was $820 million, up 19% year-over-year. Gross profit outperformance compared to our guidance was mostly driven by Cash App. We saw strength across Buy Now, Pay Later, Bitcoin, Cash App Borrow and Cash App Card, where we had 24 million monthly actives. Inflows per active were up 11% year-over-year in the quarter for our highest growth since the fourth quarter of 2021. affiliated companies. MAY 02, 2024 / 9:00PM GMT, Q1 2024 Block Inc Earnings Call Square's GPV growth in the quarter was in line with our expectations as we saw continued moderation in same-store sales growth. This was more than offset by strong attach rates on our broader ecosystem of software and banking products. Our profitability improved as we showed discipline across a range of expenses, ending the quarter below our 12,000-person cap and achieving leverage on corporate overhead expenses. For the 12 months ending in March, adjusted free cash flow was $1.1 billion, up more than 2.5x compared to the prior 12 months, and represented 50% of adjusted EBITDA, an improvement compared to the 36% conversion rate in the prior period. Turning to our expectations for the remainder of the year. We are raising our full year 2024 guidance for both gross profit and profitability, not only reflecting the Q1 outperformance but also reflecting our raised expectations for the remainder of the year. For full year 2024, we are now expecting gross profit of at least $8.78 billion or 17% growth year-over-year. We expect Cash App's gross profit growth to moderate slightly from the first quarter's 25% as we lap some meaningful pricing and structural cost benefits, with relatively stable growth from the second quarter through fourth quarter. For Square, we expect gross profit growth to moderate from the first quarter's 19% growth rate as we lap strong banking performance and pricing changes from the prior year. In the back half of the year, we expect GPV growth to be stable to improving behind more favorable same-store growth comparisons, with a narrowing delta between gross profit and GPV growth rates. We continue to focus on initiatives that improve our product velocity. These include several upcoming launches that further our strategies for Cash App and Square, most notably testing and rolling out Afterpay on Cash App Card and for Square, completing the orders migration this summer and conversion to a single app by year-end. These initiatives remain on track, and we expect them to benefit our growth into 2025 and beyond. For profitability in 2024, we are now expecting at least $1.3 billion in adjusted operating income or 15% margins on gross profit. With efficiency initiatives underway to improve our structural costs and corporate overhead, we also see opportunities to invest in the back half of the year in high-return areas like sales and marketing that can drive future growth. Our updated guidance now implies a Rule of 32 for full year 2024. This is an improvement compared to 2023 and compared to our prior guidance of at least a Rule of 29 and progresses us towards our goal of achieving Rule of 40 in 2026. With that, I'll now turn it back to the operator to start the Q&A portion of the call. Operator (Operator Instructions) And your first question comes from Tien-tsin Huang at JPMorgan."
+    },
+    {
+      "speaker": "Tien-Tsin Huang JPMorgan Chase",
+      "company": "& Co, Research Division",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I wanted to, Jack, follow up on a question I asked you last quarter. I think you mentioned that you expect much higher or faster product velocity from Block across the board, so just wondering if you can give us a progress report on that. Are you close to where you want to be in launching and enhancing products? And I'm curious if some of the unannounced products that you're focused on are more about entering new categories is what I call it or are they more incremental to what you already have in place? I know a lot of investors have asked me about that, so I'll ask you."
+    },
+    {
+      "speaker": "Jack Dorsey",
+      "company": "Block, Inc.",
+      "role": "Co-Founder, Block Head, Chairman & Square Head",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. So we're focused on our development velocity in two main ways. One is making sure that we're much stronger in our engineering and design disciplines. We're putting much more focus on that work. This did a big change here with Square just recently, to reorganize affiliated companies. MAY 02, 2024 / 9:00PM GMT, Q1 2024 Block Inc Earnings Call the team, to be more focused on engineering and design. And we'll start seeing that play through more and more in our work. And the second way we're doing is scoping, making sure that we're focused on the most important things. On the Square side, the most important thing that I want us to focus on right now is reliability, making sure that we stay up for sellers and that we have ways for them to work even if their networks fail, such as the off-line mode. The second most is what we've talked about in the past, the focus on local and food and beverage. And there's a number of things that we're doing immediately to help not only with retention but with acquisition. Amrita mentioned our single app, which is on track to launch this year, so that we have a very simple call to action. Download Square and you have everything you need, including all of our banking products within one app. And then onboarding is another big one. We have successfully taken our onboarding flow for Square sellers from about 15 steps and something that took people close to 20 minutes to complete down to 2 steps and takes under 5 minutes. We rolled it out to a small audience and watched what they're doing. And we saw all positive results, some much more positive than we're expecting, so we're going to be rolling out that in the coming months. And that should have a pretty great effect on how we sign up new merchants. And most importantly, that they see more of our ecosystem and they want to stick around. And as we've talked about in the past, I think the best differentiator for us is the banking aspect of our ecosystem on the Square side. To the second point of your question, I think both on Cash App and Square, there are new products, of course, but there's a lot of work to get to parity with some of our competitors. There's a lot of work to put some of the features that we've had into the hands of millions such as Afterpay on the Cash Card, which is going to continue to expand out this year and something we're super excited about. So a lot of work that is more iteration. And of course, we have some new products that we're thinking about as well. But the iteration stuff is really going to unlock a lot of new customers for us, we believe. Operator And we will take our next question from Timothy Chiodo with UBS."
+    },
+    {
+      "speaker": "Timothy Edward Chiodo UBS Investment",
+      "company": "Bank, Research Division",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I want to dig in a little bit on Cash App direct deposit net adds and the run rate that you might be seeing for new users. So last quarter, you mentioned that the addition of overdraft protection was helping to drive record gross adds for DD users. So I was wondering if the combination of that, plus high-yield savings and live phone support and maybe some other features, have really helped to maybe step up that run rate. So part of it is where is the run rate gone to today? And then the second part is, if it could potentially step up further with the addition of maybe some newer products around Billpay or, as you mentioned, Afterpay being worked into the cash card or cash card BNPL as we call it."
+    },
+    {
+      "speaker": "Amrita Ahuja",
+      "company": "Block, Inc.",
+      "role": "COO, CFO & Treasurer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Tim, thanks for the question. Our top strategic priority, as you know, for Cash App is banking our base, which is about bringing more financial services to our 57 million monthly actives. Banking is not a new concept for us, but it is one that we started prioritizing in a more meaningful way recently. The last few years, we've been seeing organic adoption of direct deposit. Now we're focusing our efforts on driving this higher and winning that longer-term relationship with our customers. What we saw in March was that paycheck deposit actives grew on a quarter-over-quarter basis, with paycheck volumes growing faster than overall inflows. And as we think about continued growth here, there's two key areas of focus: one, around the product; and second, around how we go to market with those products. From a product perspective, we're not only prioritizing table stakes features but also how we can make those offerings more compelling than what you can get at a bank. We're hearing our customers say they want products that allow them to bank without any worries. That's paying with checks. That's Billpay. That's a web offering. And we're hearing from our customers that they want to achieve their financial goals. That's initiatives around card spending insights, around our savings initiative, around Afterpay on Cash App Card. From a go-to-market perspective, with all of these products, and as we bring them together, we'll be looking to package these products in a way that makes it easier for customers to discover and understand our offerings through the app. Again, that's bundling that's affiliated companies. MAY 02, 2024 / 9:00PM GMT, Q1 2024 Block Inc Earnings Call packaging. And then it's testing incentives and other ways to drive conversion. We haven't done much of that yet in terms of our go-to-market efforts with direct deposit. But you'll see us do much more of this as the features come together in the back half of this year and into next year. Similar to what we've seen with Cash App Card or with Cash App Borrow, it takes time. It takes some time, several years, to get these to scale to where they are today. And we think similarly with bank or base and direct deposit, it's a multiyear effort, but it's one that we have deep conviction on and are very excited about. Operator We will take our next question from Darrin Peller with Wolfe Research."
+    },
+    {
+      "speaker": "Darrin David Peller Wolfe",
+      "company": "Research, LLC",
+      "role": "MD & Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "It's great to see the ongoing improvement in EBITDA and the guide you guys gave now, a more notable increase than we expected so far, while at the same time, balancing it, with growth being strong. So I guess in that context, if you can just give us a little more color on what you're identifying in terms of efficiencies now that it was able to drive that uptick? And maybe what's on the horizon? What else do you see in the model that can drive further progress on efficiencies for EBITDA going forward?"
+    },
+    {
+      "speaker": "Amrita Ahuja",
+      "company": "Block, Inc.",
+      "role": "COO, CFO & Treasurer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Darrin, thanks for the question. I'll start with the first quarter and then talk about what we're looking out for the full year. Obviously, what you saw, the first quarter was our highest-profitability metrics ever and a beat at the high end of our guidance of about $119 million from an adjusted OI perspective, with again, nearly doubling in terms of EBITDA on a year-over-year basis. I think there's kind of three key things to point out. Obviously, there's continued strong growth and momentum across each of the two ecosystems, Square and Cash App, with 19% growth and 25% growth, respectively. But from an expense discipline perspective, three key things I'd call out. First is our personnel cap, which is driving the right level of sharpening our strategy and prioritization and scoping our work, as Jack mentioned, and we remained under our 12,000-person cap at the end of the first quarter. Second, it's driving leverage across each of our areas of corporate overhead, whether it's T&E or professional fees, real estate, software and data fees. And third, it's around our structural costs and continuing to focus on ways that we can improve there. And do want to note, as we've called out in our shareholder letter, in the first quarter, we also benefited from $52 million in out-of-period items in Q1, mostly related to the releases of risk-loss provisions established in prior periods. So that's an important thing to note for the first quarter. More broadly, when we look at the full year, from a profitability perspective, we've raised our profitability expectations both in EBITDA and adjusted OI basis not only for the full amount of outperformance relative to the high end of our guidance for Q1 but also an improved expectation for the remainder of the year where we expect to keep screws tight in terms of discipline and efficiency in how we run our business, but where we also see the flow-through of strong incremental margins in each of our businesses as we continue to grow Square and Cash App strongly for the remainder of the year, but also leaving room for us to invest in growth initiatives in the back half of the year. That should benefit our future growth, particularly around sales and marketing. So those are the different levers that we're looking at and why we think we can drive continued profitability through the remainder of the year. Operator And we will take our next question from Harshita Rawat with Bernstein. Harshita Rawat Sanford C. Bernstein & Co., LLC., Research Division - Senior Research Associate Amrita, can you elaborate on the drivers and quarterly cadence of the gross profit growth of 17%? You gave some first half, second half color earlier, but just maybe talk a little bit more there and also about the assumptions for Cash App and Square. And then also, just as a follow-up, Borrow and Square Loans scaled nicely over the past year and year or so. What determines your ability and willingness to continue to grow this revenue stream as credit is less benign? affiliated companies. MAY 02, 2024 / 9:00PM GMT, Q1 2024 Block Inc Earnings Call"
+    },
+    {
+      "speaker": "Amrita Ahuja",
+      "company": "Block, Inc.",
+      "role": "COO, CFO & Treasurer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure. So let me start on our gross profit growth assumptions for the remainder of the year. So obviously, we've raised our full year guidance on both gross profit and profitability. We now expect gross profit of $8.78 billion, at least $8.78 billion for the full year, that equates to about 17% growth year-over-year. That reflects both the outperformance during the first quarter mostly from Cash App with a modest beat from Square as well as improved expectations for the remainder of the year. If you look at sort of breaking that down into its component parts, we expect Cash App will grow slightly faster than Square this year. We are going to be lapping some of the structural cost improvements in the back half of the year. And our implied guidance for the second half demonstrates, at a Block level, mid-teens gross profit growth expectation with these changes around structural cost and pricing mostly behind us. Many of the key growth initiatives and strategies that we're hard at work at now and plan to be ramping through the back half of this year, whether it's Afterpay on Cash App Card, orders migration or the single app model, we expect to benefit our growth into 2025 and are less of a 2024 impact. That's sort of the cadence and the puts and takes around the remainder of the year. I think the second question that you asked was around Borrow. We have seen strong growth on Borrow in the first quarter, with originations up more than 2x year-over-year. This is while we've been able to scale this product responsibly, with loss rates in line with what we've shared historically. This is growth that's primarily driven by increasing the number of loan actives while maintaining strict eligibility requirements. And not only does Borrow have strong positive unit economics on its own, net of risk loss as a stand-alone product, but it drives a really compelling ecosystem benefit through greater inflows into Cash App that are then spent or invested across a number of different monetized products. In fact, we see nearly 40% of Borrow monthly actives making a transaction on Cash App Card after receiving a Borrow loan. And we've seen strong conversion rates from those offered loans and repeat usage. Similar to what we see on a Square Loans product or a Buy Now, Pay Later product, we see that these products are very short in duration and act as sort of cash flow management or working capital products. So similarly with Borrow, we see repeat usage across Borrow monthly actives. And it's an area that we feel very strong about our machine learning and risk-loss capabilities behind the growth of this product, and so we're excited to continue to keep ramping it for our customers. Operator We will take our next question from Ramsey El-Assal with Barclays."
+    },
+    {
+      "speaker": "Ramsey Clark El-Assal Barclays Bank",
+      "company": "PLC, Research Division",
+      "role": "Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I wanted to ask about the integration of Afterpay and Buy No, Pay Later with the Cash App Card. How should we think about sizing the opportunity? In other words, which cash card customers or how many card customers would be eligible to use the Buy Now, Pay Later capability? And also, do you have any preliminary view of what the product might look like? Will users be able to toggle between credit and debit in the app, for example? Are there any other integrations like that, that you could share with us?"
+    },
+    {
+      "speaker": "Jack Dorsey",
+      "company": "Block, Inc.",
+      "role": "Co-Founder, Block Head, Chairman & Square Head",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. I mean so we're really excited about this integration. Just some context for you, we acquired Afterpay some time ago, and I would say that we forced an integration way too quickly. And now having a fixed a bunch of those issues, the team is really executing on two main things. One is discovery. And that is within the Cash App, bringing our Cash App network and bring the Square merchant network together. So a lot of visibility around local and a lot of what we hope to achieve with the power of our combined ecosystems, both on the merchant and the seller side. On the other side of that is the Cash App Card and how large that is and Cash App Pay, how large that network is growing to, and putting Afterpay on top of that as well. Afterpay on the Cash App Card, as I said earlier, is super exciting. We have started rolling it out. As with any product, we're looking at how people are using it, and we'll be making decisions on what it ultimately looks like when we roll it out affiliated companies. MAY 02, 2024 / 9:00PM GMT, Q1 2024 Block Inc Earnings Call 100% over time based on how people perceive it, how they use it, how they find it valuable or not valuable. But we think it's really exciting. And it's taking us some tend to get here, but we're finally here, so excited to see it roll out and for you all to be able to use it."
+    },
+    {
+      "speaker": "Amrita Ahuja",
+      "company": "Block, Inc.",
+      "role": "COO, CFO & Treasurer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And I'll just add a couple of points of data around that, Ramsey. First, with the opportunity that we've got, with bringing Afterpay to Cash App card, this is having an already built-in audience of 24 million monthly actives who have spent more than $100 billion in total over the past year. Of course, we're going to start small and, as with any lending sort of product, start small and ramp based on the signals that we see, Where eligible actives will be able to easily convert certain purchases into an Afterpay transaction. As Jack said, we've begun testing here already. We've seen strong attach rates and we're excited to scale this in the coming months. This brings visibility and the utility of Afterpay into Cash App much more directly than we've done so far and drive engagement around Buy Now, Pay Later which, on its own, is growing nicely for us: 25% GMV growth, 32% gross profit growth in the first quarter on a year-over-year basis. And it helps merchant partners who have access now to a much bigger network of customers across the Cash App ecosystem. Just the second piece, as Jack mentioned, Cash App Pay. The strength in the growth of Cash App Pay wouldn't have happened if it wasn't for the enterprise sales team that Afterpay has built through the years, driving it across its network of merchants. And now Cash App Pay is an example of a payment tool that customers can use regularly, and so we're giving customers the Cash App more and more ways that they can spend their funds and more reasons to inflow funds into Cash App. We ended the quarter, March had 4 million monthly actives across Cash App Pay, adding $1 million monthly active each of the last 3 quarters, while GMV was up 40%, more than 40%, quarter-over-quarter. So a very strong growth here, and I think more milestones towards proving out the integration between Cash App and Afterpay. Operator We will take our next question from Trevor Williams with Jefferies."
+    },
+    {
+      "speaker": "Trevor Ellis Williams Jefferies",
+      "company": "LLC, Research Division",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I wanted to dig into seller GPV. The card-not-present in retail growth rates, those have lagged overall GPV growth pretty consistently over the last few quarters, if you could just unpack what some of the dynamics have been within both of those. And then Amrita, on your comment that GPV growth could potentially accelerate in the second half, how much of that is comp-driven versus potentially starting to see some benefit from some of the go-to-market changes you guys have made?"
+    },
+    {
+      "speaker": "Amrita Ahuja",
+      "company": "Block, Inc.",
+      "role": "COO, CFO & Treasurer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. I mean just to very directly answer the end of your question, I think most of it's likely more comp-driven in terms of more favorable comp, but we've got a tremendous amount of work underway that we hope will shift the tide on Square GPV into 2025. Now just to back up, Square GPV in the first quarter was up 9% year-over-year, which was in line with our expectations that we shared on the Q4 call. Again, gross profit growth, ahead of that based on the strength of our banking products and our SaaS attached products. U.S. growth was 6% in the quarter, while non-U.S. growth was 23% or 26% at constant currency. And as you noted, we expect, as we look ahead, to see stable to slightly improving GPV growth in the back half of the year. But we're not satisfied with these growth rates, and we want to turn the tide. We think that increasing product velocity, as Jack shared earlier, and some of our go-to-market changes can improve growth in 2025. Specifically, I would point to orders migration, which helps us with critical features for food and beverage sellers and beauty in salons, like pre-authorization at bars or deposits for service and sellers. That work, as I mentioned earlier, is on track to be completed this summer; or onboarding flows where we're reducing the friction for new sellers to join the Square ecosystem from 10-plus minutes to a much more faster and intuitive onboarding experience. We began testing that new onboarding flow with quick-service restaurant sellers. And as Jack noted, those results are encouraging, so we'll be rolling it out to our other verticals in July. And then contracts. As we think about our go-to-market motion, our sales team and the tools that we give them are critical to be able to reach the sellers with more complex needs. And we rolled out contracts in the second half of '23. And what we saw from December to March was that the number of U.S. sales wins that had contracts attached more than doubled. It's early, but we're also seeing cohort affiliated companies. MAY 02, 2024 / 9:00PM GMT, Q1 2024 Block Inc Earnings Call retention improvement when contracts are deployed. So we believe that there's more that we can do here as these products and features come together to lean in to go to market, especially in the back half of the year and into the future to improve the trend lines that we see across GPV. Operator We will take our next question from Andrew Bauch with Wells Fargo."
+    },
+    {
+      "speaker": "Andrew Thomas Bauch Wells Fargo",
+      "company": "Securities, LLC, Research Division",
+      "role": "Equity Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I just wanted to expand on what you just said there around the go-to-market strategies and the improved product velocity. And maybe if you could help us understand what the value proposition of contracts really unlocks for you guys. And maybe if we can just layer that into some of the expanded franchise capabilities that you discussed. I mean, the Bitkey is better, like that's a win for Square that we haven't seen that magnitude in the past."
+    },
+    {
+      "speaker": "Jack Dorsey",
+      "company": "Block, Inc.",
+      "role": "Co-Founder, Block Head, Chairman & Square Head",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. Well, just to start on contracts, since you pointed it out, this is something we were against for many years in our funding because we saw what a lot of people were doing to small merchants. They're locking them into these pretty predatory contracts. And we still see some of our peers do this today. We took a slightly different tact on it and also have a different goal. We recognize that there are merchants who appreciate contracts because it helps them with predictability of their cost and it allows us to get them free hardware. So if you were to look at just one point, it would be that. And from December to March, we saw the number of U.S. sales wins with contracts attached more than double. So this is really still early for us, but we're looking, we're observing what our peers are doing. We're observing customer needs, and we want to do something that is far more attractive and much better for the seller and therefore, for us. And it's working. A big portion of what we're doing on the go-to-market side is we're just experimenting a lot more. I think in the past, we relied a little bit too much on one thing working. And when that thing didn't work, we switched the thing. Now we are focused on a big thing in our go-to-market, which is like really looking deeply at the product and the onboarding experience, of course, and just really focusing a lot on that, but also looking at doing experiments like field sales, like contracts, everything we've done around verticalization of our sales force. All these things compound. And some of them will work, some of them won't work, and we'll invest heavily in the ones that do. But I think that experimentation mindset and being much faster to recognize when something is working or not working will help us really improve it, mirrored with everything that we're doing on the product side as well. On the franchise capabilities, yes, this is an opportunity for us. We are focused a lot on food and beverage. We know there's a number of gaps that our competitors take advantage of. We're driving those home and fixing all of them. And our first goal is to get to parity on all the features that make us lose in food and beverage. And then as we get to that this year, then it's a question of really showing people the depth and the breadth of our ecosystem. And this is where banking continues to be a stronghold for us and something that will really set us apart, in addition to our renewed focus on a better design product and a better engineered product that doesn't fail. Operator And we will take our next question from Jason Kupferberg with Bank of America."
+    },
+    {
+      "speaker": "Jason Alan Kupferberg BofA",
+      "company": "Securities, Research Division",
+      "role": "MD in US Equity Research & Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I wanted to stay here on the Square side for a minute. You had expected the gross profit growth to decelerate in Q1. It's obviously accelerated modestly. And I think you said, at a high level, software and banking, obviously, were drivers there. But hoping you could go a little bit deeper into which specific parts of the software and the banking businesses and maybe touch on international a little bit also, just trying to unpack where the sources of upside surprise were because certainly good numbers to see there."
+    },
+    {
+      "speaker": "Amrita Ahuja",
+      "company": "Block, Inc.",
+      "role": "COO, CFO & Treasurer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure. Maybe just to unpack the drivers on the banking side first. What we saw was first quarter banking gross profit for Square grew 36% year-over-year and was the key driver of delta between gross profit and GPV growth. Unpacking that a bit more, what we saw was affiliated companies. MAY 02, 2024 / 9:00PM GMT, Q1 2024 Block Inc Earnings Call healthy repayment trends and strong organic volume growth drive results this quarter for banking. Square Loans facilitated $1.32 billion in originations, up 17% year-over-year in the first quarter. Instant transfer also contributed as we lap now, in the second quarter, some of the pricing impacts, pricing increases, that we made in Q2 of last year. And then gross profit from banking products in our international markets also continue to grow as we add more and more capabilities to more geographies. The recent launches of loans in Japan in January, for instance, has well exceeded our initial expectations. Clearly, quick access to funds and a seamless product experience are true differentiators relative to existing financing options for SMBs in Japan. From an international perspective, in the first quarter, gross profit markets outside the U.S. grew 38% year-over-year and represented 13% of Square's gross profit. International GPV was up 23%. We believe there is a significant long runway ahead for growth here as we're less than 1% penetrated in markets outside the U.S. And we've continued to see growth in our deeper vertical points of sale as well across the Square ecosystem. So each of the key strategic and focus areas for us continues to show outsized growth and will be areas that we lean into. Specifically on vertical points of sale, gross profit from products across retail restaurants and appointments grew 24% year-over-year in the first quarter. Operator We will take our next question from Alex Markgraff with KBCM. Alexander Wexler Markgraff KeyBanc Capital Markets Inc., Research Division - Associate Just a couple on tax in direct deposit. Of the 40% tax actives, the positive refunds into cash, just curious what sort of overlap there might be with existing payroll direct deposit actives? And then what exactly is entailed in sort of converting those folks that are not maybe overlapping today? And then just as a quick follow-up, any sort of indication of inflows growth excluding the impact of any sort of tax refund growth."
+    },
+    {
+      "speaker": "Amrita Ahuja",
+      "company": "Block, Inc.",
+      "role": "COO, CFO & Treasurer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So as I noted, the paycheck direct deposit inflows grew faster than overall inflows, so that is neutralized for the tax impact in Q1, the sort of seasonal impact in Q1. More broadly, what I'd say about our tax initiative is that it represents a discovery initiative for us in bringing our direct deposit capabilities, the ability to get your funds faster through Cash App, and put it front and center for our customers as they're engaging in a deep financial services offering that we have a free one with taxes. And so as you look at the broader base of direct deposits in Q1, that's clearly larger than the paycheck direct deposits alone. And we saw growth in that as well. But really, the tax piece is about driving discovery and awareness around our broader financial services offering, including paycheck direct deposits. And it is a potential for us to convert more of those tax direct deposit customers in the paycheck direct deposit customers. A much broader opportunity for us, of course, is, as I mentioned earlier, around the key initiatives that we got from a product perspective around financial services and around bringing all of those initiatives together in bundling and in pricing that's compelling to our customers. Operator And we will take our next question from John Davis with Raymond James."
+    },
+    {
+      "speaker": "John Kimbrough Davis Raymond James",
+      "company": "& Associates, Inc., Research Division",
+      "role": "MD & Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Jack, I just wanted to touch on the recent merchant settlement with the networks, both on the surcharging side as well as the interchange cuts, and just thoughts on how that impacts the merchants and Square more specifically."
+    },
+    {
+      "speaker": "Jack Dorsey",
+      "company": "Block, Inc.",
+      "role": "Co-Founder, Block Head, Chairman & Square Head",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sorry, what are you talking about here?"
+    },
+    {
+      "speaker": "John Kimbrough Davis Raymond James",
+      "company": "& Associates, Inc., Research Division",
+      "role": "MD & Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Sorry, the merchant settlement with Visa and Mastercard on the ability to surcharge as well as the cut in interchange going into effect next year. affiliated companies. MAY 02, 2024 / 9:00PM GMT, Q1 2024 Block Inc Earnings Call"
+    },
+    {
+      "speaker": "Jack Dorsey",
+      "company": "Block, Inc.",
+      "role": "Co-Founder, Block Head, Chairman & Square Head",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I'm not sure how to answer the question. I haven't spent much time on this particular issue. I do know that it is an active conversation for a lot of sellers and their customers, and different countries have different policies on this. We don't have a surcharge ability on Square right now. We are rolling that out in Australia where it is something that most merchants do. But no other comment on this."
+    },
+    {
+      "speaker": "John Kimbrough Davis Raymond James",
+      "company": "& Associates, Inc., Research Division",
+      "role": "MD & Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. Then maybe just Amrita, just a quick question on the sustainability of the 1,000 basis point difference and kind of GPV growth in Square of 9% versus 19%. I know you noted Square banking growth was like mid-30s for the quarter. But how should we think about the relation between GPV growth and seller and GP growth throughout the balance of the year?"
+    },
+    {
+      "speaker": "Amrita Ahuja",
+      "company": "Block, Inc.",
+      "role": "COO, CFO & Treasurer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. As I noted in the interim remarks, what we expect to see is a narrowing of the gap or the delta between gross profit growth and GPV growth. That's as we see GPV growth in the back half of the year, we expect to be stable to improving behind more favorable same-store comparisons. So that's sort of the expectation that we see for the remainder of the year. And we expect gross profit growth to moderate a bit from the first quarter, 19%, as we lap some of that stronger banking performance and pricing changes from the prior year. Obviously, all of our key initiatives the Jack's been referencing related to Square. From a product and go-to-market perspective, we're hard at work on and believe that, as they hit throughout the remainder of the year, can turn the tide from the 2025 perspective. Operator And we will now take our final question from Bryan Keane with Deutsche Bank."
+    },
+    {
+      "speaker": "Bryan Connell Keane Deutsche Bank",
+      "company": "AG, Research Division",
+      "role": "Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Congrats on the solid results here. I just want to ask about Afterpay. It really seemed to have turned a corner, with volume now having consistently growing 25% the last couple of quarters. Can you just maybe talk high level what's changed for Afterpay to get better growth? And then obviously, the gross profit growth jumped this quarter to be higher than the volume. Maybe what are those drivers and the outlook there?"
+    },
+    {
+      "speaker": "Amrita Ahuja",
+      "company": "Block, Inc.",
+      "role": "COO, CFO & Treasurer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure. I can start on this, which is we saw strong growth in the quarter, as you noted, both from a GMV perspective, and even more so from a gross profit perspective, GMV being similar to our Q4 growth rate at 25% but with gross profit at 32%, which is higher than the fourth quarter growth rate. What we saw with Afterpay was strong customer acquisition across both consumers and merchants with growth driven by single-use payments and our gift cards offering. Single-use payments is our product that allows customers across the U.K., U.S. and Australia to shop via the Afterpay app and merchants that aren't in Afterpay's network, so a broad set of merchants. And that enables us to reach highly engaged customers through personalized merchant recommendations in the app while also offering a flexible payment offering. And gift card is a product that allows eligible customers to purchase an online gift card from a variety of leading retailers and then spread it out across 4 payments with Afterpay. Afterpay's enterprise sales team also has been driving a strong pipeline of new merchant growth across all of these products, our core Buy Now, Pay Later products as well as some of these newer products. Some of these newer products also do have improved monetization rate relative to Buy Now, Pay Later. And that, I think, is some of what you're seeing come through in terms of the stronger gross profit growth. Stepping back more broadly to the first part of your question, what's changed here is, as Jack noted, we've reset on our strategy and reorganized our team. Afterpay is now fully embedded in the Cash App ecosystem and operating at a high level of excellence between our sales team, our product-led teams and our customer-facing teams. And so we're excited to see what's ahead not only for some of the stand-alone Afterpay initiatives but also the deeper integrations that we're doing with Afterpay on Cash App Card and with Cash App Pay, which has now strong growth, of which I think is very much attributable to the Afterpay team as well. affiliated companies. MAY 02, 2024 / 9:00PM GMT, Q1 2024 Block Inc Earnings Call Operator And ladies and gentlemen, thank you for participating in today's program. This does conclude our program, and you may all now disconnect. In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. affiliated companies."
+    }
+  ]
 }

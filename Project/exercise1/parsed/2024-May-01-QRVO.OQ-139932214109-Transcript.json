@@ -4,5 +4,278 @@
   "quarter": "2024Q1",
   "sector": "Removal",
   "filename": "2024-May-01-QRVO.OQ-139932214109-Transcript.pdf",
-  "segments": []
+  "segments": [
+    {
+      "speaker": "Robert A. Bruggeworth",
+      "company": "Qorvo, Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Christopher Caso Wolfe Research, LLC - MD"
+    },
+    {
+      "speaker": "Christopher Adam Jackson Rolland Susquehanna",
+      "company": "Financial Group, LLLP, Research Division",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Edward Francis Snyder Charter Equity Research - MD"
+    },
+    {
+      "speaker": "Ruben Roy",
+      "company": "Stifel, Nicolaus & Company, Incorporated, Research Division",
+      "role": "MD & Equity Research Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Srinivas Reddy Pajjuri Raymond James & Associates, Inc., Research Division - MD"
+    },
+    {
+      "speaker": "Thomas James",
+      "company": "O'Malley Barclays Bank PLC, Research Division",
+      "role": "Research Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Operator Good day, and welcome to Qorvo, Inc. Earnings Conference Call. (Operator Instructions) Please note, this event is being recorded. I would now like to turn the conference over to Douglas DeLieto, Vice President, Investor Relations. Please go ahead."
+    },
+    {
+      "speaker": "Douglas DeLieto",
+      "company": "Qorvo, Inc.",
+      "role": "VP of IR",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thanks very much. Hello, everyone, and welcome to Qorvo's Fiscal 2024 Fourth Quarter Earnings Call. This call will include forward-looking statements that involve risk factors that could cause our actual results to differ materially from management's current expectations. We encourage you to review the safe harbor statement contained in the earnings release published today as well as the risk factors associated with our business in our annual report on Form 10-K filed with the SEC because these risk factors may affect our operations and financial results. In today's release and on today's call, we provide both GAAP and non-GAAP financial results. We provide this supplemental information to enable investors to perform additional comparisons of operating results and to analyze financial performance without the impact of certain noncash expenses or other items that may obscure trends in our underlying performance. During our call, our comments and comparisons to income statement items will be based primarily on non-GAAP results. For a complete reconciliation of GAAP to non-GAAP financial measures, please refer to our earnings release issued earlier today, available on our Investor Relations website at ir.qorvo.com under Financial Releases. Joining us today are Bob Bruggeworth, President and CEO; Grant Brown, CFO; Dave Fullwood, Senior Vice President of Sales and Marketing; and other members of Qorvo's management team. And with that, I'll turn the call over to Bob."
+    },
+    {
+      "speaker": "Robert A. Bruggeworth",
+      "company": "Qorvo, Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thanks, Doug, and welcome, everyone, to Qorvo's Fiscal 2024 Fourth Quarter Call. I'd like to begin by reminding our audience that we issued a press release last week, announcing the date of our upcoming Qorvo 2024 Investor Day. The event will be held June 11. It will be webcast for all audiences, and it will begin at 8:30 a.m. Eastern. Our last Investor Day was in 2018, and we're very excited to discuss in detail our expanded opportunities and our enthusiasm for the future. Across our businesses, Qorvo is at the forefront of global secular macro trends, including mobility, connectivity, electrification and datafication. These macro trends are enabling new applications and new user experiences, many of which are made accessible to you by the company's Qorvo supplies and the devices we enable. Our customers continually seek to improve key performance parameters such as power out, current consumed, talk time, battery life and time between charges. This is happening across our markets in aerospace and defense, automotive, consumer, infrastructure, industrial affiliated companies. MAY 01, 2024 / 9:00PM GMT, Q4 2024 Qorvo Inc Earnings Call and enterprise. It is increasing customer focus on power efficiency, throughput, functional density, form factor, and other areas where Qorvo delivers a significant competitive advantage. Complementing this, legacy technologies are transitioning to more advanced technologies like active electronic standing systems, advanced power management, force sensing touch centers, RF MEMS, and a range of system on a chip and system in package solutions to improve performance and enhance functionality. Also, new connectivity protocols are being adopted across our businesses, including 5G Advanced, DOCSIS 4.0, WiFi 6, 6E and 7, Matter and ultra-wideband. Qorvo is driving innovation to enable these trends while expanding our capabilities and product offerings to target a growing set of opportunities. Now let's turn to the strategic highlights, beginning with HPA. HPA returned to year-over-year growth in the March quarter, supported by strong sequential growth in defense and aerospace and continued improvement in end markets other than base stations. In defense and aerospace, we're very pleased to have completed the acquisition of Anokiwave in the March quarter. The Anokiwave team brings robust capabilities and high-performance integrated silicon ICs for intelligent active array antennas. Their commercially proven portfolio includes silicon beamforming ICs, and IF to RF conversion solutions, which are complementary to our transmit-and-receive RF front end for SATCOM, D&A, 5G and other beamforming applications. Record annual and March quarterly revenue in D&A was driven by large Defense programs and SATCOM growth. The D&A content opportunity for Qorvo is especially strong in Phase 2 race where our solutions can enable transmit receive elements. Phase 3 radars can contain hundreds up to tens of thousands of transmit-and-receive elements per system, underscoring the multiplier effect for Qorvo. Adding to this, we are developing more highly integrated placements that combine Anokiwave solutions with our existing RF and power management IC portfolios. Design wins for the quarter spanned airborne and shipborne radars, SATCOM applications and solid state PA products. We secured our first design win for BAW-based filter bank solution that enables new architectures for large defense customers. In Low Earth Orbit SATCOM applications, we are engaged to supply multiple Qorvo products, including LNAs, switches, mixers and BAW multiplexers to support ubiquitous nonterrestrial connectivity. Turning to power management, we are investing to expand our reach in markets where Qorvo enjoys long-standing customer relationships such as consumer, D&A and mobile, while also targeting more fragmented and more diverse industrial markets. During the March quarter, we secured a motor control design win and a power tool platform with a leading manufacturer of residential and commercial lawn and garden products. We also secured new PMIC designs at new and existing solid-state drive customers. Looking more closely at power management opportunities in mobile, there are increasing requirements for compute and processing power in the device that are creating new growth vectors for Qorvo PMICs. The opportunity is significant in both volume and content, and we are able to leverage our exceptional customer and ecosystem relationships. Qorvo is a recognized leader delivering RF solutions, addressing customer challenges related to efficiency, functional density and power consumption. Our RF power management portfolio includes envelope tracking, average power tracking. Beyond RF power management, there are incremental power management opportunities in the phone where Qorvo is leveraging our expertise to reduce current consumption, improve battery life and better accommodate more data-intensive use cases. We have very strong power management IP that can be extended across markets, making our PMIC portfolio an engine for diversification, growth and profitability. We are also extending our reach in broad markets by building out more ways to engage with existing and new customers such as our recently launched QSPICE analog and mixed signal circuit design and simulation tool. QSPICE has gained quick traction with engineers by providing them measurable improvements in speed, functionality and reliability of circuit simulation. Since its launch, QSPICE has surpassed 20,000 unique downloads. affiliated companies. MAY 01, 2024 / 9:00PM GMT, Q4 2024 Qorvo Inc Earnings Call In power devices, customers continue to transition from silicon to silicon carbide, and the design activity for Qorvo remains strong in our target markets. We continue to secure design wins for high-density server power supplies and added a second Tier 1 North American server OEM during the quarter. In infrastructure markets, Qorvo is leading the transition from DOCSIS 3.1 to DOCSIS 4.0 with a broad portfolio of products. DOCSIS 4.0 will increase the efficiency of existing infrastructure and significantly enhance the user experience. DOCSIS 4.0 will support download speeds of up to 10 gigabits per second and increase upload speeds by 4x compared to DOCSIS 3.1 to 6 gigabits per second. In our base station business, customers continue to award Qorvo design wins, however, we expect the demand environment to remain weak. Longer term, we are very pleased to have been selected by a European-based OEM to support their 6G development efforts. Turning to CSG, we are supporting an increasing number of applications requiring the security and precision location awareness of our ultra-wideband solutions across mobile, consumer, automotive and other markets. In mobile, our ultra-wideband placements or among many Qorvo's solutions supplied to Samsung in support of their Galaxy S24 flagship brand. In consumer markets, recent wins include a robotic lawnmower that leverages Qorvo's ultra-wideband to provide the precision location accuracy required to enable this application. In automotive, customer engagements are expanding to enable a range of applications that leverage Qorvo's ultra-wideband radar capabilities. Automotive applications for our ultra-wideband technology include secure access and digital key as well as kick sensors and the reliable detection of both intrusion and occupancy. During the quarter, customer activity included an ultra-wideband design win, enabling secure access for an EV manufacturer in North America. In other automotive applications, we were selected to supply automotive WiFi 6E solutions in support of a different North American EV OEM. We were also selected to supply our V2X solution for an automotive OEM in Europe on a platform ramping in calendar '25. For an EV OEM in Asia, Qorvo was selected to enable their 5G network access device with 6 solutions, each of which contain our low-band, mid-high band, ultra-high band, diversity [receiver], average power tracker and high-performance BAW filtering. Production for this program begins this year and the win is noteworthy as this 5G reference design will be marketed to additional automotive OEMs and Tier 1s. For WiFi markets, we continue to roll out new technologies and solutions. We are migrating our newest and most advanced cloud technology across our WiFi portfolio. We launched 6 gigahertz WiFi 7 filters using our next-generation BAW, and we will soon launch WiFi 7 iFEMs that combine our next-generation BAW with our PA, switch and LNA content in a single placement. We also ramped our newest WiFi 7 long nonlinear FEMs for a Tier 1 network operator in the U.S. and we sampled next-generation high-efficiency WiFi 7 FEMS aligning with a leading mobile WiFi chipset. Connected home applications, we began sampling our next-generation matter at SoC, and we secured a design win with a leading network operator in the U.S. to supply our BLE ZigBee SoC to remote controls for home gateways. And for sensing touch sensors, we expanded our engagements in track pads and other consumer applications. In ACG, Qorvo is unique in our opportunity to drive growth across major smartphone OEMs. Our largest opportunity remains dollar content gains at our largest customer. We have clearly invested to grow this account to represent a larger percentage of Qorvo's revenue and our continuing investments to date reflect our confidence in our multiyear growth opportunity. Within the Android ecosystem, mass-market smartphones are set to transition to 5G through the decade. We are the primary RF supplier to the Android ecosystem, and our strong road map and multiyear collaboration positions us to benefit as the Android ecosystem continues to transition to 5G. During the quarter, Qorvo supported the Galaxy S24 launch with our low-band, mid-high band, ultra-high band, secondary transmit and affiliated companies. MAY 01, 2024 / 9:00PM GMT, Q4 2024 Qorvo Inc Earnings Call receive, tuning, WiFi and ultra-wideband solutions. This highlights the strength of our portfolio and the breadth of our opportunity at Samsung, and we are pleased to support them across their flagship and mass market 5G smartphones. For mass market and/or 5G smartphones, we see strong pull for our recently launched low, mid, high band pad. Qorvo's LMH solution reduces surface area by 40% by combining in 1 placement, the low, mid and high band main path content traditionally offered in 2 placements. We have expanded customer engagements to include the top 4 China-based 5G Android OEMs and volume shipments are set to commence this calendar year. To broadly support all customers with best-in-class portfolios, we continue to advance new technologies across our products. We are proliferating our next-generation BAW technology across high-performance discrete and integrated solutions. We also recently released a next-generation LRT SAW process to complement our advanced BAW and SAW processes in select bands. The first module, combining our LRT SAW and BAW filters will support a flagship launch later this summer. In summary, increasing emphasis on throughput, efficiency and size in Qorvo's markets is growing the content opportunity and demand for better performing, smaller, more highly integrated RF and power solutions. For customers in automotive, consumer, defense and aerospace, industrial and enterprise and broad markets, we are leveraging core strengths, including our manufacturing scale, system-level expertise and advanced packaging capabilities to expand our RF and power product portfolios and deliver outsized growth. For customers in the mobile market, we are addressing new product categories and expanding our SAM across tiers, from the flagship tier to the mass market 5G tier to capture a growing percentage of the total opportunity. And with that, I'll hand it off to Grant."
+    },
+    {
+      "speaker": "Grant A. Brown",
+      "company": "Qorvo, Inc.",
+      "role": "Senior VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks, Bob, and good afternoon, everyone. Revenue for the quarter was $941 million. Non-GAAP gross margin was 42.5% and non-GAAP diluted EPS was $1.39, all exceeding the midpoint of our guidance range. Revenue for fiscal Q4 increased approximately 49% year-over-year. As communicated last quarter, improving customer demand in HPA supported a return to year-over-year growth. HPA revenue grew 24% year-over-year in the March quarter, driven by a stronger-than-anticipated performance in our defense business. In ACG, revenue grew 56% year-over-year in the March quarter, supported by strong content on multiple large customer platforms. In CSG, we delivered 50% year-over-year growth, and our fourth consecutive quarter of sequential growth due to strength in WiFi, automotive and other areas. Consistent with our prior comments, non-GAAP gross margin of 42.5% for the March quarter reflected a higher percentage of Android 5G mass market product, which was manufactured during periods of lower factory utilization. Non-GAAP operating expenses in the quarter were $253 million. We continue to invest in new product development to drive multiyear growth across our businesses. Alongside our growth-oriented investments, we're investing to upgrade the core systems and processes we use to run our business. This multiyear initiative is intended to extend our competitive advantage and enable us to scale growth in diverse dynamic markets. Our goal is to increase operational efficiency, unlock the internal data to leverage new software capabilities including AI and support our broad-based growth objectives. We expect this initiative will span approximately 3 years, and we will present the spend in other operating expense on our non-GAAP P&L. As we progress through the project, we will provide related expense guidance on a quarterly basis. Turning to the cash flow statement. In fiscal Q4, we generated operating cash flow of $202 million and capital expenditures for the period were $33 million. Notable cash flow items that occurred during the quarter included the closing of the Anokiwave transaction recorded in investing cash flows and payment of the termination fee associated with a long-term silicon supply agreement recorded in operating cash flows. We repurchased approximately $100 million of stock at $112 per share in the quarter, which brought our total for fiscal '24 to $400 affiliated companies. MAY 01, 2024 / 9:00PM GMT, Q4 2024 Qorvo Inc Earnings Call million at an average price of $101 per share. The rate and pace of our share repurchases considers several key factors, including our long-term financial outlook, free cash flow, debt maturities, alternative uses of cash and other relevant strategic considerations. This approach ensures that our capital allocation strategy balances future growth with the return of capital and aligns with our underlying goal of delivering long-term shareholder value. On the balance sheet, as of quarter end, we had approximately $1.5 billion of long-term debt and over $1 billion of cash and equivalents. Regarding balance sheet presentation, the 2024 notes are classified as current and will mature in December. Subject to changes in the interest rate environment and other factors, we currently expect to retire these short-term notes later this year. In line with the expectations shared during our previous earnings call, we successfully reduced our net inventory balance over the period. We ended the quarter with a net inventory balance of $711 million, a sequential decrease of $16 million. For the full year, revenue was $3.8 billion. Non-GAAP gross margin was 44.5% and non-GAAP EPS was $6.21. In fiscal '24, we had two 10% customers. Our largest customer represented 46% of revenue, up from 37% in fiscal '23, and our second largest customer was consistent year-over-year at 12% of revenue. Turning to our current quarter outlook. We expect revenue of approximately $850 million, plus or minus $25 million, non-GAAP gross margin between 40% and 41%, and non-GAAP diluted EPS between $0.60 and $0.80. Relative to March, we expect June gross margins to reflect a higher percentage of Android 5G mass market product that was manufactured during periods of lower utilization. As these higher cost inventory sell-through, it paves the way for future gross margins that reflect increasing levels of utilization. We expect gross margin in the June quarter to be the low point for the year and improved substantially in the September quarter. We continue to expect full year gross margin to improve modestly year-on-year. We project non-GAAP operating expenses in the June quarter will be approximately $260 million with variability related to the timing of program development spend and other factors. Our OpEx guidance for this quarter includes approximately $5 million of other operating expense related to modernizing our core systems and business processes. During fiscal '25, we expect to record approximately $40 million of expense related to this project with quarterly variability related to the achievement of progress-based milestones. Below the operating income line, nonoperating expense is expected to be between $6 million and $10 million, reflecting interest paid on our fixed rate debt, offset by interest income earned on our cash balances, FX gains or losses, along with other items. Our non-GAAP tax rate for fiscal '25 is expected to be within a range of 10% to 12%. We project this will increase over time due to changes in tax legislation such as the global minimum tax and other factors. Regarding the divestiture of our Beijing and Dezhou assembly and test facilities, we've made significant progress towards achieving operational readiness and completing other work required to close the transaction. This is a further step in our ongoing efforts to reduce capital intensity, and we continue to expect the transaction to close this quarter. We are efficiently managing a complex supply chain, including internal factories that are critical differentiators for each of our operating segments, and this will remain an ongoing focus. We'll leverage internal manufacturing where it uniquely differentiates our products and outsource production where we maintain a strong network of foundry and OSAT partners. Qorvo is well positioned to capitalize on multiple long-term growth drivers within each of our 3 operating segments. We're excited to share more during our upcoming Investor Day in June, and we look forward to your participation. At this time, please open the line for questions. Thank you. affiliated companies. MAY 01, 2024 / 9:00PM GMT, Q4 2024 Qorvo Inc Earnings Call Operator (Operator Instructions) Your first question comes from Ruben Roy with Stifel."
+    },
+    {
+      "speaker": "Ruben Roy",
+      "company": "Stifel, Nicolaus & Company, Incorporated, Research Division",
+      "role": "MD & Equity Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Grant, I wanted to see if you can -- you had some commentary in the press release on sort of the guidance and how to think about the guidance for June. But I was wondering if you could provide a little bit more detail on kind of what's going on with ACG and the defense after the strong quarter you saw in March. And if you could maybe just walk us through the moving parts in the 3 segments as we think about the guidance for the June quarter?"
+    },
+    {
+      "speaker": "Grant A. Brown",
+      "company": "Qorvo, Inc.",
+      "role": "Senior VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks for the question, Ruben. I'll start off with the June quarter guide overall, and then we can get into the segments. The sequential decline in the June quarter revenue guidance primarily reflects the ramp patterns that our 2 largest customers in ACG. And then within HPA, the seasonal timing of large defense programs and a slower rollout of DOCSIS 4.0, as we've talked about previously. ACG is expected to decline -- just to break it down, ACG is expected to decline in the high single digits in June. HPA will decline in the low double digits. And CSG is expected to be approximately flat. Looking back at ACG, we don't break out customer percentages by quarter, but I mentioned in my prepared remarks that our largest customer represented approximately 46% of total fiscal '24 revenue, which was up from 37% in '23 and 33% in fiscal '22. So it follows that -- those increases there increase our revenue exposure to the seasonal ramp patterns we have with our largest customers, and that's impacting the June quarter. Looking at HPA, it's a similar seasonal dynamic. We have successfully grown our revenue base in defense and aerospace, and this represents the largest percentage of HPA revenue and actually set a record in fiscal Q4. And while we expect our D&A business to grow year-on-year in fiscal '25, program timing and seasonality is having an outsized impact on the sequential performance in the June quarter, just given the relative size within HPA. Looking at gross margin, we expect a substantial improvement in September as we sell through all the high-cost inventory or the vast majority of it, I should say, in June, and we continue to expect full year fiscal '25 gross margin will improve modestly over '24."
+    },
+    {
+      "speaker": "Ruben Roy",
+      "company": "Stifel, Nicolaus & Company, Incorporated, Research Division",
+      "role": "MD & Equity Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "And I guess as a follow-up. In the press release also, you talked about your view about modest growth in -- expecting modest growth '25 over '24. And just wondering, I know you don't provide longer-term guidance in any meaningful detail. But 90 days into the -- from -- into the new year, has anything changed with the way you're thinking about it? Because I think you said you were expecting it would be reasonable to expect growth in fiscal '25 over 24 last quarter. So just wondering if there's been any changes in how you're viewing the growth or inventory levels or sell-through demand would be helpful."
+    },
+    {
+      "speaker": "Grant A. Brown",
+      "company": "Qorvo, Inc.",
+      "role": "Senior VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure. No change to our view on inventory, channel inventory, especially within the Android area looks relatively clear. I think June will be the last quarter we'll really be talking about the high-cost inventory and the energization impact associated with that. So that's maybe one change that we haven't spoken to in the past as far as timing goes. In terms of fiscal '25 in general, it's a little early to provide any detailed quarterly guidance. But absent any macro-related disruptions, we do expect to grow both revenue and gross margin modestly in fiscal '25 on a year-over-year full fiscal year basis. It's worth pointing out that given the timing of the content gains at our largest customer and the success of the defense market, as I mentioned earlier, our revenue seasonality will be more closely aligned with those annual ramp profiles. So that's clear in our Q1 guidance, but will also be included in our full fiscal year. In terms of the shape of revenue across fiscal '25, we do expect strong sequential growth in September, some modest sequential growth affiliated companies. MAY 01, 2024 / 9:00PM GMT, Q4 2024 Qorvo Inc Earnings Call in December, and then that revenue profile will reflect the sequential growth in defense. That begins in September and even stronger in December. So we -- maybe slightly, unlike fiscal '24, we'll have a bigger December than September is our current expectation because of the strength there in defense. On gross margins, we expect substantial improvement in September. As I mentioned, roughly flattish in December and then down slightly in March. So again, a similar seasonal profile. Overall, for the year, probably implied a full fiscal year gross margin for fiscal '25 in the mid-40s. Operator Our next question comes from Karl Ackerman with BNP Paribas."
+    },
+    {
+      "speaker": "Karl Ackerman BNP Paribas",
+      "company": "Exane, Research Division",
+      "role": "Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I want to follow up to the gross margin question that you just spoke about. I guess is the lower gross margin guide driven by seasonally stronger Android sales in June? And then while gross margins increased in September, does that suggest Android is weaker in the second half? I asked because while your peer this evening said that China Android rose 40% year-over-year in the first half, there have been some conflicting data points on Android demand in the second half. So if you could clarify that, that would be helpful."
+    },
+    {
+      "speaker": "Grant A. Brown",
+      "company": "Qorvo, Inc.",
+      "role": "Senior VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, sure. So in terms of gross margin, I think in any given quarter, it's heavily dependent on mix, as you're pointing out, right, there's variability by end market and product category. But as I look at the manufacturing costs associated with what we're selling, any underutilization impact is going to be impacted by when the products are manufactured and where they're manufactured. So for Qorvo, when matters because the utilization rate at the time it's produced, and the where matters because of where the products that contain higher content from external foundries or OSATs are less impacted by our internal loadings. So for June, our gross margin guidance really reflects, I guess, primarily 3 things. First, we're actively selling through the higher cost inventories burdened by underutilization. And this is somewhat of an artifact of past underutilization. The second is that we see, the typical seasonal decline in our largest customer, as I mentioned, and those products contain higher levels of external content. And then third, we expect a seasonal decline in the defense programs. Like most of our high mix, lower volume businesses, these are accretive to gross margin. So it's heavily mix dependent. I pointed out, June will mark the low point as we actively sell through that, that remaining high-cost inventory. And again, that really reflects the inefficiencies caused by those underutilized fabs that were whipsawed by a massive inventory correction. We believe we're well past the worst of those utilization levels and as we sell through the material, it will pave the way for higher gross margins I commented on for the full fiscal year -- color I talked about earlier. For September, if we pivot to that, we expect gross margin to improve substantially as 3 headwinds reverse. The seasonal ramp will reflect more external content. The defense revenue is expected to grow sequentially and the underutilization impact should fall to less than or around 100 basis points versus the, call it, 300 basis points that we experienced last quarter."
+    },
+    {
+      "speaker": "Karl Ackerman BNP Paribas",
+      "company": "Exane, Research Division",
+      "role": "Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Very clear. If I may just sneak a quick one in, you mentioned about a recovery in defense. I was curious your thoughts on silicon carbide, I did not hear that, any comments in your prepared script. I know that the industrial market is going through a downturn. But any thoughts on the recovery of the silicon carbide business or whether the macro has influenced your own success in silicon carbide, whether it's industrial and/or defense?"
+    },
+    {
+      "speaker": "David Fullwood",
+      "company": "Qorvo, Inc.",
+      "role": "SVP of Sales & Marketing",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Karl, this is Dave. I can take that one. So Bob, you can comment on some of this, but we've had some good success there in data centers and that part of the market actually looks quite good. We've talked in the past, too, about some of our success we've had in areas like solar, that's been heavily impacted by the interest rate environment. And so that market is extremely soft right now. So it's kind of a mixed bag when you look at our silicon carbide business. It's still quite a small business, so we're growing into new markets. And so affiliated companies. MAY 01, 2024 / 9:00PM GMT, Q4 2024 Qorvo Inc Earnings Call there's lots of opportunities there. The sales funnel is growing and strong, but the end markets are really dependent on some of the interest rate environment that we're experiencing. Operator Your next question comes from Edward Snyder with Charter Equity Research. Edward Francis Snyder Charter Equity Research - MD A couple of questions, if I could. Last quarter, we had the discussions about content growth and strength in the second half. I know you haven't guided that to this quarter at all. I just want to get an update if possible. Now that you've had a chance, most of those wins have been awarded and you're probably working on qualifying it. Any alteration at all in terms of how strong you think it will be in the second half in terms of content or revenue growth without guiding? I'm just trying to get a feel for it, if anything has changed."
+    },
+    {
+      "speaker": "Robert A. Bruggeworth",
+      "company": "Qorvo, Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Ed, it's Bob. Thanks for the question. And we're very confident in our outlook with our largest customer. We're confident, as I said last time, in gaining share this year and still very confident in our outlook for -- in FY '25, gaining share FY '26, gaining share and growing revenue. Still feel real good about both of those. Edward Francis Snyder Charter Equity Research - MD Good. And then you closed the Anokiwave deal. And there -- most folks, if you look at their product line, it's pretty much a carbon copy there, anything you need for a millimeter wave to a mobile platform. And there's been some news recently that there seem to be a win with that. Is that -- my impression was when that was first announced, that it was going to be an infrastructure play. Does it have a mobile play to it? And how confident you are that it's going to gain any traction given how we [normalized it] has been in the mobile business for a while?"
+    },
+    {
+      "speaker": "Robert A. Bruggeworth",
+      "company": "Qorvo, Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Good opportunity to clear that up. When we made the acquisition, our focus was actually on defense. The infrastructure market is pretty volatile, but we still think there's a play there, but it's primarily on the defense side. We don't have any plans at this time to bring it into the mobile phone -- mobile part of our business. Operator Your next question comes from Srini Pajjuri with Raymond James. Pardon me. Your next question comes from Chris Caso with Wolfe Research. Christopher Caso Wolfe Research, LLC - MD The first question, I just wanted to clarify a comment that you made. You talked about revenue and gross margin up in fiscal '25, but you said modestly. And I just wanted to make sure that, was that a modest comment meant for revenue and gross margin up modestly or just gross margin?"
+    },
+    {
+      "speaker": "Grant A. Brown",
+      "company": "Qorvo, Inc.",
+      "role": "Senior VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks for the question, Chris. It was for both. Christopher Caso Wolfe Research, LLC - MD Okay. So both revenue and so -- okay, so that's clear. As a follow-up on that, I wanted to talk about the changes to capital intensity that you were taking. Can you give a little more color on that and kind of where the targets might sit when you're done with that program and kind of what you're doing to achieve that?"
+    },
+    {
+      "speaker": "Grant A. Brown",
+      "company": "Qorvo, Inc.",
+      "role": "Senior VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So from a capital intensity perspective, I still think that we'll be spending CapEx in and around that 5% target level as we look out over time. It could vary based on capacity required to support customer demand, but that's our current target. affiliated companies. MAY 01, 2024 / 9:00PM GMT, Q4 2024 Qorvo Inc Earnings Call Operator Your next question comes from Srini Pajjuri with Raymond James. Srinivas Reddy Pajjuri Raymond James & Associates, Inc., Research Division - MD Bob, in your guidance for fiscal year revenue to be up modestly. Obviously, you said previously that you expect your largest customer to grow year-on-year this year. So the rest of the business, I'm just curious, given -- I mean we've been weak in broad market -- not broad market, non, I guess, smartphone segments for a while. They seem to be lumpy, but some of them are coming back. So I'm just curious as to what's the outlook for the -- outside of your largest customer, what's causing you to be a bit more cautious here? It seems like you're kind of -- you're sounding a bit more cautious than last quarter. So I'm just trying to understand what's giving you that pause?"
+    },
+    {
+      "speaker": "Grant A. Brown",
+      "company": "Qorvo, Inc.",
+      "role": "Senior VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Let me take that one and then Bob can fill in kind of the latter part of your question. I think for fiscal '25, generally, we're optimistic. We do expect to grow. We're going to expand gross margin as we currently see it. I think we're having success at our largest customers, and that's creating more seasonality, which you're seeing in June, but on the whole, the year will be up. It also creates an opportunity for us to grow in our defense business, where we're seeing some recent congressional budget approvals as well as some of the [foreign aid] packages, which is driving our order activity there. So we're seeing a strong tailwind on the defense business in the fiscal second half. So that was for us beginning in the December quarter and follow through into March again. Those are some of the drivers we see. And I don't know, Bob -- I think we missed the last part of your question. I think was it around confidence at our largest customer? Srinivas Reddy Pajjuri Raymond James & Associates, Inc., Research Division - MD I was just wondering, I guess, last quarter, you definitely sounded a bit more confident about the next year and 2, as your largest customer looks like that hasn't changed. And given your view on your largest customer, I would've thought, the fiscal year guidance would be up more than just modestly. So I'm just trying to understand what's kind of leaving you that pause outside of your largest customer?"
+    },
+    {
+      "speaker": "Robert A. Bruggeworth",
+      "company": "Qorvo, Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "We still believe we're going to grow in the Android ecosystem to be clear. So again, we didn't comment on the full year last time. The only comment I made was I wanted to correct some noise that was in the market about we had lost the socket potentially at our largest customer, and I want to make that clear. So I'm sure that came across clear. However, when we look out over the year, I mean, there's a lot of things to judge for the year. I think it's great that we're able to provide you some color, at least how we think of things today. But I'd say, if anything, we're being somewhat conservative just given what's going on. As you know, our Android market in China, quite honestly, it's going to be flat quarter-over-quarter to slightly up. But we're very cautious on China and the economy turning around there, where they're actually doing well within some of the export markets. So just given everything that we see going on globally, interest rates, you see what's going on with the Fed in our own country and going around the world, I think it's prudent to take a conservative view when we give our outlook, whether it's the number of units at our largest customer, what's going to happen to end demand with consumers. We're just being cautious, but we're confident we can grow. And I think that's how I'd leave that. Srinivas Reddy Pajjuri Raymond James & Associates, Inc., Research Division - MD If I may have a follow-up on gross margins. Grant, obviously, you're talking about improving gross margin in the second half of the fiscal year. I guess how do we go from -- I think you're exiting the fiscal year maybe in the high 40s, mid- to high 40s. How do you go from mid- to high 40s to the previous, I guess, peak levels of 50% to 53%. And what's the plan to -- I mean, is it a function of revenue? Or are there any other initiatives that are in place to get us back to that gross margin level? affiliated companies. MAY 01, 2024 / 9:00PM GMT, Q4 2024 Qorvo Inc Earnings Call"
+    },
+    {
+      "speaker": "Grant A. Brown",
+      "company": "Qorvo, Inc.",
+      "role": "Senior VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks for the question. So utilization is obviously critical and it's improving. And we've spoken quite a bit about it. But maybe just to put that into context, the utilization across our U.S. fabs is actually currently up 20 percentage points versus Q1 a year ago. So looking at just a simple average across our wafer fabs, the percent utilization went from the 40s to now the 60s, and all that hasn't flowed into the P&L yet. So we still have meaningful opportunity to improve and reach more optimal levels, call it, in the 80s or higher across the board. We've talked a bit, as a specific example, to our WiFi business in CSG, which is facing the underutilization here in our North Carolina [gas line], each of those products is coupled to the fab that was designed and qualified. And so we can't move production overnight. But over time, we can optimize this. So load balancing across the factory networks always being evaluated, and it's a potential for opportunity there. But beyond just utilization, we are taking active steps to improve gross margin. If you look at it maybe by business or maybe from a manufacturing perspective, in ACG, specifically, we're managing our portfolio to better match cost with the product tiering. So to align Android's entry tier, our new low, mid, high integrated products are a great example. This is not a single product, but actually a family of products that are better optimized for that segment of the market. In HPA, we expect our high mix, lower volume businesses generally carry higher gross margins to be among our fastest-growing opportunities. Defense is a good example, I've spoken to that, where we expect a strong fiscal second half and for growth to continue well beyond this fiscal year given the budget approvals and the order activity we're seeing. CSG, I just mentioned the WiFi business, but it's our highest growth opportunities there are in products that run in high-volume external silicon partners. So overall business mix will play a role in margin expansion over time. Those product lines will grow faster and they'll become a bigger portion of our revenue mix, less susceptible to underutilization, of course, because they're externally sourced. From an overall manufacturing perspective, we expect to benefit from continued [die-size] reductions, wafer size increases, and we can continue reducing our capital intensity. We're continuously looking at factory footprints for opportunities to optimize and consolidate our operations, and you've already seen us take steps there such as divesting our (inaudible) branch facilities as well as our Beijing and Dezhou facilities. So we have a lot of opportunity to get there. It's not simply utilization, but obviously, that's a big part of it. Operator Your next question comes from Thomas O'Malley with Barclays."
+    },
+    {
+      "speaker": "Thomas James",
+      "company": "O'Malley Barclays Bank PLC, Research Division",
+      "role": "Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "So on the last call you kind of talked about the shape of the year being very similar year-over-year if you look at fiscal year '24 and fiscal year '25. With June coming in a bit lighter, could you just update us on how you're seeing the shape of the year? Does that peak a bit higher in the September, December period just because Q1 was a bit weaker? Any color on what you're kind of seeing in terms of the shape of the year being similar? Or does that change at all with what we're looking at in June?"
+    },
+    {
+      "speaker": "Grant A. Brown",
+      "company": "Qorvo, Inc.",
+      "role": "Senior VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure. It's similar to fiscal '24. As I mentioned, we do expect, unlike fiscal '24, that we'll have a larger December than September and then down seasonally in March. So in that regard, it's slightly different than what we saw in fiscal '24. But generally speaking, the September, December quarters will be our largest within the fiscal year."
+    },
+    {
+      "speaker": "Thomas James",
+      "company": "O'Malley Barclays Bank PLC, Research Division",
+      "role": "Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "That's super helpful. And then just to put a nail in the coffin here, but just on the Android business into the June quarter. So you're talking about better China, but also you don't have a flagship launch in the June quarter from another large customer. When you net that out, do you see the ability to grow kind of sequentially into the June quarter? It's just hard to know the various growth rates. I know you have some idea of size, but any color you could give there on the Android business, just June specifically?"
+    },
+    {
+      "speaker": "Robert A. Bruggeworth",
+      "company": "Qorvo, Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "This is Bob. June most likely is going to be flat off with the Android ecosystem. As you pointed out, we're coming off a big flagship ramp and our second largest customer with tremendous content, we're offsetting that with growth outside of them. affiliated companies. MAY 01, 2024 / 9:00PM GMT, Q4 2024 Qorvo Inc Earnings Call Operator Your next question comes from Christopher Rolland with Susquehanna."
+    },
+    {
+      "speaker": "Christopher Adam Jackson Rolland Susquehanna",
+      "company": "Financial Group, LLLP, Research Division",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yes, just working through that gross margin thing, we're talking about like 500 or 600 basis points for September. Is that roughly the magnitude to get to that gross margin expansion we need?"
+    },
+    {
+      "speaker": "Grant A. Brown",
+      "company": "Qorvo, Inc.",
+      "role": "Senior VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I think you're in the right ballpark, Chris. I gave a rough estimate for the year. So I believe you backed into it properly. Operator Your next question comes from Peter Peng with JPMorgan."
+    },
+    {
+      "speaker": "Kaykin Peng JPMorgan Chase",
+      "company": "& Co, Research Division",
+      "role": "Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Just want to go back to that modest revenue growth. Are you expecting growth across all segments? Or are you expecting some decline in certain segments?"
+    },
+    {
+      "speaker": "Grant A. Brown",
+      "company": "Qorvo, Inc.",
+      "role": "Senior VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "For the full year, we are expecting growth across all segments."
+    },
+    {
+      "speaker": "Kaykin Peng JPMorgan Chase",
+      "company": "& Co, Research Division",
+      "role": "Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "And then I think last quarter you talked about smartphone shipments, low single digits and 5Gs kind of in that 10%-plus range. Has that view changed? And is that -- I guess, the full year guidance, is there just more conservatism there? So maybe if you can add?"
+    },
+    {
+      "speaker": "David Fullwood",
+      "company": "Qorvo, Inc.",
+      "role": "SVP of Sales & Marketing",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. No change in the outlook. We're still thinking low single digits for the overall market. And like you said, 5G growing greater than 10%. Operator Your next question comes from Tim Arcuri with UBS. Unidentified Analyst This is Aman jumping in for Tim. We're hearing from some of your peers some inventory built at your largest customer in March. Are you seeing a similar trend? And then how should we think about growth in largest customer as we progress through this year? And do you have visibility in terms of content growth as we look into next calendar year?"
+    },
+    {
+      "speaker": "Robert A. Bruggeworth",
+      "company": "Qorvo, Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "This is Bob. And what I can tell you is that we don't see any channel inventory between us and our largest customer. And the reason is pretty straightforward. We ship directly to their manufacturers. So this has come up maybe a year or so ago and now come up now, and we don't see anything like that. Operator That concludes our question-and-answer session. I would like to turn the conference back over to management for any closing remarks."
+    },
+    {
+      "speaker": "Robert A. Bruggeworth",
+      "company": "Qorvo, Inc.",
+      "role": "President, CEO & Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "We want to thank everyone for joining us tonight. We appreciate your interest in Qorvo, and we look forward to speaking with you during our Investor Day on June 11 and at upcoming investor events. Thank you, and I hope you have a great evening. Operator The conference has now concluded. Thank you for attending today's presentation. You may now disconnect. affiliated companies. MAY 01, 2024 / 9:00PM GMT, Q4 2024 Qorvo Inc Earnings Call In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. affiliated companies."
+    }
+  ]
 }

@@ -4,5 +4,598 @@
   "quarter": "2024Q1",
   "sector": "IT",
   "filename": "2024-Jun-11-ADSK.OQ-138266855493-Transcript.pdf",
-  "segments": []
+  "segments": [
+    {
+      "speaker": "Elizabeth Porter Morgan Stanley",
+      "company": "& Co LLC.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Operator Thank you for standing by, and welcome to Autodesk's first quarter fiscal year 2025 earnings conference call. (Operator Instructions) I would now like to hand the call over to Simon Mays-Smith, VP, Investor Relations. Please go ahead."
+    },
+    {
+      "speaker": "Simon Mays-Smith Autodesk",
+      "company": "Inc",
+      "role": "VP of IR",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thanks, operator, and good afternoon. Thank you for joining our conference call to discuss the first quarter results of Autodesk's fiscal '25 on the line with me as Andrew Anagnost, our CEO. During this call, we will make forward-looking statements, including outlook and related assumptions, products, and strategies. Actual events or results could differ materially. Please refer to our SEC filings, including our most recent Form 10-K and Form 8-K filed with today's press release for important risks and other factors that may cause our actual results to differ from those in our forward-looking statements. Forward-looking statements made during the call are being made as of today. If this call is replayed or reviewed after today, the information presented during the call may not contain current or accurate information. Autodesk disclaims any obligation to update or revise any forward-looking statements. We will quote several numerical growth changes during this call as we discuss our financial performance unless otherwise noted, each such reference represents a year-on-year comparison. All non-GAAP numbers referenced in today's call are reconciled in our press release or XL financials and other supplemental materials available on our Investor Relations website. Now I will turn the call over to Andrew."
+    },
+    {
+      "speaker": "Andrew Anagnost Autodesk",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you, Simon, and welcome, everyone, to the call. As I'm sure you can appreciate with legal matters like this, I am restricted in what I can say regarding the audit committee investigation, but let me say what I can. The summary findings of the audit committee investigation are in our May 31, press release and recently filed Form 10-K. Please refer to those documents for details. We don't have further commentary beyond what we have described there. Regarding the process, we also covered that in detail in our press release, the investigation took time to complete because it was rigorous and covered all three years included in the 10-K. Betsy Rafael has been appointed by the Board as interim Chief Financial Officer, we have initiated a selection process for a new Chief Financial Officer. The Board and I are very focused on finding the right candidate. In the interim we are in great hands with Betsy and Debbie will continue to contribute to the business in our new capacity as Chief Strategy Officer. With the conclusion of the investigation, we have determined that there will be no restatement or adjustment of any audited or affiliated companies. JUNE 11, 2024 / 9:00PM GMT, Q1 2025 Autodesk Inc Earnings Call unaudited filed or previously announced GAAP or non-GAAP financial statement. As we'll discuss in more detail shortly, we are already underway in the transition to annual billing with the trough in free cash flow behind us, the mechanical stacking of multiyear contracts, a larger enterprise cohort in our largest product subscription cohort will provide a tailwind to free cash flow in fiscal '26. We appreciate your patience as we work through this important process. We take situations like this very seriously and are grateful to put the investigation behind us. Now let's move on to our strong first quarter results. Autodesk's resilient discipline and opportunity, again underpinned our robust financial and competitive performance. Our resilience is fortified by our subscription business model and our diversified product and customer portfolio. Renewal rates remain solid and the momentum of new business growth and key performance indicators are consistent with the previous quarter, evidenced by increased product usage, record bid activity on BuildingConnected and cautious optimism from our channel partners. Our disciplined and focused approach in executing our strategy and deploying capital throughout the economic cycle empowers Autodesk to realize the significant benefits of its strategy while mitigating the risk of expensive catch up investments in the future as our customers migrate to our industry clouds and utilize our high value-added products and service. Our investments in the cloud will continue to grow. At the same time, the new transaction model will allow us to optimize our sales and marketing. And we expect Autodesk platform services will over time boosts the velocity and efficiency of our R&D. By optimizing the allocation of our resources, we can invest to compound revenue growth and market share gains while also driving margin improvement and free cash flow growth over time. Reductions in stock-based compensation as a proportion of revenue will provide an additional tailwind to GAAP margins. While our transition to annual billings from multi-year contracts will amplify free cash flow growth over the next few years, we believe that constant resource optimization and our long-term investment horizon has positioned us ahead of our peers and cloud platform and AI. We intend to retain and extend that lead while also driving to an industry leading Rule of 40 ratio of 45 or more. Our project Bernini announcement on May, 8 is a great example of what I mean. Bernini uses generative AI to quickly generate functional 3D shapes from a variety of inputs, including 2D images, text, voxels, and point clouds. Bernini is different from other AI models and five important ways. First Bernini is trained on 3D data rather than commoditized external imagery. And it's therefore capable of reasoning on the internal structure of an object. Second Bernini, generate shape and texture separately and does not confuse or meld those variables. Third, Bernini can be conditioned on multiple types of input data and is therefore applicable across a much greater spectrum of workflow. Four Bernini, generate many design options from a single set of inputs which better serve the creative process of designers. And fifth, Bernini can be quickly and cost effectively fine-tuned on a customer's existing 3D repositories to align to the unique creative needs of a particular organization. Autodesk AI will enable Autodesk its customers and partners to create more valuable, data-driven, and connected products and services it will automate low-value and repetitive tasks and generate more high-value, complex design more rapidly and with greater consistency. Over time, Autodesk platform services will enable greater engineering velocity and efficiency and support a much broader developer ecosystem and marketplace. Autodesk is ahead of its peers in 3D AI., and industry cloud platform and business model evolution that will be needed to deliver 3D AI products and services at scale, we are well on the way to reasoning about all cash geometry. We will update you as we make further progress. Let's move on to our quarterly financial performance and guidance for the second quarter and the full year. Q1 was a strong quarter. We generated broad-based growth across products and regions in AEC and manufacturing, which was partly offset by softness in China and in media and entertainment, the latter being primarily due to the lingering effects of the Hollywood strike. Overall macroeconomic policy and geopolitical challenges and the underlying momentum of the business were consistent with the last few quarters. affiliated companies. JUNE 11, 2024 / 9:00PM GMT, Q1 2025 Autodesk Inc Earnings Call If we compare first quarter revenue with guidance, the outperformance was mainly due to that broad strength with the timing of price increases also improving revenue linearity during the quarter, the impact of the new transaction model was in material. In the first quarter. Total revenue grew 12% and 13% in constant currency. By product and constant currency. AutoCAD and AutoCAD LT revenue grew 10%. AEC revenue grew 17%. Manufacturing revenue grew 11% and M&E grew 3% by region in constant currency. Revenue grew 12% in the Americas, 14% in EMEA and 14% in APAC. Direct revenue increased 20% and represented 38% of total revenue, up 3 percentage points from last year, benefiting from strong growth in both EBAs and the Autodesk store. Net revenue retention rate remained within the 100% to 110% range at constant exchange rates. As expected, billings declined 5% in the quarter as a result of the transition from upfront to annual billing for multi-year contracts. For the same reason, total deferred revenue decreased 12% to $4 billion, total RPO of $5.9 billion and current RPO of $3.9 billion grew 9% and 12%, respectively, which continued to benefit from the EBA strength we saw in the second half of fiscal '24 and current RPO also benefited by about a point from early renewals. Turning to our P&L. GAAP and non-GAAP gross margin were broadly level, while GAAP and non-GAAP operating margin increased by 4 percentage points and 3 percentage points, respectively. In part, reflecting the absence of costs we incurred last year to repurpose roles. At current course and speed. The ratio of stock-based compensation as a percent of revenue peaked in fiscal '24 will fall by more than [1] percentage point in fiscal '25 and will only be below 10% over time. Free cash flow for the quarter was $487 million, driven by collections of prior quarter billings and strong results in the current quarter. Turning to capital allocation, we continue to actively manage capital within our framework and deploy it with discipline and focus through the economic cycle to drive long-term shareholder value. In the quarter, we acquired Payapps and PIX for a total of $653 million, which with the late filing of our Form 10-K, meant we only purchased approximately 30,000 shares for $9 million at an average price of approximately $255 per share during the quarter. We will continue to repurchase shares opportunistically to offset dilution from stock-based compensation when it makes sense to do so. Moving on to guidance. Overall end market demand has remained pretty consistent over many quarters. Macroeconomic and one-off factors like the Hollywood strike have thrived on new business growth and continued to drag on revenue growth. But Autodesk resilient and robust underlying demand for its products and services reinforce its long-term growth momentum and potential. With regard to revenue guidance, we highlighted some puts and takes last quarter that impacts fiscal '25 revenue growth and refer you back to our comments then. The new transaction model implementation is on track. Australia and New Zealand are performing in line with our expectations. North America went live yesterday. As we said last quarter, our fiscal '25 guidance assumes the new transaction model is deployed in North America and provides about a 1% point tailwind to Autodesk revenue growth and a 3% to 4% tailwind to billings growth. Once the North America launches successfully underway, we will likely start communicating our plans to channel partners and customers in parts of EMEA and Japan. We modeled various possible scenarios at the start of the year, reflecting different potential launch dates, channel partner behavior ahead of launch the mechanics of the transition and a host of other factors, and we are executing within our model scenario. Longer term, we remain excited by the benefits this more direct relationship with our customers and partners offer an ability to understand and serve them enrich by data with more automation and self-service and greater predictability. Our fiscal revenue guidance between [$5.99 billion] and $6.09 billion is unchanged and still translates into revenue growth of about 9% affiliated companies. JUNE 11, 2024 / 9:00PM GMT, Q1 2025 Autodesk Inc Earnings Call to 11% compared to fiscal '24. Our strong start sets us up well to achieve our goals for the year. Moving on to margins, we still expect non-GAAP operating margins between range of 35% and 36% in fiscal '25 and roughly level with fiscal '24. This includes a roughly [one point] underlying margin improvement that we expect will be broadly offset by the margin headwinds from the new transaction model. As a reminder, as we transition to the new transaction model, we will see operating margin headwinds from the accounting change of moving reseller costs from contra revenue to sales and marketing expense. Will also have incremental investment in people, processes, and automation. But over the long term, we expect that this transition to the new transaction model will enable us to further optimize our business, which we anticipate will provide a tailwind to revenue, operating income and free cash flow dollars even after the incremental costs we expect to incur. Moving on to free cash flow, we still expect to generate between $1.43 billion and $1.5 billion of free cash flow in fiscal '25, excluding $200 million from fiscal '24 free cash flow from multiyear upfront billings, which are now billed annually. In fiscal '25, we expect free cash flow growth of about 35% at the midpoint of our guide, we expect faster free cash flow growth in fiscal 2026 because of the return of our largest multi-year renewal cohort, the mechanical stacking of multi-year contracts billed annually and a larger EBA cohort. As discussed last quarter, the transition and rollout will create noise in the P&L, making free cash flow, the best measure of our performance with our current trajectory. We estimate free cash flow in fiscal '26 to be around $2.05 billion at the midpoint in the context of significant macroeconomic geopolitical policy, health, and climate uncertainty. The mechanical rebuilding of our free cash flow as we transition to annual billings for multi-year contracts gives Autodesk an enviable source of visibility and certainty. We continue to manage our business using a Rule of 40 framework with the goal of reaching 45% or more over time, we are taking significant steps towards our goal this year and next we think this balance between compounding revenue growth and strong free cash flow margins captured in the Rule of 40 framework is the hallmark of the most valuable companies in the world. And we intend to remain one of them. The slide deck on our website has more details on modeling assumptions for Q2 and full year fiscal '25. Let me finish by updating you on our strong progress in the first quarter. We continue to see good momentum in AEC, particularly in infrastructure and construction, fueled by customers consolidating onto our solutions to connect and optimize previously siloed workflows through the cloud. The cornerstone of that growing interest is our comprehensive end-to-end solution encompassing design, preconstruction field execution through handover and into operations. This breadth of connected capability enables us to extend our footprint further into infrastructure and construction and also expand our reach into the mid-market as a sign of that growing momentum. Our construction business had one of its best net new customer quarters. Let me give you a few examples. BL Harbert international provides design, build construction management and general contracting services to national and international clients. It leverages advanced technology to maintain its most crucial customer and partner relationships, enhance its in-house capabilities. We have built a trusted partnership with the company over many years and share its integrated platform vision for the industry. In the first quarter, it decided to standardize on Autodesk Construction Cloud across all regions for its design, build process, signing its first EBA and increasing its investment in Autodesk. Meriton designs develops and builds residential apartment towers and is the largest residential apartment developer in Australia. After a competitive process, it shows Autodesk to replace six point solutions and unify its operations from design through to maintenance and asset management. This comprehensive solution will enable Meriton to have one common data environment, streamline its workflows and have access to real-time insights. State window corporation offers complete design, engineering, manufacturing, and installation of custom window wall systems. It is standardizing on Autodesk, AEC and manufacturing products so they can effectively manage inventory levels, improved cash flow and reduce waste cost by [silo] data and disconnected workflow, leveraging rebate for three design, our manufacturing collection for PDM and PLM and Autodesk Build for installation state windows will have an end-to-end solution connecting data and workflow across design, manufacture and build. affiliated companies. JUNE 11, 2024 / 9:00PM GMT, Q1 2025 Autodesk Inc Earnings Call Again, these stories have a common theme managing people, processes and data across the project life cycle to increase efficiency and sustainability while decreasing risks over time, we expect the majority of all projects to be managed this way, and we remain focused on enabling that transition through our industry cloud. Moving on to manufacturing, we made excellent progress on our strategic initiatives. Customers continue to invest in their digital transformations and consolidate our design and make platform for both products and factories to grow their business and make it more resilient. A multi-format packaged solutions manufacturer in Europe had been in leveraging our advanced manufacturing portfolio, including inventor involved for its machine design and product data management. In the first quarter, it expanded its partnership with Autodesk to include factory design, which digitizes a complete factory layout to reduce the potential for delays and re-work during the delivery process as an existing flexing customer for factory simulation, the manufacturer will now have a comprehensive connected end-to-end solution that helps increase efficiency throughput and quality. A major multi-product maintenance, repair and overhaul our MRO provider began using Fusion to convert and visualize 3D models of third party files. With those files now in the Fusion ecosystem. We added the Fusion manufacturing extension in the first quarter to leverage Fusion for light repair and part testing. Fusion remains one of the fastest-growing products in the manufacturing industry with double digit commercial subscriber growth, driven by the growing number of customers who recognize the value of cloud-based workflows, enhancing efficiency, sustainability, and resilience within their organization. With over a million monthly active users a vast amount of contextual data is generated with infusions. For example, on average, 33 million new component designs were being produced infusions each month over the last 12-months. This data can help us train the next generation of generative AI products and services. For example, our recently launched growing automation tool and Fusion, which is powered by AI has generated 2.7 million automatic dimensions since its launch earlier this year. In education, we are preparing future engineers to drive innovation through next-generation design analysis and manufacturing solutions. The [Kogakuin] Institute in Japan is a leading provider of technical education that equips the students with industry relevant education and helps address the growing skills gap across the design and make industry. In the first quarter, it made Fusion the standard design and make solution for its 5,000 plus students, faculty and affiliated institutions replacing two legacy solution to leverage Fusion AI design and cloud collaboration capabilities. And lastly, we continue to work with our customers to ensure they are using the latest and most secure versions of our software. Through a collaborative process. We helped a large European infrastructure and railway operator achieve compliance, providing visibility into existing usage and by understanding its true needs, delivering a tailored solution that included upgrading to newer versions of our software and the addition of more subscription licenses. Let me finish with the story. The opening ceremony of the Summer Olympic Games will take place on the banks of the river Seine in Paris on the evening of July 26. Over the following months, many of the approximately 10,500 athletes and 8,000 para athletes will reside in the athlete's village on the (technical difficulty) suburb of Paris. This is in part a story about innovative architects, engineers, and construction professionals collaborating efficiently and effectively in the cloud enabled by open file formats and using modularized industrial construction techniques to seamlessly expand AEC and manufacturing. It is also a story about embracing complexity, managing wastewater and risks in a sensitive ecosystem of the river Seine and change by minimizing embodied carbon today and creating a built environment that embraces a warmer climate tomorrow. But it's also a story about regeneration and hope. [The song the knee suburb] of Paris is one of the poorest in France with a young, diverse population with higher than average unemployment rates. After the games, the village will become a neighborhood with new homes and social housing offices, neighborhood shops, a student residence and a hotel enveloped within garden and parkland. affiliated companies. JUNE 11, 2024 / 9:00PM GMT, Q1 2025 Autodesk Inc Earnings Call Two years ago, I told you about Autodesk role in the reconstruction of Notre-Dame de, Cathedral, which will be completed on schedule later this year. I share the athletes' village story because I'm reminded again of Autodesk purpose to design and make a better world for everyone. That purpose has never been more important or urgent. To together, we can meet the generational challenges caused by carbon, water, and waste. Our central role in meeting these challenges underpins my confidence this year and my optimism for the future. Operator, we would now like to open the call up for question. Operator Thank you. (Operator Instructions) Jason Celino, KeyBanc Capital Markets."
+    },
+    {
+      "speaker": "Jason Celino KeyBanc Capital Markets",
+      "company": "Inc.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great, Andrew. Good afternoon,"
+    },
+    {
+      "speaker": "Andrew Anagnost Autodesk",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Hi Jason."
+    },
+    {
+      "speaker": "Jason Celino KeyBanc Capital Markets",
+      "company": "Inc.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I know you said that we couldn't say much about the 10- K process, but how would you summarize the key takeaways for investors?"
+    },
+    {
+      "speaker": "Andrew Anagnost Autodesk",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. Well, the first thing, I I've never been more excited about having an earnings call in my entire career at Autodesk, but that's not exactly what you're asking, but I am excited to be here. So look, there's a few things I can just put in plain English, right? The first thing, and I can't state how important this is we don't have to restate any of our financial results. The results that happened historically in the company are the results that the business delivered, and that's really important. The second thing I want to highlight is that the company did not of escape the underlying strength of the business. Now you take those two things together and you can trust the integrity of Autodesk's financials right? And I think that's kind of the net I want you to take from all of that language. And personally, from my point of view, I think that doesn't that means that nobody's investment thesis in Autodesk is fundamentally altered by any of this information."
+    },
+    {
+      "speaker": "Jason Celino KeyBanc Capital Markets",
+      "company": "Inc.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. Yeah, I think that's a good clarification. Maybe the next question, my follow-up. So Q1 performance was strong. With you guide probably a little bit better than consensus expectations, but given the full year revenue guidance isn't really changing. I'm wondering how you're thinking about growth in the second half of the year?"
+    },
+    {
+      "speaker": "Andrew Anagnost Autodesk",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. Well, first off, it's only Q1. So we've got three more quarters left all right? So it's only Q1 and we also have a few big things coming in front of us here are right. We just went live in the US, it's an (technical difficulty) model so far. So good is proceeding as we expect if we learn what we expect to learn from that, we're going to go live in Europe as well. But we're waiting to see what happens in the Americas and how it performs. So those things, those are big uncertainties out there we want to pay attention to. But the great thing about the results in Q1, it's really set us up strong to hit the [roll] results for the full year. So I feel really confident about the position we have right now in terms of hitting our goals."
+    },
+    {
+      "speaker": "Jason Celino KeyBanc Capital Markets",
+      "company": "Inc.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay, great. Thank you very much. affiliated companies. JUNE 11, 2024 / 9:00PM GMT, Q1 2025 Autodesk Inc Earnings Call Operator Jay Vleeschhouwer, Griffin Securities."
+    },
+    {
+      "speaker": "Jay Vleeschhouwer Griffin",
+      "company": "Securities, Inc.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you. Good evening. Andrew, what would you have to see over the next number of months in the Americas transition that began yesterday to commence the transition in EMEA as early as, say, mid Q3. And if you don't launch in Q3 and it makes no sense to launch in Q4. Should we assume that you would then do EMEA in, let's say, early fiscal '26 and then Asia perhaps three to six months after that?"
+    },
+    {
+      "speaker": "Andrew Anagnost Autodesk",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. So the last part, I'll just say yes, that's probably the way it would happen, right based on the results. But let me tell you what we're looking for in terms of the US. One, we're looking first performance at scale. So when we did the tests in Australia and New Zealand, we tested out the functionality, the capability, the processes, the training we needed to deliver to the channel partners and frankly, the training we needed to deliver to the customers to make sure they knew how to set themselves up as I set us up as a vendor in their systems. Okay. So we learned all of that. We executed on new functionality over the course of the period. We tested that functionality in Australia and New Zealand before going live in the new -- in the Americas. So now we're going to test all that functionality and we're going to watch and see how it operates at scale and see the issues that get produced or don't get for you so far so good. And one of the things I want to make sure that we all remember is why are we doing this right? It's really important to understand why we're doing this. This is a fundamental shift in how we will have visibility and connection to our customers. Not only are we going to have full visibility of the fully loaded sales and marketing costs of the company, which will allow us to optimize these costs over time. But it's going to enable our customers to engage with us in self-service models that they've never been able to engage with us before and it's going to give us more visibility and insight into our customers. So not only are going to be looking about how the systems are working we're going to be testing out all of those new capabilities that we want to use to engage with our customers more effectively. So that's kind of what we'll be looking at and if we see some problems with scale, which we are not anticipating, but you never know, yes, we will delay those rollouts kind of similar to the way you highlighted it in your question."
+    },
+    {
+      "speaker": "Jay Vleeschhouwer Griffin",
+      "company": "Securities, Inc.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. As a follow-up, you used an intriguing comment in your script when you referred to quote velocity and efficiency of R&D, what does that mean how would we see that would manifest, for example, first in AEC or otherwise manufacturing? Given the scale of your R & D, which still the biggest in your peer group, how do you think that plays out over time, but what did you mean by that?"
+    },
+    {
+      "speaker": "Andrew Anagnost Autodesk",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. So the [Autodesk] back to the platform services capabilities, all right, and as you know, we're continuing to invest in the platform services to make sure that the teams are using shared services to not only move faster, but also move better moving forward, we're getting more we're making more and more progress on this. We're getting more and more shared services out there that are shared across various and parts of the company. There's some really interesting ones that will be coming out in the next year or so that I won't pre-announce, but their shared services that will allow us to do some things that provide kind of common project visibility across various industries and things like that. These are exciting things that used to get built in individual silos inside the company. So it's really important that we have these large scale shared service that really prevent people from rebuilding the same thing multiple times, but also allow people to start up and spin up new things quickly, and that includes some of our incubations and other things. So watch as this happens, you'll start to see more and more of these shared services. And I think we're starting to hit kind of a sweet spot of momentum in terms of some of the work we're doing on the platform services. affiliated companies. JUNE 11, 2024 / 9:00PM GMT, Q1 2025 Autodesk Inc Earnings Call"
+    },
+    {
+      "speaker": "Jay Vleeschhouwer Griffin",
+      "company": "Securities, Inc.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you Andrew."
+    },
+    {
+      "speaker": "Andrew Anagnost Autodesk",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And thank you, Jay. Operator Adam Borg, Stifel."
+    },
+    {
+      "speaker": "Adam Charles Borg",
+      "company": "Stifel, Nicolaus & Company",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Awesome. Thanks so much for taking the question. Maybe just on the macro, Andrew, you talked about I guess a relatively stable backdrop."
+    },
+    {
+      "speaker": "Andrew Anagnost Autodesk",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Adam Charles Borg",
+      "company": "Stifel, Nicolaus & Company",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "And I know fiscal '24 was a softer year for net new seats. I'm just curious if you could talk about how you think about you see growth in '25 relative to 2024?"
+    },
+    {
+      "speaker": "Andrew Anagnost Autodesk",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. It's hard to predict what's going to happen in 2025. What I can say right now is we have seen broadly consistent performance for many, many quarters now. All right, this whole conversation we've been having about last quarter was fairly consistent with the previous quarter with some puts and takes has been going on through all sorts of manners of changes and machinations out there in the macro environment right now, I would anticipate to keep seeing some of those environments and the kind of puts and takes that we're seeing now. Just to remind you about the puts and takes in this quarter, right? We saw a lot of strength in EMEA we saw a lot of strength in Australia and Japan was offset by weakness in China and Korea. And in the industries, you know, AEC and manufacturing were strong and M&E was kind of weak. These kinds of changes I expect will continue throughout the quarter. So that will kind of continued -- I think, throughout the quarter. So we'll continue to see some of these ongoing kind of stability, but just with different puts and takes each quarter."
+    },
+    {
+      "speaker": "Adam Charles Borg",
+      "company": "Stifel, Nicolaus & Company",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Incredibly helpful. Maybe just a quick follow-up on project on Bernini in super interesting as a long-term opportunity. How should we think about kind of a timing of this across the three industry clouds and kind of what you do, what does the dream the dream look like in terms of the impact that could have for order growth as they look to take advantage of this capability? Thanks so much."
+    },
+    {
+      "speaker": "Andrew Anagnost Autodesk",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. So what I would do is I would think of project Bernini as our first foundation model and each foundation model that we do will be providing a certain set of capabilities or automations for our customers. Bernini is a shape interpretation tool. It takes 2D geometry through a voxel geometry descriptions, pictures, all of these things and create intelligent 3D geometry that it's understand 3D geometry, and we're going to be looking to partner with some of our customers to make it even smarter and better, but that tool can become a core tool used across industries to provide preliminary initial geometries of all types. But it's going to be one of several foundation models because we're going to need multiple types of foundation models to automate the affiliated companies. JUNE 11, 2024 / 9:00PM GMT, Q1 2025 Autodesk Inc Earnings Call things that are important to our customers. What Bernini shows is that not only are we ahead of our competitors in this area. We're producing high quality results that are getting attention in helping us engage more tightly with some of our customers on where these tools are going to go in the future."
+    },
+    {
+      "speaker": "Adam Charles Borg",
+      "company": "Stifel, Nicolaus & Company",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks again. Operator Matt Hedberg, RBC."
+    },
+    {
+      "speaker": "Matt Hedberg RBC Capital",
+      "company": "Markets",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. Thanks for taking my questions on Andrew, maybe just following up on that last one, when we think about these foundations, the Gen AI foundational models Bernini I know it's still early, but what is sort of the philosophy on pricing? And do you suspect there eventually to be a consumption element to maybe offset some additional compute costs?"
+    },
+    {
+      "speaker": "Andrew Anagnost Autodesk",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. So Matt, it is a little early to speculate on how we make money and how we go to market with some of these things. However, that I've been a big fan of consumption models for a long time. I think consumption is directionally always been setting us up well for the future of AI driven automations and outcome-based designs. I've talked about these things for a long time. I definitely see consumption as a critical part of monetizing these models. I also see other critical aspects of it as being able to customize these models for individual customers and individual companies, just like we get a customized version of autopilot and get hub for Autodesk and get a co-pilot for Autodesk. Okay. So not going to exactly say it will be monetized, but I would be very surprised if consumption doesn't play an important role in the future of using these generative models to automate a lot of complexity for our customers."
+    },
+    {
+      "speaker": "Matt Hedberg RBC Capital",
+      "company": "Markets",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got to thank you for that. That super helpful. And then maybe just on the early renewals you saw in Q1, I assume that was mostly up in anticipation of the transition -- the direct transition. Was that largely US function that you also?"
+    },
+    {
+      "speaker": "Simon Mays-Smith Autodesk",
+      "company": "Inc",
+      "role": "VP of IR",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Matt, its Simon, it was more to do with the timing of the price increase and ahead of that, what we set flagged last quarter that we'll expect a bit of early renewal as we saw in Australia, ahead of implementation in the US of any transaction model."
+    },
+    {
+      "speaker": "Matt Hedberg RBC Capital",
+      "company": "Markets",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it. Thanks a lot guys. Operator Joe Vruwink, Baird."
+    },
+    {
+      "speaker": "Joe Vruwink Robert W. Baird",
+      "company": "& Co Inc",
+      "role": "Senior Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. Thanks, everyone. And if my hearing is sound I think I heard Australia not one of the strongest regions in the quarter at the same time also subject to the agency transition. So I guess my question was --"
+    },
+    {
+      "speaker": "Andrew Anagnost Autodesk",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. Joe let's correct. You may ask your question and all. affiliated companies. JUNE 11, 2024 / 9:00PM GMT, Q1 2025 Autodesk Inc Earnings Call"
+    },
+    {
+      "speaker": "Joe Vruwink Robert W. Baird",
+      "company": "& Co Inc",
+      "role": "Senior Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Well, it gets to the point of obviously, it sounds like you have a model in place for this transition and so far, the assumptions are holding. I'm wondering how you stress tested the model. So let's say here in the States, the macro does suddenly get worse. Does that influence the intended rollout, does that change some of the strategies you look to employ? Or is it really business as usual in terms of how you're approaching those?"
+    },
+    {
+      "speaker": "Andrew Anagnost Autodesk",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Okay. So first off Joe, your ears were not working. Australia's Great. Australia was one of the strong points. Okay. So Australia, is back where it was pre the business model transition -- the new transaction model. So it's going great. So it's a nice proof point of some of the capabilities we have. Now in terms of macro is not going to impact our decision in terms of how we move forward with the new transaction model. It's all about the capability of the systems, the capability of our partners and the ability of our customers to absorb these things and have the systems the whole system work correctly. That's what's going to be the governor on how we roll these things out. The macro could go all sorts of directions. We're still going to move forward as long as our systems are functioning the way we expect them to. And like I said, so far, so good, but it's only been a day."
+    },
+    {
+      "speaker": "Joe Vruwink Robert W. Baird",
+      "company": "& Co Inc",
+      "role": "Senior Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. My ears is not working as a common refrain, so I'll definitely moved on from that one. The second question. I appreciate at Autodesk is a pretty diversified business by end markets. And so sometimes it's fruitless ask these questions, but I did want to ask about your data center exposure specifically because I think it's an example where you can tackle it through the AEC side of the business. You're also very involved with some of the product companies that end up in the data centers, and that's in the manufacturing side of Autodesk. So I'm just wondering if you're seeing more real time convergence happening and Autodesk actually has a somewhat consequential role to play in the data center build-out that's underway."
+    },
+    {
+      "speaker": "Andrew Anagnost Autodesk",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Joe, I love this question. Yes, the answer is yes, yes, yes. Okay. We are actively involved in lots of data centers. I won't say who -- whose data centers we're involved in. But we are involved in data centers. We're helping people build data centers and build multiple data centers that are similar. They're using our construction tools. Some of them are using our manufacturing tools and adjacent to the data centers is also that the factory boom in the US. We're involved in building out factories with certain customers as well. And in all of these, you are absolutely seeing a convergence of our manufacturing portfolio and our AEC and construction portfolio. And that is happening in real time and we expect to see more of it. There was a great article in the New York Times recently about how Europe managed to pull off what America was talking about for so long in the Scandinavian countries, the building prefabricated housing and factories using our products by the way to do that. And, I'm hoping that will all come to the US soon as well. So that we see the convergence of AEC and manufacturing in terms of building prefabricated components of houses that day is going to come to. But right now, you're right, data centers and factories are very interesting places."
+    },
+    {
+      "speaker": "Joe Vruwink Robert W. Baird",
+      "company": "& Co Inc",
+      "role": "Senior Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. Thank you very much. Operator Ken Wong, Oppenheimer & Co."
+    },
+    {
+      "speaker": "Ken Wong Oppenheimer",
+      "company": "& Co.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you. For taking my question. Just a quick question back on the investigation. My reading of your commentary was that obviously you guys completed the audit and the SEC kind of may or may not investigate. I guess I just wanted to get clarification from you guys whether or not there is any progress on that front? affiliated companies. JUNE 11, 2024 / 9:00PM GMT, Q1 2025 Autodesk Inc Earnings Call"
+    },
+    {
+      "speaker": "Andrew Anagnost Autodesk",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. So just you know when we kicked off the investigation. We voluntarily engaged with the SEC and we have shared information about the investigation. So if they want more information and they want to engage more, we will cooperate with them to the fullest extent of our ability."
+    },
+    {
+      "speaker": "Ken Wong Oppenheimer",
+      "company": "& Co.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay, perfect. And then second, just on the I couldn't help, but notice you guys commented on just record construction fee growth. Any color on kind of where you're seeing that obviously, the kind of construction KPIs macro-wise seems a little mixed, but you guys have shown considerable strength there."
+    },
+    {
+      "speaker": "Andrew Anagnost Autodesk",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. First, one of the things that's important to look at in construction is the backlog. There's still the backlog is still pretty solid and construction, yeah, we said that the rise in new accounts was broad-based across all the regions that we were working. And so it's broad-based. We saw strength everywhere, and we continue to see great adoption of our tools and we'll continue to do competitive wins. I mean, I love the Meriton example in Australia because it's a perfect example of how somebody uses the art solution to track the entire process all the way from design through preconstruction down to construction management. It really captures the notion of what our competitive advantages we provide the end-to-end solution we provided in such a way that's economically viable for the customer and we deliver some of the best preconstruction tools in the industry. It's a great example. It's a great example of what we're seeing and yes, we see ourselves accelerating, not decelerating. So we're feeling fairly bullish about our construction business."
+    },
+    {
+      "speaker": "Ken Wong Oppenheimer",
+      "company": "& Co.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. Thanks for the context. Operator Tyler Radke , Citi."
+    },
+    {
+      "speaker": "Tyler Radke Citigroup",
+      "company": "Inc.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks for taking the question. Andrew, could you talk about the EBA performance in the quarter? I think to the license and other line outperformed expectations by quite a bit. Was that related to some EBA strength that you saw? And then I'm just given that we had seen some of the EBA contracts come in with multi-year billing. Is that something that you're expecting to see as EBA deals come up for renewal later this year and into next?"
+    },
+    {
+      "speaker": "Andrew Anagnost Autodesk",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "All right. Tyler, I want make sure I understood your question with regards to the EBA, all of our EBAs are multi-year contracts, okay? And we saw -- we so I just want to make sure I understood what your question was?"
+    },
+    {
+      "speaker": "Tyler Radke Citigroup",
+      "company": "Inc.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yeah. The question was specifically around the invoicing duration and the billing duration. I understand they're contractually multi-years nature, but do you still plan to invoice them, multi-year in advance. But first part of the question is really just around was there outsized EBA strength or any true ups to call out?"
+    },
+    {
+      "speaker": "Andrew Anagnost Autodesk",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "No, there was no, there was no. Okay. Good. I got you. That's why I just wanted to clarify. There was no outsized EBA strength in the quarter and the vast majority of EBAs are multi-year contracts that are going to be billed annually. It doesn't mean there aren't some that are done upfront customers asked for and sometimes -- that. But the vast majority are done multi-year billed annually. affiliated companies. JUNE 11, 2024 / 9:00PM GMT, Q1 2025 Autodesk Inc Earnings Call"
+    },
+    {
+      "speaker": "Simon Mays-Smith Autodesk",
+      "company": "Inc",
+      "role": "VP of IR",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And Tyler, just a clarification. Remember, the [true up] appear in the subscription line, and it's the upfront is the non-cloud enabled primarily last year that was from non-cloud-enabled automotive products, which goes in the other line. So just to make sure you've got some geography that, but general thing is Q1, we don't guide by subsegment as you know, Q1 was exactly where we expected it to be."
+    },
+    {
+      "speaker": "Tyler Radke Citigroup",
+      "company": "Inc.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. Helpful clarification. And the second question, Andrew I realize maybe more of a CFO question. So apologies if it's a little down the lead, but just as we're looking at the billings number in Q1, certainly can appreciate there's headwind the domestic number, just given the multi-year strength that you saw a year ago. But investors are doing the calculation around short-term billings, looking at the change in short-term deferred revenue, which it directly doesn't have any impact going from the multi-year at that metric, short-term billings growth, a lot weaker than many of the other indicators of revenue and bookings. Is there anything to call out in terms of maybe why that short-term deferred revenue performance was not as strong any."
+    },
+    {
+      "speaker": "Andrew Anagnost Autodesk",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I'm going to give this one to Simon, Tyler."
+    },
+    {
+      "speaker": "Tyler Radke Citigroup",
+      "company": "Inc.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Simon Mays-Smith Autodesk",
+      "company": "Inc",
+      "role": "VP of IR",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. Tyler, we can this is a simplified, insightful, but some general points, as we've said, there's a lot of noise as we switch from multi-year upfront to multi-year annual. And so that's the first thing that's causing noise. The second noise is seasonality. Obviously, we have a bigger Q3 and Q4 than Q1. And then in addition to that, there's a bit of noise from FX as well over time. So what that means is and the reason we've been pointing you to see RPO is probably the better metric just on billings, specifically, what I'd flag is and this is primarily the multi-year two annual. We were obviously plus 4% Q1 last year because we had still two months of multi-year upfronts in Q1 last year because we ended on March 28. And then billings was down 8% in Q2, down 11% in Q3 and down 19% in Q4. And so to put that in context, the Q1 of minus-5% as we begin to cycle against the easier comparable gives you context for that. So it's actually improving and it may be wasn't quite where consensus was that remember, we don't guide to billings, but what you can actually see is the improvement in trend. And obviously, as we cycle against the easier comps in Q2 and beyond. That will then make more sense in the context of our annual guidance."
+    },
+    {
+      "speaker": "Tyler Radke Citigroup",
+      "company": "Inc.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you very much. Operator Joshua Tilton, Wolfe Research."
+    },
+    {
+      "speaker": "Joshua Tilton Wolfe",
+      "company": "Research, LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hey, guys, can you hear me?"
+    },
+    {
+      "speaker": "Andrew Anagnost Autodesk",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, Josh, we can hear fine."
+    },
+    {
+      "speaker": "Joshua Tilton Wolfe",
+      "company": "Research, LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I apologize for any of the background noise, but I kind of want to go back to the investigations are no definite not the smartest guy on the call tonight. But if I read through some of the bullet points that you guys put out there for investors. It sounded like there were some choices made around collections and that maybe those choices have to change going forward. And I do really appreciate that you guys affiliated companies. JUNE 11, 2024 / 9:00PM GMT, Q1 2025 Autodesk Inc Earnings Call reiterated your confidence in that FY22 cash number, but I guess was there any change around collections from or practices related to collections that you'd previously undertook? You can no longer hedged going forward that maybe changes your confidence interval around hitting that cash number in FY26?"
+    },
+    {
+      "speaker": "Andrew Anagnost Autodesk",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. So first off, I just want to be clear, there's no changes in our financials all right. And there was no obfuscation and to strengthen the underlying business, right? So any changes or practices that we are making and do not impact the trajectory of our business at all, all right. There is no change in our confidence in the free cash flow target this year or the free cash flow target for next year."
+    },
+    {
+      "speaker": "Joshua Tilton Wolfe",
+      "company": "Research, LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "That's helpful. And then maybe just a quick follow-up actually just in a second here, but you kind of referred to the macroenvironment as one-off factors in the business. But as you also mentioned, right? We've kind of been in the states for many quarters now. So I guess, how do you think about the trajectory of the business over the next few years in the context of what might just be a new norm from a macro perspective and not necessarily saying it's getting better, I guess when you guys think about beyond the next few quarters, right? Like is the going rate assumption for Autodesk. This is one-off and things do get better or are you guys playing ball in terms of this game that we've been playing for the last few quarters and just assuming the macro is delayed, is the big this is more of a new norm?"
+    },
+    {
+      "speaker": "Andrew Anagnost Autodesk",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So let me be super clear about something. The long range plan for our business is completely unchanged, all right? So in terms of in terms of what we what we're looking at 10% to 15% revenue growth. The long-term target volume because it is completely unchanged. And the mechanical business buildup of free cash flow that we're going to see now as a result of the large renewal cohort we have next year plus, which is the largest renewal cohort privatizations we have next year plus the large renewal cohort of EBAs. We have next year all with the mechanical build-up of what will get billed from us multi-year subscriptions booked this year. I mean, I recognize broader this year, we see a nice build-up in the business. So the answer to your question is things with regard to our long-range plan are absolutely unchanged."
+    },
+    {
+      "speaker": "Joshua Tilton Wolfe",
+      "company": "Research, LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks, guys. Appreciate it. Operator Nay Soe Naing, Berenberg."
+    },
+    {
+      "speaker": "Nay Soe Naing Joh.",
+      "company": "Berenberg, Gossler & Co. KG",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi Andrew, hi Simon. Thanks for taking my questions. My first question is around your platform cloud offerings have been investing these offerings in both. And we will continue to invest into them as well. If you could speak a little bit more to what sort of R&D commitments that we should expect as a result of that. So taking R&D as a percentage of revenue here, should we expect that intensity R&D intensity to remain at FY24 levels in the near future or. As should we should we expect that to tick up as a result of the investments in your cloud offerings. Cloud platform offering specifically? And then linked to that, when do you expect these offerings these new offerings to become to start to contribute meaningfully in your top line growth? Please thank you."
+    },
+    {
+      "speaker": "Andrew Anagnost Autodesk",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So first off, I wouldn't anchor on the R&D as a percent of revenue that will drift towards going into I would pay more attention over time to the sales and marketing as a percent of revenue because that's the place where we're going to be looking for optimization and ongoing kind of performance and productivity changes moving forward. So I would encourage you to think about that part of the business as we move forward because we're R&D investments really important to us, and we're continuing to invest in R&D appropriately with regards to the new offerings. I just want to make sure I understand. With affiliated companies. JUNE 11, 2024 / 9:00PM GMT, Q1 2025 Autodesk Inc Earnings Call new offerings you're talking about. Are you talking about platform services in terms of billable platform services, we already actually provide access to some of our services on a per pay basis, but there's going to be a whole set of services that continue to roll out over the next couple of years that will be available to our customers on a per charge basis. So I'm just not sure what particular capabilities you were asking about?"
+    },
+    {
+      "speaker": "Nay Soe Naing Joh.",
+      "company": "Berenberg, Gossler & Co. KG",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "That referring to the three cloud offerings, three industry cloud platform."
+    },
+    {
+      "speaker": "Andrew Anagnost Autodesk",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Fusion form and flow?"
+    },
+    {
+      "speaker": "Nay Soe Naing Joh.",
+      "company": "Berenberg, Gossler & Co. KG",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yes."
+    },
+    {
+      "speaker": "Andrew Anagnost Autodesk",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "All right. Okay. Well, Fusion is already a growing business for the company and it's already accelerating. I think forma and flow are very nascent right forma in the stage where we're focusing on product market fit, user adoption and getting people excited about outcome-based design and the new paradigms. We're going to be pioneering with forma and then, of course, integrating it tightly with rebate. So it's the best rebate companion out there in the market so that it provides not only next-gen cloud-based capabilities and AI capabilities, but it works incredibly well with rebate. So the focus on pharma right now is adoption. And the focus on flow right now is actually getting flow out the door and the initial capabilities are going to be focused more on asset management and the capabilities of managing assets in the media and entertainment place, but they're not yet generating the revenue growth that we care about for fusion on the other hand, is a growing franchise continues to grow is taking share from our competitors. And I continue to encourage you to watch that space. But over the next three years, all of these industry clouds are going to start contributing meaningfully to Autodesk growth strategy."
+    },
+    {
+      "speaker": "Nay Soe Naing Joh.",
+      "company": "Berenberg, Gossler & Co. KG",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "That's really helpful. Thank you very much. And on R&D, I just wanted to make sure that I understood you correctly here to the R&D as a percentage of revenue as an intensity that should remain at current level because R&D is really important for the business. But and should we expect that to tick up given that you're obviously investing in the platform services and also you're complementing your ACE offering overall as well?"
+    },
+    {
+      "speaker": "Andrew Anagnost Autodesk",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I'm not going to speculate on the future trajectory of the R&D as a percentage of revenue. I think I would really encourage you to focus more on the sales and marketing numbers at this point, right now, we're definitely a product company and R&D is very important to us. So we're going to continue to invest, but we're doing that prudently and appropriately all right? So I want to make sure that you understand that we're going to try to keep these things within reasonable bounds, but sales and marketing might be something you want to pay attention to in the future."
+    },
+    {
+      "speaker": "Nay Soe Naing Joh.",
+      "company": "Berenberg, Gossler & Co. KG",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay, understood. Thank you very much. Operator Keith Weiss, Morgan Stanley. affiliated companies. JUNE 11, 2024 / 9:00PM GMT, Q1 2025 Autodesk Inc Earnings Call"
+    },
+    {
+      "speaker": "Elizabeth Porter Morgan Stanley",
+      "company": "& Co LLC.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "This is Elizabeth Porter always the quarter on for Keith Weiss. I wanted to ask on just the cadence of M&A. And we've seen some recent activity with Wonder Dynamics and PIX adding to payoffs. So how should we think about this as a lever in driving faster innovation in the portfolio? And then related, I think the prior guidance assumed about a half point tailwind from acquisitions. Is it fair to still think about that number, just given some of the more recent announcements? Thank you."
+    },
+    {
+      "speaker": "Andrew Anagnost Autodesk",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. So look, our acquisition strategy is unchanged. We always pursue interesting adjacencies and tech tuck-ins according to our strategy and we do it in a prudent and disciplined way. I'm very excited about payoffs because it's an important extension of our construction portfolio is an industry leading payment solution, and it helps us integrate all the way through the process and add the payment capabilities. PIX is exciting because it puts us on the set and puts us in the business of capturing data on the set and interacting with the directors and furthering our script to screen vision for the media entertainment vision and Wonder Dynamics is a great example, have a leading edge AI company doing amazing things that are really going to be transformative in the media and entertainment space, and they're going to be doing great things at Autodesk over multiple years they're all part of our strategy. They're all connected directly to our strategy. I think you can expect to see us continue down this path of doing acquisitions that make sense with regards to our strategy or the adjacencies that we're trying to target for our business."
+    },
+    {
+      "speaker": "Elizabeth Porter Morgan Stanley",
+      "company": "& Co LLC.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. And then just another one on the transaction model. I believe you referenced just the potential for some uncertainty around rolling out the model and leaving room for that in the full year guide. I just want to better understand what those friction points would be, whether they're partners or customers what they look like? And then just double-click on the guardrails or processes you have in place to mitigate that risk?"
+    },
+    {
+      "speaker": "Simon Mays-Smith Autodesk",
+      "company": "Inc",
+      "role": "VP of IR",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, Elizabeth, it's really to do with the timing of the US rollouts. As you know, we went live yesterday so far, it's pretty quiet, which is good because it means everything is okay and we're just going to see how that goes. And then that will determine what we do and the rate of rollout, as Andrew was saying earlier. So it's really to do with that. The timing of the rollout, and that's determined on how things go in the US."
+    },
+    {
+      "speaker": "Elizabeth Porter Morgan Stanley",
+      "company": "& Co LLC.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Right. Thank you. Operator Siti Panigrahi, Mizuho. Unidentified Participant Hi. This is Samir calling in for [Siti]. The couple of questions I have. One is the strength in construction, given there were some recent consolidation talks in the industry. I was wondering if there was any benefit to you from that dynamic and those are tough starting in, they're not going through. I can't hear?"
+    },
+    {
+      "speaker": "Andrew Anagnost Autodesk",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, I was muted. I apologize for that. No, actually there's no connection whatsoever between those dynamics and what's going on our construction business, what you're seeing is growing momentum in our construction business related to the quality of our solution and the increasing capabilities of our go to market and frankly, competitive wins. So it's purely related to that. There's no other talks that no other impacts that we're having impact on us purely execution. affiliated companies. JUNE 11, 2024 / 9:00PM GMT, Q1 2025 Autodesk Inc Earnings Call Unidentified Participant Thank you. And a quick one. You didn't mention that there are going to be some contracts that are going to stay legacy on-prem, multi-year billing. Is there like a floor that's going to be there all the time in terms of multi-year upfront billings?"
+    },
+    {
+      "speaker": "Andrew Anagnost Autodesk",
+      "company": "Inc",
+      "role": "President, Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "No, there's no particular floor. Some customers may prefer to pay upfront some partners may prefer to sell upfront as long as we operate. Somebody's going to do it. But the important thing is it's going to be the exception, not the rule. We're well past the world where multi-year billings up multi-year subscriptions billed upfront or like a large chunk of our business that era is over. But that doesn't mean that people won't do this and we won't end up with some multi-year contracts built upfront. Unidentified Participant Got it. Thank you. Operator Thank you. That is all the time we have for Q&A today. I would now like to turn the conference back to Simon Mays-Smith for closing remarks, sir?"
+    },
+    {
+      "speaker": "Simon Mays-Smith Autodesk",
+      "company": "Inc",
+      "role": "VP of IR",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks, everyone, for joining us. I'm sorry, we've been quiet for a while very much looking forward to seeing many of you. I told you over the coming weeks if you do have questions, please just ping me as you always do, and I'll be happy to jump on the call and have a chat. Otherwise, we'll look forward to catching up with you next quarter and look forward to chatting then. Thanks all. Operator This concludes today's conference call, thank you for participating. You may now disconnect. In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. affiliated companies."
+    }
+  ]
 }

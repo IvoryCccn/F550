@@ -4,5 +4,454 @@
   "quarter": "2024Q2",
   "sector": "IT",
   "filename": "2024-Jul-30-LDOS.N-138685816866-Transcript.pdf",
-  "segments": []
+  "segments": [
+    {
+      "speaker": "David Strauss",
+      "company": "Barclays",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Cai von Rumohr TD Cowen - Analyst"
+    },
+    {
+      "speaker": "Noah Poponak Goldman",
+      "company": "Sachs",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Operator Greetings and welcome to Leidos second-quarter 2024 earnings conference call. (Operator Instructions) Please note this conference is being recorded. At this time, I'll turn the conference over to Stuart Davis from Investor Relations. Stuart, you may begin."
+    },
+    {
+      "speaker": "Stuart Davis Leidos Holdings",
+      "company": "Inc",
+      "role": "Investor Relations",
+      "speaker_type": "other",
+      "section": "presentation",
+      "text": "Thank you, operator, and good morning, everyone. I'd like to welcome you to our second-quarter fiscal year 2024 earnings conference call. Joining me today are Tom Bell, our CEO, and Chris cage, our Chief Financial Officer. Today's call is being webcast on the Investor Relations portion of our website, where you will also find the earnings release and supplemental financial presentation slides that we'll use during today's call. Turning to slide 2 of the presentation. Today's discussion contains forward-looking statements based on the environment as we currently see it and as such, includes risks and uncertainties. Please refer to our press release for more information on the specific risk factors that could cause actual results to differ materially. Finally, as shown on slide 3, during the call, we'll discuss GAAP and non-GAAP financial measures. A reconciliation between the two is included in today's press release and presentation slides. With that, I'll turn the call over to Tom Bell, who will begin on slide 4."
+    },
+    {
+      "speaker": "Thomas Bell Leidos Holdings",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thank you, Stuart, and good morning, everyone. It's great to be with you all again today to report a record quarter for Leidos. In this quarter, organic growth remained strong, achieving a record adjusted EBITDA margin of 13.5%. Year to date, we've delivered industry-leading profitable growth with adjusted diluted EPS 50% higher than last year. The team is doing an excellent job converting our earnings into cash. In turn, this has allowed us to continue to deploy capital to grow shareholder value per our plan. We're now halfway through our commitment to repurchase $500 million worth of shares this year. I'm also proud of the fact that this robust first half of 2024 allows us to once again raise guidance for the full year. Chris will give you a complete update on our financials and our guidance later in the call. One year ago, on my first call with you all I laid out four focus areas to begin Leidos journey to best in class performance instilling in Leidos and promises made promises, kept culture, sharpening our strategy, improving the performance of previous acquisitions and enhancing our ability to win new business. affiliated companies. JULY 30, 2024 / 12:00PM GMT, Q2 2024 Leidos Holdings Inc Earnings Call I'd like to take this opportunity to update you on the meaningful progress we're making in these areas. I see this progress as foundational to putting ourselves in a great position to execute our forthcoming Leidos North Star strategy. First, our team has fully embraced it. Promises made promises kept philosophy as part of this, we've made a firm commitment to each other to drive operational improvement, profitable growth and robust cash conversion. The evidence of this culture taking hold is clearly visible in the 12 month trend of our results and our second quarter results summarized earlier that are simply our best yet. Our currently strong and strengthening balance sheet puts us in an excellent position to continue to allocate capital prudently over time to grow shareholder value. Further share repurchases this year are possible, but at the same time, I must say that our new North Star strategy work is beginning to bring into focus, exciting and compelling growth opportunities potentially worthy of investments. This brings me to that second focus area, creating our new North Star strategy while we continued to deliver robust in-year program execution, we are also aggressively prosecuting our year of deep strategic thinking and the energy and insights that are beginning to come into focus because of our purposeful strategy process are very intriguing. We've now completed work on [Bolanitos] proprietary hypothesis of the future. Our own exclusive prediction of the challenges our customers will face solutions those challenges will require and the technologies we must create and harnessed to best differentiate our solutions for our customers informed by our hypothesis of the future. We're now halfway through crafting a new business strategy for Leidos. This strategy will both leverage and enhance our current core businesses and uniquely position us for outstanding success in the future we foresee, one clear component of our strategy will remain our focus on technical differentiators. Our gold and boats, technological innovation is and will remain a cornerstone of Leidos. In our enterprise-wide technology investments are now more than 1% of total revenue and growing. At our recent investor Technology Day, we went in depth on one of those Golden boats, trusted mission AI, those of you who were able to join us witness first hand, our Brazilian team in action demonstrating how we use trusted mission AI to drive productive disruption across our customers' missions. We believe that when it comes to AI, the mission is the market. So everything we do as the number one provider of IT to the federal government and the number eight US defense contractor is an opportunity to exploit and deploy Trusted mission AI for our customers' mission benefit. Another area of proactive investment for us remains cybersecurity. For instance, we've been investing in zero trust for years before, there was a requirement for it to be adopted by federal agencies. As a result, over the last three years, we've received more than $5 billion of awards at site our Zero Trust methodology has a differentiated strength. We're currently pioneering the application of Quantum Technologies to enable highly secure networks for executing contract R&D for DARPA in this area and investing in post Quantum encryption technologies and solutions. These will ensure our customers can rapidly respond to future developments in quantum computing. These examples give you some understanding of our forward-looking approach to the market and our track record of investing ahead of demand. Third, we're on track to unlock the strategic value from the large acquisitions we made in 2020 and 2021, specifically Dynetics and security detection and automation. On Dynetics, we have doubled down on three specific areas. Each of these now on a robust positive trajectory and satellite payloads were a key supplier to the space development agency's wide field of view sensor program within its proliferated war-fighting space architecture. affiliated companies. JULY 30, 2024 / 12:00PM GMT, Q2 2024 Leidos Holdings Inc Earnings Call We have delivered all our payloads for Toronto zero, and those payloads were the first ones in lower orbit, providing SDA actual on orbit imagery. In addition, we remain on track to deliver our tranche one payloads in early 2025, and we are teamed with the aerospace to be their payload provider on their tranche to Verge. The Space Development Agency has recently issued their RFI for Tranche three. So in sum, we believe our current comprehensive role on all three existing tranches and our current actual mission performance and space position us well to continue to deliver for this critical and expanding mission on Force Protection we've delivered 14, if pick and during shield prototypes, which are successfully working their way through government testing. The Army recognizes the system's unrivalled air defense capability, and we expect to receive awards soon to begin low rate production in 2025 and full rate production in 2026. And in hypersonics, the United States continues to progress in developing and fielding hypersonic weapons mitosis supporting this progress by developing excuse me, delivering technology advances through our common hypersonic glide body and Mach TV programs. These programs play a critical role in accelerating the pace and scale at which we can produce, test, assess, advance and field our nation's hypersonic capabilities. We remain on track for our common hypersonic glide body and thermal protection systems delivery and all in all, we feel quite positive about this robust pipeline of opportunities in hypersonics. So 2024 maintains its promise to be a good year for the maturation of these programs. And we're also seeing our focus here translate into better financial performance. Our Defense Systems profitability was double digits in the quarter. Our first time at that level of performance from as far back as we recast financials in the new organizational structure. Turning to Security products, the SDNA acquisition is now fully integrated into our SES business area. Though challenges remain, SES is on sound footing because of the swift actions of our new management team and that data last year. We have focused our efforts and investments in product lines and geographies that make the most sense for Leidos. And therefore, our shareholders. Our new Charleston manufacturing facility is up and operational, and we're performing better against our service level agreements with our customers. We've had solid bookings this year and more consistent deliveries of large order solutions. As a result, SES is ahead of plan for revenue and earnings for the quarter and the year. SES revenues are up 11% year to date, and we've achieved almost 90% of last year's non-GAAP profit in the first two quarters of 2024 alone. A common theme of this improved acquisition performance is the new organizational structure, which brings better alignment of sector resources and new leadership with an increased depth of emphasis on execution and promises made is correct. Four, we continue to make significant progress to enhance our business capture performance and backlog quality. We've achieved net bookings of $4 billion this quarter with a heavy emphasis on cyber and Didj mode awards for a book-to-bill ratio of 1:0. We also have nearly $3 billion of awards currently under protest. We ended the quarter with total backlog of $36.5 billion, including $8 billion of funded backlog. While this quarter's performance adequately supports our 2024 growth commitments, we are not at all satisfied and our growth teams have been working diligently to reignite our winning ways here at Leidos and do much better on top line growth soon. An element of this is strengthening our customer centric framework of account management. Over the past six months, we've hired dozens of key account managers and frontline growth leaders, each with deep mission and customer expertise in areas of strategic importance. Each of our account managers have a frontline obsession and seamlessly integrate across both our P&L's and our Office of Technology to affiliated companies. JULY 30, 2024 / 12:00PM GMT, Q2 2024 Leidos Holdings Inc Earnings Call ensure we coupled best-in-class teams with best in class technical solutions to examples, which illustrate this point, our recent hires for Indo-Paycom and office because of their respective hard work in very short order. We've won strategic awards to support military exercises that are fundamental to the US Pacific deterrence strategy, maritime autonomy and undersea sensors work in Australia and hypersonics work in the UK that fit within Office Pillar two and US Navy submarine trainer development efforts that fit within our focus Pillar one. We've taken the further step of dedicating some 100 of our top engineers and solution architects to our frontline growth efforts, operating in full partnership with our account managers and capture teams, they are positioned to bring the best of the best of Leidos to our customer needs. With the improvements we're making in the growth value stream, we are getting set up for a much better business capture performance in the future. At quarter's end, we had $26 billion worth of bids awaiting adjudication and more importantly, quality is improving dramatically. Our pursuits are more aligned with our strategic direction. Our proposals demonstrate greater customer understanding, and we are doing better at pulling through enterprise-wide technical expertise into each customer solutions. So in summary, I'm very pleased with our financial results this quarter and the momentum that we're carrying into the back of the year for making great progress on our current four focus areas. This puts us in an excellent position to execute our emerging Lighthouse North Star strategy. I'm very proud of the 48,000 Lighthouse teammates who collectively every day ensure light doses making smart smarter for the benefit of our customers. And I'm honoured that every day more and more of the best of the best we could smart people in the nation joined Leidos to break limits. I'll now turn the call over to Chris to walk you through our financial results in detail. Also provide insight into our upgraded outlook for the year, and then we'll be pleased to take your questions. Chris?"
+    },
+    {
+      "speaker": "Christopher Cage Leidos Holdings",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Member of the Leadership Team",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks, Tom, and thanks to everyone for joining us today. Our second quarter results demonstrate yet again the power of our focus on profitable growth in cash generation with clear intent, our team is driving current financial performance while also building for a more prosperous future. Turning to the income statement on slide 5. Revenues for the second quarter were $4.13 billion, up 7.7% year over year. Robust revenue growth reflects the benefits of both the strong demand environment and historically low levels of attrition. The highlight for the quarter was margin performance. Adjusted EBITDA was $559 million for the quarter, up 33% year over year, and adjusted EBITDA margin increased 260 basis points to 13.5%. We achieved this record margin through business mix and indirect cost management program level execution was generally very strong, but EAC adjustments were a net $12 million. Non-GAAP net income was $360 million and non-GAAP diluted EPS was $2.63, up 43% and 46%, respectively. Below the line items had no material impact on net income or EPS. Turning to the segment view on slide 6, national security and digital revenues increased 1% year over year. We saw volume growth on our Sentinel in DES programs as well as several contracted research and development efforts. You may also recall that last year we had spikes in some of our large digital modernization programs, notably [engine] and [Aegis], which created a tough year-over-year comparison. National security and digital is also the segment most impacted by protests. affiliated companies. JULY 30, 2024 / 12:00PM GMT, Q2 2024 Leidos Holdings Inc Earnings Call Still accelerating growth in national security and digital is a major focus of the ongoing strategy discussion, national security and digital non-GAAP operating income margin increased 20 basis points from the prior quarter to 10.4% with some milestone achievements, strong cost control and excellent program execution for the first half of the year, national security and digital has been solidly ahead of plan on profitability. Health and civil revenues increased 22% over the prior year quarter and non-GAAP operating income margin came in at 24.9%, up from 14% a year ago. Primary driver of revenue growth and increased profitability was higher volumes across our Managed Health Services portfolio and an extra quarter of catch-up on incentive fee awards on our DBA Disability exam contract. Commercial and international revenues increased 3% paced by an uptick in deliveries on security products, higher volumes in our commercial energy business and a hardware refresh in our Australian IT business. These drivers offset $39 million of write-downs in our UK business, primarily on two fixed-price mission software development programs caused by changing requirements and schedule slippages. The UK write-down suppressed non-GAAP operating income margin to 0.7% in the quarter. Absent these write-downs, commercial international would have posted 9.7% year over year revenue growth in non-GAAP operating income margins of 8% although these write-downs are disappointing, they underscore the rationale for the new organizational structure. The C&I team is bringing greater focus on programmatic execution within the international portfolio, and they quickly took action to ensure the long-term success of our UK operation. We're confident that we'll get back on track towards our financial and operational objectives within the UK. And on balance, we remain encouraged by the strong performance in demand signals across our commercial and international segment. Finally, in Defense Systems, revenues increased 6% over the prior year quarter on a total basis and 7% organically. And non-GAAP operating income margins increased 170 basis points year over year to 10.3%. Tom touched on the improvements the segment's making on program execution. And it is good to see the kind of financial performance that we expected from this portfolio as we transition from development to production on some key programs, we see defense systems as a growth and margin driver for Leidos. We're making great strides towards unlocking the full potential of this business and are optimistic to 2024 marks a significant turning point towards a brighter future. Turning now to cash flow and the balance sheet on slide 7, we generated $374 million of cash flows from operating activities and $351 million of free cash flow. We had our highest collection week ever, which led to the exceptional Q2 performance. Overall, we're seeing a strong focus on cash throughout the organization. And DSOs for the quarter was 58 days, an improvement of one day from a year ago and four days sequentially. In Q2, we repurchased a total of $114 million in shares, including $100 million on the open market and paid $51 million in dividends. We ended the quarter with $823 million in cash and cash equivalents and $4.7 billion of debt. Our gross leverage ratio now sits at 2.4 times, which gives us plenty of financial flexibility. Next, I'll go through our enhanced outlook for 2024. On slide 8, we're raising the lower end of our revenue guidance by $100 million, which gives a new range of $16.1 million to $16.4 billion. We're increasing adjusted EBITDA guidance to approximately 12%, and we're raising our non-GAAP diluted EPS by $0.2 to a new range of $8.60 to $9. Our guidance for operating cash flow remains at approximately $1.3 billion for the year. This enhanced outlook reflects our strong first half performance as well as broad-based momentum across the entire portfolio. But let me walk you through some of the drivers of the second half performance for your model. Clearly, we're seeing strong momentum in our Managed Health Services business. Last call, we signalled some potential second half revenue and margin headwind in our VBA affiliated companies. JULY 30, 2024 / 12:00PM GMT, Q2 2024 Leidos Holdings Inc Earnings Call disability exam business based on an upcoming recompete which remains ahead of us. In addition, the unprecedented caseload of disability claims spurred by the PACT Act is straining the VA's budget resources. Earlier this month, the VA urged Congress to approve $15 billion to fund budget gaps in government fiscal years, '24 and 2025 for risk cuts to Veterans Benefit in care. The VBA customer has implemented several measures to proactively manage through these budget challenges, including dialling back its internal staffing, which suppresses industry case volume. We're already seeing the impact of this change with reductions in our near term case backlog. Given that the Veterans Benefits work is funded through mandatory, not discretionary budgets in caring for veterans has broad bipartisan support. We expect underlying caseload to rebound in our fourth quarter notwithstanding this temporary funding issue, we stand ready to continue to deliver exceptional service to the nation's service members as a trusted mission partner to the VA. We expect commercial international margins to snap back in the second half and for national security and digital margins to moderate somewhat consistent with our commentary on the last two calls. And lastly, in the back half of the year, we've stood up a robust innovation fund focused on growth. Our bottom line performance puts us in a favorable position to accelerate investments across the business has seed corn for our emerging strategy to continue to drive sustainable, profitable growth. With that, operator, we're ready to take some questions. Operator Thank you. Gentlemen, we will now begin the question-and-answer session. (Operator Instructions) Mariana Perez Mora, Bank of America. Your line is open."
+    },
+    {
+      "speaker": "Mariana Perez Mora Bank",
+      "company": "of America",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Good morning, everyone. So my first question is on managed healthcare and the margins. They are the incremental margins there are really strong. How should we think about what is there mode that you guys have a few go ahead to the slide competition and recompetes coming? Because I could imagine like the installed base you have that actually allows for these incremental margins actually post really strong mode. But what else from a technical perspective you think that you have your advantage to keep a good share of like this really growing market."
+    },
+    {
+      "speaker": "Thomas Bell Leidos Holdings",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks, Mariana, I really appreciate your question. And obviously, a part of the portfolio. We're very proud of the performance we are achieving in this part of the business is directly related to our passion to serve the nation and its veterans and our investment in technologies ahead of curve so that we were poised to take additional volume as we came out of COVID and had an opportunity to serve more and more veterans. We're very proud of this, and we're very proud of those investments that allow us to serve more veterans in our modeling for what's the output and input of veterans that need case management. It increases and stays the same over the coming years. So we're very bullish on the absolute volume. What we're doing to affect our future in that overall volume is ensuring that the VA sees us as their partners. So we've learned in to help make sure that they understand we are invested in their success and their budgetary challenges that they have right now and that positions us well for this recompete that's coming in the third or fourth quarter, probably more like the fourth quarter. affiliated companies. JULY 30, 2024 / 12:00PM GMT, Q2 2024 Leidos Holdings Inc Earnings Call We expect the customer to I expect us to continue to serve the veterans the way we are, and we're very bullish about the opportunity for us to continue to invest in technologies that serve our customers even better. So the challenge that we've given Liz and her team is not how to hold on to this business, but how to increase this business over time. So as part of our year of deep strategic thinking, we are not seeing 2024 as the peak of this business, we're seeing it as a plateau of this business from which we continue to springboard. That's the challenge we've given Liz and her and her team are responding very favorable to that. Chris, do you want to add anything there out?"
+    },
+    {
+      "speaker": "Christopher Cage Leidos Holdings",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Member of the Leadership Team",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I would say Tom touched on the technology aspects and clearly that's been a major focus that we've added to the equation under Liz and leadership for his leadership over the past several years. But beyond that, and we've been a long-standing partner here. We've won this recompete multiple times over. There's investments that we've made in physical locations, mobile locations, provider networks, you know, critical staff, all of those things come to bear. And then, of course, the customer is going to evaluate what has your performance been. And clearly, we can demonstrate a track record of strong performance with great customer satisfaction, great accuracy, throughput, all of the key metrics the VA's looking for. So we're sharpening our pencils to make sure that we're putting ourselves in the best position possible to defend this critical work for ourselves. But obviously, it's an area. We feel very encouraged about our position on it."
+    },
+    {
+      "speaker": "Mariana Perez Mora Bank",
+      "company": "of America",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you. And if I may, my next question is about the as you focus on the account managers and capture this team, what are the challenges you have on hiring and training the talent, both internally and on people that you hire."
+    },
+    {
+      "speaker": "Thomas Bell Leidos Holdings",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "There's really a war for talent of these type of people. But we are bound and determined, as I've mentioned on previous calls, to make sure like autos is the destination of choice for the best and brightest talent that's out there. In the ecosystem. And so what we've started to see I mentioned we've hired dozens of these account managers and we've allocated hundreds of people to be our solution architects for our new solutions. We have an environment in Leidos that is compelling we are a and employer of choice and the more we win, the more people we will want to be on the winning team. So it's not so much a question of one of the challenges. It's a question of helping them understand the opportunity that's in front of them for joining Leidos and the investment we're going to make in them to make a difference. People that are in this line of business are in this line of business because they want to serve their customers. And the most distant franchising thing you can do for a customer for a person who is passionate about serving customers is not fully support them. So Leidos is creating an investment strategy, and we're investing in the people, processes and tools that allow them to affect their customers positively and bring solutions to them differentially. And that is the most compelling thing about coming to work for Leidos that we're hearing from others and attracting great, great talent as a result."
+    },
+    {
+      "speaker": "Christopher Cage Leidos Holdings",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Member of the Leadership Team",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "The only thing I'd add Mariana to that is, of course, a very good question. And Tom's right. I mean, we screen the right people that have the passion to want to serve the right customers. Missions is critical area that we need to help them the most as they get into Leidos. There's clearly a tremendous amount of capability that we have that can be brought to bear to support those customers in multiple ways affiliated companies. JULY 30, 2024 / 12:00PM GMT, Q2 2024 Leidos Holdings Inc Earnings Call helping them understand the breadth of our offerings is an area that we are continuing to invest in. And that's the reason why partnering them up with so many solutions architect and other people that have been down the road is critical, but there's technology that behind that as well. So Gerry Fasano leads our growth office, he is very focused on that rollout plan, and we're excited about that, taking a lot of momentum here in the second half of the year."
+    },
+    {
+      "speaker": "Mariana Perez Mora Bank",
+      "company": "of America",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you very much for the color. Operator Matthew Akers, Wells Fargo. Your line is open."
+    },
+    {
+      "speaker": "Matthew Akers Wells Fargo",
+      "company": "Securities",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi, guys. Good morning. Thanks for taking the question. I wanted to follow up, you talked about kind of some of the portfolio pruning initiatives you're kind of looking at kind of could you give us an update on where we stand there and kind of what I think we are that, that whole process?"
+    },
+    {
+      "speaker": "Thomas Bell Leidos Holdings",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, sure. Thanks, Matt. As I said in my prepared remarks, we're done with the latest proprietary hypothesis to the future. This is our own exclusive proprietary view of what the world looks like in 2033. And therefore, what are the challenges our customers are facing in 2028 in order to affect that, that future, we're halfway through building our business strategy as a result and affected by that view of 2028. So it's very much a today forward view and a future back to meeting in 2028. As we are starting that Chris trailed in his comments that we've put a small investment fund out there because ideas are starting to emerge from this year of deep strategic thinking that we know are winners. These are areas that we are going to be investing in in the future. And although we're not going to articulate it, we're putting seed corn out there now in those areas so that we're not waiting for the whole process to be done to do the obvious compelling things we want to do to affect our future here. So we're very excited about that. Now the overall objective and the parameters of our years deep strategic thinking. I think I mentioned it in our last call. It's not going to be a pivot for light. Does a 90 degree pivot or a 180 degree pivot. It's going to be variations on the cores that we're in now. And so we're going to be doubling down on our core strengths. We're going to be really focused on repeatable business models, we're going to really focus on speed. We know that our customers are very concerned with speed, but they're concerned also that people they hitch their wagons to have to have the scale to solve complex problems differentially, so speed and scale, trusted mission AI, there's a reason we had a whole day focus to on trusted mission AI because we think it is a compelling technological unlock for the future. Our customers are facing across all the markets that we serve, and we're going to continue to look for those areas of whitespace that are adjacent to the current businesses we're in for investment now. Obviously, Matt, in the spirit of your question, there's also going to be parts of the portfolio we are not going to differentially invest. I've mentioned this in calls last year. I do not believe in spreading peanut butter around and watching every flower blue. I think all about differential investment for differentiated results. But there's also not any part of the business yet that is raising its head in the strategy process is saying it's obvious. This does not belong in Lighters. affiliated companies. JULY 30, 2024 / 12:00PM GMT, Q2 2024 Leidos Holdings Inc Earnings Call So don't think of this as portfolio pruning. Think of this as simply investing to maintain investing to grow and investing to grow exponentially. That's the way we're thinking about our strategy process. All that will be discussed at full in our March Investors Day that we look forward to welcoming you to."
+    },
+    {
+      "speaker": "Matthew Akers Wells Fargo",
+      "company": "Securities",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. That's helpful color. Thank you. And I guess if I could do one more just on just latest thoughts on upcoming recompetes and anything big that we should be watching for this year?"
+    },
+    {
+      "speaker": "Christopher Cage Leidos Holdings",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Member of the Leadership Team",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, Matt, obviously, we talked a little bit, of course, about the VBA exam business. And that's keen on top of mind as we navigate through the end of Q3 into Q4. Beyond that, I mean, there's not as many enabled needle movers. There is an exciting opportunity in the hypersonics arena for a common hypersonic glide body and TPS contracts converge, and we look forward to extending our work there with this important customer. And there's an integrated logistics support contract with the TSA that whether it's late this year or first quarter next year. And obviously you can imagine that's a partnership between our C&I business and work we do elsewhere that specializes in the logistics side. And then looking ahead to next year, I think the other big one I'd point out is the dim sum contract. The follow-on to that obviously is an important piece of work for us. The team is already in the proposal pits, making sure that we're putting our best foot forward, but that is sometime in the middle of 2025 early to mid '25."
+    },
+    {
+      "speaker": "Thomas Bell Leidos Holdings",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Just to pile on a bit, Matt, sorry to have a [replama] here color for our pipeline. We've got it $15 billion in submits in the second quarter. We've got $26 billion-plus awaiting customer decisions in the next 12 months, we have a pipeline of almost $70 billion in our whole qualified pipeline approaches, $200 million, $1 billion. So we're very excited about the opportunities to grow and that's why we are very much focused on priming the pump of our business capture teams with talent who can differentially go out there and get this business."
+    },
+    {
+      "speaker": "Matthew Akers Wells Fargo",
+      "company": "Securities",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. Thank you very much. Operator David Strauss, Barclays. Your line is open."
+    },
+    {
+      "speaker": "David Strauss",
+      "company": "Barclays",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Good morning, everyone."
+    },
+    {
+      "speaker": "Thomas Bell Leidos Holdings",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Good morning, David."
+    },
+    {
+      "speaker": "David Strauss",
+      "company": "Barclays",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "A question on national security in digital. Yeah, I think you guys hit on the slow growth there in the first half, but it sounds like you're talking about acceleration second half, but at the same time, it sounds like you're signaling our lower margins in the second half. So you can you just dig in exactly kind of what's going on there in the second half versus the first half banks?"
+    },
+    {
+      "speaker": "Thomas Bell Leidos Holdings",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, our national security and digital segment is arguably the core of the core of Leidos. And it's it is an area that we've put two of our most talented leaders, Roy Stevens and Steve Hull. And they are partnered to make sure that we are focused on how we help our customer and in detergents and being the smartest government on the planet. We don't think that there is a challenge here with the pipeline. Obviously, this is a business where we've won in the past. affiliated companies. JULY 30, 2024 / 12:00PM GMT, Q2 2024 Leidos Holdings Inc Earnings Call We know we can win in the future. The margins in this type of business are never going to be. But over the top, they're going to be in the low double digits. But what we have in this segment. In my mind, David is a revenue growth story. There is much more we can do to help our customers in these areas and our customers this comes back to the speed and scale conversation I had before. Our customers are increasingly aware of the fact that the scale of the problems that they have requires people who have speed and scale to solve them. So Roy and Steve are partnered with the whole enterprise with Jim Carlini and technology and Gerry Fasano in growth to make sure that we're leaning into serving our nation in this area and not looking to back off in any way. So if we gave you an indication of softening here, that's probably not the guidance we'd want to give."
+    },
+    {
+      "speaker": "Christopher Cage Leidos Holdings",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Member of the Leadership Team",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, David, I'd just add on to that. I mean, I think it's part of that is because we had an excellent first half of the year on margins. And there are some things that can move around milestone timing and things of that nature and how much special project work we see on programs like engine, but there's no fundamental issues here. And in fact, we're actually very encouraged to Tom's point. This will never it will be our highest margin business, but we do see upside here over time. And the teams are investing in more repeatable models and the [Dij ModSpace]. And those will be some unlocks to future margin upside that we're expecting. But I don't want to overlook some important wins that did take place in the quarter, getting the next defense enclave services task order under contract, which is critical for us, that is a key unlock for Steve and his team to drive growth into that important programs. So that clears the way for 13 additional DoD fourth state agencies to migrate onto the network over time. So we've been waiting for that, and we're excited about what comes behind that as we get into '25."
+    },
+    {
+      "speaker": "David Strauss",
+      "company": "Barclays",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. Thanks for that color on Chris. Quick follow-up on, you know, the pretty good working capital performance in the first half year relative to the prior year. How are you thinking about working capital through the rest of the year?"
+    },
+    {
+      "speaker": "Christopher Cage Leidos Holdings",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Member of the Leadership Team",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. So I'm very pleased with the team's performance on cash management. I think we've done an excellent job in the last year. We made some really strong gains on managing the payables side and more industry-standard terms with our vendors, and we've made some more progress in that regard this year. We've been attacking the DSO side. I would say it's a steady as she goes. I don't see anything at this point in time. That would be a major use of working capital. We're always interested in and great ideas that can be accretive to the business. But to right now, we're focused on Q3 and Q4 are usually our strongest performance quarters, and I expect this year to follow suit soon."
+    },
+    {
+      "speaker": "David Strauss",
+      "company": "Barclays",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks very much. Operator Cai von Rumohr, TD Cowen. Your line is open. affiliated companies. JULY 30, 2024 / 12:00PM GMT, Q2 2024 Leidos Holdings Inc Earnings Call Cai von Rumohr TD Cowen - Analyst You guys mentioned that help the medical exam business. It's not at a peak, it's at a plateau, but given my work at least early on next year, will be under the new contract, should we assume that the margins are going to be lower because I assume it takes some time until you get to the point where you kind of are doing well in terms of the incentives and all that. So is it likely that profit and health will be down next year?"
+    },
+    {
+      "speaker": "Thomas Bell Leidos Holdings",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I hate to answer your question this way, but we don't know is the real answer because we're awaiting the RFP that tells us what the customer actually wants to do. We know that the contract comes to an end at the end of this quarter. We are awaiting the RFP for the future. We're not sure if that's going to be if we're going to have an extension to the current contract, a new contract for a fixed period of time or a new contract for a long period of time. And we don't know how the VBA is going to incentivize industry to bring its best and its most throughput to our veterans. So and we have no reason to model in our own mind a decrease in profitability. But there is a big unknown Well, while we await the RFP."
+    },
+    {
+      "speaker": "Christopher Cage Leidos Holdings",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Member of the Leadership Team",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I'd only add, I mean, what we do know is that the VBA has asked Congress for more money, right? And that's a strong signal that they see the demand out there more veterans need care need throughput, and that's always been the priority. Now we're in a, call it a temporary situation where they have to navigate to this funding gap comp right I mean, a lot of things will become clearer for us as we get through the next quarter or two. But you can imagine that our early conversations with our health team about '25 is how do we grow off of '24 levels? And that's the way we're approaching it. And so everybody's clear eyed around looking at every opportunity to make sure we optimize our performance levels there and elsewhere to continue to grow. Cai von Rumohr TD Cowen - Analyst One quick one on your new business, you had $15 billion of submits, you have $26 billion awaiting on what should we think about in terms of your book to bill, you also have $3 billion in protest. I think there's a big, classified award in there. Should we see book-to-bill pick up in the second half?"
+    },
+    {
+      "speaker": "Thomas Bell Leidos Holdings",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "The team remains committed to a book to bill ratio slightly better than one for the year of 2024, and they are determined to meet or exceed that. There are some big swingers in there and it's possible that if many of these break our way, I will far exceed the book-to-bill ratio that they have. But, you know, Cai, again, in my earliest call, I talked about the fool's mission that chasing quarterly. Our book-to-bills was in my mind and the fact that what we should be focused on is building a quality backlog over time of profitable business. And that's really what I'm more incentivize and really focused on with the business capture team. How do we look at that trailing 12 months of book-to-bill? And how is that looking at our future growth potential with the backlog that we've got on the books, the team is very focused on that. As I mentioned in my prepared remarks, we're doing a better job of bidding for the things that will reward Leidos adequately for the technology and the capability we bring. And I feel as if as many of those that are in our backlog will start to break our way. So we're very bullish on the future without getting ahead of our skis. Cai von Rumohr TD Cowen - Analyst Terrific. Thank you so much. affiliated companies. JULY 30, 2024 / 12:00PM GMT, Q2 2024 Leidos Holdings Inc Earnings Call Operator Peter Arment, Baird. Your line is open."
+    },
+    {
+      "speaker": "Peter Arment",
+      "company": "Baird",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yeah, thanks. Good morning, Tom, Chris, Stuart, it's a terrific results on a Tom. Maybe just on the focus on commercial and international. Just you had the write-down in the quarter, absent the write-down, you would have had pretty good margin performance. Maybe just talk a little bit about, I guess either the write-down or just confidence level in kind of the back half of the year, you know where your margins are, I guess expected to be better?"
+    },
+    {
+      "speaker": "Thomas Bell Leidos Holdings",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, sure. Thanks. Well, first of all, this, this is very much the benefit of having new eyes and a new organizational structure that's looking with fresh perspectives on the business. As Chris mentioned, this is primarily to fixed-price contracts that we have in the UK that through increased and very robust conversations with the customers, we've decided we have to take a write-down because of changing requirements and a schedule slippage. But we feel confident that we've also taken a lap around the block and looked under the rocks to make sure that there's not more so Vicki and her team are doing a great job scrubbing the portfolio. She's cut the number of watch programs in her portfolio by half in these first two quarters, and we feel very bullish about the prospects for her business. I mentioned I featured in our last call last quarter that we want to make our light does synonymous with August pillar 2. And as you heard in this call, we've taken some steps by really allocating and hiring some talent that can really get after making that. So Vicki and her team are very focused on bringing the team together around August. We've got excellent customer touch points in the UK and Australia and obviously here in the United States. And we're very bullish on the opportunities for commercial and international. Also, I want to tip our hat to the SCS team. They had a very good first half of the year, and that is all a credit to Mike and Gerry and to Vicki, who have really gotten their arms around that business and really made sure that we are on a solid platform from which to grow. So very optimistic about where that business is heading and her portfolio also feeling."
+    },
+    {
+      "speaker": "Christopher Cage Leidos Holdings",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Member of the Leadership Team",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I'd add there, Peter, is the other piece of the business there that Tom didn't mention is our commercial energy business and that has been performing extremely well and tends to have a pattern where the back half of the year is stronger on a margin basis. There are some critical incentive and award fee determinations that happen sometimes later in the year. So a well-run business that we expect to continue to deliver great results. And the other piece of the portfolio, we believe are on a strong footing for the second half."
+    },
+    {
+      "speaker": "Peter Arment",
+      "company": "Baird",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "That's very helpful commentary. And then just Tom, just quickly, the DoD continues to make a lot of evolving changes or strategies around counter UAS. And I know that Leidos us through Dynetics has some exposure here or how are you guys thinking about the portfolio? And when you're thinking about the counter-UAS business?"
+    },
+    {
+      "speaker": "Thomas Bell Leidos Holdings",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "It's a very timely question, Peter. I have a classified briefing later this week to dive deep into all our capabilities for counter-UAS. Obviously, if pick and during shield is the thing we talked most about Dynetics, but within our Leidos Innovation Center, the Linc and our Defense Systems segment, we've got a myriad of other technologies that can affect counter-UAS capabilities for our customers. So we're going to take a step back kind of look at everything that we've got in the pantry when it comes to technology and decide are affiliated companies. JULY 30, 2024 / 12:00PM GMT, Q2 2024 Leidos Holdings Inc Earnings Call there some things we should be investing in this year to help our customers with this very, very vexing problem that they're on up on uncovering now. So very bullish about our opportunity to serve the question is do we have something in the pantry that will be compelling for the customer."
+    },
+    {
+      "speaker": "Peter Arment",
+      "company": "Baird",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Appreciate the color. Thanks, Tom. Operator Jason Gursky, Citi."
+    },
+    {
+      "speaker": "Jeremy Jason",
+      "company": "Citi",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Jeremy Jason is from Jason Gursky team there. Could you walk us through the pipeline for each of the segments for '25 and '26 and kind of give us an update on production capacity and how that may impact growth color?"
+    },
+    {
+      "speaker": "Thomas Bell Leidos Holdings",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Hi Jeremy, Tom, maybe some high-level metrics. We're probably not going to be able to dissect the pipeline by segments for you. But rest assured that we feel it is robust and each of the segments has opportunities north of $1 billion, all the way down to some strategic small opportunities in the tens of millions of dollars. So we like our positioning. There are the big ticket numbers. Again, the $26 billion pending 200 overall pipeline, approximately $70 billion. We expect to be decided in '25, two-thirds of that being new work and takeaway, great position on RBT side and the growth teams are highly energized. As it relates to production capacity. The good news is of the Dynetics team had built up some capabilities down in Huntsville. We feel like we've augmented that in areas like the wide field of view, satellite payload needs. We've got a facility that we've been waiting to fill up from a capacity standpoint on the PIC side, the enduring shields. So we're excited about that. The ability to take full advantage of what we've got in place there. And then we spoke previously on the SCS side about our new Charleston facility that we took some just in the last few months. It's a great facility that the team has built out and in factories plenty of room to expand capability even in the footprint that we built out. So I don't see a big need on major investments in those areas. It's always something that we look at and we're happy to entertain great ideas if there's a compelling expansion to the pipeline. But we're in good shape to be able to expand up to the needs that we foresee over the next 18 months."
+    },
+    {
+      "speaker": "Christopher Cage Leidos Holdings",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Member of the Leadership Team",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And just to pile on a little bit on that, Jeremy, the $26 billion of pending awards. We have I mean that that is not only several home runs that we've got on deck, but $40 million, $50 million big awards of $50 million or more. So we've got lots of proposals in work. And so the batting average should be relatively positive on that. We've used the example internally of we've had a business capture problem. And so to break that inertia, we have inputted energy with new talent, energy with new processes and tools. And now we're very excited about the momentum that's going to build over the next 12 to 15 months. You'll appreciate that in our customers' environment decisions take time and ultimately, they're almost all protested. And so it takes a little while before a flash of energy to break inertia becomes the bank of the momentum of actual wins. But debt, we're highly confident that we're in a good place. And George is the right leader to bring us forward."
+    },
+    {
+      "speaker": "Jeremy Jason",
+      "company": "Citi",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you so much. affiliated companies. JULY 30, 2024 / 12:00PM GMT, Q2 2024 Leidos Holdings Inc Earnings Call Operator Ken Herbert, RBC. Your line is now open."
+    },
+    {
+      "speaker": "Ken Herbert RBC Capital",
+      "company": "Markets",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yes, good morning, Tom and Chris, really nice quarter. I just wanted to first start off, you obviously raised the guidance with the exception of the cash from operations. Is there anything in particular, when you think about the cash flow outlook in the second half of the year, we should keep in mind or maybe driving a little bit more conservatism there?"
+    },
+    {
+      "speaker": "Christopher Cage Leidos Holdings",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Member of the Leadership Team",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Hey, Ken, Chris here. Obviously, we stepped up our cash guide last quarter by $200 million, a pretty significant increase. We're clearly focused on converting these extra earnings that you're going to see here into cash, and there's always the chance that some of that comes in in January versus December. So at this point in time with two quarters to go and two-thirds of our cash commitment for the year ahead of us. We just didn't feel it was prudent to increase the guidance at this time, but there's no headwinds that we're foreseeing."
+    },
+    {
+      "speaker": "Thomas Bell Leidos Holdings",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "We're just kind of managing it down the middle and just to build on that, right, at the beginning of the year, we talked about the uncertainty in the market heading into an election year. Obviously, we're still dealing with some uncertainty. We're still dealing with customers that have budget challenges and issues around there, performance of their business and so while we're extremely pleased with the first half of the year, that allows us to raise our guidance. Again, we're not going to get ahead of our skis or over-promise. We're going to keep our powder dry to make sure that the third and fourth quarter deliver the way we expect them."
+    },
+    {
+      "speaker": "Ken Herbert RBC Capital",
+      "company": "Markets",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "That's great. Thanks, Tom. And if I could see some it sounded like from your prepared remarks that there could be upside as well to the expected buyback this year as a $500 million. I guess maybe part of that's timing but can you just reset in terms of what you might want to see to deploy more capital there? And maybe any change in how you think about the framework around returning capital to shareholders considering some of the investments you're talking about here today, but great, great cash in the quarter really nice."
+    },
+    {
+      "speaker": "Thomas Bell Leidos Holdings",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, sure. And great cash in the quarter is the reason that I only trailed it and didn't commit to more, we had great, you know how the flow of the business comes. It's a little bit like a sine wave when it comes to cash coming in. And typically, the third quarter is a relatively robust cash quarter for our business. We had a very robust second quarter. So I recommitted We're committed to repurchasing $500 million worth of shares this year. We're halfway through that. Now we'll continue that program if the cash comes in as per historical norms in the third quarter that may give us a chance to revisit it. But more on that as the third quarter unfolds and we look toward the fourth quarter. One thing I will say can just because to state the obvious, but not to assume it is stated and I fear not we're going to be continue to be prudent allocators of cash in a shareholder friendly manner. And so I don't worry about this burning a hole in my pocket as my grandmother used to say."
+    },
+    {
+      "speaker": "Ken Herbert RBC Capital",
+      "company": "Markets",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Perfect. Thank you."
+    },
+    {
+      "speaker": "Thomas Bell Leidos Holdings",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks, Ken. affiliated companies. JULY 30, 2024 / 12:00PM GMT, Q2 2024 Leidos Holdings Inc Earnings Call Operator Noah Poponak, Goldman Sachs. Your line is open."
+    },
+    {
+      "speaker": "Noah Poponak Goldman",
+      "company": "Sachs",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yeah, hi, good morning, everyone. So I guess the EBITDA margin has to be a lot lower in the second half than the first half to be at the 12% for the year in the second half, EPS as a percentage of the total would need to be a lot lower than it's been historically to be in the earnings range for the year. And obviously, the health and Civil margin pretty strong in the second quarter, but you're also absorbing this C&I margin. So can you maybe, Chris, just walk me through that? I mean, what which segments revenue growth or margins really moderate a lot. Are you thinking about that health margin through the back half of the year?"
+    },
+    {
+      "speaker": "Christopher Cage Leidos Holdings",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Member of the Leadership Team",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure. Noah, thanks, snow, and we get it right of excellent first half of the year, you know, excellent full year guidance but the second half relative to the first half looks a little bit more modest. But stepping back, the guidance implies, let's call it roughly 11% margins in the second half of the year and just six months ago, we opened the year with an expectation of 10.5% to high tens on margins. So we're pleased to be able to look ahead and say, even in a scenario where the of the disability examination work levels perhaps come down, we still see line of sight to, let's say, 11 percentage margins kind of being delivered by the business. And that's really the primary reason, right. As we look at it as the VA is kind of navigating the next few months, we're expecting those the throughput to be lower. And then we've allowed ourselves some cautiousness as we look into the fourth quarter around how quickly that will snap back. So there's certainly scenarios where that could do much better, but that's the primary backdrop. As we look at the rest of the portfolio, obviously, we did signal that national security and digital has had a very strong first half on margins. There's always the potential those are able to sustain at those levels. But again, looking at some of the milestones, we have pulled back a bit on that for the second half guidance. And then the last piece, what I'd point to is the are the investments you're taking advantage of this opportunity to make sure we're funding an innovation fund that we can dial up or dial back depending upon the progress that's being made and really make sure that we've got a jumpstart on 2025. So the fundamentals of the business across the board are in great shape and we feel good about that. In fact, there are some areas still on the optimization side that we still have ahead of us to get after on indirect cost management. So I feel like we're really well positioned as we look at '25."
+    },
+    {
+      "speaker": "Thomas Bell Leidos Holdings",
+      "company": "Inc",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Noah, I'll just foot stomp something Chris said in his prepared remarks, and that is our two Q2 profitability was aided by having two quarters worth of incentives in hit in the second quarter. So the profitability of that business was enhanced because of that, the underlying business remains as solid as it ever has been."
+    },
+    {
+      "speaker": "Noah Poponak Goldman",
+      "company": "Sachs",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. And Chris, the via the VBA, I guess it sounds like you guys are saying you don't have an RFP some That sounds like recompetes imminently without an RFP, maybe unlikely. I don't know that sliding out is does that make does that make an extension more likely it. affiliated companies. JULY 30, 2024 / 12:00PM GMT, Q2 2024 Leidos Holdings Inc Earnings Call"
+    },
+    {
+      "speaker": "Christopher Cage Leidos Holdings",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Member of the Leadership Team",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "That's how we see. It has been fluid. We've been rehearsing in preparing and can adapt to any scenario, but it's becoming more and more likely that there is an extension of sometime versus recompete, but the and we can't commit to that. We're just prepared for whatever the VA is able to do in a short order."
+    },
+    {
+      "speaker": "Noah Poponak Goldman",
+      "company": "Sachs",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "But you still expect them to slow down the activity while that's being sorted out?"
+    },
+    {
+      "speaker": "Christopher Cage Leidos Holdings",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Member of the Leadership Team",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "At least until they've got a new government fiscal year and that will help them get into a new budget environment. And now they again, they could be aided by Congress in the near term but are our baseline assumption at this point in time as activity levels are more muted over the next few months."
+    },
+    {
+      "speaker": "Noah Poponak Goldman",
+      "company": "Sachs",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. Thank you."
+    },
+    {
+      "speaker": "Christopher Cage Leidos Holdings",
+      "company": "Inc",
+      "role": "Chief Financial Officer, Member of the Leadership Team",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Stuart Davis Leidos Holdings",
+      "company": "Inc",
+      "role": "Investor Relations",
+      "speaker_type": "other",
+      "section": "qa",
+      "text": "It looks like we've gone beyond the hour, so I think we'll call the Q&A at this point. So I want to thank you for your assistance on the call and thank everybody on the call today for your interest in Leidos, and we look forward to catching up with you in the future. Operator Ladies and gentlemen, that concludes out conference for today. Thank you for your participation. You may now disconnect. In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. affiliated companies."
+    }
+  ]
 }

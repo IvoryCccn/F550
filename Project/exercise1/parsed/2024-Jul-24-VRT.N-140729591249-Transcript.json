@@ -4,5 +4,326 @@
   "quarter": "2024Q2",
   "sector": "Industrials",
   "filename": "2024-Jul-24-VRT.N-140729591249-Transcript.pdf",
-  "segments": []
+  "segments": [
+    {
+      "speaker": "Brett Linzey Mizuho Securities",
+      "company": "USA",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Operator Good morning. My name is Brika, and I will be your conference operator today. At this time, I would like to welcome everyone to the Vertiv's second-quarter 2024 earnings conference call. (Operator Instructions) Please note that this call is being recorded. I would now like to turn the program over to your host for today's conference call, Lynne Maxeiner Vice President of Investor Relations. You may begin."
+    },
+    {
+      "speaker": "Lynne Maxeiner Vertiv Holdings",
+      "company": "Co",
+      "role": "Investor Relations",
+      "speaker_type": "other",
+      "section": "presentation",
+      "text": "Great. Thank you, Brika. Good morning, and welcome to Vertiv's second-quarter 2024 earnings conference call. Joining me today are Vertiv's Executive Chairman, Dave Cote; Chief Executive Officer, Giordano Albertazzi; and Chief Financial Officer, David Fallon. Before we begin, I would like to point out that during the course of this call, we will make forward-looking statements regarding future events, including the future financial and operating performance of Vertiv. These forward-looking statements are subject to material risks and uncertainties, that could cause actual results to differ materially from those in the forward-looking statements. We refer you to the cautionary language included in today's earnings release, and you can learn more about these risks in our annual and quarterly reports and other filings made with the SEC. Any forward-looking statements that we make today are based on assumptions that we believe to be reasonable as of this date. We undertake no obligation to update these statements as a result of new information or future events. During this call, we will also present both GAAP and non-GAAP financial measures. Our GAAP results and GAAP to non-GAAP reconciliations can be found in our earnings press release and in the investor slide deck found on our website at investors.vertiv.com. With that, I'll turn the call over to Executive Chairman, Dave Cote."
+    },
+    {
+      "speaker": "David Cote Vertiv Holdings",
+      "company": "Co",
+      "role": "Executive Chairman of the Board",
+      "speaker_type": "other",
+      "section": "presentation",
+      "text": "Good morning, everyone. While I am quite pleased with our continuing trend of very strong financial performance. As I think about what attracted me to Vertiv, it was a great position in a good industry. Unfortunately, it turned into a great position in a great industry. There was a lot of work to do to get the business moving in a direction to consistently drive value and increase returns to shareholders. I have to say Gio and his team have done an excellent job starting to unlock this potential. Initial signs of progress are evident in the financial metrics, strong audits and sales and substantially increased profit and cash flow. A better operating company delivers better results. It's an interesting time, both in our industry and the world at large. Significant changes underway for both. The industry is rapidly expanding and evolving and Vertiv is well positioned to strengthen its market leadership with affiliated companies. JULY 24, 2024 / 3:00PM GMT, Q2 2024 Vertiv Holdings Co Earnings Call increasing R&D and capacity expansions to further distinguish our unique position as an industry leader. We're gaining market share in a rapidly growing industry as a result of our new products and significantly improved operations. At the same time, we're strengthening the resilience of our organization. 2024 is shaping up to be a great year and sets a very strong foundation for future years to deliver sustained value creation. So with that, I'll turn the call over to Gio."
+    },
+    {
+      "speaker": "Giordano Albertazzi Vertiv Holdings",
+      "company": "Co",
+      "role": "Chief Executive Officer, Director, President, Americas",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Well, thank you, Dave, and we go to slide 3. We had a very strong first half of 2024. Q2 Organic sales were up 14%, led by Americas with strong growth in EMEA as well. We continue to see very strong orders growth, up 57% year-on-year and up 10% sequentially from a very high level in Q1. Book-to-bill remains very high as well with Q2 at 1.4x. More discussion to follow on this point on slide 5. Pipeline velocity has continued to increase, and we are seeing the acceleration in large orders. The same dynamics we shared with you in April are continuing for large orders. Customers require longer delivery dates than in the past. Hence, a lot of the orders are creating backlog in '25 and beyond. Adjusted operating profit was $382 million, and adjusted operating margins expanded by 110 basis points to 19.6%. As Dave mentioned, better operating companies delivered better results. Our adjusted free cash flow is another good story, generating $333 million in the second quarter. We are converting our profitability to very good cash flow performance. Our net leverage was 1.8x at the end of Q2, so well within our targeted range of 1x to 2x. We again raised our full year guidance across all financial metrics and expect organic growth of 13%, adjusted operating profit of $1.435 billion with margin expanding to 18.7% and adjusted free cash flow of $875 million, up $50 million from previous guidance. Let's go to slide 4 now. You may recognize this slide. We wanted to use it once again to give a directional indication of what we are seeing in the market. By and large, the market remains quite healthy, and we see the continued acceleration of the infrastructure built out in hyperscale and colo markets. High density and liquid crude chips are a reality, and this accelerates the demand for AI infrastructure. We see this happening in the Americas, but also starting in EMEA and Asia with some positive market signs for colocation and cloud in China as well. Enterprise remains stable yet, we expect to see AI positively impact enterprise over time, and this is starting in the Americas. Telecom remains subdued as CapEx spending has yet to fully rebound. Commercial and industrial markets are healthy as there is a lot of infrastructure spending happening in the Americas and APAC regions. So overall, the market environment is encouraging, especially for data centers, which represent 75% of our end market exposure. We have heard feedback from investors about the data center market becoming a more conspicuous place these days from a competitive standpoint, this is true. But we believe we have competitive advantages that are tangible quite unique and being further reinforced. As data centers become more critical, I believe Vertiv becomes even more distinguished. We are not selling only 1 point product or only one small part of say, the thermal chain. We are selling the entire critical infrastructure through data center. With power and cool and service data centers, we provide complete solutions. We act as the connective tissue between IT and facilities in a data center. It is a rare position in the industry, born of over 50 years of experience. We don't think this is easily replicated, and our orders are a good representation of our customers' trust inverted. Certainly, there is intense focus on the liquid cooling portion of the market and understandably so at this moment. Our advantages are clear. We have a comprehensive portfolio of liquid cooling technologies, direct-to-chip, immersion, in-row CDUs, in-rack CDUs. We adore heat exchanges, and we know how to integrate these key technologies into the entire thermal chain solution. This differentiates Vertiv. We continue to see direct-to-chip as our customers' prevailing technology of choice, and we have a complete portfolio of technology solutions way before deployment. Surrounding this is a global service organization with almost 4,000 field service engineers. We're talking minutes and hours to get to a customer site. It is very important to our customers to have local service support. affiliated companies. JULY 24, 2024 / 3:00PM GMT, Q2 2024 Vertiv Holdings Co Earnings Call So we see market participants emerging with point products in liquid cooling, a small part of the overall thermal solution for a bigger center, but they have a far different profile than Vertiv. And I would say we aspire to be an even bigger player in liquid cooling, and we have very good reasons to believe our ambition is indeed reasonable. So let's move to slide 5 now. Another quarter of extremely strong order growth, pipeline velocity increased, and we continue to see AI scaling, especially in the Americas. The strength of orders is across our portfolio. Power management and thermal management orders grew at very similar rates in Q2 and both convincingly strong. There is a strong correlation between power and cooling, and we would expect that balance of sales in our portfolio to continue over time. This quarter, we have introduced a trailing 12-month orders metric. As we have previously highlighted, there can be a natural variation to the timing of large orders in any quarter. Trailing 12-month is a good metric to assess order activity, smoothing some of the quarter-to-quarter push and pulls. We also know we have increasingly tough comparisons ahead, and we believe we still see low double-digit orders growth in the third quarter on a year-on-year basis, but we expect a sequential decline in orders from an extremely high second quarter. This is where the trailing 12-month order metric can be helpful as we expect to stay in the 30s range, indicating a very healthy and strong order trend, supportive of our financial guidance. As mentioned, customer request dates elongated for large projects in the hyper and colo space in general as the scale of deployments continue to increase. We view this as the industry wanting to manage this growth and technology transition in an orderly manner. As a consequence, a lot of the orders are for future years. And we feel good about how 2025 is shaping. Pipeline, orders, backlog, all three are positive in the same direction, and we like what we are seeing. Let's now look at the right side of slide 5. We continue to focus on resilience to navigate an increasingly complicated geopolitical environment, multi-sourcing strategies, risk identification and mitigation plans are key to building supply chain resilience. Inflation, we believe it is here to stay, as mentioned a few times, we price with this in mind and have a good process and governance in place to stay price cost positive. We continue to expand capacity, including adding more modular and thermal management capacity in the Americas besides the expansion plans we already shared with you across the other technologies. The ramp-up of liquid cooling production capacity globally continues, and it is quite encouraging. This technology is in three of our plans today, and we are on track to finish in 2024 with 45x capacity increase compared to baseline at the end of 2023. So we are investing at the same time -- as we are investing at the same time, Vertiv Operating System continues to be a key driver to liberate footprint capacity to accommodate our growth trajectory. If the market grows faster, we will not constrain ourselves and we are diligent as we look at different demand scenarios. We believe our capital expenditure forecast of between $175 million and $200 million will cover the scenarios needed to meet the demand trajectory. Let's now go to slide 6. You have heard us mentioned service as a differentiator and one not easily replicated. Service is one of our superpowers. It demonstrates we have been in the data center industry for decades. Service represents 23% of our total sales last year. And additionally, service business has the financial characteristics you would expect, including strong margin profile that has been expanding. We like this part of the business a lot, and it is uniquely strong for Vertiv. Service opportunity is proportional to the critical nature of the application. In an AI high-density world, criticality is increasing, and we believe service matters even more. The stakes are significantly higher. The value of each rack can be in the millions of dollars. The thermal management and power management systems are becoming more complex, and the nature of the loads more unforgiving. Telemetry, predictive services and ability to have experts on sites in minutes or as is essential. We are training our global service engineers proactively to be a partner of choice to help our customers navigate this complexity. affiliated companies. JULY 24, 2024 / 3:00PM GMT, Q2 2024 Vertiv Holdings Co Earnings Call In fact, I'm absolutely thrilled to share an exciting use case where Compass data centers have chosen Vertiv to provide full-time site-based embedded Vertiv crews to do service management and predictive maintenance on some Compass data center sites. The scale of data center deployment is becoming much larger the value of dedicated service personnel on site full-time is becoming absolutely compelling. We thank Compass for their trust in Vertiv. With that, over to you David."
+    },
+    {
+      "speaker": "David Fallon Vertiv Holdings",
+      "company": "Co",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Great. Thanks, Gio, and good morning, everyone. Turning to slide 7. This slide summarizes our second quarter financial results. Our organic net sales increased approximately 14%, slightly above the high end of our guidance, primarily driven by, once again, strong performance in the Americas where organic sales were up 17% from prior year. Adjusted operating profit of $382 million was $131 million higher than last year driven by the higher volume and improved variable contribution margin, which benefited from both year-over-year price cost and significant productivity gains. This improved productivity, which has been catalyzed by the continued implementation of VOS principles in our plants and within our functions and notably procurement was the primary driver for the $57 million beat versus the midpoint of guidance and also a primary driver for the 510 basis point increase in adjusted operating margin to 19.6% just 40 basis point short of our long-term target. We are seeing the benefits of an intense focus on operational execution across all parts of the business. And the exciting thing is that there's still a lot more to do. So please stay tuned. Moving to the right. Our second quarter adjusted diluted EPS was $0.67, $0.21 higher than last year, primarily driven by higher adjusted operating profit. We generated $333 million of adjusted free cash flow in the quarter, over $100 million better than last year, primarily due to higher profitability and improved working capital, which declined to 17.1% of annualized second quarter sales. Some of this trade working capital improvement was due to favorable timing, including with advanced payments, which effectively shifted cash into the second quarter from the third and fourth quarters. Nonetheless, good progress with cash flow and working capital, but just like margin, still a lot more to do. Finally, on this page, net leverage was 1.8 times at the end of the quarter within our stated leverage target range of 1 times to 2 times and liquidity strengthened to $1.2 billion. Our balance sheet is strong and should remain strong based upon our expectations for free cash flow as we focus on flexibility to evaluate capital deployment opportunities. Turning to page 8. This slide summarizes our second quarter segment results. As mentioned, we saw strong top line growth in the Americas, up 17% from last year. Primarily from continued momentum in the hyperscale and colocation markets. More impressively, this growth was on top of a challenging comparison to second quarter 2023, where sales were up 48% from 2022. Adjusted operating margin in the Americas expanded 540 basis points to 25.4% with the increase driven by favorable price cost and significant productivity. APAC sales increased 6% organically, with China slightly down, but more than offset by strong mid-teen growth in India and the rest of Asia. We still characterize China as stable. But based upon visibility into an improving sales pipeline, we are optimistic that China will commence year-over-year growth in the second half. APAC adjusted operating margin decreased 180 basis points from last year, in part due to a discrete $6 million expense in this year's second quarter. However, on a year-to-date basis, APAC operating margins are still 100 basis points higher than last year despite this onetime expense, and we expect operating margins to increase in the back half of the year, correlated with the expected increase in second half volume. EMEA organic sales increased 14% in the second quarter, in part driven by strong modular solutions growth. We are certainly encouraged with the momentum in this part of the business as customers increasingly use modular solutions to accelerate expansion of data center capacity. EMEA adjusted operating margin increased 480 basis points to 25.9% as EMEA and Americas continue to compete for highest regional adjusted operating margin. So EMEA won the quarter, but the Americas is ahead year-to-date, and we'll see how the rest of the year plays out. Moving to slide 9. This slide summarizes our third quarter guidance. We are expecting a third quarter that looks largely consistent with second quarter including organic sales growth of approximately 14%, offset by a $20 million foreign exchange headwind. The regional affiliated companies. JULY 24, 2024 / 3:00PM GMT, Q2 2024 Vertiv Holdings Co Earnings Call sales growth profile is slightly different with all three regions expected to grow in the low teens which implies sequential acceleration in APAC and notably China, as I referenced on the previous slide. We expect third quarter adjusted operating profit of $385 million at the midpoint and adjusted operating margin of 19.6%, up 260 basis points from last year's third quarter, with expected benefits from operational leverage, price costs, and continued productivity gains. Next, turning to slide 10, our full year guidance. After a strong first half, we are increasing the midpoint of our sales guidance by $50 million, including $75 million organically, partially offset by $25 million of incremental foreign exchange headwinds. Higher organic growth is primarily in the Americas and APAC. We are also increasing the midpoint of our adjusted operating profit guide by $85 million to $1.435 billion due in part to higher volume, but also based upon higher expected variable contribution margin in the second half, driven by continued productivity, both in procurement and manufacturing. As a result, we are increasing our adjusted operating margin guidance to 18.7% at the midpoint, 100 basis points higher than previous guidance and 200 basis points higher than initial full year expectations from our November investor conference. Now some analysts will likely inquire why year-over-year incrementals are not projected to stay above 60% for the second half as they were in the first half. And in short, year-over-year variable contribution margin comparisons are more challenging in the back half of the year as our productivity initiatives accelerated in the last two quarters in 2023. In addition, we anticipate a ramp-up of fixed costs in this year's back half as we continue to prioritize investment in capacity and technology. The 18.7% full year adjusted operating margin guidance propels us closer to our long-term target of 20% plus. Certainly, this long-term target is within range, and we expect to exit the fourth quarter near that level, which sets a good foundation for 2025. Our projected 2024 adjusted diluted EPS of $2.50 at the midpoint, is more than 40% higher than 2023, primarily driven by higher adjusted operating profit, like last quarter, we do provide additional information on income taxes and share count in the appendix. Finally, for me on this slide, we increased adjusted free cash flow guidance by $50 million to $875 million, primarily driven by higher adjusted operating profit and partially offset by higher income taxes and additional investment in trade working capital. Our full year adjusted free cash flow guidance implies approximately $440 million of cash generation in the second half, which we expect to be relatively uniform in the third and fourth quarters. And with that said, I turn it back over to Gio."
+    },
+    {
+      "speaker": "Giordano Albertazzi Vertiv Holdings",
+      "company": "Co",
+      "role": "Chief Executive Officer, Director, President, Americas",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Well, thank you very much, David. And a quick summary here as we go to slide 11. So I'm very pleased with our strong first half performance. The executional strength of Vertiv continues to improve, and we see that translating into our financial performance. Including sales growth, profitability and free cash flow. It gives us confidence to raise guidance again for 2024 and continues to strengthen our view on the next year. The market is evolving and becoming more critical, and that plays into Vertiv's strengths very well. Technology, global scale, portfolio breadth, and depth services, these attributes matter to our customers. We stay humble and focused. Every day, we work hard to reinforce our competitive advantages. I said that on the last call, we fully intend to keep winning. We are in a good place now; we can always do better. There is absolutely no room for complacency. We are making substantial progress, but our full potential is much bigger and keeps growing, and the entire Vertiv team is very excited about this. An important point on this slide, we plan to have an Investor event on November 18 in conjunction with the Supercomputing '24. So more details on this will follow, but I want to make sure that this is on your calendars and radar screens. With that, Brika, over to you and for the Q&A. Thank you very much. affiliated companies. JULY 24, 2024 / 3:00PM GMT, Q2 2024 Vertiv Holdings Co Earnings Call Operator (Operator Instructions) Amit Daryanani, Evercore ISI."
+    },
+    {
+      "speaker": "Amit Daryanani Evercore",
+      "company": "ISI",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks a lot, and good morning, everyone. I'll stick to the one question rule. I'm wondering if you could just help us frame the order trajectory expected in September quarter. Will you help us understand maybe what's driving the deceleration in September to being 10% to 15% versus the high 50%, 60% we saw in the first half. And then crucially, just how do you see these orders converting to revenues over time for the company? It would be really helpful to frame that as well. Thank you."
+    },
+    {
+      "speaker": "Giordano Albertazzi Vertiv Holdings",
+      "company": "Co",
+      "role": "Chief Executive Officer, Director, President, Americas",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you, Amit, and very good day to you. I think I stated at the end in the script, we are happy with the pipelines that we see. And those pipelines, of course, are reflecting a positive trajectory for the market and our overall view of the market continues to be positive. If you go back to April, we had certainly a more prudent view of the Q2 orders, but there are a lot of big orders and individual (inaudible) in this market. And sometimes, it's just a question -- can be a question of timing when -- whether they happen in one quarter or another or another quarter. So overall, our view of the market it continues to be very positive, very, very positive. We're very happy about the trajectory of orders so far, but we are also aware of the fact that the timing can be an element here, order timing. That's why we want to make sure that we do not just talk about orders in one quarter, but we took a little bit kind of a broader metric like the trailing 12-month that we have introduced now. When it comes to the second half -- the second part of your question about order timing and translation in revenue. It's pretty much what we what we said last time already, for the upper part of the market, meaning that the larger part of the market, larger doses of the cloud and colocation. We are thinking now in terms of 12, 18 months on average, can be very specific individual orders can have different dynamics. But on average, we think about an elongation that we already described last time around. And hence, considering Q2 and Q3, the majority of that will sit in future years, so 2025 and beyond. But again, nothing particularly strange or different than what we observed before already. Operator Steve Tusa, JPMorgan."
+    },
+    {
+      "speaker": "Steve Tusa",
+      "company": "JPMorgan",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi, good morning."
+    },
+    {
+      "speaker": "David Fallon Vertiv Holdings",
+      "company": "Co",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Hi, Steve."
+    },
+    {
+      "speaker": "Giordano Albertazzi Vertiv Holdings",
+      "company": "Co",
+      "role": "Chief Executive Officer, Director, President, Americas",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Hey. Steve."
+    },
+    {
+      "speaker": "Steve Tusa",
+      "company": "JPMorgan",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "You mentioned the 30% to 35% trailing 12 months. Is that a good trend to think about here going forward, given how positive you are. And any comments on how the pipeline is trending year over year? And then just lastly, as a follow-up to that on orders, how do you book like campuses or like a phased order where you may be working on three buildings or something or three data centers in a certain campus and you may be contracted to do all of that. At what point do you actually book that order? Is it booked all at once? Or as these things -- as the shovel goes into the ground? Thanks for any color on all of that."
+    },
+    {
+      "speaker": "Giordano Albertazzi Vertiv Holdings",
+      "company": "Co",
+      "role": "Chief Executive Officer, Director, President, Americas",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you for your question. So certainly, we call a 30%, 35% trailing 12 a strong trajectory and one that can sustain us -- our growth long term. So we certainly like that range a lot and it's a range that reflects strength in the market for Vertiv. To your question about how we book campuses, I've been vocal about the fact that it is very, very important to be in the first part of a campus or a development as affiliated companies. JULY 24, 2024 / 3:00PM GMT, Q2 2024 Vertiv Holdings Co Earnings Call then capacity gets expanded over time. But the way we book is PO-by-PO, there's no other way. We get a PO; we book a PO. And we called an order only what is actually truly legally binding. So really -- it's really about what customers order actually from us. Operator Nicole DeBlase, Deutsche Bank."
+    },
+    {
+      "speaker": "Nicole DeBlase Deutsche",
+      "company": "Bank",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you. Good morning, guys. So I want to spend some more time on orders just because I think this is a big investor concern and what's kind of reflected in the market today. So I guess the assumption that you get to 10% to 15% growth in the third quarter implies like a 20% step down sequentially. Like what is that founded in? Are you guys just kind of making a conservative assumption that, hey, we've had a few quarters of really strong large project orders and that may not continue. And then are you actually seeing like large orders in the pipeline start to diminish because you've booked so many large orders? Just trying to get a sense of how you come to that 10% to 15% growth year-on-year and if we could be sitting here three months from now with another positive price from an order perspective? Thank you."
+    },
+    {
+      "speaker": "Giordano Albertazzi Vertiv Holdings",
+      "company": "Co",
+      "role": "Chief Executive Officer, Director, President, Americas",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Well, thank you for the question, Nicole. Certainly, a little bit paradoxical to think that the concern is -- orders are a concern after two quarters of almost 60% year on year. But I hear you. As I said, the pipeline continues to be strong. And again, the pipeline reflects the dynamics of the market and a testament to a very strong visibility that we have in the market commercially and are just the way we understand the market. But again, the message is not different than the message that we gave, if you will, a quarter ago. It's just that it's that message with more good news on top of that as the good news is strength in the second quarter actual orders. So I continue to be very, very optimistic about the way the market is evolving and our position in the market. We like the trajectory of our pipelines. And we like also the way the pipelines are shaping up in the rest of the world. Of course, we know that's very, very strong in the Americas. So AI dynamics are playing in a favorable manner. That said, again, sometimes receiving an order, the kind of first day of the quarter or the last day of the quarter can swing things around. So again, let's not be too obsessed about the individual quarter, it is important. We are very proud about what we printed in second quarter, and let's make sure that we keep an eye on the trajectory -- on the long-term trajectory and the long-term trajectory is very strong. Operator Mark Delaney, Goldman Sachs."
+    },
+    {
+      "speaker": "Mark Delaney Goldman",
+      "company": "Sachs",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yes, good morning. Thanks for much for taking my question, which is on pricing. Vertiv have been expecting a bit more than $60 million of net price cost positivity for this year. Can you speak qualitatively on how the pricing environment has evolved? And are you seeing that pricing become any more competitive and new programs that come up for bid, given increased competition in certain parts of the industry? And if so, is that potentially limiting the degree of price cost positivity over the longer term? Thank you."
+    },
+    {
+      "speaker": "Giordano Albertazzi Vertiv Holdings",
+      "company": "Co",
+      "role": "Chief Executive Officer, Director, President, Americas",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. Absolutely. We continue to operate in a market that is favorable from a demand and supply balance standpoint. We have very strong competitive advantages in the market. So we feel good about what we're doing. We feel very good about the pricing muscles and pricing strength that we have built over the last two, three years. So things continue to be encouraging in that respect. Of course, we operate in an environment that is mature as a market. Our customers are sophisticated players. So we continue to be adamant about the fact that our price cost equation will continue to be positive in the future, and we feel good about our position in the market and our ability to price the value that we deliver in terms of technology, in terms of service level, in terms of access to capacity to our customers. affiliated companies. JULY 24, 2024 / 3:00PM GMT, Q2 2024 Vertiv Holdings Co Earnings Call Operator Andy Kaplowitz, Citigroup."
+    },
+    {
+      "speaker": "Andy Kaplowitz",
+      "company": "Citi",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Good morning, everyone."
+    },
+    {
+      "speaker": "Giordano Albertazzi Vertiv Holdings",
+      "company": "Co",
+      "role": "Chief Executive Officer, Director, President, Americas",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Hello, good morning."
+    },
+    {
+      "speaker": "Andy Kaplowitz",
+      "company": "Citi",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "David, you talked about a lot -- David talked a lot more about productivity. And so maybe Gio or David, you could talk a little bit more about the opportunities you see there. Is there any risk that you could lose any of those productivity improvements as you continue to ramp in areas such as liquid cooling? And then if there is a lot of room on the productivity side, pricing is still improving, you keep leveraging double-digit revenue. Could you end up with a margin way higher than that 20% target you have for '26?"
+    },
+    {
+      "speaker": "Giordano Albertazzi Vertiv Holdings",
+      "company": "Co",
+      "role": "Chief Executive Officer, Director, President, Americas",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I would say, this is certainly premature. We know that, that 20% has always been a 20%-plus not necessarily silly. We are very happy about the trajectory we're on right now. But quite adamantly, and we've been vocal about that forever and certainly in the introductory comments here, the -- far from full potential. But when we look at the way, for example, liquid cooling is ramping up the way top line is heading as reflected in the current guidance, et cetera, all elements that play in favor of us being able to be more effective in achieving our efficiency, leveraging volume, et cetera. So I'd say that productivity is a big element in our value equation, not the soul, of course, but an important one. And what we see happening in terms of business trajectory, but also internally, the improvements and the gains that we see being realized are encouraging in that direction. But again, we are certainly operating the company much better. There is so much more we can do. And that will be our forever mantra no matter how strong we can be."
+    },
+    {
+      "speaker": "Andy Kaplowitz",
+      "company": "Citi",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Appreciate it. Operator Scott Davis, Melius Research."
+    },
+    {
+      "speaker": "Scott Davis Melius",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hey, good morning, everyone. (technical difficulty) You devoted a whole slide to service. So obviously, you think there's a lot of potential here. I guess my question is kind of what is the key KPI here? Is it just -- can you price around kind of guaranteed uptime? Is it just having field service guys on site, you can just price out that labor. I mean, what is kind of the value to you guys and to the customer, I guess, more explicitly? I know it's kind of a big topic overall, but it wasn't 100% clear to me off the slide. But -- and then also just the potential, I mean, if you devote all slide to it, clearly, you think it can become pretty material, I would assume by 2025. So anyway, I know there's a lot there, just answer what you want, and I'll pass it on. Thanks."
+    },
+    {
+      "speaker": "Giordano Albertazzi Vertiv Holdings",
+      "company": "Co",
+      "role": "Chief Executive Officer, Director, President, Americas",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. I think certainly, a question that we deserve a market-positive conversation. I'll try to go to what are the key metrics here. I think there are two dimensions to that. One is for us, clearly, recurrent revenue is an important aspect, having a large installed base and being able to attach to that installed base. So all things that we measure obsessively, and we track and we make sure that we operate very well from a commercial but also kind of a delivery standpoint. So I call our service business quite mature -- very mature in that sense. And clearly, with the current revenue with the attach rates, it's quite valuable set of revenue that delivers for us in terms of productivity -- sorry, in terms of margins and profitability. But there is another element of help for us that is a service being a differentiator. That makes a difference and plays a very important role in our affiliated companies. JULY 24, 2024 / 3:00PM GMT, Q2 2024 Vertiv Holdings Co Earnings Call market share -- project solutions market share, let's say, equation and competitive advantages. So it is very, very important in that respect. As I mentioned, when we were going through the slides, the importance of service is enormous for our customers, and we are very proud been able to support the industry with that. The example that I made, let's say, at a high level, obviously, given the time constraints when we were going through the slide is a liquid cooling system. So here, we have really a $2 million rack that is kept alive, if you will, by a secondary so-called liquid cooled circuit. And there is an innerture on that, that is in second. So differently from the past, when you would have an entire room helping if something goes wrong in a thermal system. Here you have your CDU and your two -- or multiple $2 million racks. So you have to be able to see things before they happen. And when you see something, you will be able to intervene in second. So the value is really the utilization and the resilience of our customers' infrastructure, and it is enormously important. There is an element as well, another element is enabling deployment. And especially as technologies become more complex as they are, everything that is project commissioning, et cetera, is of an increasingly impactful importance. Operator Michael Elias, TD Cowen."
+    },
+    {
+      "speaker": "Michael Elias TD",
+      "company": "Cowen",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. Thanks for taking the question. When I look at the underlying data center market, I see that supply and demand are meaningfully imbalanced. And when I take a look at spot data center market pricing, I see it's up about 20% year-over-year over the last few years. Then when I drill that down into the unlevered yields that data center operators are generating, I mean, they're seeing yield expansion to the tune of 100 basis points to 150 basis points year-over-year, which says to me that their returns are expanding faster than their cost to build and their cost of capital. So when we think through the price cost dynamic for Vertiv, my question for you is, should price grow linearly with the increase in underlying data center spot market pricing given that, that kind of price increase to the end customer would actually have no impact on their underlying returns. I just want to get a better sense of how to think about the relationship between data center price strength and your ability to price to the data center operators. Thanks."
+    },
+    {
+      "speaker": "Giordano Albertazzi Vertiv Holdings",
+      "company": "Co",
+      "role": "Chief Executive Officer, Director, President, Americas",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Well, I think it's really specific customer by customer and technology by technology, different technology may have a different profile of, let's say, supply and demand balances. So it's hard to define general rule here. Certainly, what we see is in a market environment where vendors and especially a player like Vertiv with strong value proposition can translate that into value to our customers and translate that into price. Now we'll, of course, go through all the aspects of your question and further reflect on that. But I'd say that we continue to operate in an environment that is favorable but with players that are certainly very savvy, especially large colos and hyperscalers in their, let's say, buying dynamics. Operator Jeff Sprague, Vertical Research Partners."
+    },
+    {
+      "speaker": "Jeff Sprague Vertical Research",
+      "company": "Partners",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hey good day, everyone. I was wondering if we could just maybe put a finer point on share and how you're measuring it. Obviously, there's a lot of concerns about competition. You've heard before, you're hearing on the call. But when we look at your order growth rate and the like, it doesn't appear to me there's a share issue. But you did mention you believe you're gaining share. So I wonder if you could just tell us how you're measuring that? How fast do you think the market is growing? Are you thinking about the answer to this question in terms of dollars per megawatt or some other metric? And just help us get a little more comfortable with how your business is performing relative to the competitive set? affiliated companies. JULY 24, 2024 / 3:00PM GMT, Q2 2024 Vertiv Holdings Co Earnings Call"
+    },
+    {
+      "speaker": "Giordano Albertazzi Vertiv Holdings",
+      "company": "Co",
+      "role": "Chief Executive Officer, Director, President, Americas",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Certainly, our -- well, thank you for your question, Jeff, first of all. And the -- certainly, our order trajectory is encouraging from the point of view of the signals that it gives us in terms of market share. There are parts of the market that are relatively new as well. There are parts of the markets that are quite mature in terms of adding access to all the market information. So again, the answer should be specific to the technology. But in general, if we think about what we gave in November in terms of growth of the cloud and colocation in the 14%, 17%, of course, our orders are encouraging. Market share is always something that is little bit measured ex post, but the trajectory we are on certainly suggests that the outlook is positive in that respect. You were asking as well about dollars per megawatt, let's say, vision or thoughts right now, at this stage, not very different from what we shared with all of you in the past. So I think, again, in the 2.53 non-AI and 335 million per megawatt of TAM for Vertiv in the AI space. So that is for us still valid, let's say, order of magnitude. Operator Thank you. I would now like to hand it back to Giordano Albertazzi, for some closing remarks."
+    },
+    {
+      "speaker": "Lynne Maxeiner Vertiv Holdings",
+      "company": "Co",
+      "role": "Investor Relations",
+      "speaker_type": "other",
+      "section": "qa",
+      "text": "Hi. Yeah, operator, I think we have time for a couple more questions. There's a few more in queue. Go ahead and take those. Operator Absolutely, I apologize. Nigel Coe, Wolfe Research."
+    },
+    {
+      "speaker": "Nigel Coe Wolfe",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks for saving me there. I was drowning. Thanks. Okay. Yeah. So look, I would like to, I think, take Jeff's kind of line of thought a little bit differently. Obviously, I tend to agree with the view that your front-end capability service network is a big advantage. The other side of the coin is you've got a bunch of Asian server OEMs sort of trying to integrate around the server and they're there with CDUs, et cetera. Maybe just talk about their ability to do that. And maybe a bit more specifically, what sort of win rate are you seeing on liquid cooling right now?"
+    },
+    {
+      "speaker": "Giordano Albertazzi Vertiv Holdings",
+      "company": "Co",
+      "role": "Chief Executive Officer, Director, President, Americas",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, I'll go back, thank you for your question, Nigel. And again, as mentioned when we were going through the slides, it's not just about having a widget. It's about having the ability -- having, first of all, very strong technology as we do, but then having very strong controls that are an important part of the liquid, especially CDU direct-to chip equation, having the right manufacturing processes, their ability to scale and services. Clearly, we always evaluate our competitors very, very seriously. But when you think about the system integrators or other players in that space, we should not necessarily look at them as necessarily competitors. Very often, they pay a hybrid role, and they can be a route to market as well. So things are a little bit more nuanced then they may appear at the first glance. So when it comes to win rates, we will not go in the details of the win rates at this stage. But I think it's important to say that we are very, very happy with the trajectory of orders and backlog that we have in the liquid cooling space across the portfolio, but in particular, in the CDU space. Very, very, very happy. Yeah, but I will not go into detail of that at this stage. Operator (Operator Instructions) Noah Kaye, Oppenheimer Funds. affiliated companies. JULY 24, 2024 / 3:00PM GMT, Q2 2024 Vertiv Holdings Co Earnings Call"
+    },
+    {
+      "speaker": "Noah Kaye Oppenheimer",
+      "company": "& Co., Inc.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you. So with enterprise on-prem migration of workloads to the cloud, perhaps getting into a little bit more of a new equilibrium here, you mentioned an uptick in the outlook for enterprise in the Americas. To what extent was that contemplated in the sort of 3% to 5% outlook you gave at the November Investor Day? Could we potentially be seeing growth starting to pick up versus that rate and is that something that you're seeing in the pipeline currently?"
+    },
+    {
+      "speaker": "Giordano Albertazzi Vertiv Holdings",
+      "company": "Co",
+      "role": "Chief Executive Officer, Director, President, Americas",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Well, thanks for the question. Good point, in the sense that when we talked about that 3% to 5%, we're saying that, that may be -- as you will, augmented expanded by the implications of AI as AI matures and becomes more available and not just on cloud and colo. So I'd say that it's early stage, but we gave a different color for a reason on slide 4, I think it was. And it is exactly that pipeline start to indicate that things may be better in the enterprise part of the market than we had in our November model. But it's yet a little bit premature to -- within aspect of the model, but it's something that we continue -- we do constantly, but yes, we see positivity in the pipeline and certainly in the direction of faster growth in enterprise than originally expected. Operator Steve Tusa, JPMorgan."
+    },
+    {
+      "speaker": "Steve Tusa",
+      "company": "JPMorgan",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hey, thanks for taking the follow-up. Just a question on cash. Seasonally, you guys usually kind of flat in the -- from the second to third and then up nicely in the fourth. I know that there's some timing on down payments involved with the contract or the deferred revenue, however you want to call it. Are you -- why are you guys not expecting that this year? Is there some timing around that?"
+    },
+    {
+      "speaker": "David Fallon Vertiv Holdings",
+      "company": "Co",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. I think there's timing. If you look at our advanced payments, and you can look at the deferred revenue line in the balance sheet, that was up $150 million in Q2 and not surprising based on the quantum of the orders we had in Q2. So effectively, that's a prepayment and that would impact the cash flow timing going forward. So I think I mentioned we would expect about $440 million for the rest of the year, and that should be pretty uniform. But similar to orders, there is an element of timing and lumpiness especially with some of these advanced payments. But I think we're comfortable with the 220 for Q3, Q4. Operator Nigel Coe, Wolfe Research."
+    },
+    {
+      "speaker": "Nigel Coe Wolfe",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks for the follow-up. I just wanted to talk about the margins in APAC mainly. It's good to see the Americas and EMEA having this competition. Just wondering when APAC is going to get involved in this competition. So as we see the inflection in APAC coming through, what kind of income or margin should we expect as we go over the next couple of years?"
+    },
+    {
+      "speaker": "David Fallon Vertiv Holdings",
+      "company": "Co",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. I think if you look at APAC, they're probably not going to be an active participant in the regional high, and there's some market differences there, notably with China. But if you look on a year-to-date basis, even though they were down in Q2 versus prior year and some of that is driven by the onetime expense. But on a year-to-date basis, they're still 100 basis points higher than they were last year. We think that year-over-year variance will expand in the second half and VOS principles work in APAC, just like they do in the Americas and EMEA. So we are doing the same things in APAC as we are doing in the rest in the world even though from a relative basis, maybe a step below APAC and America, we expect expansion of operating margins in APAC for the rest of the year and also going forward. Operator Brett Linzey, Mizuho. affiliated companies. JULY 24, 2024 / 3:00PM GMT, Q2 2024 Vertiv Holdings Co Earnings Call"
+    },
+    {
+      "speaker": "Brett Linzey Mizuho Securities",
+      "company": "USA",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi guys. So thanks. Good day, everyone. So you noted in the slides managing timing constraints around construction and power availability. I guess, is there a way to dimension how much of the current backlog is permitted, resourced, ready to break ground versus the portion that might be a little bit more data uncertain? Just trying to get a better sense for the visibility in the next year?"
+    },
+    {
+      "speaker": "Giordano Albertazzi Vertiv Holdings",
+      "company": "Co",
+      "role": "Chief Executive Officer, Director, President, Americas",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Well, thanks for you question. When we talk about permitting and power constraints, we talk about in general, the industry as a whole. So it's not something that necessarily is applicable to our backlog. We believe that what we have in backlog we're reflecting our customers' requested delivery days already accounts for all those aspects. It could be a little bit kind of adjusting exactly when a given site is ready, but nothing unusual and nothing different than what has happened in the industry for four years. So if we go back to some of the expectations in the market for growth, a very, very strong double-digit growth in the industry and infrastructure in general, we've said and we said that already in our November Investor Day, say, hey, guys, there are, how can I say, aspects that are influencing, factors that are reducing this exuberance to levels of market growth that, again, going back to what we were saying in the cloud and colocation is really, let's say, 15%, 16%, 17% CAGR. So growth rates that are very, very respectable in many, many respect. But no, my comment was -- did not have to do with our backlog. Our backlog is based on the requested delivery dates that we get on the PO that we receive from our customers, and it could be a minimal adjustment depending on the needs. Hopefully, addressing your question and concern. Operator This does conclude our question-and-answer session. I would like to turn the conference back over to Giordano Albertazzi for any closing remarks."
+    },
+    {
+      "speaker": "Giordano Albertazzi Vertiv Holdings",
+      "company": "Co",
+      "role": "Chief Executive Officer, Director, President, Americas",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Well, very good and thank you, Brika. Thanks, everyone, for joining us today. A big thank you for your questions. And first and foremost, I'd like to thank the Vertiv team for another quarter of strong performance. So really appreciate everyone's support and have a great rest of your day today. Operator Thank you. The conference call has now concluded. Thank you for attending the presentation. You may now disconnect from the call. In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. affiliated companies."
+    }
+  ]
 }

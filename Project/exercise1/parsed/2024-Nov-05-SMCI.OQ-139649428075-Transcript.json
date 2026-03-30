@@ -4,5 +4,606 @@
   "quarter": "2024Q3",
   "sector": "IT",
   "filename": "2024-Nov-05-SMCI.OQ-139649428075-Transcript.pdf",
-  "segments": []
+  "segments": [
+    {
+      "speaker": "Quinn Bolton Needham",
+      "company": "& Company",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Operator Thank you for standing by. My name is Tamia, and I will be your conference operator today. At this time, I would like to welcome everyone to the Super Micro Computer, Inc. SMCI US Q1 FY25 business update call. With us today are Charles Liang, Founder, President and Chief Executive Officer; David Weigand, CFO; and Michael Staiger, Senior Vice President of Corporate Development. (Operator Instructions)"
+    },
+    {
+      "speaker": "Michael Staiger Super Micro Computer",
+      "company": "Inc",
+      "role": "Vice President, Corporate Development",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Good afternoon, and thank you for attending Super Micro's first-quarter fiscal 2025 business update conference call for the first quarter, which ended September 30, 2024. With me today are Charles Liang, Founder Chairman and Chief Executive Officer, David Weigand, Chief Financial Officer. At the end of today's prepared remarks, we will have a Q&A session for sell-side analysts. I will make additional remarks prior to beginning of the Q&A, but the company will not address any questions regarding the recent decision of our independent auditor to resign and the delay in the filing of the company's 10-K. During today's conference call, Supermicro will address business and market trends from the first quarter of fiscal '25, including our financial outlook and operations, our strategy, technology and its advantages, our current and new product offerings, and competitive industry and economic trends. We will discuss estimated financial results but reference any financial results are preliminary and subject to change based on finalized results contained in future filings with the SEC. By now, you should receive a copy of today's news release that was issued after the close of market and is posted on our website where this call is being simultaneously webcast. Any forward-looking statements that we make are based on facts and assumptions as of today, and we undertake no obligation to update them. Our actual results may differ materially from the results forecasted, and reported results should not be considered as an indication of future performance. A discussion of some of the risks and uncertainties relating to our business is contained in our filings with the SEC. And we refer each of those public filings, including our most recent annual report on Form 10-K. During this call, all financial metrics and associated growth rates are non-GAAP measures other than revenue and cash and investments. This call is being broadcast live on Super Micro Investor Relations website is being recorded for playback purposes. An archive of the webcast will be available on the IR website and its property, Supermicro. Our second quarter fiscal 2025 prior period begins at the close of business Friday, December 13, 2024. With that, I will turn it over to Charles. affiliated companies. NOVEMBER 05, 2024 / 10:00PM GMT, Q1 2025 Super Micro Computer Inc Earnings Call"
+    },
+    {
+      "speaker": "Charles Liang Super Micro Computer",
+      "company": "Inc",
+      "role": "Founder, President, Chief Executive Officer & Chairman of the Board",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thank you, Michael. Before we dive into the first quarter details, I would like to share some thoughts on the recent challenges that the company has experienced. As we have emphasized in our filed since these challenges emerge, we remain confident in our previous financial reports, And as previous announced, we are actively in the process of engaging a new auditor. We are working with urgency to become current again with our financial reporting. I'm pleased to report that the special committee has to date provided the following statement to Supermicro, which is also included in our press release. I quote, the Special Committee has completed its investigation based on a set of initial concerns raised by Ernst & Young. Following a three-month investigation led by Independent Counsel, the committee’s investigation to date has found that the Audit Committee has acted independently and that there is no evidence of fraud or misconduct on the part of management or the Board of Directors. The committee is recommending a series of remedial measures for the company to strengthen its internal governance and oversight functions, and the committee expects to deliver the full report on the completed work this week or next. The Special Committee has other work that is ongoing but expects it to be completed soon, end of quote. The special committee has done otherwise provided any additional details or information. We look forward to receiving the committee full report in the near future. We do not believe the current challenges affect Super Micro's ability to service our customers and partners, as we continue to grow rapidly and strongly with the AI revolution. And my confidence in Supermicro and its staff remains stronger than ever. Here are some key quarterly highlights. The preliminary fiscal Q1 net revenue was in the range of $5.9 billion to $6 billion. At the midpoint, this is up 181% year on year, driven by strong AI demand from our old and new customers. It was one of our strongest first quarters in history, despite many customers are waiting for the coming soon new-generation GPU chips. The preliminary fiscal Q1 non-GAAP earning in the range of $0.75 to $0.76 per share was 30% last year, approximately 122% year-on-year gross rate. The preliminary non-GAAP gross margin approximately 13.3%. And non-GAAP operating margin is approximately 9.9%. Both were higher than the previous quarter as customer mix improved and supply chain cost and expedite shipping easy for DLC components. We have depleted the world's largest DLC AI SuperCluster with 100,000 customers. NVIDIA GPU and the record time to deployment, TPD, as well as time to online. This milestone achievement reflects our engineering expertise and complex logistics capabilities for large-scale AI infrastructure deployment. Leverage in our [data center building product solution], DCBPS . We are now building a full-scale liquid-cooled data center with our rack-scale plug-and-play solutions, featuring our latest DLC liquid-cooling technology at our leading pace. DCBPS, data center building product solution, can reduce the time required for customers to build a new data centers from roughly two years to a few quarters, significantly improving data center, TTD, TTO; time to delivery and time to online; and cost for customer's AI IT infrastructure. Data center building block solution is also helping to accelerate the adoption of DLC liquid cooling, driving efficiency and performance, while reducing customer's [whole packs], achieving greener community. We expect 15% to 30% of new data centers will adopt liquid cooled [infrastructure] in the next three months. The DLC volume is at least 10 times more than last year. I mean, this year, DLC market share will be at least 10 times more than last year due to the DLC liquid cooling product maturity and the rapid growth of AI. To keep the DLC solutions performing at their best, our new super cloud composer, SCC, is capable of end-to-end management from chip level all the way to rack level and data center cooling towers, making it the most powerful DLC data center management software on the market today. SCC further simplifies provisioning of highly automated software supporting customers with rapidly changing affiliated companies. NOVEMBER 05, 2024 / 10:00PM GMT, Q1 2025 Super Micro Computer Inc Earnings Call workload requirements. With the addition of SCC, Supermicro is well prepared to service many more customers and grow the DLC liquid cooling data center market share. On the production front, we are in the process of completing our new Malaysia campus, where we expect to begin manufacturing later this quarter. Additionally, we have been nonstop expanding our facilities in Silicon Valley to increase our DLC liquid cooling rack scale production capacity. Now they are focusing 15 megawatt of power and able to produce more than 1,500 DLC GPU racks per month, with plans to scale up for them. Our Taiwan and Europe production facilities also are growing at a quick pace. Moreover, we are planning to expand it to several other global manufacturing locations in the near future. By leveraging our strengths in technology, innovation, product design, user quality, supply chain management, deployment, and data center services, we are pushing our goal to transform Supermicro into a leading USA, as well as worldwide AI, IT infrastructure company. We are off to a strong start in fiscal 2025. Our total IT solutions agreements are rapidly scaling and our new product development are progressing smoothly. Our NVIDIA GB200 NVL72 is ready. And the 10U air cooled and 4U liquid cooled B200 RAM (inaudible) are fully capacity-ready. The brand new 200 kilowatt plus super-wreck architecture co-developed with NVIDIA, which provide near 100% DLC. I mean, the whole rack, almost no cooling fan required. It's also on the right track. The new ship-to-rack architecture will be able to achieve power usage effectiveness PUE close to 1.0 to complete our BorrowDisk AI portfolio. Now, AMD MI300 and MI325 platforms and Intel W3 solutions are ready to go as well. Our data center building block solution is attracting more new customers. And our long-term investment in DLC liquid cooling give us pain of order cars quality and volume capacity, given us a sustainable competitive age and economics of scale. Before passing the code to David Weigand, our CFO, I want to thank our partners, customers, investors, and [Shibu Michael in Greece] and express my appreciation for their patience and support until we can provide more information about our 10-K filing status. Our strong foundation, data center building block solution, and DLC liquid cooling bring computing leadership, not only reduce energy costs for our customers, but also contribute to a healthier mother Earth. I believe we are well positioned for strong future growth."
+    },
+    {
+      "speaker": "David Weigand Super Micro Computer",
+      "company": "Inc",
+      "role": "Senior Vice President & Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thank you, Charles. We remind investors that the unaudited interim financial information in this report is preliminary. We expect unaudited Q1 fiscal year '25 revenues in the range of $5.9 billion to $6 billion. up 181% year over year and up 12% quarter-over-quarter versus our guidance of $6 billion to $7 billion. Growth was driven by strong demand for direct liquid cooled, rack scale AI GPU platforms. AI contributed over 70% of revenues across enterprise and cloud service provider markets. The expected Q1 non-GAAP gross margin is approximately 13.3% versus 11.3% last quarter due to product and customer mix and lower costs coupled with higher manufacturing efficiencies on DLC AI GPU clusters. The Q1 non-GAAP operating margin is approximately 9.9% and -- excluding $67 million in stock-based compensation expenses versus 7.8% in Q4. I -- the Q1 estimate for other income and expense is expected to be a net expense of approximately $9 million, consisting of $17 million in interest expense, offset by $8 million in interest and other income. The Q1 tax rate is approximately 14% for GAAP and 16% for non-GAAP. The Q1 estimate for GAAP net income is $433 million to $443 million, and non-GAAP net income is $483 million to $493 million. Non-GAAP net income excludes $50 million in stock-based compensation expenses, net of the related tax effects of $17 million. The split adjusted Q1 GAAP diluted earnings per share range is approximately $0.68 to $0.70 versus prior guidance of $0.60 to $0.77. affiliated companies. NOVEMBER 05, 2024 / 10:00PM GMT, Q1 2025 Super Micro Computer Inc Earnings Call The Q1 non-GAAP diluted EPS range is approximately $0.75 to $0.76 versus guidance of $0.67 to $0.83. We expect a Q1 GAAP diluted share count of $639 million and a non-GAAP diluted share count of $648 million. Operating cash flow is approximately $407 million, an improvement of $1 billion quarter over quarter. Q1 closing inventory was approximately $5 billion. CapEx for Q1 was $42 million. Positive free cash flow was $365 million for the quarter. The Q1 closing balance sheet cash position was $2.1 billion and total debt was $2.3 billion with bank debt of $0.6 billion and convertible bond debt of $1.7 billion, resulting in an improved Q1 net cash position of approximately negative $0.2 billion versus a net cash position of negative $0.5 billion last quarter. Turning to the balance sheet and working capital metrics compared to last quarter. The Q1 cash conversion cycle was 97 days versus 94 days in Q4. Days of inventory was 85 days, compared to the prior quarter of 82 days. Days sales outstanding for Q1 was 41 days versus 37 days last quarter, while days payables outstanding was 29 days from 25 days last quarter. For the second quarter of fiscal 2025, we expect net sales in the range of $5.5 billion to $6.1 billion. We expect GAAP and non-GAAP gross margin down 100 basis points sequentially due to customer and product mix. We expect GAAP and non-GAAP operating expenses up approximately $34 million sequentially, and GAAP and non-GAAP other income and expense to be a net expense of approximately $7 million. We expect GAAP net income per diluted share of $0.48 to $0.58, and non-GAAP net income per diluted share of $0.56 to $0.65. The company's projections for GAAP and non-GAAP net income per diluted share assume a tax rate of 14% and 15%, respectively, a diluted share count of 640 million shares for GAAP and a diluted share count of 648 million shares for non-GAAP. The outlook for Q2 of fiscal year 2025 and GAAP net income per diluted share includes approximately $54 million in expected stock-based compensation expense and other expenses net of related tax effects of $14 million, which are excluded from non-GAAP net income per diluted share. The final financial results reported for this period may differ from the results reported here based on the review by the new independent registered public accounting firm to be appointed. We are working diligently to select a new independent registered public accounting firm and complete our fiscal year '24 audit. Michael, we're ready."
+    },
+    {
+      "speaker": "Michael Staiger Super Micro Computer",
+      "company": "Inc",
+      "role": "Vice President, Corporate Development",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you, David. Before we get into questions, we appreciate you may have further questions about the special committee's findings as well as our audit time line. We're not in a position to address those questions on the call today. So with that, operator, we'll take a first question. Operator (Operator Instructions) Michael Ng, Goldman Sachs."
+    },
+    {
+      "speaker": "Michael Ng Goldman Sachs Group",
+      "company": "Inc",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hey, good afternoon. Thank you for the question. Just on the business fundamentals. Revenue came in at the lower end of the guidance. I was wondering if you could speak to that? And whether you're seeing any market share losses as a result of some of the delayed financial filings? And how do you feel about the $26 billion to $30 billion full-year revenue guidance that you previously gave out? And are you hearing from any customers that once this resolution occurs, they'll be able to step up some of their orders? Or is it a gating factor? Thank you. affiliated companies. NOVEMBER 05, 2024 / 10:00PM GMT, Q1 2025 Super Micro Computer Inc Earnings Call"
+    },
+    {
+      "speaker": "Charles Liang Super Micro Computer",
+      "company": "Inc",
+      "role": "Founder, President, Chief Executive Officer & Chairman of the Board",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Okay. Thank you for the question, Michael. Indeed, last quarter, revenue reduced a little bit. I guess the major reason because there are some customers within for the new chip, Blackwell, as you know. So people are waiting for the new solution and the new solution, I mean the Blackwell update, liquid cool or GP200 our solution in the ready. That's what we do on achieve. So I guess that's the major reason. And our capacity continue to grow, and our liquid cooling solution is fully related. Again, we can produce [1500] liquid cooling rack for months now. So we are very ready. That's what we're doing for the new chip to be available. And then I believe we can grow our market share and revenue after that."
+    },
+    {
+      "speaker": "Michael Ng Goldman Sachs Group",
+      "company": "Inc",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. And for David, just on the full year guidance."
+    },
+    {
+      "speaker": "David Weigand Super Micro Computer",
+      "company": "Inc",
+      "role": "Senior Vice President & Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, Michael, we're not providing annual guidance on this call."
+    },
+    {
+      "speaker": "Michael Ng Goldman Sachs Group",
+      "company": "Inc",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. Thank you, Charles. Thank you, David. Operator Samik Chatterjee, JPMorgan."
+    },
+    {
+      "speaker": "Samik Chatterjee PMorgan Chase",
+      "company": "& Co",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you, guys. Thanks for taking my question. I guess maybe to sort of talk about the gross margins here. You had robust gross margins in the quarter, but you're guiding it down. It seems like maybe it's a bit more choppy in terms of gross margins depending on customer mix. Does the sort of progression before getting back to the 14% to 17% that you talked about earlier still remain sort of the base case? Or are you having to sort of discount more or be more aggressive on pricing on the current generation products? And as separate sort of a side question, just I know you're not commenting on related to the filings, but any management changes or any changes in how you operate that you're planning or thinking about to sort of overall improve things in terms of getting more sort of more disciplined around and more control around the financial reporting? Thank you."
+    },
+    {
+      "speaker": "Charles Liang Super Micro Computer",
+      "company": "Inc",
+      "role": "Founder, President, Chief Executive Officer & Chairman of the Board",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you, Samik. Yes, I mean it depends on new products, right, when new GPU chip available. As you know, whenever they are a new generation of technology, we have advantage to grow our market share and profitability. At the same time, our data center building block solution with SCC, Supermicro [composer], that provide full end-to-end solution, then for sure, we will gradually grow our gross margin and net margin. As to a management team, yes, we are always faster growing -- 2023, we grew 40% above. And then 2024, we grew more than double. And this year, again, we will have a big growth. So when companies are faster going, we continue to add more people, including senior management. So we are evaluating the possibility, including the possibility including before from special committee. And we -- by the nature, we continue to grow senior management team as well."
+    },
+    {
+      "speaker": "Samik Chatterjee PMorgan Chase",
+      "company": "& Co",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you. Thanks for taking my question. Operator Aaron Rakers, Wells Fargo. affiliated companies. NOVEMBER 05, 2024 / 10:00PM GMT, Q1 2025 Super Micro Computer Inc Earnings Call"
+    },
+    {
+      "speaker": "Aaron Rakers Wells Fargo Securities",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yeah, thanks for taking the questions. A couple if I can as well. I just -- Charles, I want to go back. I think when you guys had originally guided this quarter, I think the guidance range is like $6 billion to $7 billion. You came in at about $500 million at the midpoint short of that. I guess, given the comments to the prior question, are you assigning that to just the timing of Blackwell? Or was there something that changed in the demand or the timing of deployments this last quarter? I'd also add in there. I think last quarter when you had set that guide, I think there was like $800 million of sales that you had alluded to as being pushed out of last quarter into the fiscal first quarter. Did that all close? I'm just trying to bridge that gap for me between the delta and the guide relative to the business update today."
+    },
+    {
+      "speaker": "Charles Liang Super Micro Computer",
+      "company": "Inc",
+      "role": "Founder, President, Chief Executive Officer & Chairman of the Board",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Okay, good. Thank you. I mean this is complicated question. So I believe the major impact is new chip availability, because like we are cheap for sure is a much higher performance much better performance for dollars, right? And this thing will be available gradually. And Q1 hopefully, Q1 (inaudible) volume become much better. And so that's the major factor, I believe. As to our 10-K delay, it may impact a little bit how much I don't know yet, but a certain impact for sure. But hopefully not too big. As to the whole year, yes, today, we do not provide annual guidance basically with our [liquid cooling] edge, right, in last few months, we delivered more than 2,000 DLC. That, I believe, is a very high percentage for the whole liquid cooling market. So for the future growth, is still very optimistic."
+    },
+    {
+      "speaker": "Aaron Rakers Wells Fargo Securities",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yeah, okay. And then two other quick questions, if I can. So first of all, I mean, you mentioned $5 billion of inventory coming out of this quarter. Any thoughts of where that might trend coming out of this next quarter embedded in your outlook that you provided today? And then I apologize for asking, I know that you're not going to address the special committee dynamic. But -- any thoughts on the timing of an auditor of getting an auditor or sign anything you can share on that front? I appreciate that you ask we're not talking much about that, but I'm curious, any comments on that front. of getting an auditor assigned, anything you can share on that front. I appreciate that, yes, we're not talking much about that. But I'm curious to see any comments on that front."
+    },
+    {
+      "speaker": "Charles Liang Super Micro Computer",
+      "company": "Inc",
+      "role": "Founder, President, Chief Executive Officer & Chairman of the Board",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Okay. For inventory, maybe I can answer a little bit. I mean the company will continue to grow, I believe. So $5 billion level of inventory, I believe will continue. And as to the special committee investigation results today, I'm very happy to share some very positive innovation as for detail once it's available from them, we will share with the market."
+    },
+    {
+      "speaker": "David Weigand Super Micro Computer",
+      "company": "Inc",
+      "role": "Senior Vice President & Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And Aaron, we have no update with respect to the timeline that we talked about, as we mentioned earlier. (multiple speakers) We're working diligently to get that done, as I mentioned, as quickly as possible."
+    },
+    {
+      "speaker": "Aaron Rakers Wells Fargo Securities",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yeah. Thanks, guys. Operator (Operator Instructions) Ananda Baruah, Loop Capital. affiliated companies. NOVEMBER 05, 2024 / 10:00PM GMT, Q1 2025 Super Micro Computer Inc Earnings Call"
+    },
+    {
+      "speaker": "Ananda Baruah Loop Capital",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "yeah guys. good afternoon. Thanks for taking the questions. Two if I could. I guess the first is on gross margin sort of -- well, I guess really the question is, Dave, should we still expect it to improve as we go through the fiscal year as you were previously anticipating?"
+    },
+    {
+      "speaker": "David Weigand Super Micro Computer",
+      "company": "Inc",
+      "role": "Senior Vice President & Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. So by the way, we guided cautiously in this first quarter on our margin. So we were glad to be able to exceed it. And so in like fashion, we're guiding conservatively into the second quarter. And so we still have our target margin that we're shooting for. And so we're doing everything that we can to improve that."
+    },
+    {
+      "speaker": "Charles Liang Super Micro Computer",
+      "company": "Inc",
+      "role": "Founder, President, Chief Executive Officer & Chairman of the Board",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. The competition we still putting some pressure, as you know, but Blackwell, I mean a new technology push and feel very optimistic or space tends to grow. And as I mentioned, the data center building product solution including SCC, SuperCloud Composer, that provide end-to-end management from chip level to rack scale to the whole data center. So I believe all of those will help our growth. And then we also start to provide -- able to provide the customer on-site deployment, on-site cable and service. So all of those are very positive to our business. So I feel very positive to continue grow business."
+    },
+    {
+      "speaker": "Ananda Baruah Loop Capital",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yeah. Thanks for the margin context. I appreciate that. And the follow-up is just I guess just a general working capital financing question. This question comes up -- has come up with a lot with investors. And could you just give us -- really, the question is can you explain sort of the access to capital situation as we go forward? And I guess, really, how would you like the investment community to think about the access to capital situation?"
+    },
+    {
+      "speaker": "David Weigand Super Micro Computer",
+      "company": "Inc",
+      "role": "Senior Vice President & Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure. So Ananda, we put in the last eight, nine months, $4 billion into working capital from two equity raises and one convert. And so it really left us with a good working capital situation, exiting Q4 at a run rate of $6 billion. So again, we're forecasting a little down in Q2. So that takes care of our working capital needs for a while. So access, we have a very strong, growing and profitable company. And so we don't believe that we'll have any impediments to raising working capital."
+    },
+    {
+      "speaker": "Charles Liang Super Micro Computer",
+      "company": "Inc",
+      "role": "Founder, President, Chief Executive Officer & Chairman of the Board",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. Every quarter, we are making a reasonable good net profit, though. So basically, we should be in a good shape."
+    },
+    {
+      "speaker": "Ananda Baruah Loop Capital",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay, guys thanks sdo much. Thank you. Operator George Wang, Barclays."
+    },
+    {
+      "speaker": "George Wang Barclays Capital",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hey, guys. Thanks for taking my question. I have two quick ones. Firstly, can you kind of double-click on which quarter do you think that you will start booking the Blackwell revenue? Last time, you guys alluded to sometime in the June quarter. Just curious whether that is still on track. Just any kind of high level in terms of when do you think the (inaudible) is going to show up in the P&L?"
+    },
+    {
+      "speaker": "Charles Liang Super Micro Computer",
+      "company": "Inc",
+      "role": "Founder, President, Chief Executive Officer & Chairman of the Board",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, very big question. Indeed, we're asking NVIDIA every day. So I hope their production can go smooth and go for high-volume medicine. And once they have cheap available -- our solutions are fairly ready. So we continue to work with them very closely to develop a current MVL 72 and B200 liquid cool and air cool. And we also designed some really enhance direct scale solution. affiliated companies. NOVEMBER 05, 2024 / 10:00PM GMT, Q1 2025 Super Micro Computer Inc Earnings Call So in terms of total solution, we have a very strong offering, waiting for the chip. So we need NVIDIA the quickest approval. Thank you."
+    },
+    {
+      "speaker": "George Wang Barclays Capital",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it. That's helpful. Just a quick one, if I can. Just how to think about gross margin in the area of Blackwell versus Hopper? Just curious if you can talk about puts and takes on the gross margin for the GB 200, especially in light of reference design from NVIDIA, any kind of incremental value add from Supermicro just as we kind of hand to the Blackwell, just in relation to the profitability and the kind of margin profile? Thank you."
+    },
+    {
+      "speaker": "Charles Liang Super Micro Computer",
+      "company": "Inc",
+      "role": "Founder, President, Chief Executive Officer & Chairman of the Board",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you. By the way, George, here, we estimate are more competitive, right? Because people know AI market is so big now, wo with the Blackwell, we expect more competition. But at the same time, we also were prepared by our data center building block solutions, with our end-to-end SuperCloud Compose and with our on-site deployment, cabling service business. So those are new. And I believe, we are able to provide a very unique, very efficient time to delivery, time to online advantage to customers. So yes, competition is strong, but I believe we are in a good position."
+    },
+    {
+      "speaker": "George Wang Barclays Capital",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay, thanks a lot, Charles. I'll go back in the queue. Operator Nehal Chokshi, Northland."
+    },
+    {
+      "speaker": "Nehal Chokshi Northland Securities",
+      "company": "Inc",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yes, thank you for taking my question. A couple of questions, please. First, Dave, any 10% customer exposures in the quarter and the upcoming quarter?"
+    },
+    {
+      "speaker": "David Weigand Super Micro Computer",
+      "company": "Inc",
+      "role": "Senior Vice President & Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Indeed, we will have 10% customers, Nehal."
+    },
+    {
+      "speaker": "Nehal Chokshi Northland Securities",
+      "company": "Inc",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Could you give us some detail as far as what percent of overall revenue due to 10% customers represent in the September quarter?"
+    },
+    {
+      "speaker": "David Weigand Super Micro Computer",
+      "company": "Inc",
+      "role": "Senior Vice President & Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. So we're not going to release that data today."
+    },
+    {
+      "speaker": "Charles Liang Super Micro Computer",
+      "company": "Inc",
+      "role": "Founder, President, Chief Executive Officer & Chairman of the Board",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. But at the same time, we continue to gain more new customers, especially in Europe in Asia. So I believe we will be able to keep a healthy ratio."
+    },
+    {
+      "speaker": "Nehal Chokshi Northland Securities",
+      "company": "Inc",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. Great. And then, Charles, I think there's a strong feeling in the investment community that the Chairman and CEO roles, if separated, could be quite beneficial to Supermicro. From your perspective, what is the benefit Supermicro separating these roles."
+    },
+    {
+      "speaker": "Charles Liang Super Micro Computer",
+      "company": "Inc",
+      "role": "Founder, President, Chief Executive Officer & Chairman of the Board",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Okay. Well, I have an update over the company. That's my consideration. So every day and every week, I have been thinking about the question since many years ago. And so again, why would I phase the whole business. So I push it only in very open mind, and I'm technology guy and technology is my best interest. But still, overall consideration is the best benefit for shareholders and the company."
+    },
+    {
+      "speaker": "Nehal Chokshi Northland Securities",
+      "company": "Inc",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "And just to be clear, do you see it potentially being in the best interest of the shareholder of that separating these roles there? affiliated companies. NOVEMBER 05, 2024 / 10:00PM GMT, Q1 2025 Super Micro Computer Inc Earnings Call"
+    },
+    {
+      "speaker": "Charles Liang Super Micro Computer",
+      "company": "Inc",
+      "role": "Founder, President, Chief Executive Officer & Chairman of the Board",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "No comment at this moment. But I'm [seriously considering on it]. And someday, I will retire it. Hopefully, not in one year, two year. [But soon, I will] retire. So I mean, those changes for sure is a natural base of shareholders and for our company. And for my family too."
+    },
+    {
+      "speaker": "Nehal Chokshi Northland Securities",
+      "company": "Inc",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you for taking my question Operator Vijay Rakesh, Mizuho."
+    },
+    {
+      "speaker": "Vijay Rakesh Mizuho Securities Co",
+      "company": "Ltd",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi. Charles, on the September quarter, in December quarter, just wondering how many liquid cool racks we are shipping in September and (inaudible) in December?"
+    },
+    {
+      "speaker": "Charles Liang Super Micro Computer",
+      "company": "Inc",
+      "role": "Founder, President, Chief Executive Officer & Chairman of the Board",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Maybe do you have some number this year?"
+    },
+    {
+      "speaker": "David Weigand Super Micro Computer",
+      "company": "Inc",
+      "role": "Senior Vice President & Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "It was just a little below last quarter, but I don't have the exact --"
+    },
+    {
+      "speaker": "Charles Liang Super Micro Computer",
+      "company": "Inc",
+      "role": "Founder, President, Chief Executive Officer & Chairman of the Board",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I would have to say, we had a company ship most of liquid cooling to the market recently; for example, in the September quarter. And our liquid cooling because ahead of the market. And customers like liquid cooling, because save their energy power and safe water requirements and kind of is the trend. So I believe we will continue to grow depicting percentage."
+    },
+    {
+      "speaker": "Vijay Rakesh Mizuho Securities Co",
+      "company": "Ltd",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it. And when you say down sequentially into December quarter on the H200, any idea on how much that is sequentially?"
+    },
+    {
+      "speaker": "Charles Liang Super Micro Computer",
+      "company": "Inc",
+      "role": "Founder, President, Chief Executive Officer & Chairman of the Board",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "We did not share that number, but I believe this cooling will continue to grow very quickly. And we are very happy to promote it."
+    },
+    {
+      "speaker": "Vijay Rakesh Mizuho Securities Co",
+      "company": "Ltd",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it. (multiple speakers) Sorry. I think, David, on the number 16 deadline, are you guys comfortable that you will have an auditor and file a plan to the Nasdaq?"
+    },
+    {
+      "speaker": "David Weigand Super Micro Computer",
+      "company": "Inc",
+      "role": "Senior Vice President & Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So we're not answering those questions today."
+    },
+    {
+      "speaker": "Vijay Rakesh Mizuho Securities Co",
+      "company": "Ltd",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it."
+    },
+    {
+      "speaker": "David Weigand Super Micro Computer",
+      "company": "Inc",
+      "role": "Senior Vice President & Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So like I said, we're diligently looking to replace the auditor as quickly as possible. And we will be filing a plan with Nasdaq, and indeed, regarding an extension. But that's all we have to say about that."
+    },
+    {
+      "speaker": "Vijay Rakesh Mizuho Securities Co",
+      "company": "Ltd",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it. Thank you. Operator Jon Tanwanteng, CJS Securities. affiliated companies. NOVEMBER 05, 2024 / 10:00PM GMT, Q1 2025 Super Micro Computer Inc Earnings Call"
+    },
+    {
+      "speaker": "Vijay Rakesh Mizuho Securities Co",
+      "company": "Ltd",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi, good afternoon and thank you for taking my question. I was wondering, Charles or David, could you break out what your expected revenue in (inaudible) was supposed to be in the Q1 guidance and what you have implied in the Q2 guidance finance, first of all? And then second, do you see a risk of supply or allocations due to this auditor and filing issue. Especially from NVIDIA, just would they possibly maybe hold back some just until you figure it out? Or are they supporting you through this and just meeting your orders and especially with the new technology?"
+    },
+    {
+      "speaker": "Charles Liang Super Micro Computer",
+      "company": "Inc",
+      "role": "Founder, President, Chief Executive Officer & Chairman of the Board",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, our relationship with NVIDIA has been multiple decades. And our growth kind of cooperation between two companies continue to enhance. So we have many important product called [here]. And I don't expect a negative allocation from them. So at this moment, according to our relationship according to our communication, seems very positive."
+    },
+    {
+      "speaker": "Jonathan Tanwanteng CJS Securities",
+      "company": "Inc",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. And then I guess, the (inaudible) numbers that were implied in the last quarters and this quarter guidance?"
+    },
+    {
+      "speaker": "Charles Liang Super Micro Computer",
+      "company": "Inc",
+      "role": "Founder, President, Chief Executive Officer & Chairman of the Board",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "That's hard to answer because we don't know what's the volume NVIDIA. We have rate available every month. So we work with them very closely and co-develop solutions, dedicated solution, and service the common customer. So once they have no volume available, I believe we will have a good percentage in our product mix."
+    },
+    {
+      "speaker": "Jonathan Tanwanteng CJS Securities",
+      "company": "Inc",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it. And then if I could sneak one more in there, if I could. Is there more efficiency to be unlocked in your liquid cooling supply chain? Or have you mostly resolved the issues in ramping your production capacity and supply chain there?"
+    },
+    {
+      "speaker": "Charles Liang Super Micro Computer",
+      "company": "Inc",
+      "role": "Founder, President, Chief Executive Officer & Chairman of the Board",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "We focused on, I think we're pulling much earlier than the industry, right? So in the last few months, we already shipped more than 2,000 racks, right? And so far, the feedback from customers are very happy. Indeed, that quality, the customer satisfaction even better than our air cool solution. So we are a bit excited. Our harden in the last three years that is paying off. And we believe the air cooling will continue to be our major advantage, including the whole data center end-to-end total solutions. Again, not the other air cooling device service management software. So we are very excited for our DLC liquid cooling solution and customer [like today]. Operator Mehdi Hosseini, SIG."
+    },
+    {
+      "speaker": "Mehdi Hosseini Susquehanna International Group",
+      "company": "LLP",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yes. Thanks for taking my question. David, from what I understand regarding cash flow, it seems like there was a onetime positive impact your days of inventory went up, but you were able to significantly increase your operating cash flow. Did I hear you correct? And if so, what is the item that helped you with positive operating cash flow?"
+    },
+    {
+      "speaker": "David Weigand Super Micro Computer",
+      "company": "Inc",
+      "role": "Senior Vice President & Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure. I think the answer is, Mehdi, that we've been growing at such a high rate over the past quarters. But that's really what's been impacting our our operating cash flow, is that we've had to pour hundreds of million of dollars into inventory, as well as into accounts receivable. So kind of coming off of a quarter, where we didn't have such a dramatic increase in revenue, we were able to generate a lot of cash, affiliated companies. NOVEMBER 05, 2024 / 10:00PM GMT, Q1 2025 Super Micro Computer Inc Earnings Call basically $1 billion worth of improved cash flows. Yes, so it was really just the fact that for the reasons Charles mentioned, the growth wasn't as high (multiple speakers)"
+    },
+    {
+      "speaker": "Mehdi Hosseini Susquehanna International Group",
+      "company": "LLP",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I understand, but your DSO went up -- I'm sorry, your days of inventory went up. And I think from what I heard from you, your DSO didn't change. So was that improvement in operating cash flow all driven by working capital reduction? Or was there something outside of working capital to help you?"
+    },
+    {
+      "speaker": "David Weigand Super Micro Computer",
+      "company": "Inc",
+      "role": "Senior Vice President & Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "No, it was really for those reasons. It was really just for inventory reason."
+    },
+    {
+      "speaker": "Charles Liang Super Micro Computer",
+      "company": "Inc",
+      "role": "Founder, President, Chief Executive Officer & Chairman of the Board",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Mehdi, maybe I can have it. I mean, when we grow about 200% more year over year, right? So for sure -- and we see continue to grow, right? So for sure, we need much higher inventory to support our customer demand. And then when our growth become more normal, not 200% year over year. For example, 100% or 80%. Then we don't have to grow that much of inventory, and that will have our cash flow. So it's a good travel."
+    },
+    {
+      "speaker": "Mehdi Hosseini Susquehanna International Group",
+      "company": "LLP",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Sure, sure. Got it. And then, Charles, maybe you can help us give us an update on your total capacity, especially with the Malaysia expansion? And how is the utilization of the global installed capacity tracking?"
+    },
+    {
+      "speaker": "Charles Liang Super Micro Computer",
+      "company": "Inc",
+      "role": "Founder, President, Chief Executive Officer & Chairman of the Board",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Very good question. We expect we will continue to grow very fast. That's why we have been preparing a huge capacity in Silicon Valley, in Taiwan and now especially in Malaysia. So long term, we needed those capacity. But in terms of utilization rate at this moment, I would like to stay a little bit low because capacity is ready, but no such no enough new chip. As you say that, no, in our new chip. That's why variation rate now is relatively low, maybe only 50%."
+    },
+    {
+      "speaker": "David Weigand Super Micro Computer",
+      "company": "Inc",
+      "role": "Senior Vice President & Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "(multiple) This is Dave. Yes, I was going to give you a couple of other tips on cash flow. You'll probably notice that because of an improved gross margin, we had almost $80 million on a non-GAAP basis, more profit this quarter. In addition to that, again, going back to working capital metrics, we increased our accounts payable by several hundred million dollars. So those are other factors go into improved operating cash flow."
+    },
+    {
+      "speaker": "Michael Staiger Super Micro Computer",
+      "company": "Inc",
+      "role": "Vice President, Corporate Development",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Got you. hey, before we go the next question, just want to clarify one of the comments earlier, with respect to NVIDIA, and clarify, we have the deepest relationships with NVIDIA at the technology level. It goes back decades with [mobile]. And now we have multiple state-of-the-art projects in progress, and we've spoken NVIDIA they've confirmed there been no changes to allocations, And we maintained a strong relationship with them and don't expect that to change. So I just wanted to make sure that was clarified. Next question, actually, our last question here. Operator Quinn Bolton, Needham & Company."
+    },
+    {
+      "speaker": "Quinn Bolton Needham",
+      "company": "& Company",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hey, guys. Thanks for taking my question. I guess I just wanted to follow up on the kind of the slightly weaker than expected first half really sounds like it's just customers waiting for new Blackwell chips. Are you guys seeing that starting to show up in the order books, affiliated companies. NOVEMBER 05, 2024 / 10:00PM GMT, Q1 2025 Super Micro Computer Inc Earnings Call meaning, you're building backlog for either the NBL rack or Blackwell B200 systems. So you see a nice building backlog for those systems. Obviously, you don't know when you'll get the chips, but that gives you confidence for a much stronger second half once Blackwell starts to ship? Or is it too early for you guys to be actually getting those orders or POs at this point?"
+    },
+    {
+      "speaker": "Charles Liang Super Micro Computer",
+      "company": "Inc",
+      "role": "Founder, President, Chief Executive Officer & Chairman of the Board",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. Our solution is very strong. And I believe NVIDIA will continue allocate their solution to the company, the customer, who have faced the total solution because at all, common end user satisfaction is mostly important to every company, right? So I would have to say our solution is very strong, and we continue to work with NVIDIA very closely aim to provide the best total solution end-to-end solution to customers. And that's why we started to provide on-site deployment on site cabling, on-site service. And overall, those new hopefully, very attractive to a lot of new customers and old customers. So we feel very comfortable for the coming soon new chip solution."
+    },
+    {
+      "speaker": "Quinn Bolton Needham",
+      "company": "& Company",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "So the backlog for Blackwell, you're seeing that building on your order books?"
+    },
+    {
+      "speaker": "Charles Liang Super Micro Computer",
+      "company": "Inc",
+      "role": "Founder, President, Chief Executive Officer & Chairman of the Board",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "We provided kind of remote POC now, so it seems like happening."
+    },
+    {
+      "speaker": "Quinn Bolton Needham",
+      "company": "& Company",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. And second, a follow-up question for David. You've recently sort of filed new credit agreements with both of your banks just setting a date when you would after provide the audited financials. To the extent that you don't hit that date, what happens? Do you just have to go renegotiate new credit agreements? Do the banks at that point, have the right to effectively call those term loans? Just Wondering if you might be able to address what happens with both the bank debt and if there's any risk to the convertible debt if you don't provide audited financials within the prescribed time."
+    },
+    {
+      "speaker": "David Weigand Super Micro Computer",
+      "company": "Inc",
+      "role": "Senior Vice President & Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. So I think we'll just refer you to our 8-K filings. We have long-term and good relationships with the banks. And so as necessary, we will file extensions, yes, or get waivers. And like as I mentioned earlier, we're not concerned about the company's ability to access the capital markets."
+    },
+    {
+      "speaker": "Quinn Bolton Needham",
+      "company": "& Company",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you. Operator There are currently no other questions in queue, so I will now turn it back over to the management team for closing remarks."
+    },
+    {
+      "speaker": "Michael Staiger Super Micro Computer",
+      "company": "Inc",
+      "role": "Vice President, Corporate Development",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Hey. Thank you for joining our conference call today, and we look forward to talking to you soon. Operator This concludes today's conference call. Thank you for your participation. You may now disconnect your lines. affiliated companies. NOVEMBER 05, 2024 / 10:00PM GMT, Q1 2025 Super Micro Computer Inc Earnings Call In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. affiliated companies."
+    }
+  ]
 }

@@ -4,5 +4,398 @@
   "quarter": "2024Q2",
   "sector": "IT",
   "filename": "2024-Jul-31-FICO.N-137902813976-Transcript.pdf",
-  "segments": []
+  "segments": [
+    {
+      "speaker": "Manav Patnaik Barclays Capital",
+      "company": "Inc.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Operator Good day, ladies and gentlemen, and thank you for standing by. Welcome to the third-quarter 2024 FICO earnings conference call. (Operator Instructions) Please be advised that today's conference is being recorded. I would now like to hand the conference over to your speaker today, Dave Singleton."
+    },
+    {
+      "speaker": "Dave Singleton Fair Isaac",
+      "company": "Corp",
+      "role": "Vice President of Investor Relations",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Good afternoon and thank you for attending FICO's third-quarter earnings call. I'm Dave Singleton, Vice President of Investor Relations. And I'm joined today by our CEO, Will Lansing; and our CFO, Steve Weber. Today, we issued a press release that describes financial results compared to the prior year. And on this call, management will also discuss results in comparison with the prior quarter to facilitate an understanding of the run rate of the business. Certain statements made in this presentation are forward looking under the Private Securities Litigation Reform Act of 1995. Those statements involve many risks and uncertainties that could cause actual results to differ materially. Information concerning these risks and uncertainties is contained in the company's filings with the SEC, particularly in the risk factors and forward-looking statements portions of such filings. Copies are available from the SEC from the FICO website or from our Investor Relations team. This call will also include statements regarding certain non-GAAP financial measures. Please refer to the company's earnings release and Regulation G schedule issued today for a reconciliation of each of these non-GAAP financial measures to the most comparable GAAP measure. The earnings release and Regulation G schedule are available on the Investor Relations page of the company's website at fico.com or on the SEC's website at sec.gov. And a replay of this webcast will be available through July 31, 2025. Now, I will turn the call over to our CEO, Will Lansing."
+    },
+    {
+      "speaker": "William Lansing Fair Isaac",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thanks, Dave, and thank you, everyone, for joining us for our third quarter-earnings call. In the Investor Relations section of our website, we've posted some financial highlights slides that we'll be referencing during our presentation. Today, I'll talk about this quarter's results and our increased guidance for the full fiscal year. We continue to deliver strong quarterly results, including impressive growth in our ACV bookings and free cash flow. As shown on page 2 of the third-quarter financial highlights, we reported Q3 revenues of $448 million, up 12% over the last year. We delivered $126 million of GAAP net income in the quarter, down 2%, and GAAP earnings of $5.5 per share, down 1% from the prior year. affiliated companies. JULY 31, 2024 / 9:00PM GMT, Q3 2024 Fair Isaac Corp Earnings Call On a non-GAAP basis, Q3 net income was $156 million, with earnings of $6.25 per share, up 9% and 10%, respectively. We had a difficult comp in year-over-year net income as Q3 of 2023 included an $8.5 million one-time reimbursement of third-party data implementation costs as well as a $9.5 million reduction to income tax expense associated with the valuation of our R&D credits. We delivered record free cash flow of $206 million in our third quarter and $551 million over the last four quarters. We continue to return capital to our shareholders through buybacks. In Q3, we repurchased 196,000 shares at an average price of $1,293 per share. And we announced a new Board authorization for $1 billion of share repurchase. In our scores segment on page 6 of the presentation, our third-quarter revenues were $241 million, up 20% versus the prior year. Breaking that down, in B2B, current quarter revenues were up 27% versus the prior year. In B2C, the current quarter revenues were down 2% versus the prior year. Third-quarter mortgage originations revenues were up 80% versus the prior year. Mortgage origination revenue accounted for 49% of B2B revenue and 39% of total scores revenue. Auto originations revenues were down 3%, while credit card, personal loan and other originations revenues were down 7% versus the prior year. We continued to drive strong adoption for FICO Score 10T for non-GSE mortgages. Based on 2023 firm reported data, clients with over $126 billion in annualized mortgage loan originations and about $380 billion in eligible mortgage portfolio servicing have signed up for the FICO score 10T. Firms are using FICO 10T to make credit decisions, deliver to investors, and for securitization. FICO 10T for conforming mortgages will be rolled out based on the timeline of the FHFA's implementation of enterprise credit score requirements. In our software segment, we delivered $206 million in Q2 revenue, up 5% from last year, driven mainly by growth in SaaS software, partially offset by decline in professional services. We continue to drive strong growth in ARR and NRR for our land and expand strategy with expand, driven by increased customer usage. As shown on page 7, total ARR was up 10%, with platform ARR growing 31% and non-platform ARR growing 3%. Total NRR for the quarter shown on page 8 was 108%, with platform NRR at 124% and non-platform NRR at 101%. Our total ACV bookings for the quarter were an impressive $27.5 million. We continue to drive more FICO platform SaaS bookings, which aligns with our strategy. We expect this trend to continue as our recent FICO World event has been a catalyst for driving pipeline growth, especially for the FICO platform. I'm very proud of the strength of our software business, both the industry-leading technology as well as our remarkable team. This quarter, we secured another award for our FICO platform, the Business Intelligence Platform of the Year from Data Breakthrough. In July, Nikhil Behl was promoted to EVP for software leading all technology and go-to-market functions. Nikhil has been instrumental in strengthening our brand value, reputation with customers and regulators, strategic competitive positioning for FICO scores and FICO platform, and market-leading business growth. We continue to excel in our scores business as well. Our team is focused on innovation to provide new ways to add value for our customers. FICO Score is a tool that market participants rely on to make many crucial decisions, including prequal, underwriting, pricing, ensuring, securitizing, rating, selling, assessing capital requirements, assessing prepayment risk, and determining collection strategies. The FICO score has long been freely chosen because it's trusted as the most predictive and reliable independent credit score, enabling lenders to fairly expand credit access to more consumers. The FICO Score was widely adopted because it democratized and expanded access to credit while simultaneously underpinning the safety and soundness of the market. It's worth pointing out that over half of mortgage market not -- is non-conforming and also overwhelmingly uses FICO Scores. The FICO Scores provided will continue to provide tremendous value to the credit ecosystem. affiliated companies. JULY 31, 2024 / 9:00PM GMT, Q3 2024 Fair Isaac Corp Earnings Call As part of our ongoing commitment to industry-leading credit decision, we've made significant commitments to financial knowledge and financial inclusion. We've once again partnered with Chelsea Football Club, both men's and women's teams; and US Soccer Foundation for the Fields of Financial Empowerment Summer Tour. The goal is to build excitement for and access to financial education and resources to help more people, including the next generation of fans make more informed credit decisions. As part of the campaign, FICO host free Score a Better Future Fundamentals, financial education workshops for students from traditionally underserved communities. Students improve financial literacy and have the opportunity to attend to Chelsea football game. I'll talk about our outlook for the balance of the year, including our increased guidance after Steve provides further financial details."
+    },
+    {
+      "speaker": "Steven Weber Fair Isaac",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thanks, Will and good afternoon, everyone. As Will mentioned, we had another good quarter with total revenues of $448 million, an increase of 12% over the prior year. Scores segment revenues for the quarter were $241 million, up 20% from Q3 of 2023. B2B revenues were up 27%, driven primarily by mortgage origination revenues. Our B2C revenues were down 2% versus the prior year due to volume declines in our myfico.com business. Software segment revenues in the third quarter were $206 million, up 5% versus Q3 2023. On-prem and SaaS software revenue grew 7% year over year, while professional services declined 9%. This quarter, 85% of total company revenues were derived from our Americas region, which is a combination of our North America and Latin American regions. Our EMEA region generated 10% of revenues and the Asia-Pacific region generated 5%. Our total software ARR was $710 million, a 10% increase over the prior year. Platform ARR was $215 million, representing 30% of our total Q3 '24 ARR, up from 25% of total in Q3 of 2023. Platform ARR grew 31% versus the prior year, while non-platform ARR grew 3% to $495 million this quarter. Our platform land-and-expand strategy continues to be successful. Our dollar-based net retention rate in the quarter was 108%. Platform NRR was 124%, while our non-platform NRR was 101%. Platform NRR was driven by a combination of new use cases and increase usage. Our software ACV bookings for the quarter were $27.5 million. As a reminder, ACV bookings include only the annual value of software sales and exclude professional service. Our expenses for the quarter -- total operating expenses were $258 million this quarter versus $222 million in the prior year, an increase of 16% year over year and 8% versus the prior quarter. Our third quarter included our FICO World event and a true-up for our annual incentive rewards, and we expect Q4 expenses to be down modestly from our Q3 run rate. As Will noted, the prior year includes an $8.5 million one-time reimbursement of third-party data implementation costs, and a reduction to income tax expense of $9.5 million associated with the valuation of our R&D tax credits. Our non-GAAP operating margin, as shown in our Reg G schedule, was 52% for the quarter compared with 51% in the same quarter last year. GAAP net income this quarter was $126 million, down 2% from the prior year's quarter. Our non-GAAP net income was $156 million for the quarter, up 9% from the prior year's quarter. The effective tax rate for the quarter was 24.5%. We believe that our fiscal year 2024 net effective tax rate is expected to be around 22%, while our recurring tax rate is expected to be around 26%. Recurring tax rate is before any excess tax benefit and other discrete items. Free cash flow for the quarter was $206 million, a 69% increase from the previous year. The trailing 12-month free cash flow was $551 million compared to $467 million in the prior quarter. At the end of the quarter, we had $199 million in cash and marketable investments. Our total debt at quarter end was $2.13 billion with a weighted average interest rate of 5.3%. Currently, 61% of our total debt is fixed rate. Our floating rate debt is prepayable at any time giving us the flexibility to use free cash flow to reduce outstanding floating rate debt affiliated companies. JULY 31, 2024 / 9:00PM GMT, Q3 2024 Fair Isaac Corp Earnings Call balances in future periods. During the quarter, we secured a $450 million term loan and used those proceeds to reduce our revolving line of credit and to provide additional debt capacity. Turning to return of capital, we bought back 196,000 shares in the third quarter at an average price of $1,293 per share. That exhausted the existing Board authorization, which was approved in January. And we have just announced a new Board authorization for $1 billion. We continue to view share repurchases as an attractive use of cash. And with that, I'll turn it back to Will for his thoughts on the rest of the year and the increase in our full year guidance."
+    },
+    {
+      "speaker": "William Lansing Fair Isaac",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thanks, Steve. We are executing on our strategy. Our customers are delighted with our innovative products. Our execution is generating strong financial results, including impressive ACV bookings, record free cash flow, and an increase in FICO platform and FICO 10T adoption. The business is strong. I'm pleased to report that today, we're again raising our full-year guidance as we enter the fourth quarter of our fiscal year. We're raising our full year revenue guidance to $1.70 billion. GAAP net income is now expected to be $500 million with GAAP earnings per share of $19.90. Non-GAAP net income is now expected to be $582 million with non-GAAP earnings per share of $23.16. With that, I'll turn it back to Dave and we'll open up the Q&A session."
+    },
+    {
+      "speaker": "Dave Singleton Fair Isaac",
+      "company": "Corp",
+      "role": "Vice President of Investor Relations",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks, Will. This concludes our prepared remarks, and we're now ready to take questions. Operator, please open the lines. Operator (Operator Instructions) Faiza Alwy, Deutsche Bank."
+    },
+    {
+      "speaker": "Faiza Alwy Deutsche Bank Securities",
+      "company": "Inc",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "So I wanted to start with the software business and just ask you if you could comment on the selling environment, if there's any change from a macro perspective, anything new or different you're hearing from your customers? And then I know at FICO World, we had talked about improvement of the platform and talking about decomposition of the platform. So just give us a sense if there's any update there and any additional color."
+    },
+    {
+      "speaker": "William Lansing Fair Isaac",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "FICO World is always and was this year, the biggest pipeline generating event that we have. And so we came FICO World with a very healthy pipeline. I would say that the selling environment has not changed that much over the last year or so. And I would also emphasize that increasingly, customers are buying FICO software as a strategic move. And so it's a very considered purchase. And it's -- not just like going out and finding a point solution to a small problem, to a specific problem. It's a bigger thing than that. And that hasn't changed. That's kind of the new way of operating."
+    },
+    {
+      "speaker": "Faiza Alwy Deutsche Bank Securities",
+      "company": "Inc",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "And then just a question on mortgage revenues, you obviously had very strong growth in the quarter. I'm curious how volume trended in the quarter. I know you don't give a breakdown, but was it in line with your expectations? Are there any dynamics you're seeing around soft pulls, where I believe lenders have the option to go to one or two bureaus like that? Are you seeing an impact on volumes from that and just the general environment around mortgage -- affiliated companies. JULY 31, 2024 / 9:00PM GMT, Q3 2024 Fair Isaac Corp Earnings Call"
+    },
+    {
+      "speaker": "William Lansing Fair Isaac",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Our mortgage volumes are a lagging indicator relative to other mortgage data that you have. Our mortgage volumes are down versus a year ago, they're pretty much flat versus a quarter -- last quarter. And then none of that is particularly surprising. Operator (Operator Instructions) Surinder Thind, Jefferies."
+    },
+    {
+      "speaker": "Surinder Thind Jefferies",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "First question on just the guidance raise. It implies revenues are going to be down roughly $10 million quarter over quarter. Just any color there? I know you normally are conservative in the guide, but just can you do the walk for us from 3Q to fiscal --?"
+    },
+    {
+      "speaker": "Steven Weber Fair Isaac",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. So we are pretty conservative with the way we guide. So we want to make sure that a lot of the -- on the scores, we don't have much control over, right? So we don't really know what's going to happen there. I would say that generally, the fourth quarter is a little lighter seasonally for mortgage. Mortgage volumes aren't as high, typically then as they are in the spring. So there might be some -- a little bit of volume decline there but a lot of it just spends in the environment, which we don't have a lot of visibility to."
+    },
+    {
+      "speaker": "Surinder Thind Jefferies",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "And then in terms of just when I think about the non-platform business here, the NRR was 101%. That's the slowest pace of growth in about two years. So any color there that you can help with? Or Is there some movement of revenues from non-platform to platform at this point? How should we think about that?"
+    },
+    {
+      "speaker": "William Lansing Fair Isaac",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I wouldn't say that it's cannibalization if that's what your question is getting at. We're pretty pleased with our classic offerings with a 101% NRR. We've been trying to manage that business in this relatively flat way, and we're pleased that it's turning out that way. But as you can see, the growth is on the expand side on the platform. If we don't -- we let the market tell us what it wants, but we're not displeased with the way it's shaking out."
+    },
+    {
+      "speaker": "Steven Weber Fair Isaac",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. I would say I mean, we had higher numbers last year. And at the time we said there were some things driving that. Some of it was -- some of the CPI increase that we had. And we had some advantages last year from some FX as well. And we knew that we're not going to maintain this year. So it's kind of what we thought was going to happen. It would settle more to around 100%. Operator (Operator Instructions) Scott Wurtzel, Wolfe Research."
+    },
+    {
+      "speaker": "Scott Wurtzel Wolfe",
+      "company": "Research, LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Wanted to start on the auto origination side. Revenues down 3% versus modestly up last quarter. Just wondering similar to how you did a mortgage, maybe comment on the volumes there and how they trended versus last quarter?"
+    },
+    {
+      "speaker": "Steven Weber Fair Isaac",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, volumes were relatively flat, but there really is a mix shift. So we had more of a mix shift to -- more market share in the tiers that are a little bit less price for us. Unit cost is a little bit lower. So that's really the difference between the volume and the revenue. So the price per score went down slightly because of a mix shift. affiliated companies. JULY 31, 2024 / 9:00PM GMT, Q3 2024 Fair Isaac Corp Earnings Call"
+    },
+    {
+      "speaker": "Scott Wurtzel Wolfe",
+      "company": "Research, LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it. That's helpful. And then on the software side, on the platform ARR, I mean, I think it's pretty good to see the sort of rate of deceleration moderate from 2Q to 3Q at sort of this low-30s level. I mean, do you kind of see this as a sort of sustainable growth rate for platform ARR over the near to medium term here?"
+    },
+    {
+      "speaker": "Steven Weber Fair Isaac",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Probably, yeah. I mean, we don't -- we think we're pretty confident in that right around that rate. It can change as we go out further, but we think that's a sustainable rate. And we've got -- it helps when you have a good quarter like this in terms of signing new deals, too, because that will help boost the ARR in the future. So we don't have really good visibility too because a lot of it depends on how quickly our customers can get online and how much usage they have, but there's a lot of growth there. So we're pretty confident that we can maintain these levels. Operator (Operator Instructions) Kyle Peterson, Needham."
+    },
+    {
+      "speaker": "Kyle Peterson Needham",
+      "company": "& Company LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Just wanted to start out on software. Particularly, the bookings looked pretty nice on ACV basis compared with a lot of the prior quarters. So how should we think about some of the implementation cycles and kind of when some of those bookings will start to translate to revenue here?"
+    },
+    {
+      "speaker": "William Lansing Fair Isaac",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "As you know, it's a long sales cycle as long as 400 days, and it takes not that long to get live once it's all said and done. But I think that the flow-through is the subsequent year. I mean, that's the easiest way to think about it."
+    },
+    {
+      "speaker": "Steven Weber Fair Isaac",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. And it does depend on the customer, how sophisticated they are, how ready they are. But yeah, I mean, if you sign deals now in the next six to nine months, you should start seeing a flow-through on that."
+    },
+    {
+      "speaker": "Kyle Peterson Needham",
+      "company": "& Company LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "And then just a follow-up on -- particularly on if we do get rate cuts, whether it's later this year or next year. Maybe if you could walk us through some of the different sensitivities. I know your business now looks quite a bit different maybe compared to past cycles. So especially in those first one to two rate cuts, what are some of the impacts that we should be mindful of if those do come to fruition?"
+    },
+    {
+      "speaker": "William Lansing Fair Isaac",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "We're already seeing a little bit of an uptick in refi. And it's not exactly a gigantic leap of faith that as rates come down, we'll see volumes go up. We fully anticipate that. Your guess is as good as ours as to the timing of the rate cuts. We would hope to see some rate cuts towards the end of this year and next year, and volumes go up with that. Operator (Operator Instructions) George Tong, Goldman Sachs."
+    },
+    {
+      "speaker": "George Tong Goldman Sachs",
+      "company": "& Company, Inc.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Within the scores business, card, and personal loan revenue fell 7% in the quarter, which is a little bit better than the 9% decline in the prior quarter. Can you talk about some of the trends you're seeing among subprime or lower tier consumers that may be impacting card and personal loan performance and also talk about overall bank lending conditions?"
+    },
+    {
+      "speaker": "Steven Weber Fair Isaac",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. I mean, the subprime markets always pull -- obviously seen the biggest pullback, which is not surprising, right? You're late in the credit cycle. You have a lot more uncertainty, and that's kind of where you see that happened first. affiliated companies. JULY 31, 2024 / 9:00PM GMT, Q3 2024 Fair Isaac Corp Earnings Call Bank by bank, it kind of varies depending on what they're looking at and what kind of campaigns they might -- may or may not be running. But we see banks being relatively conservative with new originations. And I think we're kind of waiting to see what happens and see what the economic environment looks like. So it's really not surprising. We saw probably a little over a year ago strong growth there when mortgage started to the slowdown and rates started to go up. We saw strong growth there. But now I think there's just more uncertainty in the market and they're just kind of being more cautious in their originations."
+    },
+    {
+      "speaker": "George Tong Goldman Sachs",
+      "company": "& Company, Inc.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "And then switching to the software side, software operating margins contracted about 430 bps year over year in the quarter. Can you talk about some of the reasons behind what's on that --?"
+    },
+    {
+      "speaker": "William Lansing Fair Isaac",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "It's almost completely -- around that reimbursement we had last year. So that was a big number we had, and that was all on the software side. So that's the driver of that."
+    },
+    {
+      "speaker": "George Tong Goldman Sachs",
+      "company": "& Company, Inc.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "And so as that lapse, when would you expect to flip to margin expansion in the software business?"
+    },
+    {
+      "speaker": "William Lansing Fair Isaac",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So we'll get some margin expansion next quarter because, I mean, again, we had some costs at FICO World this quarter. It was not going to repeat next quarter. So we'll have some -- our costs will decline next quarter, and that will end up with some margin expansion. We -- these costs are big enough where any one given quarter, something like FICO World is going to have an impact on that quarter's margin. Operator Ashish Sabadra, RBC."
+    },
+    {
+      "speaker": "Ashish Sabadra RBC Capital",
+      "company": "Markets, LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Just on the software revenue growth, particularly the on-prem and SaaS. And within that, when I look at software recognized over the contract term, the growth there moderated. How should we think about the growth profile there?"
+    },
+    {
+      "speaker": "William Lansing Fair Isaac",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Ashish, we can't hear you."
+    },
+    {
+      "speaker": "Ashish Sabadra RBC Capital",
+      "company": "Markets, LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yeah. So I wanted to focus on the on-prem and SaaS software revenue growth. And within that, even the software recognized over contract term, that moderated a bit. Still pretty strong at 80%, but did moderate from mid-teens. How should we think about those puts and takes on the revenue growth going forward?"
+    },
+    {
+      "speaker": "William Lansing Fair Isaac",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. I mean, a lot of that is the fact that we had the Omega growth, the non-platform growth out that what we saw last year. So that right there drives most of the -- and then obviously, the platform side is growing 50% either. But so we think these kind of growth rates going forward, as I said earlier, that's probably more likely, but we're going to see it continue. And as the numbers get bigger, it's harder to drive 50% growth, or even 40% growth. So we're pretty happy with the 30% growth on the platform side and on the non-platform, we think we can get better than 100%. We're happy with that as well. Operator (Operator Instructions) Simon Clinch, Redburn Atlantic. affiliated companies. JULY 31, 2024 / 9:00PM GMT, Q3 2024 Fair Isaac Corp Earnings Call"
+    },
+    {
+      "speaker": "Simon Clinch Redburn",
+      "company": "Atlantic",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I wanted to cycle back to the 30%-plus growth in the platform software ARR. And just I was wondering if you could just get a little bit more detail as to why you think that that is a sustainable level of growth and just perhaps flesh that out a little bit more for us, please?"
+    },
+    {
+      "speaker": "William Lansing Fair Isaac",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Well, I mean, we've got -- I mean, again, we had a really good quarter with new bookings, and we've got a lot of installed base that's rapidly expanding. I mean, when we install, most of our customers look for new ways to use it, and we see that in the net retention rate. And that's -- that number continues to do well, and we continue to add more business to it. So -- and we can't guarantee it, but we've got a lot of reasons, both data-driven and anecdotally, to think that we're going to continue to see that kind of growth."
+    },
+    {
+      "speaker": "Simon Clinch Redburn",
+      "company": "Atlantic",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "And just a follow-up on that. Could you -- I mean, just frame the approach to pricing within the software business. You mentioned last year in the -- I think it was the non-platform side, you had higher inflationary pricing. But just wondering if you could talk a bit about the strategy around the pricing, pricing value, and how to think about that going forward?"
+    },
+    {
+      "speaker": "William Lansing Fair Isaac",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Our strategy around software pricing is great. We're very focused right now on making our software accessible and encouraging adoption. And so while there's probably room for value pricing in our software business, that's not where our direction is. Our direction is to put the software in the hands of our customers and then watch revenue grow as their usage increases. And their usage increases within the initial applications that they put the platform to use for and then also as they discover new uses. The expand part of our land-and-expand strategy is very much wrapped around the customer, taking control of what they can do with the platform and coming up with new use cases. And we tend to design in a way that we don't have to renegotiate contracts and go back and do a lot of contractual work for them to do more revenue with us. We tend to design it in a way that they can select how much usage they want. And our revenue goes up automatically as their usage goes up."
+    },
+    {
+      "speaker": "Simon Clinch Redburn",
+      "company": "Atlantic",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks so much. Appreciate it. Operator Jeff Meuler, Baird."
+    },
+    {
+      "speaker": "Jeff Meuler Robert W. Baird",
+      "company": "& Co. Incorporated",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Instead of me getting to ask a question about cash flow this quarter, I just get to say congrats on the nice cash flow. Can you give us some perspective on the geographic kind of trends within software? And I guess I'm just -- it looks like Americas revenue was down a little year over year, so any particular callouts? And then EMEA was up a lot. So just any mega wins on EMEA or any reason to think that you're at an inflection point there and it's really taking off?"
+    },
+    {
+      "speaker": "William Lansing Fair Isaac",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Jeff, I don't think that we have tremendous changes regionally. I wouldn't try to read too much into the data on a quarterly basis. We have strength of platform across all the regions. I think Asia-Pacific was a little behind the other regions in terms of platform adoption, and there were some structural reasons for that. For example, AWS was not available in India before and now it is. But we're seeing adoption across all the regions."
+    },
+    {
+      "speaker": "Steven Weber Fair Isaac",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, I would think some of what you see might speak with the volatility when we have that point-in-time license revenue, and that could skew things in one given quarter. But we've had a lot of adoption in the last year in North America, and we're starting to see a lot more interest too in EMEA as well. affiliated companies. JULY 31, 2024 / 9:00PM GMT, Q3 2024 Fair Isaac Corp Earnings Call"
+    },
+    {
+      "speaker": "Jeff Meuler Robert W. Baird",
+      "company": "& Co. Incorporated",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "And then when you're calling out the FICO 10T adoption and then the non-performing mortgage market, is that almost exclusively about upgrades from prior versions of the FICO score given how high your penetration is? Or are you finding, I guess, like incremental volume as part of that adoption?"
+    },
+    {
+      "speaker": "William Lansing Fair Isaac",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "It's a bit of both, but probably more of the upgrade."
+    },
+    {
+      "speaker": "Steven Weber Fair Isaac",
+      "company": "Corp",
+      "role": "Chief Financial Officer, Executive Vice President",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. I mean, for the most part, everybody was using the traditional FICO scores and now they're just moving to the 10T ahead of the adoption by the FHFA. Operator (Operator Instructions) Manav Patnaik, Barclays."
+    },
+    {
+      "speaker": "Manav Patnaik Barclays Capital",
+      "company": "Inc.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I just wanted to ask, Will, I think you tried to reference some of these in your prepared remarks. But in the face of some public criticism around the price of your scores, how is your approach or thought process around the value of your score or maybe the timing around which you get to that value? Has that changed at all?"
+    },
+    {
+      "speaker": "William Lansing Fair Isaac",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Well, you've heard us say in the past, and I certainly continue to believe that what we charge for the FICO Score is so much less than the value that we provide. That I would say there's not a lot of change in our thought process. Our thought process is that over time, we're going to close some of that gap. And I think anyone who actually studies the numbers and gets into the details of it sees the FICO Scores are tiny piece of the overall process, whether you're talking mortgage or any other kind of credit evaluation process. And so I would say no real change anticipated."
+    },
+    {
+      "speaker": "Manav Patnaik Barclays Capital",
+      "company": "Inc.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Okay. And then somewhat similarly, on the software side, I think you talked about that value proposition being unique and niche, et cetera. But we've heard obviously a lot of other software companies during earnings season talk about the weak environment and the slow down. It doesn't sound like you're seeing any of that. But anything you'd like to call out was there may be some -- could it be a lag that you see some of these headwinds or perhaps you're not seeing that at all?"
+    },
+    {
+      "speaker": "William Lansing Fair Isaac",
+      "company": "Corp",
+      "role": "Chief Executive Officer, Director",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "We're really not seeing that. That's not -- that's -- I mean, we've certainly heard that and I guess the industry is experiencing that, but we haven't felt that. Operator Thank you. This will conclude today's question and answer session. Ladies and gentlemen, this will also conclude today's conference call. Thank you for participating, and you may now disconnect. Everyone, have a great day. In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. affiliated companies. JULY 31, 2024 / 9:00PM GMT, Q3 2024 Fair Isaac Corp Earnings Call ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. affiliated companies."
+    }
+  ]
 }

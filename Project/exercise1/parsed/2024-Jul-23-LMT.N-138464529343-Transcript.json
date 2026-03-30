@@ -4,5 +4,390 @@
   "quarter": "2024Q2",
   "sector": "Industrials",
   "filename": "2024-Jul-23-LMT.N-138464529343-Transcript.pdf",
-  "segments": []
+  "segments": [
+    {
+      "speaker": "Kristine Liwag Morgan",
+      "company": "Stanley",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Cai von Rumohr TD Cowen - Analyst"
+    },
+    {
+      "speaker": "Jason Gursky Citi",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Operator Good day, and welcome everyone to the Lockheed Martin second-quarter 2024 earnings conference call. Today's call is being recorded. (Operator Instructions) Now at this time for opening remarks and introductions, I would like to turn the conference over to Maria, Ricciardone, Vice President, Treasurer and Investor Relations. Please go ahead."
+    },
+    {
+      "speaker": "Maria Ricciardone Lockheed Martin",
+      "company": "Corp",
+      "role": "Vice President of Investor Relations, Treasurer",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thank you, Louis, and good morning. I'd like to welcome everyone to our second-quarter 2024 earnings conference call. Joining me today on the call are Jim Taiclet, our Chairman, President and Chief Executive Officer, and Jay Malave, our Chief Financial Officer. Statements made in today's call that are not historical fact are considered forward-looking statements and are made pursuant to the safe harbor provisions of federal securities law. Actual results may differ materially from those projected in the forward-looking statements. Please see today's press release and our SEC filings for a description of some of the factors that may cause actual results to differ materially from those in the forward-looking statements. We've posted charts on our website today that we plan to address during the call to supplement our comments. These charts also include information regarding non-GAAP measures that may be used in today's call. Please access our website at www.lockheedmartin.com and click on the Investor Relations link to view and follow the charts. With that, I'd like to turn the call over to Jim."
+    },
+    {
+      "speaker": "James Taiclet Lockheed Martin",
+      "company": "Corp",
+      "role": "Chairman of the Board, President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thanks, Maria. Good morning, everyone. Thank you for joining us on our second-quarter 2024 earnings call. Over the past few months, Lockheed Martin's people, systems and platforms have again demonstrated their ability to enhance security in Eastern Europe, the Red Sea and the Middle East. From the factories critical role in air defense to the Aegis combat system with AI augmentation, to the F-35 with its advanced sensor and data management capabilities, our company has made major contributions to allied and partner defense. We continue to demonstrate the impact of our 21st Century Security strategy by harnessing the latest digital technologies to continuously improve mission effectiveness, strengthening and scaling the defense production system, and expanding industrial cooperation among affiliated companies. JULY 23, 2024 / 3:00PM GMT, Q2 2024 Lockheed Martin Corp Earnings Call our allies and partners. Consequently, demand for our defense technology solutions remains robust, with a backlog of nearly $160 billion, greater than two times annual revenue. Our strong performance so far in 2024 extends beyond blast backlog as well, giving us confidence to raise our 2024 full year outlook for sales segment, operating profit and EPS. In the second quarter, sales increased 9% year over year and 5% sequentially and reflected growth in all four of our business segments. The supply chain continues to improve and defense outlays also continued to increase, our focus on operational execution helped us achieve segment operating margins of 11.3%, up 20 basis points compared to last year's second quarter and free cash flow of more than $1.5 billion and increased both year-over-year and sequentially. Jay and Maria will talk more about the specifics of the quarterly results in a moment, but suffice it to say, we are pleased with our financial performance and momentum so far in 2024, I'm especially happy to report the progress we have made on the F-35 program. As announced last week, we began deliveries of the first technology refresh three or TR 3-configured F-35 aircraft to the US government. The TR 3 upgrade and further block for enhancements represent a critical evolution and capability and their full development remains a top priority for us. These and further software updates over the life of the program will ensure that F-35 remains an effective deterrent to aggression and the cornerstone of joint all domain operations now and decades into the future. We continue to produce at a rate of 156 aircraft per year and expect to deliver 75 to 100 aircraft in the second half of 2024. Over 95% of TR- 3 capabilities are currently being flight tested, and we look forward to delivering full TR 3 combat capability to the customer. In addition, we expect deliveries of about F-35 aircraft to exceed production for the next few years. Jay will talk about the financial aspects of our current status in a moment, continued close collaboration with the Joint Program Office of the [JPO] as it's known and across our industry partners has been and will be essential to meet and exceed expectations of this critical national defense program at a timely and cost effective manner. I met with my F-35 industry CEO colleagues in Fort Worth recently to set plans for enhancing the cooperation on our software and hardware and test integration processes among other initiatives to increase speed and efficiency in the program. The TR 3 hardware and software provide a significant upgrade in computing power that enables major improvements in capability to our airmen, sailors and marines as well as to our partner and allied nations. International customers continue to recognize the superior capabilities of this, the most advanced fighter aircraft in the world in key aircraft node in the DOD's joint all domain architecture. On the international front, Israel announced a third squadron of 35As, increasing their fleet by 50%. Greece is in the final stages of discussion with US government to procure the F-35. And we continue to see interest from Romania as well as a potential new customer. Beyond the F-35 as the quarterback of joint all domain operations. Our ongoing collaboration with the US military during major exercises with deployed operational units, exemplifies our commitment and ability to enhance readiness and integrate capabilities across all of our customers' missions and priorities. In June, new advanced capabilities from across Lockheed Martin contributed to the 10th iteration of US Indo Pacific Command value shield exercise. During this exercise, there were several significant milestones demonstrating how we are continually improving our forces capabilities and enhancing our deterrence posture. One example is that we successfully integrated digital command and control capabilities of the Indo Pacific Command joint fires network enhancing real-time decision making for commanders and operational agility for the for us. Our operational planning data fusion engine was employed to coordinate joint operations using live real-time data producing actual tasking orders at Combat relevant speed. In another example, from the same exercise, Lockheed Martin Space and Lockheed Martin affiliated companies. JULY 23, 2024 / 3:00PM GMT, Q2 2024 Lockheed Martin Corp Earnings Call aeronautics jointly demonstrated the ability to autonomously optimiz intelligence, surveillance and reconnaissance or ISR collection and enhance their imagery for quick automated target detection and classification, facilitating data delivery across a wide range of space-based and airborne platforms like never before. In addition, the US Army tested our Precision Strike Missile, PrSM against the moving maritime target in the Pacific Ocean. This next-generation missile enables further improve range and precision to deter potential adversaries from even greater distances. According to the army. This test is a significant step and the PrSM programs progress. We've also moved toward realizing the 21st century security joint all domain vision with the signing of the landmark agreement with Australia's Department of Defense to build their future joint air battle management system, they call it Project AIR6500 Phase 1, as we've discussed before, this system will provide the Australian Defence Force with leading edge integrated air and missile defense capability using next-generation technologies to combat high speed threats and establish Australia's integrated air and missile defense. It's one of the most highly advanced in the world. We also continued to demonstrate 21st century security and other innovative ways. In May, our Skunk Works Tactical artificial intelligence team successfully execute executed their second set of flight tests for the University of Iowa operator performance laboratory. Our AI flew the L-29 jet aircraft by means of heading speed and altitude commands sent directly to the onboard autopilot, then to the plane's flight controls. This test has shown our AI team can rapidly develop iterate and integrate artificial intelligence technology for autonomous flight operations. We're also making great progress and another leading edge defense tech initiative, hypersonic strike, which is a critical element of deterrence in today's world. As announced by the Department of Defense in June, the US. Navy and US Army completed an end to end all up round flight test of the common hypersonic missile core to the Navy's conventional Prompt Strike or CPS and the Army's long-range hypersonic weapons programs. The test marked a major step forward for the nation's development of hypersonic systems by Lockheed Martin. Pivoting to the supply chain. We continue to explore opportunities to drive our concept of anti for agility across the global defense industrial base. For example, we recently signed a collaborative memorandum of understanding with Rheinmetall to work together on land, air and naval opportunities. One of our first initiatives is the new Global Mobile artillery Rocket System or GMARS, say highly interoperable to pod launches system intended to fire the MLRS based munitions. Combining these combat proven systems will help address the growing demand for long range rocket capabilities in Europe and elsewhere. On our PAC-3 program. International collaboration remains strong as well, including development of indigenous capabilities with the opening of a pack three MFC launch tube production line in Poland as well as a memorandum of understanding with Grupo Asia in Spain to provide an opportunity to manufacture factory Hennessy parts for worldwide customers, Spain and the United States also formalize an agreement for Spain to purchase factory MSE missiles and related support, making Spain PAC-3's 16th partner nation. I'd also like to briefly discuss the latest status of the US defense budget. The house approved their version of the FY25 defense appropriations. So the focus now shifts to the Senate where the process continues before the reconciliation phase later this year. We believe our portfolio is well aligned to current and future customer mission priorities, including air superiority with the F-35, the CH-53K and Black Hawk or UH-60M, our integrated air and missile defense with PAC-3 and NGI, hypersonics with CPS and the LRHW. I just mentioned a minute ago and tactical strike weapons and munitions with JASSM, LRASM, PrSM, Javelin and GMLRS. Ultimately, we would look forward to conclusion of the USG appropriations process and the continued utilization of the existing supplemental funding. On the international front, I was encouraged by conversations I had at the recent NATO Summit a few weeks ago in Washington, international partners and allies remain steadfast in their pursuit of elevated defense spending to strengthen the overall integrated deterrence posture of the alliance given the tragic and ongoing conflict in Ukraine. affiliated companies. JULY 23, 2024 / 3:00PM GMT, Q2 2024 Lockheed Martin Corp Earnings Call I'll now turn it over to Jay for award highlights and additional commentary on our financial results."
+    },
+    {
+      "speaker": "Jay Malave Lockheed Martin",
+      "company": "Corp",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thanks, Jim. Similar to last quarter, I'll provide an overview of our consolidated financials and touch on a handful of operational items before handing off to Maria, who will cover business area financials, and then I'll come back to discuss the updated outlook. Starting on chart four, the positive momentum we had to begin, the year continued into the second quarter with sales up 9% to over $18 billion, led by RMS and MFC. As Jim mentioned, throughput remained strong, reflecting an improving supply chain and internal operating cadence. Segment operating profit of $2 billion was up 10% year over year and consolidated margins were 11.3% with all four business areas achieving double digit return on sales first time since the third quarter of 2022. Net favorable profit adjustments in the quarter were higher than prior year and were 21% of segment operating profit driving the stronger margins. GAAP earnings per share of $6.85 increased 3% year over year, driven by higher profit and lower share count, partially offset by severance and impairment charges at RMS and Sikorsky, higher interest expense and lower pension income. On the new business front, we recorded over $17 billion of orders in the second quarter for a book-to-bill ratio just below one. We generated $1.5 billion of free cash flow in the quarter, bringing our year-to-date total to just under $2.8 billion. And we continue to make the necessary investments in innovation and infrastructure to position the company and our customers for future success. With [$405 million] in research and development and $370 million in capital expenditures in the second quarter. Finally, we returned over 100% of our free cash flow to shareholders via share repurchases and dividends. Now I'll touch on a few business activities in more detail. The order strength continued at MFC with a book-to-bill over two in the quarter led by the $4 billion-plus Army award spending multi-year path through delivery requirements and supporting our production ramp projections. In Poland, official signed a letter of acceptance to purchase 400 JASSM [ERs], the largest international order in program history, providing another ally with the latest generation JASSM variance at Sikorsky. Its platforms remain in high demand as the State Department announced approval for foreign military sales of Black Hawks to Austria, Brazil and Sweden. This opens the door to the potential sale of 36 Black Hawks, adding 12 helicopters each to each country's existing Blackhawk fleet. In addition, the government of Greece signed a letter of offer and acceptance for F-35 UH-60M Black Hawk helicopters. These upgraded aircraft will support the Hellenic Ministry of Defense's ongoing modernization and will serve as a dependable multi-role helicopter with unmatched interoperability to support vital national and Allied security missions. In the space domain, late last month, NASA selected Lockheed Martin to develop and build the nation's next-generation weather satellite constellation for Noah, known as geostationary extended observations or GeoXO, this award builds on our prior work with environmental sensing technologies, which recently culminated with the launch of [GOES-U], which will leverage advanced instruments and rapid updates to provide crucial data for weather forecasting severe storm tracking and climate monitoring. Let me stop here and hand it over to Maria to get into the business area financial detail."
+    },
+    {
+      "speaker": "Maria Ricciardone Lockheed Martin",
+      "company": "Corp",
+      "role": "Vice President of Investor Relations, Treasurer",
+      "speaker_type": "management",
+      "section": "presentation",
+      "text": "Thanks, Jay. Today, I'll discuss second quarter year-over-year results for the business areas, starting with aeronautics on chart 5. Second quarter sales in aero were up 6% year over year. The increase was primarily due to higher volumes across F-35 and the continued production ramp on the F-16 Programs. affiliated companies. JULY 23, 2024 / 3:00PM GMT, Q2 2024 Lockheed Martin Corp Earnings Call Segment operating profit increased 5% with higher volume and favorable mix in offset by lower profit booking rate adjustments. Regarding aircraft deliveries. We resumed F-35 deliveries in Q3, as Jim shared, and we've delivered our 1,000 F-35, on F-16 we delivered four in the second quarter and are targeting around 20 for the year. For C130-J, we delivered five in the quarter, reaching a milestone of 2,700 deliveries of this critical tactical air lifter and expect around 20 deliveries for the year. Turning to missiles and fire control on chart 6. MFC had another strong quarter with sales up 13% from the prior year, driven by production ramps on a handful of our precision fires programs within the tactical and strike missiles segments primarily Guided Multiple Launch Rocket System (GMLRS) and Long Range Anti-Ship Missile (LRASM). Segment operating profit increased 21% year over year due to higher profit booking rate adjustments led by the pack three and Apache programs and margins returned to to 14.5%, which is more in line with historical rates. MFC backlog reached a record level of almost $35 billion in Q2, supported by continued global demand for several of our missile and munition programs. Key awards included the PAC-3 award that Jay mentioned, as well as $1.3 billion in combined awards for launchers, including HIMARS and M270 upgrades and a $500 million follow-on production contracts for JAGM and Hellfire to support US and international customers. On the delivery front, I'll highlight a few of the key program quantities in the quarter. We delivered 100 PAC-3 interceptors, more than 2000 GMRLSm rockets, over 2,700 Hellfire missiles and 11 HIMARS systems. Shifting to Rotary and Mission Systems on chart 7, sales increased 17% in the quarter to over $4.5 billion, primarily driven by higher volume at integrated warfare systems and sensors on radar and laser programs as well as the Canadian Surface Combatant program. Sikorsky programs also saw higher volume led by Black Hawk and CH-53K. Also of note, in the quarter, we delivered five S-70 helicopters to international customers, which resulted in about $115 million of revenue on a passage of title POT basis. Operating profit increased 9% year over year due to higher volume, partially offset by lower profit booking rate adjustments. Now for a brief summary of helicopter deliveries. In addition to the five S-70 helicopters I mentioned, Sikorsky delivered five Black Hawks, four combat rescue helicopters and one VH-92 presidential helicopter in the quarter. On the delivery front, a few of the key program quantities in the second quarter we did have some -- Yes, sorry about that, let's go to space. Finally, with Space on chart 8, sales increased 1% year over year. The growth was driven by higher volume on strategic and missile defense programs, primarily hypersonics and Fleet Ballistic Missile, FBM. Partially offsetting this growth was lower volume on classified programs and Orion. Operating profit increased 11% compared to Q2 2023, driven by favorable mix and higher profit booking rate adjustments. Now I'll turn it back over to Jay to wrap up our prepared remarks."
+    },
+    {
+      "speaker": "Jay Malave Lockheed Martin",
+      "company": "Corp",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Al right, thanks, Maria, and let's shift over to the outlook on chart 9. Given our strong year-to-date performance, sustained backlog position and improving visibility into key programs, we're raising our expectations for Lockheed Martin's 2024 financial outlook for sales segment, operating profit and earnings per share, we're increasing sales by [$1.7 billion by $5 billion] at the midpoint and tightening the range to $70.5 million to $71.5 billion. affiliated companies. JULY 23, 2024 / 3:00PM GMT, Q2 2024 Lockheed Martin Corp Earnings Call The new midpoint reflects a solid 5% growth from 2023 with increases across all four business areas. We're also increasing segment operating profit segment operating profit expectation based on the higher sales with a new range of $7.35 million to $7.5 billion and anticipate consolidated segment operating profit margins to remain at 10.5%. Business Area margins remain consistent with our prior guidance at Aero and MFC, while RMS is down about 50 basis points at the midpoint and spaces up 40 basis points at the midpoint. The RMS reduction is driven by Sikorsky as the business faces, continued cost pressure and absorption headwinds, the impact of which have exceeded benefits from its cost reduction programs. Conversely, spaces benefiting from solid performance and proactive cost reduction efforts. Moving to earnings per share on chart 11, we're increasing the midpoint by $0.35 to $26.35 with a range of $26.10 to $26.60 for the full year. Primary drivers of the other change are shown on this chart with increases coming from incremental profit of $0.49 and other below-the-line items of [$0.13]. Partially offsetting those items are the RMS charges totaling $0.29 from the severance actions and the asset write-downs taken in the second quarter. As Jim mentioned, we're encouraged by the F-35 delivery restart and continuous progress being made towards delivering full combat capability. We're holding our free cash flow expectation in the range of $66.3 billion, which absorbs a potential unfavorable impact from longer deferrals of final F-35 delivery payments. This is made possible by proactive actions taken across the company to offset these potential headwinds. On the cash deployment side, we still expect over $3 billion of IR&D and capital investments while the dividends, along with the expected $4 billion of share repurchases maintain attractive shareholder returns. Lastly, on backlog, we continue to expect backlog to grow in 2024, even with the higher sales outlook, which provides a line of sight to future growth. Before I wrap, I'd like to highlight a few other key assumptions regarding the updated outlook. First, we expect F-35 lot, [LOT-19] to be awarded this year, maintaining program funding and continuity. Second, we continue to expect $325 million of losses on the MFC classified program of which $100 million has been recognized year to date. And third, this outlook does not assume any pension contributions in 2024. So in summary, on chart 12, our solid first half results give us confidence in raising the full year outlook for sales, profit and EPS while holding the cash flow outlook, reflecting our ongoing efforts to deliver predictable and improving operating and financial performance as is expected of us, it all starts with a relentless focus on executing to our programmatic commitments and delivering critical 21st century security mission capabilities where we strive to continuously improve. To that end, we are investing in our people, processes and systems through a one LMS transformation with the goal of unlocking step changes in efficiency velocity and program execution that deliver security capabilities in ahead of ready speed to our customers. And we're confident that these management priorities and actions convert to a compelling long-term value proposition for customers and shareholders alike. With that, Lois, let's open up the call for Q&A. Operator Thank you. (Operator Instructions) Kristine Liwag, Morgan Stanley. Please go ahead. affiliated companies. JULY 23, 2024 / 3:00PM GMT, Q2 2024 Lockheed Martin Corp Earnings Call"
+    },
+    {
+      "speaker": "Kristine Liwag Morgan",
+      "company": "Stanley",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi Jim, Jay, Maria. Greetings from Farnborough. That's an F-16 flying in the background right now. So apologies for the war in the background (multiple speakers) I mean, it's a crazy or beautiful aircraft here. On the delivery guidance for the F-35 and the second half of this year is still fairly wide. You talk about the scenarios where there are lower and upper what would have to happen for you to hit the lower upper end of the range and also with production at 156 per year with delivery and production catch up for the program."
+    },
+    {
+      "speaker": "James Taiclet Lockheed Martin",
+      "company": "Corp",
+      "role": "Chairman of the Board, President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So Christina, I'll start and emphasize that we're going to do this online and conduct the deliveries with safety and quality is our number one priority. So just starting with that foundation, we actually have the ability to add resources which have already been identified and designated. And that's test pilots, maintenance team of software and the hardware engineers to get the flight test done that we need to be at the higher end of that range. But we want to make sure that if it's weather, if it's a pilot of crew, rest issues, anything like that we will accommodate for those. But we should we have the resources in place. I'll say that should enable us to get to the higher end of that range, if you will."
+    },
+    {
+      "speaker": "Jay Malave Lockheed Martin",
+      "company": "Corp",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, let me just add, just to reiterate, Christine, we expect anywhere between 75 to 110. Yes, with less than six months left is a wide range. I would say to you that over the next few months, we'll get much better insights into the induction and flow of aircraft and going into the test and our production cycle really bringing in new aircraft that are parked as well as aircraft that are coming outside of that and from the production flow. And as we get those learnings will be able to get a better assessment of what the delivery requirements will be what we expect for the year. And so it will take us a couple of months just to make sure we get that process learned out. It's well planned. We actually have to demonstrate it in actual practice as far as the future from terms of reducing on the backlog of aircraft in our target is anywhere between 12 to 18 aircraft deliveries per month. And I'm really to burn down the aircraft backlog. And so that will take us a number of years here to get through that. We've already made progress so far since the announcement of the restart. We've delivered 10 aircraft as of as of Monday yesterday, six with the TR-3 configuration and four with the TR-2 configuration. So we think we're off to a very good start. But again, we really need to have a I just monitor the operating cadence of being able to bring aircraft from two different flows into one test flight test flow. And again, we'll tighten that up later on in the year. Operator Thank you. Cai von Rumohr, TD Cowen. Please go ahead. Cai von Rumohr TD Cowen - Analyst Yes, thanks so much. So I think you did say that next year you're going to deliver more F-35 than you will produce. And I think at one point you've mentioned that you get paid $7 million upon each delivery walk us through. I think you mentioned also the deferral of some payments. So next year, what happens to accrued revenues? Because I think with higher deliveries, I assume the final delivery payment basically is incremental, even though under POC, the work itself should be relatively level. affiliated companies. JULY 23, 2024 / 3:00PM GMT, Q2 2024 Lockheed Martin Corp Earnings Call And then secondly, the cash flow impact, I know that there's a deferral on payments, but if it was really $700 million (corrected by company after the call), that's potentially a substantial cash flow plus? Thanks so much."
+    },
+    {
+      "speaker": "Jay Malave Lockheed Martin",
+      "company": "Corp",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Okay, let me let me just say first of all, as Jim mentioned, restarting delivery was an important first step, really towards delivering of the fully combat capable aircraft. Aircraft there to withhold the aircraft withhold his final delivery payment as a timing item, as you mentioned, and we're working with the customer to finalize the terms of those final delivery payments. We're making excellent progress, but it would be immature or premature to give the details of that because it remains subject to negotiation. Suffice it to say that you will see a timing benefit over the next few years as we deliver. But I think we still need to work through and finalize this agreement with the customer. As far as the on the revenue, I really wouldn't see expect much of an incremental benefit in terms of revenue. We continue to build at a 156 rate we are seeing production a little bit higher this year. But for the most part, we should expect that to be, I think, fairly stable and yes, we'll see incremental activity in terms of test activity, which does increase our penetration on a percent complete basis. But I don't really view that being all that material. And so we just hold the production we'll expect F-35 to grow mostly from sustainment next year and in the years to come. And I think it's important to mention as well that we are the headwind on these final delivery payments are here in 2024. We're holding our outlook. So we're absorbing that with better performance in the rest of the portfolio, yes, we will see the timing benefits our downstream. But as I mentioned before, we have to get just the whole delivery cadence straight, but I just want to make sure I had it straight in terms of the last question, we're targeting anywhere between 12 to 18 months to fully deliver on these parked aircraft. And as I mentioned, we just need to learn out the process over the next few months here and to get to be able to give better guidance on that. Cai von Rumohr TD Cowen - Analyst Thanks so much. Operator Scott Deutsche, Deutsche Bank. Please go ahead."
+    },
+    {
+      "speaker": "Scott Deutsche Deutsche",
+      "company": "Bank",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hey, good morning."
+    },
+    {
+      "speaker": "Jay Malave Lockheed Martin",
+      "company": "Corp",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Good morning."
+    },
+    {
+      "speaker": "Scott Deutsche Deutsche",
+      "company": "Bank",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Jay, you've been seeing some nice momentum on revenue and now you're seeing some of it on margins as well. I guess at what point do you think you'll be ready to start talking about it, maybe a better medium term free cash flow per share growth outlook in this mid-single digit rate you've been talking about for a while. Do you just need to lap these pension headwinds next year and see but more growth acceleration? Then you're there just curious how you're thinking about that? Thanks."
+    },
+    {
+      "speaker": "Jay Malave Lockheed Martin",
+      "company": "Corp",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, I appreciate the question. We've said over the last few months, really last year or so that our goal has been to increase absolute free cash flow in the low single digit clip and then that augmented with share repurchase would get us to a mid-single digit free cash flow per share expectation. That remains the outlook will go through on our multi-year forecast over the next few months here, we'll be able to give you a better update in the October timeframe. I think given the fact that we're at a higher level in 2024 is a positive, and we continue to expect to affiliated companies. JULY 23, 2024 / 3:00PM GMT, Q2 2024 Lockheed Martin Corp Earnings Call grow in 2025 off this higher baseline. So that in and of itself should result in a higher cash flow baseline as well, but a lot of work to be done between now and then. And so I would like to have the benefit of going through that in more detail, and we'll update that to you at least preliminarily in October."
+    },
+    {
+      "speaker": "Scott Deutsche Deutsche",
+      "company": "Bank",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "That's great. Thank you."
+    },
+    {
+      "speaker": "James Taiclet Lockheed Martin",
+      "company": "Corp",
+      "role": "Chairman of the Board, President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. Operator Thank you. Gavin Parsons, UBS. Please go ahead."
+    },
+    {
+      "speaker": "Gavin Parsons",
+      "company": "UBS",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks. Good morning. Wondering for maybe sticking on revenue, just you guys have talked about supply chain kind of being a bottleneck. Is the upside more on the demand front or on the unlocking of the supply chain side? And if the latter, can you just talk a little bit more about supply chain and what you expect going forward in the second half because I think the second half implies a lot less growth?"
+    },
+    {
+      "speaker": "Jay Malave Lockheed Martin",
+      "company": "Corp",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I think it's a combination of both. We ended the year 2023 with $160 billion backlog, which was a record. We ended here the second quarter at $158 million was slightly below where it ended at a record with significantly higher sales than we thought through the first half of the year. We expect our continued, as I mentioned in my prepared remarks that we continue to expect the backlog to increase at the end of this year, which gives us more visibility into further growth in '25 and beyond. So we're very bullish on where that stands from a backlog standpoint, as far as supply chain, we did see improvement. We are seeing continued improvement there and on-time delivery and the parts shortages continue to come down. Having said that, there are still areas where we're particularly where we're ramping up some of our major programs where we still have some work to be done there and we're still going through many of the initiatives and actions to proactive actions that we've talked about in the past, which is about insourcing some capabilities, dual sourcing where it makes sense. Also, we have deployed and we continue to deploy personnel to provide on-site assistance to suppliers. And of course, we also have we'll continue to look at a product redesign, but I'd say, by and large, we are seeing an improvement in the supply chain, which also gives us confidence for the continued growth in the future."
+    },
+    {
+      "speaker": "James Taiclet Lockheed Martin",
+      "company": "Corp",
+      "role": "Chairman of the Board, President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And Gavin, I gave some qualitative background on Demand side, our strategy includes driving the latest digital technologies, customer and open architecture standard-based system to the DoD. And by doing that and making our products services platforms compliant or in line with those future concepts of open architecture and standards to pull through those products, services and platforms. So we're starting to see that already, and we're demonstrating whether it's exercises or in real conflict like in the Red Sea, doing things like over the air updates to the Aegis system, which is decades old, but it can be improved very quickly now just like when you get a download overnight on your Tesla, we can do a download overnight over the air on the Aegis radar combat control system. And you know, double or triple the effectiveness against things like low flying drones and cruise missiles. So we're actually implementing affiliated companies. JULY 23, 2024 / 3:00PM GMT, Q2 2024 Lockheed Martin Corp Earnings Call those kinds of things on a standards-based architecture into our products and services today which I expect will continue to pull them through."
+    },
+    {
+      "speaker": "Jay Malave Lockheed Martin",
+      "company": "Corp",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Great, appreciate the detail. Operator Pete Skibitski, Alembic Global Advisors. Please go ahead."
+    },
+    {
+      "speaker": "Pete Skibitski Alembic Global",
+      "company": "Advisors",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hey, good morning, guys. If you think about what was appropriate in the '24 baseline budget and the Ukraine supplemental, how much order flow is still to come there for you guys? And MFC. And also just if we if we think about the on the growth cadence there, you talked about $750 million a year in the past. You're going to be well above that this year. So I'm just wondering if that at that cadence is going to come back into play in '25 on a higher baseline? Thanks."
+    },
+    {
+      "speaker": "Jay Malave Lockheed Martin",
+      "company": "Corp",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure. I mean there's still plenty of runway in orders at MFC. As I mentioned, the book-to-bill in the quarter was above two and we're still expecting additional orders at the end of the year, particularly in JASSM, LRASM in the second half here, there's still even on supplementals. There's some opportunity there to continue to build their backlog and so on, we've talked about [750], you're right, they're going to be above that this year. We see continued growth are there next year and they're going to be again, the highest grower within Lockheed Martin for the next three to five years. So we're pretty bullish on that. Much of that is already in the backlog, but there's still plenty more to come in terms of build continuing to build that backlog. The key for us is to make sure that we can meet that demand and ramp up all of these programs on to our customers' requirements. And the team has been laser focused on making sure they can do that. And you're seeing the benefits of that this year with sales coming in higher. So I guess we keep our head down, continue to deliver on the demand as both domestic and international and MFC And again, they're going to be a significant source of growth for Lockheed Martin for the next three to five years."
+    },
+    {
+      "speaker": "James Taiclet Lockheed Martin",
+      "company": "Corp",
+      "role": "Chairman of the Board, President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And Peter, it's Jim again. On a qualitative perspective, I tell our teams and our executives internally, we're in the aerospace and defense industry, but we're in the detergents business, right? So if you step back and say what contributes to the turns from an MFC, for example, and I think anybody had several was a Clint Eastwood movie will know that if we run out of ammunition, you're in a lot of trouble, right? So part of deterrence is showing that A, you have enough ammunition stocks to prevail and sustain your operations from an aggressor? That's first thing. Second thing is you also it's helpful to demonstrate that you can produce at rate and ramp that rate quickly that's oriented for Agility program. And the third piece of it is you can produce and repair our MFC and other products in the local theater and not have to bring them all the way back to the US to fix them or to drive that production up. That's the third part of our strategy. So everything we do is based on deterrence and strengthening that. And MFC has a huge role in making sure that our adversaries know that we've got enough stocks and MFC type products, and we can ramp that rate and we can produce in different places and repair different places should they act. And that's really kind of a qualitative underpinning of what Jay was talking about."
+    },
+    {
+      "speaker": "Jay Malave Lockheed Martin",
+      "company": "Corp",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Appreciate guys, thank you. affiliated companies. JULY 23, 2024 / 3:00PM GMT, Q2 2024 Lockheed Martin Corp Earnings Call Operator Seth Seifman, J.P. Morgan. Please go ahead."
+    },
+    {
+      "speaker": "Seth Seifman J.P.",
+      "company": "Morgan",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks very much and good morning. Probably just a quick one sorry about the background noise here. Just a quick one on kind of big picture. I think, Jay, I think you've said in the past that there was good potential for growth to be at least as strong as 2024 and 2025 and good potential for that growth rate to accelerate on. Is that still the case off of the higher revenue base and higher growth rate here in 2025 and '24?"
+    },
+    {
+      "speaker": "Jay Malave Lockheed Martin",
+      "company": "Corp",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "It's a good question, Seth. And as I mentioned before, we're going just going through our process to lay out our multiyear outlook, including 2025 for here over the next few months of what I would tell you is that the backlog visibility that we have would support another year similar to 2024. We have to go through though and the operational the practical operational capability to deliver that is something we have to go through. And so demand is there we have to make sure that supply can meet that as well. That's a pretty significant step change over really a two year span on some of these different programs that we're dealing with. And as I mentioned before, we're still dealing with some programs. They are still working through trying to get us to the ramp rates. Operator Sheila Kahyaoglu, Jefferies. Please go ahead."
+    },
+    {
+      "speaker": "Sheila Kahyaoglu",
+      "company": "Jefferies",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Good morning, guys. Thank you. Maybe if we could talk about profitability. If we look at first half profitability of 10 seven, second half implied in the low tens? And can you walk through some of the moving pieces and maybe in terms of supply chain productivity? I know volumes are lower and how we think about the exit rate for the year? Thank you."
+    },
+    {
+      "speaker": "Jay Malave Lockheed Martin",
+      "company": "Corp",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "The second half of the year, Sheila, is I mean, the most significant would be the program loss at MFC that we have to record in the second half. So you know, as I mentioned in my prepared remarks, we have recorded about $100 million here year to date in the second half. We expect about another $225 million. So that will put pressure on margins in the back half. The second piece I'd say is that we would have even though we had saw a very strong and solid profit adjustment up first half. That slows down a little bit in the back half of the year, just based on program timing, the timing of risk retirements. And so I'm just the risk retirements and profit adjustments are not all linear. They occur at different aspects of a program life cycle. But I would I would say is we feel comfortable with where we're headed. We've talked about up 2024 being a low watermark for all net margins, and we expect it to improve gradually over the next few years, and we still feel confident that can take place."
+    },
+    {
+      "speaker": "Sheila Kahyaoglu",
+      "company": "Jefferies",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you. Operator Thank you. Ken Herbert, RBC Capital Markets. Please go ahead. affiliated companies. JULY 23, 2024 / 3:00PM GMT, Q2 2024 Lockheed Martin Corp Earnings Call"
+    },
+    {
+      "speaker": "Ken Herbert RBC Capital",
+      "company": "Markets",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Good morning. I just wanted to see and apologies if I missed this, but can you comment on your view of NGAD and how you're thinking about that now moving forward and what we might be thinking about in terms of that next generation aircraft program?"
+    },
+    {
+      "speaker": "James Taiclet Lockheed Martin",
+      "company": "Corp",
+      "role": "Chairman of the Board, President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure, Ken. It's Jim here. So when it comes to the NGAD program of we're not authorized at industry to speak to the details of that. So you'd have to go to the US government to to get insight into that particular program. But I can tell you what we're doing to prepare for the next-generation combat aircraft. So some of those are on the investment front since 2021, rather, we opened the gates on four high-tech facilities that have the clearance, the security clearance capability to produce and guide type components right. One ends in Florida, skunkworks of California opened a new, a major factory that I was there to see. We have it in Alabama, two in Georgia. So we have these accredited facilities up and running ahead of the demand. And we're working on programs and products and that classified a keep us the capability space. So we've already got these facilities up and running the other resource we have is human in Skunk Works at Marietta and in Fort Worth and other places that can design test and build using our digital transformation, Engineering Technologies and a digital twin. These kind of components, aircraft and others that might go into it and get concept. So I can just tell you that Lockheed Martin is ready to produce for rate design rate of build. We are in the process of making sure we're capable and the air arenas that the Air Force and the Navy are going to need us to be. So that's really all we can say about that. But I can assure you that we are competitive and ready to go in this space if and when the government pulls the trigger on a real competition and what's the once somebody be able to produce, we can do it. Operator Thank you. Rob Spingarn, Melius Research. Please go ahead."
+    },
+    {
+      "speaker": "Rob Spingarn Melius",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Good afternoon, or I guess it's still morning. Wanted to ask you about on F-35 and congrats on the resumption of deliveries. But when we think about TR-3 and on the production side of the equation, how is the supply chain in terms of being able to supply enough material and integrated core processors on time for you to maintain the 156 per year. So as the mix goes more toward all TR-3, how well prepared is the supply chain for that."
+    },
+    {
+      "speaker": "James Taiclet Lockheed Martin",
+      "company": "Corp",
+      "role": "Chairman of the Board, President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So we got together, Rob, as I mentioned a few minutes ago in the prepared remarks and Fort Worth about a month ago with the CEOs of the Hackett US companies that contribute to this in a significant way. We communicated the importance of exactly what you're speaking to, which is not just the core processor, but there's a range, a number of other components across all of these companies that need to maintain or increase their production rates and modernize their equipment along the way. And so that communication of those suppliers has been made. They know our plans were well integrated, more integrated than we ever have. I think when it comes to test and planning and design, iterative software across multiple companies, et cetera. So we're in a position in and our suppliers are telling us they will meet the demand. We will monitor them and continue to even put people in their sites where we need to make sure that happens. But we've got the major suppliers together and they understand the demand rate, a quality level we need and a better integration plan for that test and development that we've built going forward."
+    },
+    {
+      "speaker": "Rob Spingarn Melius",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Jim, just following on to that, how do we think about the cadence for retrofit from TR-2 to TR-3? affiliated companies. JULY 23, 2024 / 3:00PM GMT, Q2 2024 Lockheed Martin Corp Earnings Call"
+    },
+    {
+      "speaker": "James Taiclet Lockheed Martin",
+      "company": "Corp",
+      "role": "Chairman of the Board, President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So you're right, Rob, this is designed for a backward integration, if you will. There be a schedule that the US government comes up with for TR-3, there, maybe there will be up to them as to the cadence, the investment rate, et cetera. But over a period of time, there will be a great number of originally built TR-2 aircraft that will get converted some hardware and software upgrades to that."
+    },
+    {
+      "speaker": "Rob Spingarn Melius",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Is this the kind of thing you expect to be talking about soon or this is a few years out, which we should be focusing on new production aircraft for now TR-3?"
+    },
+    {
+      "speaker": "James Taiclet Lockheed Martin",
+      "company": "Corp",
+      "role": "Chairman of the Board, President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So again, this is a US government policy decision. So it's better to that request that kind of commentary from them, Rob. But we're again, ready to do it at the rates that we expect that they can come at us with."
+    },
+    {
+      "speaker": "Rob Spingarn Melius",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. Thanks so much."
+    },
+    {
+      "speaker": "James Taiclet Lockheed Martin",
+      "company": "Corp",
+      "role": "Chairman of the Board, President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thank you. Operator Noah Poponak, Goldman Sachs. Please go ahead."
+    },
+    {
+      "speaker": "Noah Poponak Goldman",
+      "company": "Sachs",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hey, good morning, everyone. Jay, could you give us the updated I guess if you snap the line today or just ballpark, as you see it from a cash flow, pension contribution and cash recovery for at least '25. And I guess if you had it and were willing to give it beyond that would be helpful. And then I guess, can you can you talk through the pieces of how you grow absolute dollar free cash flow in '25 given the pension headwind you have and how it compares to how quickly you can grow the segment?"
+    },
+    {
+      "speaker": "Jay Malave Lockheed Martin",
+      "company": "Corp",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, so on unknown time, cash recovery this year were a little bit under, say $1.7 billion. We expect that to step down by in the range of about $100 million and probably stay at that level for the next few years after that on as far as absolute free cash flow in terms of build-up and the components to being able to continue to grow. Yes. We've talked about a pension being a headwind. We've talked about being in the range of about $1 billion. On the areas that we expect to drive cash flow growth would be continued earnings growth because of our net income growth, on in addition to some of these benefits and the timing on the F-35. We've talked also about just working capital in general. And even when you put F-35 US side what we're looking at and going after is our contract asset. If you look here in the second quarter, that was a nearly $14 billion balance that we had that's represented in the range and I put that in terms of efficiency around 70, 72 days of sales running through the balance at the moment. Since 2020 or so, that's grown from about 55 days. So there's an element of there and kind of the F-35 and what we've gone through over the past couple of years there. But there's also been growth outside of the F-35. That represents a lot of opportunity for us to convert into a faster billings at a level that we've been able to demonstrate in the past and that's we've been focused with on all of the business areas in terms of driving that on a multiyear basis back down to what we've been affiliated companies. JULY 23, 2024 / 3:00PM GMT, Q2 2024 Lockheed Martin Corp Earnings Call able to demonstrate. The next thing I'll say So besides working capital and contract assets are being our biggest opportunity is the reduction of payments related to the tax R&D capitalization. So we'll get in the range, I'd say about $150 million of benefits through lower payments there. So when you bring all these things together, we think that they generate a path to overcome and what we're seeing in the pension and drivers to this target of low single digits, not easy. It's not a slam-dunk, but we've got a path to be able to do that and that's what we're driving today to be able to deliver next year and beyond. Operator Thank you. Peter Arment, Baird. Please go ahead."
+    },
+    {
+      "speaker": "Peter Arment",
+      "company": "Baird",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks, good morning everyone. Jaye, maybe this just for you on the call and just talking about you've talked a lot about MFC is, you know, production ramp that you're going to have over the next couple of years. Just how does this all tie in with the, you know, the collaborative agreement you've got with Rheinmetall now tax-free, you know, production opening up in Poland. And I think Jim also mentioned Spain, an agreement there. Just a can you give us an update on pack three, what the growth, what kind of expansion looks like now and say, my guess on some high-margin JASSM, what would some of those growth rates look like?"
+    },
+    {
+      "speaker": "Jay Malave Lockheed Martin",
+      "company": "Corp",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "I'm sure you know, a lot of these agreements enable they're part of in-country requirements for industrial cooperation. You mentioned Poland, Jim mentioned Germany, also Australia and those are enablers for us to build up this backlog and drive this demand on the factory specifically, we expect to get to [550] in 2025 and then onto [650] by 2027. And so all of these orders and these partnerships that were plugged up signing up were all enablers to us to be able to do to produce and deliver at those rates. And it's not just PAC-3. We've talked about GMLRS going from 10,000 to 14,000. We've talked about Javelin going from 2000 to about 4,000. We've talked about JASSM, LRASM going from about 700 a year to 1,100 a year. So all of these orders that we're seeing, all these customer engagements that we have both domestic and international are all enablers to drive to these rates that we're building to. And so what they do is filling the bucket to bring us that to that backlog that's necessary for us to generate those sales and we're on track to that. Operator Jason Gursky, Citi Research. Please go ahead."
+    },
+    {
+      "speaker": "Jason Gursky Citi",
+      "company": "Research",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Yeah, good morning, everybody. Jim, I wanted to just throw a big picture one at you and maybe have you kind of wrap all of this together, kind of what you're seeing both in the near and then the long term and maybe just give your sense of, you know, maybe with a few more quarters here of hindsight, some of the lessons learned from the conflict in Ukraine, what you at Lockheed have learned from that, whether you're kind of investing in any new areas as a result of that and kind of the feedback loop that you're getting from your customer, both here in the United States as well as some of our allied nations as well. affiliated companies. JULY 23, 2024 / 3:00PM GMT, Q2 2024 Lockheed Martin Corp Earnings Call We seeing the development of a new setup requirements in investment areas and kind of where are you spending and how are you going about doing it? Just a big picture, what do you -- we are middle of '24. What have we learned from Ukraine and what are we doing?"
+    },
+    {
+      "speaker": "James Taiclet Lockheed Martin",
+      "company": "Corp",
+      "role": "Chairman of the Board, President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Jason, I would say that there's a wide range of lessons from the Ukraine conflict unfortunate as it is, but there's learn learning from it. One is that traditional systems, if you will, like Javelin at the initial invasion, made a significant contribution to the initial defense of Ukraine because it was a classic Armor attack and Armor supported infantry attack mean or armoured vehicles that were spearheading the drive to keep. And when those vehicles got out in front of their support system, that the Javelin, for example, made a tremendous difference in stopping that attack short, right. So you have a traditional system that was designed for a yeah, ground land warfare, traditional land warfare, if you will. That was highly affected. So we did learn from that. And now there's jamming both ways. There's electronic warfare, cyber, and it's like I tell my teams how big your high school wrestling Coach said for every move, there's a counter move. So if GM GPS, we tweak the system either satellite or the receiver or have an alternative form of navigation or targeting and we react to that. So on one hand, traditional systems are still effective. On the other hand, you have to be able to adapt quickly. I'd say that was the main lesson there, another one that similar situation pack three, again decades in service. And now there's a hypersonic missile threat from Russia, which was launched on a number of occasions on I think all of those occasions, none of those missiles were successfully reaching their target because the factory was modified to be able to address the hypersonic missiles. And then go to the kind of the other side of the issue, which is, I think drones became a more important, an element of land warfare than it had been before. And in sea warfare, actually the Ukrainians, you see autonomous vehicles to significant extent and success and also drones and unmanned aerial vehicles too. So is not the first time those kinds of systems have been used in prior complex, including in the Middle East, can the counterterrorism was if you will, but the trainees took it to a new level, literally thinking capital shifts with unmanned aerial systems. So there were lessons there, too. That's something our company is quite involved with a lot of it's classified, whether it's kinetic or surveillance, unmanned aerial systems, but we're learning from those two. So we work with drones, the smallest ones that Marine can unpack from a backpack and launch by hand to aircraft size, if you will. So we're involved in that game. And we did take the lessons from the Ukraine more and that's traditional systems are still essential at bulk and scale. And secondly, they have to be much more adaptable than they ever had to be before. And that kind of supports our digital technology effort and campaign to say, let's use those best digital technologies to make those legacy systems better and better all the time and not wait for a conflict to force us to do that."
+    },
+    {
+      "speaker": "Maria Ricciardone Lockheed Martin",
+      "company": "Corp",
+      "role": "Vice President of Investor Relations, Treasurer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Great. Hey, Lois, I think we've come to the top of the hour. So I'll turn it back over to Jim for some final thoughts."
+    },
+    {
+      "speaker": "James Taiclet Lockheed Martin",
+      "company": "Corp",
+      "role": "Chairman of the Board, President, Chief Executive Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks, Maria. So far, we close. I'd like to thank our Lockheed Martin team has dedicated efforts to advance our customers' missions and propelled our solid results this quarter. As you heard from Jay, our capabilities are recognized around the world is the best in defense tech, and that is thanks to our employees' hard work, dedication and commitment to continued innovation with 21st Century security technologies. I just described our robust backlog and focus on transforming our operations to our internal digital transformation program. Our company has a strong foundation for growth for years to come. So I look forward to speaking with you again on our next call in October. And Lois, that concludes our call for today. affiliated companies. JULY 23, 2024 / 3:00PM GMT, Q2 2024 Lockheed Martin Corp Earnings Call Operator Thank you. And ladies and gentlemen, that does conclude our conference call. Thank you for your participation and for using AT&T Teleconference. You may now disconnect. In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. affiliated companies."
+    }
+  ]
 }

@@ -4,5 +4,542 @@
   "quarter": "2023Q4",
   "sector": "IT",
   "filename": "2024-Feb-07-MPWR.OQ-140528557327-Transcript.pdf",
-  "segments": []
+  "segments": [
+    {
+      "speaker": "Richard Ewing Schafer Oppenheimer",
+      "company": "& Co. Inc., Research Division",
+      "role": "MD & Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Tore Egil Svanberg Stifel, Nicolaus & Company, Incorporated, Research Division - MD"
+    },
+    {
+      "speaker": "Travis Henry Poulin Wells Fargo",
+      "company": "Securities, LLC, Research Division",
+      "role": "Associate Equity Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "William Stein Truist Securities, Inc., Research Division - MD"
+    },
+    {
+      "speaker": "Genevieve Cunningham Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Senior Manager of Marketing Communications",
+      "speaker_type": "other",
+      "section": "presentation",
+      "text": "Welcome, everyone, to the MPS Fourth Quarter 2023 Earnings Webinar. My name is Genevieve Cunningham, and I will be the moderator for this webinar. Joining me today are Michael Hsing, CEO and Founder of MPS; and Bernie Blegen, EVP and CFO. In the course of today's webinar, we will make forward-looking statements and projections that involve risks and uncertainty, which could cause results to differ materially from management's current views and expectations. Risks, uncertainties, and other factors that could cause actual results to differ are identified in the safe harbor statements contained in the Q4 earnings release and in our latest SEC filings. Including our Form 10-K and our Form 10-Q, which are accessible through our website. MPS assumes no obligation to update the information provided on today's call. We will be discussing gross margin, operating expense, operating income, other income, income before income taxes, net income and earnings on both a GAAP and a non-GAAP basis. These non-GAAP financial measures are not prepared in accordance with GAAP and should not be considered as a substitute for or superior to measures of financial performance prepared in accordance with GAAP. Tables that outline the reconciliation between the non-GAAP financial measures to GAAP financial measures are included in our Q4 2023 earnings release. I'd also like to remind you that today's conference call is being webcast live over the Internet and will be available for replay on our website for 1 year, along with the earnings release, which was furnished to the SEC earlier today and is available on our website as well. Now I'd like to turn the call over to Bernie Blegen."
+    },
+    {
+      "speaker": "Theodore Bernie Blegen Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks, Gen. For the full year of 2023, MPS achieved record revenue of $1.82 billion. This is our 12th consecutive year of revenue growth, driven by consistent execution, continued innovation and strong customer focus. As announced today, MPS is expanding into a new $1 billion market with the acquisition of our partner, Axign B.V. Axign is a Netherlands-based startup with early revenue specializing in programmable multicore digital signal processors. Axign's competitive difference is its ability to deliver signals with near 0 distortion and reduced power consumption for automotive and consumer audio systems. The combination of Axign and MPS' IP, which has been accepted by several high-end audio customers will change people's experience in their cars, homes, concert venues and stadiums. Let me turn to a few highlights from this past year. Our integrated power management solutions for artificial intelligence enabled our customers to unlock previously untapped opportunities for innovation and growth. We created new automotive content powering the ramp of autonomous driving, the digital cockpit and lighting systems for both conventional and electric vehicles. We continue to diversify our global R&D footprint with the further expansion of our engineering centers of excellence in Europe and Taiwan. And finally, we continue to expand and diversify our operating footprint with the qualification of multiple new fab and packaging partners in Taiwan, affiliated companies. FEBRUARY 07, 2024 / 10:00PM GMT, Q4 2023 Monolithic Power Systems Inc Earnings Call Singapore and Malaysia. Turning to our full year 2023 revenue by market segment. Automotive revenue grew $94.6 million year-over-year to $394.7 million in 2023. This 31.5% gain was primarily driven by increased sales of our highly integrated applications supporting advanced driver assistance systems, the digital cockpit and lighting applications. Automotive revenue represented 21.7% of MPS' full year 2023 revenue compared with 16.7% in 2022. Full year 2023 enterprise data revenue grew $71.6 million over the prior year to $323 million. This 28.5% increase was primarily due to higher sales of our power management solutions for AI applications. Enterprise Data revenue represented 17.7% of MPS' total revenue in 2023 compared with 14.0% in 2022. Storage and computing revenue for 2023 grew $38.5 million over the prior year to $491.1 million. This 8.5% increase was primarily driven by increased sales of products for notebooks. Storage and computing revenue represented 27.0% of MPS' total revenue in 2023 compared with 25.3% in 2022. Communications revenue fell by $46.5 million to $204.9 million, this 18.5% reduction was a result of lower 4G and 5G infrastructure sales. Communications revenue represented 11.3% of our 2023 revenue compared with 14.0% in 2022. Industrial revenue fell by $46.5 million to $172.7 million in 2023. This 21.2% decrease primarily reflected lower sales in applications for industrial automation, security and power sources. Industrial revenue represented 9.4% of MPS' full year 2023 revenue compared with 12.2% in 2022. Consumer revenue decreased $84.8 million to $234.7 million in 2023. This 26.6% year-over-year decrease was a result of broad market weakness across all segments. Consumer revenue represented 12.9% of MPS' full year 2023 revenue compared with 17.8% in 2022. Let me take a moment to talk about the general business conditions. Throughout 2023, we highlighted that customer ordering patterns were oscillating, reflecting general economic uncertainty. While we saw a nominal improvement in Q4 ordering patterns, we remain cautious as visibility beyond the current quarter is limited. Despite this ongoing uncertainty, we continue to execute against our long-term strategy by bringing innovative new products to market and expanding design wins across our broad base of customers. We believe these ongoing investments position us well for future growth when the macro environment stabilizes. Switching to Q4 results. MPS had fourth quarter revenue of $454.0 million, down 4.4% from the third quarter of 2023 and down 1.3% from the fourth quarter of 2022. Comparing year-over-year results, fourth quarter 2023 revenue for enterprise data grew by 88.4%. Storage and computing fell 2.9%. Automotive was down 7.8%, Consumer decreased 17.5%, Communications decreased 36.3% and Industrial fell 40.5%. Fourth quarter 2023 GAAP gross margin was 55.3%, down 20 basis points from the third quarter of 2023 and 290 basis points below the fourth quarter of 2022. Fourth quarter 2023 non-GAAP gross margin was 55.7%, flat with the third quarter of 2023, but 280 basis points lower than the fourth quarter of 2022. This year-over-year reduction in fourth quarter non-GAAP gross margin is largely due to sales mix. Turning to Operating Expenses. Our GAAP operating expenses were $141.6 million in the fourth quarter compared with $128 million in the third quarter of 2023 and $130.9 million in the fourth quarter of 2022. Our non-GAAP fourth quarter 2023 operating expenses were [$96.7 million], roughly flat with the third quarter of 2023 and up from the $94.8 million reported in the fourth quarter of 2022. The differences between GAAP and non-GAAP operating expenses for the quarters discussed here are primarily stock compensation expense and income or loss from an unfunded deferred compensation plan. Fourth quarter 2023 stock compensation expense, including $1.2 million charged to cost of goods sold was $41.1 million compared with $33.6 million recorded in the third quarter of 2023. Switching to the bottom line. Fourth quarter of 2023 GAAP net income was $96.9 million or $1.98 per fully diluted share compared with $2.48 per share in the third quarter of 2023 and $2.45 per share in the fourth quarter of 2022. Q4 2023 non-GAAP net income was affiliated companies. FEBRUARY 07, 2024 / 10:00PM GMT, Q4 2023 Monolithic Power Systems Inc Earnings Call $140.9 million or $2.88 per fully diluted share compared with $3.08 per share in the third quarter of 2023 and $3.17 per share in the fourth quarter of 2022. Fully diluted shares outstanding at the end of Q4 2023 were 48.9 million. As for our balance sheet, as of December 31, 2023, cash, cash equivalents and investments totaled $1.11 billion compared to $1.04 billion at the end of the third quarter of 2023. For the fourth quarter of 2023, MPS generated operating cash flow of about $153.3 million compared with $175.9 million in Q3 2023. Fourth quarter 2023 capital spending totaled $13.8 million. Accounts receivable ended the fourth quarter of 2023 at $179.9 million compared with the $185.8 million reported at the end of the third quarter of 2023 and $182.7 million at the end of the fourth quarter of 2022. There were 36 days of sales outstanding across these comparable periods. Our internal inventories at the end of the fourth quarter of 2023 were $383.7 million down from the $397.3 million at the end of the third quarter of 2023. Days of inventory rose to 172 days at the end of Q4 2023 from 171 days at the end of third quarter of 2023. We have carefully managed our internal inventories throughout the year given the uncertainty in the market. Using next quarter revenue as a basis, inventory was 175 days at the end of the fourth quarter of 2023, down from 178 days at the end of the third quarter of 2023. I would now like to turn to our Q1 2024 outlook. We are forecasting Q1 2024 revenue in the range of $437.0 million to $457.0 million. GAAP gross margin in the range of 55.1% to 55.7%; non-GAAP gross margin in the range of 55.4% to 56.0%; total stock-based compensation expense, including associated employer taxes of $46.2 million to $48.2 million, including approximately $1.4 million that would be charged to cost of goods sold; GAAP operating expenses between $147.2 million and $151.2 million; non-GAAP operating expenses to be in the range of $101.8 million to $103.8 million. This estimate excludes stock-based compensation expense and amortization of recently purchased intangible assets but includes litigation expense and the expense from our recent Axign acquisition. Other income before foreign exchange gains or losses expected to range from $5.3 million to $5.7 million. Fully diluted shares to be in the range of $48.8 million to $49.2 million of shares. We continue to execute the share buyback program that was announced in our Q3 '23 earnings call. Finally, I am pleased to announce a 25% increase in our quarterly dividend to $1.25 per share from $1 per share for stockholders of record as of March 29, 2024. In conclusion, while we continue to be cautious about the near-term business conditions, we believe our long-term growth strategy remains intact, and we can swiftly adapt to market changes as they occur. I will now open the webinar up for questions."
+    },
+    {
+      "speaker": "Genevieve Cunningham Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Senior Manager of Marketing Communications",
+      "speaker_type": "other",
+      "section": "qa",
+      "text": "Thank you, Bernie. Analysts, I would now like to begin our Q&A session. (Operator Instructions). Our first question is from Quinn Bolton of Needham."
+    },
+    {
+      "speaker": "Nathaniel Quinn Bolton Needham",
+      "company": "& Company, LLC, Research Division",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Michael, Bernie, can you hear me?"
+    },
+    {
+      "speaker": "Michael R. Hsing Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Founder, Chairman, President & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes."
+    },
+    {
+      "speaker": "Theodore Bernie Blegen Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. Speak up. affiliated companies. FEBRUARY 07, 2024 / 10:00PM GMT, Q4 2023 Monolithic Power Systems Inc Earnings Call"
+    },
+    {
+      "speaker": "Nathaniel Quinn Bolton Needham",
+      "company": "& Company, LLC, Research Division",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Congratulations on the very stable outlook in a pretty choppy environment. Looks like the enterprise data segment was up $30 million quarter-on-quarter, really driving a lot of the growth in the near term. As you look into 2024, can you just talk about your expectations for enterprise data specifically your opportunity to perhaps expand the customer set with some of the other leading GPU and AI accelerator companies? And then I've got a follow-on question."
+    },
+    {
+      "speaker": "Theodore Bernie Blegen Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure. I'll take that, Quinn. As far as the initial ramp that we've been experiencing over about the last 4 quarters, we've really seen or benefited from the acceleration of demand for these applications and solutions. As we look ahead, we see a broadening of the number of market participants or customers that will be participating in that. But at the same time, we also believe that competition within the supply chain will continue. So for a majority of the period to date, we've enjoyed a pretty high percentage of market share but expected that to decrease as we introduce second and third suppliers."
+    },
+    {
+      "speaker": "Michael R. Hsing Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Founder, Chairman, President & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "But overall, the overall added -- overall, the market segment is grown and grow very rapidly. And we're expanding our production lines and we will meet in the second half for the demand."
+    },
+    {
+      "speaker": "Nathaniel Quinn Bolton Needham",
+      "company": "& Company, LLC, Research Division",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Got it. Maybe just looking at sort of the road map for some of these accelerators in 2024. I think you guys have some new ramps with probably higher content, but I think you also have perhaps lower cost cards coming out where you guys may see a step down in your dollar content. Can you just kind of walk through the puts and takes, how we should be thinking about your average dollar content per win? Do you still see that trending higher as power consumption goes up? Or is the increase in competition and perhaps efforts to design cost down cards starting to perhaps limit that dollar content opportunity?"
+    },
+    {
+      "speaker": "Michael R. Hsing Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Founder, Chairman, President & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "The dollar content is -- well, it's -- as a market accelerating, again, we have more competitor joining and especially this rate of ramp. And also, we see other players, other AI players will enter the market that we are -- so far, we're behind, well, pretty much the sole source of power solutions. And as you see the second half or sometime next year, you will see a lot of other players to be qualified or they solve their -- whatever their technical problem is, okay, or are. So that's what we expect. The cost side, okay, we're always lowering our cost. And at this time, we want to solve all the problems and we believe we resolve all these issues during this fast ramp. And also the cost at this time is not really the issue. It's all about the throughput and to meet the customer demand."
+    },
+    {
+      "speaker": "Theodore Bernie Blegen Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And one final comment on content is that with each following generation of new products that are being introduced for AI, the power requirements are increasing. And at this point, we have a belief that the dollar content will go up per server. But at this point, it's very hard to gauge that."
+    },
+    {
+      "speaker": "Michael R. Hsing Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Founder, Chairman, President & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "In the next version of it is -- the power is even higher -- is much higher, as Bernie said. And we started to do these product developments back in a couple of years ago. And we're about to release it to our customers in this quarter and the next couple of quarters. Operator Our next question is from Rick Schafer of Oppenheimer."
+    },
+    {
+      "speaker": "Richard Ewing Schafer Oppenheimer",
+      "company": "& Co. Inc., Research Division",
+      "role": "MD & Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I'll add my congratulations as well. A couple of questions, if I could. I guess, Michael, I'm curious -- if you could kind of elaborate a little bit, I'm curious what surprised you the most the last 90 days or so. I'm thinking particularly of auto, obviously, enterprise data was stronger than expected, but auto seems like it's kind of materially gotten softer for most in the last 90 days. So I was curious if you could affiliated companies. FEBRUARY 07, 2024 / 10:00PM GMT, Q4 2023 Monolithic Power Systems Inc Earnings Call comment on what you're seeing there. And of course, you guys had, I think, a couple of delayed model year launches last year and the second half. And I was just getting -- trying to get a sense of when those might ramp. And if you consider that an offset maybe to a slower auto market at large."
+    },
+    {
+      "speaker": "Michael R. Hsing Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Founder, Chairman, President & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Good question. Good observation. Toward the end of the last year, kind of auto slowed down. But overall, we -- as Bernie said earlier, we still grow somewhere high 20%, 30% somewhere in the overall -- in the auto segment. These are mostly primary -- mostly due to the ADAS, the infotainment or whatever the (inaudible), call it, digital cockpit. And going for next year, we believe we see all the activities and customers and nowadays are consuming all these inventories that we shipped in the May or June period times, and now they start to have a higher volume ramp and -- especially in the EV side. So for this year's -- first part of this year."
+    },
+    {
+      "speaker": "Theodore Bernie Blegen Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So I think that there has been some softness that has occurred in Q3 of last -- Q3 and Q4 of last year that was observable both for IC and EVs. And as we said in our earlier comments, and it applies to automotive, we don't have great visibility beyond just the next quarter. So it's hard for us to predict what the second half of '24 ramp might look like for automotive."
+    },
+    {
+      "speaker": "Michael R. Hsing Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Founder, Chairman, President & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Right. The ramp in the early adoption in EV is very lumpy and different automakers ramping in different schedules. But overall, the trend is they will pull out more EV with more our products."
+    },
+    {
+      "speaker": "Richard Ewing Schafer Oppenheimer",
+      "company": "& Co. Inc., Research Division",
+      "role": "MD & Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "And if I could follow up, I know Quinn was asking about some of the 48-volt stuff. I was curious, I mean, you guys were so dominant on this -- in second stage 48-volt, I know you've got a Stage 1 product now as well. So I didn't know if you could give us a sense of what your expectations are for share or revenue contribution, however, you'd like to discuss it. But I'm curious sort of what Stage 1 power will do to your content, will do for your -- for that enterprise data segment. And I also was curious only because you mentioned it a couple of times, a new competition coming in 48-volt. And I was just curious to get your thoughts on if it gets harder or the competition going forward as guys like NVIDIA move from a 2-year cadence on new processor development to an annual cadence."
+    },
+    {
+      "speaker": "Michael R. Hsing Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Founder, Chairman, President & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "All right. Yes. This game is always the best performance. So far, our competition, we don't -- I don't want to speak our competition. Okay. So far, in what we have, okay, and our customers can be very receptive to our solution. So far, we pretty much have a majority of the volumes. And they keep requesting it and keep requesting we solve all these issues, related to their system issues, ours and issues from our side. And -- so when -- even -- the volume gets even bigger, it's good to have another source. Otherwise, again, you don't want the MPS, became all of them. So again, that's not what we intend to do. And so -- and also the competition -- it's exactly like a server side. And we are the newcomer in the server market back in -- a couple of years ago, and that's how we win the market. And we had a product long before that. And we also need -- we had to dumb it down to meet the common footprints and because the power density is not high enough. And when this AI come out on the market, the common footprint is not a requirement. So we start to win a lot of -- a lot of shares. And the same is in the servers and have a very similar trend. And that's how we win the market. And we always want to do -- as we said in the past, we want to push in the technology. We want to make sure we're the best."
+    },
+    {
+      "speaker": "Richard Ewing Schafer Oppenheimer",
+      "company": "& Co. Inc., Research Division",
+      "role": "MD & Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "And Michael, any sense of Stage 2 -- or sorry, Stage 1 contribution this year for you guys? affiliated companies. FEBRUARY 07, 2024 / 10:00PM GMT, Q4 2023 Monolithic Power Systems Inc Earnings Call"
+    },
+    {
+      "speaker": "Michael R. Hsing Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Founder, Chairman, President & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, okay. We had some issues on the Stage 1. We had some design wins and very small volumes in different systems, actually. Now we don't have -- all these issues are resolved. That will significantly gain the content. And in each AR systems."
+    },
+    {
+      "speaker": "Theodore Bernie Blegen Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And Stage 1, for us, at least, is represented about 20%, 25% of the dollar content of Stage 2, and we expect to see the incremental ramp from these products in Q1 and Q2."
+    },
+    {
+      "speaker": "Michael R. Hsing Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Founder, Chairman, President & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. We had shipping these products for some of the 48-volt systems. And also, we supply the -- we are the supplier for chip and for the silicon, not for the modules. And now we step up to the modules."
+    },
+    {
+      "speaker": "Genevieve Cunningham Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Senior Manager of Marketing Communications",
+      "speaker_type": "other",
+      "section": "qa",
+      "text": "Our next question is from Matt Ramsay of Cowen."
+    },
+    {
+      "speaker": "Matthew D. Ramsay TD",
+      "company": "Cowen, Research Division",
+      "role": "MD & Senior Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I'm going to ask both of my questions here together because we got 2 or 3 calls going on tonight. I don't want to end up on two lines. I don't know that we want to go interweaving earnings calls. But my two questions are -- the first one, Michael, since you helped found the company, you guys have not been active in M&A traditionally. So I'd be interested to hear a little bit more about the company you're acquiring, the markets that you're going to go after, how that whole deal came together and what the prospects for that new technologies that you may -- and people that you may roll into the company. Just any background there."
+    },
+    {
+      "speaker": "Michael R. Hsing Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Founder, Chairman, President & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "That's a great question. So otherwise, we will take you to the all AI call."
+    },
+    {
+      "speaker": "Matthew D. Ramsay TD",
+      "company": "Cowen, Research Division",
+      "role": "MD & Senior Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Just really quickly on my second one, so I'll go back. Bernie, if you could just help us out with the guidance for March by segment, that would be helpful to make sure we're all modeling from the same footing."
+    },
+    {
+      "speaker": "Michael R. Hsing Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Founder, Chairman, President & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "All right. Let me answer your first question. And you said, inactive in the M&A market. That's not true, okay? And we follow our -- well, it's not really a policy. So we follow what we do for the best for our shareholders. We don't acquire revenue. The reason is cheap to grow revenue for MPS. But we do look -- do apply technology. And so this is the -- in the past, actually, we acquired a field and financially immaterial with our shareholders. And at this time, it's big enough, we made these disclosures. And talking about this Axign, is the company that we work with in for 3 years already. And it's proven that their technology and with our power stage and there will be a huge benefit for -- in audio signal to audio amplification fields. And we have a proven in a very, very, very high-end customers and make these products as a very unique and never achieved in histories that no 0 disposing signals and same to speakers. And the cost is very low. The way we achieve that. And also, we achieve a lot of programmable is also software adaptive. And that -- I see it when I listen to those sounds, it's really -- you bring audio first. We put in the press release, putting audio file quality to everybody's home to lower down -- really low down the cost. And that will revolutionize how we listened."
+    },
+    {
+      "speaker": "Theodore Bernie Blegen Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Matt, I'll take the second question then on the guidance as far as what we're looking at for Q1 here. The growth driver is -- still remains the enterprise data. The positive there is that in addition to AI, we're also seeing incremental positive demand for our traditional CPU data center solutions. When you look at the other groups, you -- basically, we see a flattening in comms, but then we see declines at the sort of range between the high single digits and low double digits in the sequential growth between Q4 and Q1 for the other groups."
+    },
+    {
+      "speaker": "Michael R. Hsing Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Founder, Chairman, President & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Does that answer your question, Matt? affiliated companies. FEBRUARY 07, 2024 / 10:00PM GMT, Q4 2023 Monolithic Power Systems Inc Earnings Call"
+    },
+    {
+      "speaker": "Theodore Bernie Blegen Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Gen, I think we can move to the next one."
+    },
+    {
+      "speaker": "Genevieve Cunningham Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Senior Manager of Marketing Communications",
+      "speaker_type": "other",
+      "section": "qa",
+      "text": "Our next question is from Tore Svanberg of Stifel. Tore Egil Svanberg Stifel, Nicolaus & Company, Incorporated, Research Division - MD Yes. Thank you, Michael, Bernie. And congratulations on 12th consecutive year of growth, especially in this environment. That's stunning. My first question for you, Michael, is 2024. So you've already talked about AI. And Bernie just sort of gave us directionally things for Q1. But you always seem to surprise us a little bit with something throughout the year. So I'm just wondering, is there anything that you could share with us that could happen either in industrial or communications. I'm not thinking about cyclical stuff. I'm thinking about more sort of new secular stuff that you're working on that could surprise us on the upside this year."
+    },
+    {
+      "speaker": "Michael R. Hsing Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Founder, Chairman, President & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Well, instead of -- well, last year, the growth is not very spectacular. It's like what is it, single digit -- 1.5%. Okay. It's -- yes, okay. But this year, I think who knows. Last year, we didn't know until ChatGPT happened. Then the AI business took off and was out of our expectations, we didn't know. But to answer your questions -- or to comment your question, 11, what is it, 12 years, 11 years in consecutive year-by-year growth. And it's -- we follow our principles. And again, we want to -- first thing, okay, we want to have make sure all the product, when we deliver to our customers, is the best product, best performers. And we want to beat all our competition. That's number one. Number two is, we react. We react fast, we're nimble, and we fulfill our customer demand. And that's sort of pretty simple strategy that we followed and we kind of disregarded what the market segment does. And we don't chase those market segment. This year, who knows, okay, whether one of the segments will grow, but I don't expect it will grow as big as AI, okay? But maybe a couple of small segments happening and I do see that. And we do see in the recent quarters, in the last quarter or so. We see all these orders come in and they came in as we expected, those products are truly better than our competitors. Tore Egil Svanberg Stifel, Nicolaus & Company, Incorporated, Research Division - MD Makes sense. And as my follow-up, I think most people, when they think about MPS, obviously, they think about power management and how much share you're gaining there. But when I look at the Axign acquisition, I think about your penetration into the data converter space, you're doing much more stuff on the single processing side. I mean, you're clearly building out, I think, a pretty impressive portfolio in what I would call more the mixed signal part of the market. So will you be able to maybe share that with us over time? I don't know, a percentage of revenue collectively, so how much these subsegments can represent for the overall business?"
+    },
+    {
+      "speaker": "Michael R. Hsing Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Founder, Chairman, President & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. Okay. I think in the next couple of years, and you will see some significant growth from a different area, from a single processing and for data converters and for -- of course, we talk about it today, the audio process, which we're already designing in some consumer -- high-volume consumer market segment. And later, we're going to get into automotive and automotive business. And other ones, we have a lot of small things. A lot of other things like silicon carbides for -- and silicon carbide projects for green energy and for solar -- for solar inverters. And -- well, these are still kind of power management, but a lot of ones were (inaudible), and these are for communications. And for communications in between -- in the solar side, okay, so from the inverter side. And even the automotive side, back to automotive side, there's a lot of other communication in the -- within the car, and we'll develop those type of products. And you see MPS in the next few years will migrate out to those segments."
+    },
+    {
+      "speaker": "Genevieve Cunningham Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Senior Manager of Marketing Communications",
+      "speaker_type": "other",
+      "section": "qa",
+      "text": "Our next question is from William Stein of Truist. William Stein Truist Securities, Inc., Research Division - MD I'll add my congrats to the remarkably stable outlook. And along those lines, the company has had a longer-term revenue growth and margin model that you have talked about in the past. I think the way you say it is either 15 plus semi growth or around 20 top line and affiliated companies. FEBRUARY 07, 2024 / 10:00PM GMT, Q4 2023 Monolithic Power Systems Inc Earnings Call then 10 to 20 bps per quarter on gross margin. We've been sort of really outside of that model as things have been really volatile since -- really since COVID started, I guess. But I wonder if we're potentially honing back into that model? Or should we sort of throw that away and not think about that anymore? How would you encourage us to think about revenue growth and margins longer term?"
+    },
+    {
+      "speaker": "Michael R. Hsing Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Founder, Chairman, President & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, those kind of models is models and models. And -- but I think given time and we will be back in a model. The model can be. It's like a weather forecasting, right? We build models and we didn't predict this thunderstorms. And for like the last couple of years, our model is not correct. And either we have too much or we have too little. So given those kind of economic, whether it's environment and that model is not quite right. But they end up -- and also, our model is not very scientific either, is based on our empirical historical reasons. And -- but we should not deviate from what we see now."
+    },
+    {
+      "speaker": "Theodore Bernie Blegen Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And just to give people a refresh of what the model is that Will is referring to is, generally speaking, we outperformed the market by 10 to 15 percentage points and in the stable market conditions where it's growing between about 5% and 8%, it's easy to assume that would be between 15% and 20% growth. On the gross margin or range that we target on a non-GAAP basis, is between 55% and 60%. And then when the environment is more predictable, we look to be able to grow gross margin 10 to 15 percentage points -- or basis points on quarterly successive quarters."
+    },
+    {
+      "speaker": "Michael R. Hsing Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Founder, Chairman, President & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. I might as well add that, okay, we emphasize the product development and also the customer's design win. And I do see a lot of wins and many different segments, I said earlier, and probably I forgot even half of it, okay, in my mind. And there are so many things going on. And -- so going in the future when a normalized -- as Bernie said, a more normalized economic conditions, there's no reason we will not grow -- we grow 1.5%. At least say it that way, okay."
+    },
+    {
+      "speaker": "Theodore Bernie Blegen Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "But the market contracted 10%."
+    },
+    {
+      "speaker": "Michael R. Hsing Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Founder, Chairman, President & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, yes. William Stein Truist Securities, Inc., Research Division - MD We certainly are outgrowing long term, no doubt. The other thing I'd like to ask about is inventories. I think on your own balance sheet, you're running below your long-term target now, maybe my view of the targeted is stale. I'm not sure, maybe you can just update us on inventory relative to your target and also in the channel, what you think is going on there, please?"
+    },
+    {
+      "speaker": "Theodore Bernie Blegen Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure. I can take that one. So as a reminder, the model is days on our balance sheet between 180 to 200 days. We came in at about the low 170s this quarter, which was really a reflection of how we have been managing our inventory in this uncertain environment. Having said that, we've started a lot of wafer starts ahead of what we believe will be a potential upside certainly in the next few quarters. As far as the channel, that's been a difficult aspect of this market for everybody. And we've had our share of putting inventory in the channel, but I'm very happy to report that over the last 3 quarters, it's been coming down appreciably. And we're right now just a little bit above our model."
+    },
+    {
+      "speaker": "Michael R. Hsing Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Founder, Chairman, President & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "We will start to build inventory."
+    },
+    {
+      "speaker": "Theodore Bernie Blegen Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes."
+    },
+    {
+      "speaker": "Genevieve Cunningham Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Senior Manager of Marketing Communications",
+      "speaker_type": "other",
+      "section": "qa",
+      "text": "Our next question is from Travis Poulin of Wells Fargo. affiliated companies. FEBRUARY 07, 2024 / 10:00PM GMT, Q4 2023 Monolithic Power Systems Inc Earnings Call"
+    },
+    {
+      "speaker": "Travis Henry Poulin Wells Fargo",
+      "company": "Securities, LLC, Research Division",
+      "role": "Associate Equity Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "This is Travis on for Gary. Congratulations on the results. I was wondering if you could provide color on how your customer base has evolved through 2023. Historically, MPS has been diverse from this perspective. But did any customer approach 10%? And along those lines, how do you expect this mix to evolve as we move into 2024?"
+    },
+    {
+      "speaker": "Michael R. Hsing Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Founder, Chairman, President & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, I see these data. We grow our small customer base in -- by a few thousand last year. And that's kind of exciting. It doesn't mean we add a lot of revenues. In the longer term, it will. The bigger the base, the better it is, the more stable MPS will be. And also, you don't know -- what's the next hardest things, okay? And our customers will decide that. But the market will decide. Our customer will take opportunity. If it's not this one, that one will. We just play the percentage. And we just have our products goes out the door. Goes to design in those -- to those customers. And in terms of which segments, I have to say it's everywhere. I can't remember -- I can't remember any numbers more than, as -- I our grow older, more than 5 or 6 things. -- but that's the beauty, you won't go 1,000. That will take a few years and it will turn into bigger revenues."
+    },
+    {
+      "speaker": "Theodore Bernie Blegen Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And Travis, it's an excellent question because I think to align with Michael's point here is that the strength of MPS as far as resilience in different market conditions is the breadth of the customer base and not have high levels of concentration. Now obviously, with this environment, where it has been generally weak except for AI, we're in sort of an unusual profile, but we don't expect that to last over the next couple 3 years."
+    },
+    {
+      "speaker": "Genevieve Cunningham Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Senior Manager of Marketing Communications",
+      "speaker_type": "other",
+      "section": "qa",
+      "text": "Our next question is from Tore Svanberg of Stifel. Tore Egil Svanberg Stifel, Nicolaus & Company, Incorporated, Research Division - MD I just had two quick follow-ups. First of all, is on revenue capacity. So I know in the past, Michael, you talked about sort of getting to $2 billion in capacity. Obviously, you're there now. But then also any updates on getting to $3 and even $4 billion of revenue capacity?"
+    },
+    {
+      "speaker": "Michael R. Hsing Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Founder, Chairman, President & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "We are building for $4 billion revenues in capacities. And we -- actually, we never changed especially out of China, and we -- and that actually fits our plan. And we'll continue to do that. And this kind of capacity issues you look at MPS business. And we see -- we believe this business will grow. We grow our capacity accordingly. It's really disregarded what's the current environment. We address for long-term issues. Tore Egil Svanberg Stifel, Nicolaus & Company, Incorporated, Research Division - MD Very good. And then the other follow-up, any updates on the e-commerce business. We haven't heard about that in a while. So I just want to make sure we check in with you and get an update there."
+    },
+    {
+      "speaker": "Michael R. Hsing Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Founder, Chairman, President & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Our module business is -- our -- pure e-commerce, I said it, okay, we didn't know what we are talking about and wasn't that exciting. But the combination of it and with our web service and the e-commerce and also some interactions help from our website, that generates 150 million units now -- last year. And I can't call it in -- what was that, like 7, 8 years ago, 7 or 8 years ago, this e-commerce business, customer can log in our website. We're going to -- they can change their -- they can input their parameters and program, our ports, we ship the product within a week or so. That didn't happen too much. But -- and yes, it's happening. But I still believe in the long term, that will be the business because we are loading the power management. We're loading all these product designing barriers. And -- why not? People can program the part and especially younger generations. And they have -- they rather program a product rather than use a [solid line] putting us in the arms and get -- go to a lab to make it happen. And I think it's younger generations would do that. And it will be different from older generations, my generation. And that business I believe in the long term still picking up. But for now, wasn't that bad, let's say that. affiliated companies. FEBRUARY 07, 2024 / 10:00PM GMT, Q4 2023 Monolithic Power Systems Inc Earnings Call"
+    },
+    {
+      "speaker": "Genevieve Cunningham Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Senior Manager of Marketing Communications",
+      "speaker_type": "other",
+      "section": "qa",
+      "text": "Our next question is from Melissa Fairbanks of Raymond James."
+    },
+    {
+      "speaker": "Melissa Ann Dailey Fairbanks Raymond",
+      "company": "James & Associates, Inc., Research Division",
+      "role": "Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I was wondering if maybe I could squeeze one in about storage and computing business. I know it's not quite as exciting maybe as what's going on in enterprise data."
+    },
+    {
+      "speaker": "Michael R. Hsing Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Founder, Chairman, President & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "That's not good."
+    },
+    {
+      "speaker": "Melissa Ann Dailey Fairbanks Raymond",
+      "company": "James & Associates, Inc., Research Division",
+      "role": "Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "I noted that you did pick up some business on the notebook side last year that was kind of opportunistic. We've got some seasonal factors coming in, in March. We've kind of heard that channel inventories, at least on the PC notebook side have normalized somewhat. But wondering if you could just give us a little bit of color on the storage portion of that business that we don't seem to talk about very much."
+    },
+    {
+      "speaker": "Michael R. Hsing Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Founder, Chairman, President & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "You know the answer already. And I said, overall, it's not good, overall -- so we take up some market shares, and we start to grow a little bit."
+    },
+    {
+      "speaker": "Theodore Bernie Blegen Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "So I think the way to look at it is that we anticipated softness in the storage market. And so as a result, we became more competitive on notebooks and accepted lower-margin business. And it was offsetting declines, particularly in SSD where we've seen a decline. We increased share with a lot of the major customers in the SSD market, but their business was in decline for much of 2023. And then the other positive in the group is that we saw the initial ramp of DDR5 during the year and also graphic cards expanded pretty nicely during the year. So this is a group that has different characteristics and net-net did pretty okay in a pretty difficult market."
+    },
+    {
+      "speaker": "Michael R. Hsing Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Founder, Chairman, President & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Well, I think DDR5, we expect to ramp in last year, right? I mean it happened -- didn't happen that fast. I mean -- so the key is, again, we make sure our product is designing. And when these products will ramp, it's not up to us. And we actually care less, but only care is we have a product to ship."
+    },
+    {
+      "speaker": "Melissa Ann Dailey Fairbanks Raymond",
+      "company": "James & Associates, Inc., Research Division",
+      "role": "Research Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "All right. Thanks very much, Michael, I'm sorry to bring up a sore point."
+    },
+    {
+      "speaker": "Michael R. Hsing Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Founder, Chairman, President & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "It's not a sore point. It's a reality like everybody else."
+    },
+    {
+      "speaker": "Genevieve Cunningham Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Senior Manager of Marketing Communications",
+      "speaker_type": "other",
+      "section": "qa",
+      "text": "Our next question is from Quinn Bolton of Needham."
+    },
+    {
+      "speaker": "Nathaniel Quinn Bolton Needham",
+      "company": "& Company, LLC, Research Division",
+      "role": "Senior Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Just wanted to follow-up. Bernie, I think you had mentioned that in addition to the GPU and AI, you guys are starting to see better traction on just the core CPU server market. I know in the past, you've talked about your goal to try to get your share in that segment to 25%. So wondering if you might just give us an update, where do you think your share is in CPU core power today? And how are you feeling about that 25% market share target over, say, the next couple of years?"
+    },
+    {
+      "speaker": "Theodore Bernie Blegen Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure. So what really generates interest with our customers is when they see the new product launches at both Intel and AMD ramping and we do the power management for both of those. And I think that as we observed in the last year or even 18 months that the most recent versions of their products have been delayed. And so we've experienced a slower ramp as far as being able to increase share or content on those platforms. But at least initially, as I was observing for Q1 as well as for the balance of '24, we see that both of those affiliated companies. FEBRUARY 07, 2024 / 10:00PM GMT, Q4 2023 Monolithic Power Systems Inc Earnings Call ramps starting to improve and that we'll participate with them. At this point, we don't have any reason to doubt our earlier projections as far as overall share opportunity between 20% and 30%. But right at this particular moment, it's hard to say what we have."
+    },
+    {
+      "speaker": "Michael R. Hsing Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Founder, Chairman, President & CEO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. Let me talk about just saying, we are floating and we didn't have any. And we are 13.5 and because that was about 2.5 years ago, we have a lot of design wins. We have a design win, a few, but by default, that came in -- the customers -- their customers, they couldn't ship. And we are turning to the bigger players. We are 4 teams in -- back in a few years ago, that we're designing many different projects. And we expect to be a bigger player. And so that's -- we still believe the same story. And when the CPU market picks up and our revenue will start resume to growth. And so what is the last year, and I don't even remember what was the last year. There wasn't spectacular numbers anyway. And I think sooner or later, it will turn around."
+    },
+    {
+      "speaker": "Genevieve Cunningham Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Senior Manager of Marketing Communications",
+      "speaker_type": "other",
+      "section": "qa",
+      "text": "(Operator Instructions). As there are no further questions, I would now like to turn the webinar back over to Bernie."
+    },
+    {
+      "speaker": "Theodore Bernie Blegen Monolithic Power",
+      "company": "Systems, Inc.",
+      "role": "Executive VP & CFO",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Great. Thank you very much, everybody. I'd like to thank you for joining us on this conference call, and look forward to talking to you again in our first quarter which will be in late April. And just to add to that, at that time, we'll be introducing a new format for this call. We will provide you content and context on how the end markets have performed in a written manner, and then we will use the conference call portion more for Q&A. So we believe that, that will be a more efficient use of your time and ours and also more complete communication. So with that, I will thank you. And again, I look forward to seeing you again in April. In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. affiliated companies."
+    }
+  ]
 }

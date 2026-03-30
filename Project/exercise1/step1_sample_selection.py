@@ -187,7 +187,7 @@ def main():
     summary_df.to_excel(writer, sheet_name="Summary", index=False)
 
     writer.close()
-    print(f"\n✅ 全部完成 → {OUTPUT_FILE}")
+    print(f"\n✅ All transcripts collected → {OUTPUT_FILE}")
     print(summary_df.to_string(index=False))
 
 

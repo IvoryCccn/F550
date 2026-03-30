@@ -4,5 +4,342 @@
   "quarter": "2024Q3",
   "sector": "IT",
   "filename": "2024-Oct-30-DASH.OQ-141043726560-Transcript.pdf",
-  "segments": []
+  "segments": [
+    {
+      "speaker": "John Collante Jefferies",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "presentation",
+      "text": "Operator Good afternoon and good evening. My name is Aaron, and I will be your conference operator for today. At this time, I'd like to welcome everyone to the DoorDash Q3 2024 earnings call. (Operator Instructions) And with that, I would like to turn today's call over to Andy Hargreaves, Andy, you can begin."
+    },
+    {
+      "speaker": "Andy Hargraves DoorDash",
+      "company": "Inc",
+      "role": "VP, Finance and Investor Relations",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Thanks, Aaron. Good afternoon, everyone, and thanks for joining us for our Q3 2024 earnings call. I'm very pleased to be joined today by Co-Founder Chair and CEO, Tony Xu; and CFO, Ravi Inukonda. We'll be making forward-looking statements during today's call, including our expectations for our business, financial position, operating performance, profitability, our guidance, strategies, capital allocation approach and the broader economic environment. Forward-looking statements are subject to risks and uncertainties that could cause actual results to differ materially from those described. Many of those uncertainties are described in our SEC filings, including our Form 10-Ks and 10-Qs. You should not rely on our forward-looking statements as predictions of future events or performance. We disclaim any obligation to update any forward-looking statements, except as required by law. During this call, we will discuss certain non-GAAP financial measures. Information regarding our non-GAAP financial measures, including a reconciliation to non-GAAP measures to the most directly comparable GAAP financial measures may be found in our earnings release which is available on our IR website. These non-GAAP measures should be considered in addition to our GAAP results and are not intended to be a substitute for our GAAP results. Finally, this call is being audio webcasted on our IR website. An audio replay of the call will be available on our website shortly after the call ends. With that, Aaron, we'll pass it back to you, and we can take our first question. Operator (Operator Instructions) Nikhil Devnani, Bernstein. affiliated companies. OCTOBER 30, 2024 / 9:00PM GMT, Q3 2024 DoorDash Inc Earnings Call"
+    },
+    {
+      "speaker": "Nikhil Devnani Sanford C. Bernstein",
+      "company": "& Co., LLC.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hi, thanks for taking the question. I wanted to ask a two part question on international. So in the past, you've kind of illustrated this dynamic in the US business where as cohorts experienced go forward and mature a little bit you see improvements in the contribution margins by years three and four. Now that you've been operating in some of these international markets for a few years now, -- have you seen a similar arc and magnitude of improvement on the contribution margin front for these cohorts as well? Or is it a little bit different for market structure reasons or for other reasons? And then my second question is around the degree of fixed cost leverage that you can get operating in so many different countries at once. I'm sure you get to share some technology and talent, but given delivery is hyper local, how do those two things shake out? Is your fixed cost burden in your newer markets lower and easier to overcome or not really? Thank you."
+    },
+    {
+      "speaker": "Tony Xu DoorDash",
+      "company": "Inc",
+      "role": "Chairman of the Board, Chief Executive Officer, Co-Founder",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Nik, it's Tony. I'll start and Ravi feel free to chime in here. I think on your first question, in short, the answer is yes. We are seeing similar progress both top line and bottom line in our international markets that we saw while building the US. And that's because if we were to rewind the clock three years ago when we first partnered with Volt, what we saw in the company was something that looks very familiar to us at DoorDash, which is a company that has built the leading product when it came to retention and order frequency. And that really is what drives the flywheel in terms of efficient growth. And so -- we continue to see this past quarter as well as in the last several years of partnering together with Bbot continued strong progress, where we virtually are gaining share in every single market that we play in. and we continue to see the bottom line perform in tandem. And so you are seeing that progression and it's been very encouraging. I guess, I can start on the second question, and then I'll hand the mic over to Ravi. In terms of fixed cost leverage, in short, the answer is yes. As we add subsequent markets or subsequent even products, we do use -- I mean, for all intents and purposes, the same team. You're right to say that these are hyper local businesses and services. So we do have to obviously start new in terms of acquiring each of the different audiences. But in terms of the tech stack in terms of the products, in terms of the know-how whether that's expanding products within a geography or adding net new geographies, you do see that operating leverage."
+    },
+    {
+      "speaker": "Ravi Inukonda DoorDash",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes. Nick, let me add a couple of points there, right? Like when you think about the performance of the overall international business. I mean, it has a strong third quarter as well as the year itself has been very strong. When you think about it from a growth perspective, we are growing substantially faster than peers, which essentially means we've gained share in virtually most of the markets that we operate in. Last call, if you recall, I mentioned the fact that the overall international business is gross profit positive. It continues to be the case. The dynamics are similar, right? Like this is a scale-driven business. Our goal has always been, if we find good opportunities to drive retention and order frequency, we're going to double down and invest. That's the same formula we are using in the international market. We are pleased that the gross profit continues to improve. On the fixed cost, I mean, similar dynamics that we saw in the US. Again, a lot of it has to deal with scale. But if you recall where we are in the international markets, we are still very early. We're -- we're investing behind product, and that's what's causing the strength that you're seeing from a cohort retention and an order frequency perspective."
+    },
+    {
+      "speaker": "Nikhil Devnani Sanford C. Bernstein",
+      "company": "& Co., LLC.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you both. Operator Michael Morton, Moffett Nathanson. affiliated companies. OCTOBER 30, 2024 / 9:00PM GMT, Q3 2024 DoorDash Inc Earnings Call"
+    },
+    {
+      "speaker": "Michael Morton MoffettNathanson",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hey, everyone. Thanks for the question. I wanted to start first maybe one for Tony and then a cohort question for Ravi. It's great to see the Wegmans grocery announcement. Just curious if we're getting closer to seeing an unlock of some of the largest grocers in the country who are not currently on DoorDash platform coming on to DoorDash? And then on the grocery topic and thinking longer term and your ability to make strides into the market. Could you talk about the trends that you see for the grocers who have been on the platform for the like longer extended period of times that you see with larger baskets and maybe larger basket market share trends for the grocers have been on the platform for two years. And then for Ravi your comments on cohorts the last couple of quarters is really encouraging. The new cohorts coming in being as strong as ever. The question that we get from investors is, who are these people . What are the demographics isn't everybody already ordering (technical difficulty) clearly not. So we would love if you could maybe shine a little light on what they look like. Is this skewing younger college age students, more digitally inclined, who are moving out of their home every fall going to college. Anything there would be great. Thanks again."
+    },
+    {
+      "speaker": "Tony Xu DoorDash",
+      "company": "Inc",
+      "role": "Chairman of the Board, Chief Executive Officer, Co-Founder",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Hey Michael, it's Tony. Yes, on the first question related to grocery, we're pretty excited about what we're seeing in grocery. I mean, we launched grocery at this point almost four years ago now. And the entry point was by delivering a product that was relatively speaking, new to the market, which was solving for this top-up experience, where for consumers, we were replenishing that middle of the week run where you run out of the items that you consume the most often or the earliest or the ones that perish the most frequently, whether that's your berries, your fruits, your dairy products, your coffees, et cetera. And I think what that spurred was both an introduction that was easy to understand for consumers and also something that grocers hadn't seen before and made it very easy to onboard a lot of these grocers. Now all of these things take time, right? I mean we had to build a new catalog from scratch. We obviously wanted to make progress on understanding inventory and the reliability of the inventory fees that we're receiving, which we thought is one of the biggest problems to solve here. And we've made tremendous progress pretty much across the board, whether that's adding selection, including some of the largest grocers in the country. We're just as excited as you are about Wegmans, but also everyone else that -- whether that's the corner grocery store to the middle market, grocery stores and I think this is why you're seeing when it comes to customer adoption, customers come to DoorDash first, new customers into the grocery delivery industry. And just in general, to delivery outside of restaurants come to DoorDash first, before any other platform. And so I think you're already seeing a lot of this. And in terms of other trends, we see that as customers get used to ordering groceries on DoorDash, they tend to order more items each subsequent visit. So from a cohort perspective, you're noticing that we are increasing both the frequency as well as the spend and wallet share in terms of how consumers spend when it comes to their monthly bills on grocery. And that's increasing with every single cohort. So in short, I think what we've seen is -- we have seeing a much bigger market than we expected when it came to launching this pop-up run product, which now has nicely translated into shopping for the other types of occasions, including your weekly stock ups and those types of baskets. And we just continue to see whether it's on the new customer acquisition side, leading share there. And then also on the retention side, positioning us to really continue to grow in a way that will outpace others as well as outpace our previous cohorts."
+    },
+    {
+      "speaker": "Ravi Inukonda DoorDash",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Hey Mike, it's Ravi. I'll take the one on cohorts side? Maybe I'll just level up and give you broadly on what we're seeing from an underlying cohort perspective. I mean, you're right, we've been very pleased with the cohorts. I think about it like a majority of the volume still comes from existing cohorts for us. The most instructive thing for me when we're operating the business is to look at the engagement of the older cohorts. And on to the older cohort, even cohorts as old as five, six, seven years old, we're still seeing good amount of retention as well as overall wallet share increase. That tells you that the improvements we are making in the product, whether it's selection, whether it's adding new categories, all of that is driving the new -- I mean, the cohort trend that you're seeing in the business. affiliated companies. OCTOBER 30, 2024 / 9:00PM GMT, Q3 2024 DoorDash Inc Earnings Call From a new cohort perspective, I'll have a couple of ways to think about this, right? Like One is we're still attracting a healthy amount of new consumers. It's not any different from a demographic perspective. We're starting to see cohorts coming from some of the suburban markets still. And the reason for that is -- remember, this is a product that continues to change. We add more selection, grocery, in many cases, the selection is net new to the platform. And the second way we are seeing is not only are consumers new to restaurants. Today, we actually had consumers that start their journey with grocery as the first order. That's a net new consumer that we're adding to the platform. But overall, when I look at the underlying cohorts, I mean the strength continues to be very strong, both across existing as well as new."
+    },
+    {
+      "speaker": "Michael Morton MoffettNathanson",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you so much. Operator Bernie McTernan, Needham."
+    },
+    {
+      "speaker": "Bernie McTernan Needham",
+      "company": "& Company, LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. Thanks for taking the question. Just wanted to ask about the partnership strategy, especially in light of the list announcement from tonight. So maybe just talk about the broader partnership strategy. I know you also partner with streaming companies, for example, but is there anything different here with the list that there is the driver component as well?"
+    },
+    {
+      "speaker": "Tony Xu DoorDash",
+      "company": "Inc",
+      "role": "Chairman of the Board, Chief Executive Officer, Co-Founder",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. Bernie, it's Tony. Maybe I can take this one. So one of the things we have at DoorDash that we believe in and follow religiously, is that we keep the main thing -- the main thing. And the main thing at DoorDash is building and enabling local commerce. And so when you think about kind of our perspective on all things, partnerships as well as building products, the [80] goes towards building products, which means that it's because that we've offered customers the best combination of selection, quality, affordability and service that we get used the most often our app. And because we get used the most often, it's how we actually are able to build not only the most useful, but also the largest local commerce membership program, which is Dash pass. Now that's the -- the 20 is the partnerships piece, where for us, we do believe that there are others outside of our network that can offer attractive benefits to our members. You saw this a few years ago when we first launched our partnership with Chase, which we renewed in an expanded way earlier this year. Then you saw the announcement and partnership with MAX, which happened a couple of months ago in terms of adding streaming benefits to Dashpows subscribers. And then today's announcement with Lyft, which we're really excited about. Lyft is a service that's used by millions of writers. And many of those writers already are DoorDash customers. Some of them are Dash past subscribers, but a lot of them are also not DashPas subscribers. And so I think it's a great opportunity for us to continue to add engagement to the DashPass program as well as new DashPass members. And in return, lift gets access to the largest local commerce platform that sees the highest frequency program of its kind when it comes to consumer membership programs. And so I think that will be great for them as well. But again, the 80 for us remains to be building the products. And if you think about it, the runway for just organic growth, for DashPass, or really just for our own customer base is quite large. I mean we have hundreds of millions of customers who order with us every year, whether it's on DoorDash or on Bbot and only a fraction of those are members to either Dash Pass or [Bbot Plus]. So we've got a long ways to go just within our own ecosystem, and then when you look at this from the consumer's perspective, although we've done a reasonably good job in terms of enabling local commerce in the categories that we play in today, we still only represent single-digit fraction of the restaurant industry and a much smaller fraction of that outside of restaurants. So I think there's a long runway ahead -- and the main thing for us continues to be improving our products so that we can be the most useful to customers that they use our products most often, which will give us the privilege of having them as members in our programs. affiliated companies. OCTOBER 30, 2024 / 9:00PM GMT, Q3 2024 DoorDash Inc Earnings Call"
+    },
+    {
+      "speaker": "Bernie McTernan Needham",
+      "company": "& Company, LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Makes sense. Thanks, Tony. Operator Shweta Khajuria, Wolfe Research."
+    },
+    {
+      "speaker": "Shweta Khajuria Wolfe",
+      "company": "Research, LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you so much for taking my questions. Let me try two, please. Ravi, the day rate contributors in the past, you've mentioned its ad growth and platform contribution as well as cost line efficiencies. Could you maybe please rank order them in terms of the impact on take rates as you think about maybe near to mid-term? And then on price parity, either Tony or Ravi, where do you think you want to be when it comes to grocery price parity in the mid to long term. Is there a future where it's going to be the same as in-store prices? Is that the goal? Or is it that you want to be the most competitively priced online grocery delivery platform?"
+    },
+    {
+      "speaker": "Ravi Inukonda DoorDash",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Hey, Shweta, it's Ravi. I'll take the first one on the take rate, right? Let me start by just giving a broader framework around the interplay between revenue and Govind our business. I mean if you think about revenue, it's been outpacing the GOV growth in our business. That's being driven by ads, as you mentioned, it's been driven by benefits we get from the commerce platform. And any time we improve efficiency on the cost line, whether it's cash or cost or CLR, that drives revenue. So that's why revenue growth has been outpacing our GOV growth rate. And more specifically, what we saw in the third quarter was two things. One is advertising, and the second one is leverage from Dash flow costs. I wouldn't read into the advertising as something has changed in which we operate the business. We are operating the ad business with the same amount of discipline. It's growing in a very healthy manner. We're also very proud of the leverage that we've generated on the DAS side. A lot of that is being driven by the underlying improvements we are making on the product, and we are pretty happy with that. More broadly, when I think about on a go-forward basis, I would expect revenue to continue to outpace GOV growth. But I would not think of it linearly in terms of the same amount every single quarter. So if you think about the operating philosophy for us when we find good opportunities to invest, we want to invest flexibly up and down the P&L. Sometimes those opportunities are going to present themselves in the revenue line. And we're pretty happy to take advantage of that."
+    },
+    {
+      "speaker": "Tony Xu DoorDash",
+      "company": "Inc",
+      "role": "Chairman of the Board, Chief Executive Officer, Co-Founder",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "On your question on price parity, I think it's a good one. I do think though, in the eyes of the consumer, they think about grocery delivery against a few dimensions at the same instance and it's not just about price, right? One of the challenges you see in the grocery delivery industry right now is that customers are asked to pay a premium even though they don't get exactly what they ordered. And that's one of the key problems that we're trying to fix here at DoorDash, which is, first and foremost, how do we get customers exactly what they order. We think that we're making great strides against that dimension. But there are other dimensions. Price is one of them, and we are working with each one of our retail partners to making sure that we do have prices as competitive and affordable as possible. We do have some partners already there in terms of having or matching in-store prices. But we think that we can do more there. And at the same instance, we have to continue to offer the level of convenience where we can be faster than what a customer can do on their own. And so I think the combination of those three things of getting people exactly what they ordered at prices that they would expect, certainly faster than they can do it on their own. That's kind of what we're going for. It is the combination of those things in which we're shooting for."
+    },
+    {
+      "speaker": "Shweta Khajuria Wolfe",
+      "company": "Research, LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks Tony. Thank you, Ravi. affiliated companies. OCTOBER 30, 2024 / 9:00PM GMT, Q3 2024 DoorDash Inc Earnings Call Operator Deepak Mathivanan. Unidentified Participant Hi. This is [Cameron Lynch] on for Deepak. Just two quick questions. First, can you help us unpack the 19% GOV growth we saw this quarter, a high level between core restaurant and other categories such as grocery, either qualitatively or quantitatively? And second, we saw that AOV trends were up slightly this quarter. Is this due to product mix or bed price inflation I would appreciate any additional color you can provide on what's driving (technical difficulty). Thanks."
+    },
+    {
+      "speaker": "Ravi Inukonda DoorDash",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Deepak, I'll take both of those. I mean look, I mean, we're really pleased with the performance of the business on the growth side. So let me talk about the inputs and then I'll talk a little bit about the outputs and the various drivers in the business. From an underlying input perspective, right, I mean, the biggest thing for us is looking at the underlying cohorts. I answered the question, Mike, I talked about the fact that the cohorts continue to remain very strong. If I look at users, users are still growing at a double-digit rate. users hit an all-time high in the quarter. Order frequency continues to be an all-time high. A lot of that is being driven by the underlying work we've done, whether it's selection, quality or affordability. All this has set us up well, not just for the third quarter, but going forward as well. And from an output perspective, if you think about the various lines of business, the restaurant business, the growth has actually been very stable for the last few quarters. Both grocery new verticals, international they're growing much faster than the restaurant business as well as they have gained share across grocery as well as most of the international markets that we've operated in. And to your second point around the overall AOB increase, we've seen some increase in the overall grocery business. Again, I wouldn't think of that as a major shift. Our goal is to ensure that we are bringing the highest number of consumers to order from more categories and the consumers ordering for more categories, that number continues to increase every single quarter. Unidentified Participant Thank you. Operator Andrew Boone, JMP Securities."
+    },
+    {
+      "speaker": "Andrew Boone JMP Securities",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks so much for taking my questions. Ravi, I wanted to ask about the gross profit margin outperformance in the quarter. I understood the call out on the insurance benefit, but is there anything else that you guys want to highlight in terms of the outperformance there? And then Wolf acquired TAS in Europe. Tony, can you just step back and talk about what may be attractive in terms of M&A targets going forward and why that specific country and acquisition? Thanks so much."
+    },
+    {
+      "speaker": "Ravi Inukonda DoorDash",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, I'll take the first one on the gross salt. Let me give you two ways to think about this. If you think of the business as a collection of businesses, what you're seeing is -- I mean, we performed really well. The team has executed really well compared to the plan that we have checked for ourselves at the beginning of the year. We've driven efficiencies in some parts of the business. We've reinvested that in other parts of the business, and the output is what you're seeing (technical difficulty) the face of the P&L. More specifically, if you think about the drivers Advertising has obviously been a driver in terms of gross margin improvement. The second thing I would call out, Andrew, is we've talked about the fact that regulatory costs will continue to reduce as we go through the year. That's been another driver. And the last one is efficiency from an overall logistics perspective. But the key thing that I would underscore is -- remember, I mean, we are not operating the business towards a specific gross margin percentage. What we're trying to do is maximize overall profit dollars over the long term. affiliated companies. OCTOBER 30, 2024 / 9:00PM GMT, Q3 2024 DoorDash Inc Earnings Call And the way we do that is every dollar of efficiency we find, we're going to reimburse that back in the business. And our goal is to flexibly invest that up and down the P&L, wherever we see the opportunity. Our goal has always been to build a large business while continuing to be manically focused on unit economics. That's how we've operated, and that's going to be the same philosophy in which we operate the business going forward as well."
+    },
+    {
+      "speaker": "Tony Xu DoorDash",
+      "company": "Inc",
+      "role": "Chairman of the Board, Chief Executive Officer, Co-Founder",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Andrew, it's Tony. On the second question with regards to international M&A. Our standards and VAR continue to remain really high and we are consistent in our approach, which really first and foremost, starts with asking ourselves the question, does this candidate help us launch a new geography grow our TAM and/or our product portfolio. The second question we ask is, does this help accelerate us in a differentiated way that we couldn't do ourselves organically. Three is, do we believe that by partnering with the candidate that we can achieve long-term cash flows. And the last one, perhaps the most important is do we have a team that has the management talent and bandwidth to execute on the opportunity in a single-threaded way. And when I look at that last one in particular, I mean, Bolt has been on an incredible run. I mean, ever since well, ever since founding, I mean, actually, I should say that it's now been 10-years for boldeactually celebrated 10-years earlier this month, and they've achieved over $15 billion of sales for merchants in their lifetime and $3 billion of earnings for years, and they've just don't rate in their geographies, and they continue to take share virtually everywhere they operate in and they've continued to help us perform just as a management team. And so when I look at the performance over the last three years, they certainly have earned the privilege to continue expansion. And then when I piece that together with TAS, playing in an attractive market in Romania, we get really excited about what the combination can provide."
+    },
+    {
+      "speaker": "Andrew Boone JMP Securities",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you. Operator James Lee, Mizuho."
+    },
+    {
+      "speaker": "James Lee Mizuho Securities USA",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. Thanks for taking my questions. Great. Tony, I was wondering if you can comment about comment about [DashMart]. And maybe can you give us an update like which business models are working and which business model is still working progress? And maybe talk about some of the growth constraints that we should be thinking about? So -- and lastly, it seems like some of the European peers are able to make quick commerce profitable. Maybe help us understand any differences you're seeing between North America and Europe? Thanks."
+    },
+    {
+      "speaker": "Tony Xu DoorDash",
+      "company": "Inc",
+      "role": "Chairman of the Board, Chief Executive Officer, Co-Founder",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure. On DashMart, we're very excited about how they progressed. I mean if I rewind the clock when we started DashMart 3, 3.5 years ago, mean the first push was making sure that we can actually be a national service. And one of the reasons for that was really in search of to help merchants actually because we've always viewed DashMart over time as an infrastructure in which we can offer retailers to forward deploy their inventory. But first, we needed to prove to ourselves and then certainly to merchants, that we knew how to run these warehouses. And I would say after 3.5 years, the team certainly has achieved that marker. And so that or on their own have done really well in terms of learning how to execute by selling inventory exactly what's on the shelf, which is very differentiated from a selling inventory that's available in third-party stores. They've done it at great prices, and they've done it with awesome selection and very high reliability and speed. And so I think on its own, DashMart have just continued to grow, take share and do really, really well. But that was where DashMart would end per se. I mean we've also seen quite a lot of progress in terms of our partnership discussions with a lot of retailers. So we've first started that in Canada and partnering with Loblaws, but we've also now have started some of those journeys here in the affiliated companies. OCTOBER 30, 2024 / 9:00PM GMT, Q3 2024 DoorDash Inc Earnings Call US, as well as in other countries, where we are providing that infrastructure on behalf of retailers so that they can gain additional business at hours that they usually are closed in as well as in geographies that they may not be as penetrated in. So -- we're quite excited about the potential that DashMart bring both individually, but more so as in partnership with retailers and merchants -- and that's kind of what I expect going forward."
+    },
+    {
+      "speaker": "James Lee Mizuho Securities USA",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. Thank you. Operator [Mark Mahaney, Everclear ISI.] Unidentified Participant Hey, this is David for Mark. A question on the commerce platform. Do you have any early feedback from merchant customers around the new products that you released last month? And then one more on the Lyft partnership, -- could you talk about the concentration of Dash Pass members between urban and suburban markets? Thank you."
+    },
+    {
+      "speaker": "Tony Xu DoorDash",
+      "company": "Inc",
+      "role": "Chairman of the Board, Chief Executive Officer, Co-Founder",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Sure. On the first question with regards to the Darach Commerce platform. I mean this announcement for us really, I would say, has been a few years coming, meaning that it really just encapsulates what DoorDash has now become, which is really two parts, right? Part one of our mission has always been to grow the local economy, and we do that by bringing incremental sales with the wrap. And the second part is to empower local economy to become digital businesses. And so a lot of these physical businesses now are using products like DoorDash drive or storefronts or some of the other products that we've talked about in order to in order to become digital powerhouses in their own rights and with their own customers. And so -- we are seeing that. I mean when you have hundreds of thousands of businesses now who are part of the DoorDash commerce platform. So I think the numbers speak for themselves in terms of the excitement. And I guess, from their perspective, if you look at DoorDash, the marketplace as the leading local commerce marketplace, where we do the best job of building products that connect consumers to merchants why wouldn't you want to partner with that and have that for yourself as the retailer that's trying to become more and more digitally native. And so that's what we're seeing. With respect to -- I think your second question about DashPass, I mean we see strength and opportunity in terms of any partnership, whether it's Lyft or Chase or MAX across all of our members. Otherwise, we wouldn't be that excited if it was just trying to target one group of customers while excluding a different group of customers. But again, I think it's important to just understand what the main thing is 80% of what I believe is important for building membership programs is by building the most useful products, which get used the most often. That's actually how you earn the right to even start a membership program. So that's the 80%. And then the 20% for us is in partnerships, and we're super excited about the Lyft partnership as we are about our other partners, and we believe that they'll help us in any geography."
+    },
+    {
+      "speaker": "Ravi Inukonda DoorDash",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And David, just to add to that, right . Like we don't -- I mean if you think about DashPass, itself, it's a leading local commerce subscription program, and we continue to grow. In fact, in the third quarter result, we hit a record number of subscribers, which was an all-time high, over 18 million plus DashPass members. They're everywhere, right? They are not differentiating between urban or suburban. We see strength across the board, which you see in the overall share gains that we've had in the quarter as well. Operator (Operator Instructions) Michael McGovern, BofA. affiliated companies. OCTOBER 30, 2024 / 9:00PM GMT, Q3 2024 DoorDash Inc Earnings Call"
+    },
+    {
+      "speaker": "Michael McGovern BofA",
+      "company": "Securities, Inc.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Hey guys, thanks for taking my question. I have two -- there's been a lot of attention on the topic of AVs recently, obviously, for rideshare, but do you have a view on the potential future of the delivery use case for autonomous vehicles? Is that something that you may be looking into for your partnership strategy? And then secondly, on restaurant sponsored listings, what are the latest trends that you're seeing in terms of merchant roads and some consumer conversion? And how is that playing out in terms of demand for the ads? Thank you."
+    },
+    {
+      "speaker": "Ravi Inukonda DoorDash",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Hey, Mike, Mike, I can take both of those. On the first question related to autonomy. I mean, we're very excited. I think it's been in some ways, as someone who's been working in the autonomous space now for several years. It's a long time coming. I think some of the developments that maybe you've been reading about or seeing -- so maybe that's where I'll start -- which say that we've been working on the autonomy delivery problem for several years now dating as far back as 2017. And I think the most important thing to tell you about it after working on it for a while now is that it's actually quite different from autonomous right halo. And it's probably obvious to states. But when you don't have a passenger who can just easily go in and come out of the vehicle, and you have to actually load and unload the vehicle when it comes to item delivery, that last 10 feet is actually quite tricky. And so it reminds me a lot of actually how DoorDash got started. I think when DoorDash got started 11-years ago, a lot of people thought, you should -- this is delivery and -- and something like ride hailing might be similar when it comes to dispatch algorithms or something like that. But if you were to apply the same dispatch algorithm for ride hailing as you did for delivery, you'd almost always make the wrong decision. If you dispatch the closest driver to a passenger, for example, which is what you would do in ride hailing and you apply that to delivery and either the inventory is not available or the food is not ready, then you kind of wasted everyone's time. And I would say that they are very fundamental differences in a similar way for autonomous delivery versus autonomous ride hailing. And so we're taking a first principles approach -- in terms of what we're building at DoorDash and in terms of marrying technology as well as operations to build a system to make this work. We're pretty excited about what we're working on as well as conversations with potential partners as well. But it's a very different problem from maybe some of the things that you've read and -- but we'll have hopefully some things to share in the future, and we'll tell you more about it then. The second question was around, I think, just adds and just trends in that business. I think more and more of what you're saying is that you just see kind of a continued progress on that business. And I think it starts from the fact that our marketplace continues to grow at pretty high rates, given its scale. And I've always said that a successful ads business is preceded and always preceded by a successful marketplace business. And so that's what we continue to see where our ads business continues to have leading ROA or return on ad spend for advertisers for restaurants and increasingly for retailers. -- and we see our consumer conversion improving as well where they're approaching organic rates. And so I think the combination of these two things in tandem with a marketplace that is the largest for what it does in terms of connecting consumers locally to merchants, that's why you're seeing some of the results in terms of the ads business continuing to grow at very high rates at high scale."
+    },
+    {
+      "speaker": "Michael McGovern BofA",
+      "company": "Securities, Inc.",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you. Operator (Operator Instructions) Lee Horowitz, Deutsche Bank. affiliated companies. OCTOBER 30, 2024 / 9:00PM GMT, Q3 2024 DoorDash Inc Earnings Call"
+    },
+    {
+      "speaker": "Lee Horowitz Deutsche Bank",
+      "company": "AG",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks, Maybe sticking with ads and moving over to CPG advertising. You guys have obviously been stacking multiple quarters of really strong grocery volume growth and getting that marketplace to scale. I guess this is probably presumably grabbing the attention of your CPG advertising partners. Have you gotten any indication from those partners in your conversations as they think about budgets for next year, that they be leaning a bit more aggressively into your platform, just given how much you have grown over the last year or so?"
+    },
+    {
+      "speaker": "Tony Xu DoorDash",
+      "company": "Inc",
+      "role": "Chairman of the Board, Chief Executive Officer, Co-Founder",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah, I can follow on to the answer to the last question here. I mean the short answer is yes. I mean I think CVG advertisers have always been really excited about because not only because of our strength in growth outside of restaurants, but also just the combined view that we can offer because you can certainly sell a CPG item across both restaurants and retailers across multiple categories. And by being the largest local commerce player, we get to offer the most data and most views and most shots on goal for every brand to win their fair share. And I think that's what's increasing the excitement. On the flip side, I think the team, our team also deserves quite a lot of credit for building and maturing the product portfolio, which is still an area of emphasis for both our CPG ad partners as well as our restaurant partners."
+    },
+    {
+      "speaker": "Lee Horowitz Deutsche Bank",
+      "company": "AG",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. And maybe one follow-up just on grocery competition holistically. Obviously, it's very fierce. You have first-party delivery partners who can perhaps lean in on price, given vertical integration. You have other marketplaces that have other verticals that they can monetize on besides grocery and then obviously some focused grocery marketplaces. I guess within that hypercompetitive environment, where do you see as the most defensible sort of characteristics for DoorDash that should allow you guys to come out as one of the key winners in this vertical over a longer period of time."
+    },
+    {
+      "speaker": "Tony Xu DoorDash",
+      "company": "Inc",
+      "role": "Chairman of the Board, Chief Executive Officer, Co-Founder",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Well, it starts with building the best product. I mean -- and I think this is kind of how you get out of any competitive market. I mean if you look at the restaurant delivery industry, that's how it started 11 years ago, too. And I think that the way that DoorDash has come to its current position in restaurant delivery, whether it's in the U.S. or whether you look at us outside the U.S. or Volt outside of the U.S. It starts by building the product that achieves the highest retention and order frequency, which was -- which is really a testament that you built the best product. And -- it allows you to most efficiently grow. So I think, first and foremost, it comes down to product execution. And I think you're seeing that. I mean you're seeing that where we are now the first place that consumers come to grocery delivery for, if they are a new customer to grocery delivery, that's also true if you're just getting something delivered locally outside of restaurants. And so we're seeing that -- it's always been true for us in restaurants or for several years now, it's been true where over half of customers that are shopping for restaurant delivery first comes to us for deliveries now outside of restaurants. -- it's approaching that market, too. And so we're seeing that. We're seeing strength on the retention and frequency side with every single cohort that continues to increase as we improve our selection, improve our pricing, improve our quality of delivery, improve our service. And I think that the maniacal focus is what allows you to build the compounding advantage over time and allows you to grow at higher rates over multiple years."
+    },
+    {
+      "speaker": "Ravi Inukonda DoorDash",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And Lee, just to add to that, right, just on the consumer side, but we get good feedback from the merchant side as well, where merchants that we partner with have said that we're driving incremental same-store sales growth for them. The quality that we drive to the merchant has also been great. And you see that in the results where, a, we are the fastest growing in the US, as well as gaining share. And also from a cohort perspective, right, the retention and order frequency continues to increase."
+    },
+    {
+      "speaker": "Tony Xu DoorDash",
+      "company": "Inc",
+      "role": "Chairman of the Board, Chief Executive Officer, Co-Founder",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yeah. I think the final thing I believe is that like we also just get the most shots on goal. When you think about what gets delivered most often, it's prepared meals, which is in a different way of saying restaurant delivery. And because we're the leading player in that space and because we're also both in terms of size as well as the frequency we just get more at (technical difficulty) with these customers, affiliated companies. OCTOBER 30, 2024 / 9:00PM GMT, Q3 2024 DoorDash Inc Earnings Call which is very helpful, especially if you're not in the restaurant category, say, in grocery or other retail categories. And it's also really helpful for advertisers, too."
+    },
+    {
+      "speaker": "Lee Horowitz Deutsche Bank",
+      "company": "AG",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thank you. Operator John Colantuoni, Jefferies."
+    },
+    {
+      "speaker": "John Collante Jefferies",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Great. Thanks for squeezing me in here. So I want to start with sales and marketing leverage continues to be a really nice tailwind for EBITDA. Can you peel back the onion and talk a little bit about contribution from driver incentives. And sort of when you think about beyond the near term and look at supply and demand dynamics and your investments in driver experience, how are you thinking about the magnitude of the ongoing contribution to margin expansion from leverage on incentives? And second question, just turning to grocery. How important is capturing more of that big basket weekly shop to your long-term profit aspirations in grocery? And what are the capabilities and investments you still need to make to start driving more of those large basket orders? Thanks."
+    },
+    {
+      "speaker": "Ravi Inukonda DoorDash",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "Yes, John, I'll start will be black. On your point around sales and marketing, I mean, Look, John, when I think about sales and marketing or any type of operational efficiency that we drive in the business, it always starts with product because ultimately, product drives retention for us, which drives leverage in sales and marketing. If you break that apart, we've seen a lot of leverage on Dashers acquisition over the last couple of years. A lot of that is being driven by the product improvements that we've made. It's easier for Dashers to onboard. It's easier for Dashers to get paid -- all of that is driving retention of existing Dashers higher, which ultimately drives leverage from a sales and marketing perspective. The second thing I would say is. Even on the consumer side, the teams have done a pretty good job of optimizing at a channel level. So you're seeing leverage from a consumer acquisition cost perspective as well. Looking ahead, I mean, I do expect us to continue to improve the product, which ultimatelywill will able to drive leverage on sales and marketing. But I expect the pace of change to be slightly slower than what we saw in the last couple of years. But overall, when I think about whether it's (inaudible) acquisition or consumer acquisition, there's still opportunity for us to continue to go and drive leverage there."
+    },
+    {
+      "speaker": "Tony Xu DoorDash",
+      "company": "Inc",
+      "role": "Chairman of the Board, Chief Executive Officer, Co-Founder",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "And John, on the second question with regards to just larger baskets and grocery. I mean, I would all of that for us is really just cherries on top of the cake, meaning that we don't actually need large baskets to make the math work for grocery. And that's because we have the lowest cost structure when it comes to delivery and logistics. And so one of the things that we've been able to do is actually build a very high-growth business with these smaller baskets as a way to introduce ourselves to consumers and grocers alike. And I think it's actually surprised us just how large that market is. I think in some ways, it resembles almost what happens in Europe, where people instead of buying one large basket for the week, they might buy several smaller baskets for the week. I think that's a phenomenon that we can afford that others may not be able to. I think -- so anything that we get, and we are getting these larger baskets, especially after customers buy with us a couple of times they start mirroring kind of their habits, where they will buy maybe a couple of smaller baskets during the week and by one large basket on the weekend. So we are seeing that. And we see that with every single subsequent order. We also see that with every subsequent cohort. But it doesn't have to be a focus for us to make the business financially sustainable. affiliated companies. OCTOBER 30, 2024 / 9:00PM GMT, Q3 2024 DoorDash Inc Earnings Call"
+    },
+    {
+      "speaker": "Ravi Inukonda DoorDash",
+      "company": "Inc",
+      "role": "Chief Financial Officer",
+      "speaker_type": "management",
+      "section": "qa",
+      "text": "John, just to add to that, right, I wouldn't think of it as a large basket versus a small basket. For us, when we build the business, we're trying to build the business for all baskets. If you think about it going back to your sales and marketing question, we have a strategic advantage because remember, we already have consumers on the platform. We already have dashes on the platform. So the flow-through from a gross margin to contribution margin for us is very high. When I think about the unit economics, team has done a phenomenal amount of work over the course of the last year. When I look at that in the P&L, that doesn't concern me. We have a combination of us being able to make the math work at smaller baskets, plus the sales and marketing leverage where we are focused on is what's the size of the opportunity in terms of scale as well as overall gross profit dollars."
+    },
+    {
+      "speaker": "John Collante Jefferies",
+      "company": "LLC",
+      "role": "Analyst",
+      "speaker_type": "analyst",
+      "section": "qa",
+      "text": "Thanks so much. Operator And ladies and gentlemen, that will conclude our DoorDash Q3 2024 earnings call. Thank you for attending. Have a great rest of your day. In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. affiliated companies."
+    }
+  ]
 }
