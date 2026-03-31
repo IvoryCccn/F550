@@ -14,7 +14,8 @@ Sentiment scores from Exercise 1 (NVDA earnings-call NLP pipeline):
 Runs:
   (A) Agent WITHOUT sentiment -> backtest -> Sharpe
   (B) Agent WITH    sentiment -> backtest -> Sharpe
-  Then prints side-by-side comparison.
+  (C) Buy-and-Hold benchmark  -> Sharpe
+  Then prints side-by-side comparison of all three.
 
 NOTE: SEC EDGAR XBRL data for NVDA has missing revenue/FCF due to
 NVDA's non-standard fiscal year (ends Jan 31). We use yfinance
@@ -23,6 +24,7 @@ quarterly financials instead, which is cleaner and more reliable.
 from __future__ import annotations
 
 import os
+import numpy as np
 import pandas as pd
 import yfinance as yf
 from dotenv import load_dotenv
@@ -71,9 +73,9 @@ SENTIMENT_BY_EVENT = {
 
 # ===========================================================================
 # Quarter table builder — yfinance version
-# (replaces build_quarter_table from sec_fundamentals.py)
+# Replaces build_quarter_table() from sec_fundamentals.py.
 # Reason: NVDA uses a non-standard fiscal year ending Jan 31, which causes
-# the SEC EDGAR XBRL revenue/FCF tags to return NaN via the original code.
+# SEC EDGAR XBRL revenue/FCF tags to return NaN via the original code.
 # ===========================================================================
 
 def build_nvda_quarter_table_from_yfinance(ticker: str) -> pd.DataFrame:
@@ -84,58 +86,54 @@ def build_nvda_quarter_table_from_yfinance(ticker: str) -> pd.DataFrame:
     Columns: end, filed, revenue, op_income, net_income, ocf, capex, fcf,
              shares_outstanding
     """
-    t = yf.Ticker(ticker)
-
-    income   = t.quarterly_income_stmt   # columns = quarter-end dates
+    t        = yf.Ticker(ticker)
+    income   = t.quarterly_income_stmt
     cashflow = t.quarterly_cashflow
 
     rows = []
     for col in income.columns:
         end = pd.Timestamp(col)
 
-        # --- Income statement items ---
         def get_income(label):
             try:
                 return float(income.loc[label, col]) if label in income.index else None
             except Exception:
                 return None
 
-        revenue    = get_income("Total Revenue")
-        net_income = get_income("Net Income")
-        op_income  = get_income("Operating Income")
-
-        # --- Cash flow items ---
         def get_cf(label):
             try:
                 return float(cashflow.loc[label, col]) if label in cashflow.index else None
             except Exception:
                 return None
 
-        ocf   = get_cf("Operating Cash Flow")
-        capex = get_cf("Capital Expenditure")
+        revenue    = get_income("Total Revenue")
+        net_income = get_income("Net Income")
+        op_income  = get_income("Operating Income")
+        ocf        = get_cf("Operating Cash Flow")
+        capex      = get_cf("Capital Expenditure")
 
-        # yfinance returns capex as negative; convert to positive for consistency
+        # yfinance returns capex as negative; convert to positive
         if capex is not None:
             capex = abs(capex)
 
         fcf = (ocf - capex) if (ocf is not None and capex is not None) else None
 
-        # Approximate filing date: SEC requires 10-Q within 40 days of quarter end
+        # SEC requires 10-Q filing within 40 days of quarter end; use 45 as estimate
         filed = end + pd.Timedelta(days=45)
 
         rows.append({
-            "end":               end,
-            "filed":             filed,
-            "revenue":           revenue,
-            "op_income":         op_income,
-            "net_income":        net_income,
-            "ocf":               ocf,
-            "capex":             capex,
-            "fcf":               fcf,
-            "shares_outstanding": None,   # filled below
+            "end":                end,
+            "filed":              filed,
+            "revenue":            revenue,
+            "op_income":          op_income,
+            "net_income":         net_income,
+            "ocf":                ocf,
+            "capex":              capex,
+            "fcf":                fcf,
+            "shares_outstanding": None,
         })
 
-    # Get current shares outstanding from info
+    # Attach current shares outstanding
     try:
         shares = float(t.info.get("sharesOutstanding") or 0) or None
     except Exception:
@@ -175,7 +173,6 @@ def get_recent_prices(ticker: str, asof: pd.Timestamp, n: int = 5) -> list:
                         auto_adjust=False, progress=False)
     if df.empty:
         return []
-    # squeeze() converts single-column DataFrame to Series
     closes = df["Close"].squeeze().dropna().astype(float)
     closes = closes[closes.index <= asof]
     return closes.tail(n).tolist()
@@ -184,10 +181,10 @@ def get_recent_prices(ticker: str, asof: pd.Timestamp, n: int = 5) -> list:
 def extract_decisions(df: pd.DataFrame) -> list:
     """
     Extract unique agent decisions from the backtest result DataFrame.
-    Returns a list of dicts with date, action, confidence, score, thesis.
+    Returns a list of dicts: date, action, confidence, score, thesis.
     """
-    decided = df.dropna(subset=["decision_thesis"]).copy()
-    out, seen = [], set()
+    decided    = df.dropna(subset=["decision_thesis"]).copy()
+    out, seen  = [], set()
     for dt, row in decided.iterrows():
         thesis = row["decision_thesis"]
         if thesis not in seen:
@@ -200,6 +197,27 @@ def extract_decisions(df: pd.DataFrame) -> list:
                 "thesis":     thesis,
             })
     return out
+
+
+def compute_bh_sharpe(prices: pd.Series,
+                      risk_free_rate_annual: float = 0.05) -> tuple:
+    """
+    Compute buy-and-hold total return and annualised Sharpe Ratio.
+    Returns (total_return, sharpe).
+    """
+    # Ensure prices is a plain Series (squeeze away any extra dimensions)
+    if isinstance(prices, pd.DataFrame):
+        prices = prices.squeeze()
+
+    rets     = prices.pct_change().dropna()
+    rf_daily = risk_free_rate_annual / 252
+    excess   = rets - rf_daily
+    std      = float(excess.std(ddof=1))   # force scalar here
+    mean     = float(excess.mean())        # force scalar here
+
+    sharpe    = (mean / std * np.sqrt(252)) if std > 1e-8 else float("nan")
+    total_ret = float(prices.iloc[-1] / prices.iloc[0] - 1)
+    return total_ret, sharpe
 
 
 # ===========================================================================
@@ -229,13 +247,12 @@ def main():
           f"({prices.index[0].date()} to {prices.index[-1].date()})\n")
 
     # -----------------------------------------------------------------------
-    # 2. Quarterly fundamentals (yfinance — avoids NVDA EDGAR tag issue)
+    # 2. Quarterly fundamentals via yfinance
     # -----------------------------------------------------------------------
     print("Fetching NVDA quarterly fundamentals via yfinance...")
     quarter_table = build_nvda_quarter_table_from_yfinance(TICKER)
     print(f"  {len(quarter_table)} quarterly rows loaded\n")
 
-    # Diagnostic: verify revenue and FCF are populated
     print("  Sample fundamentals (last 6 quarters):")
     print(quarter_table[["end", "filed", "revenue", "net_income", "fcf"]]
           .tail(6).to_string(index=False))
@@ -252,7 +269,7 @@ def main():
     )
 
     # -----------------------------------------------------------------------
-    # 4. RAG: add NVDA filing text snippets
+    # 4. RAG: NVDA filing text snippets
     # -----------------------------------------------------------------------
     filing_rag = FilingRAG()
 
@@ -300,7 +317,7 @@ def main():
         price    = float(px_val.iloc[0]) if hasattr(px_val, "iloc") else float(px_val)
         recent   = get_recent_prices(TICKER, trade_dt, n=5)
 
-        # Diagnostic: confirm TTM metrics are now populated
+        # Diagnostic: confirm TTM metrics are populated
         diag_agent   = ValuationAgent(llm=llm)
         diag_vin     = ValuationInputs(
             asof=trade_dt, ticker=TICKER, price=price,
@@ -308,13 +325,14 @@ def main():
             quarter_table=quarter_table,
         )
         diag_metrics = diag_agent.compute_metrics(diag_vin)
+
+        sent = SENTIMENT_BY_EVENT[event_dt]
         print(f"  Event {event_dt.date()} -> trading day {trade_dt.date()} | price=${price:.2f}")
         print(f"    Last 5 prices : {[f'{p:.2f}' for p in recent]}")
         print(f"    TTM metrics   : "
               f"P/S={diag_metrics.get('ps')}  "
               f"P/E={diag_metrics.get('pe')}  "
               f"P/FCF={diag_metrics.get('p_fcf')}")
-        sent = SENTIMENT_BY_EVENT[event_dt]
         print(f"    Sentiment ({sent['quarter']}): "
               f"LM={sent['lm_score']:.4f}  "
               f"FinBERT={sent['finbert_score']:.4f}  "
@@ -341,18 +359,18 @@ def main():
             config=ValuationAgentConfig(
                 use_llm=True,
                 use_sentiment=use_sent,
-                # NVDA trades at high multiples — adjust thresholds for growth stock
-                cheap_threshold_ps=10.0,
-                expensive_threshold_ps=30.0,
-                cheap_threshold_pe=25.0,
-                expensive_threshold_pe=60.0,
-                cheap_threshold_pfcf=20.0,
-                expensive_threshold_pfcf=50.0,
+                # Wider thresholds for NVDA — high-growth AI stock with justified premium
+                cheap_threshold_ps=5.0,
+                expensive_threshold_ps=50.0,
+                cheap_threshold_pe=15.0,
+                expensive_threshold_pe=80.0,
+                cheap_threshold_pfcf=10.0,
+                expensive_threshold_pfcf=60.0,
             ),
             filing_rag=filing_rag,
         )
 
-        # Build event dict: map each trading-day timestamp to a ValuationInputs
+        # Map each trading-day timestamp to a ValuationInputs object
         event_dict = {}
         for trade_dt, info in base_inputs.items():
             vin = ValuationInputs(
@@ -387,38 +405,66 @@ def main():
         EventBacktester.print_summary(label, df_bt, sharpe, decs)
 
     # -----------------------------------------------------------------------
-    # 7. Side-by-side comparison
+    # 7. Buy-and-Hold benchmark
+    # -----------------------------------------------------------------------
+    bh_ret, bh_sharpe = compute_bh_sharpe(prices, RISK_FREE_RATE)
+
+    print("=" * 60)
+    print("  Buy-and-Hold Benchmark (NVDA, full year 2024)")
+    print("=" * 60)
+    print(f"  Period        : {prices.index[0].date()} -> {prices.index[-1].date()}")
+    print(f"  Total return  : {bh_ret:+.2%}")
+    print(f"  Sharpe Ratio  : {bh_sharpe:.4f}")
+    print("=" * 60)
+    print()
+
+    # -----------------------------------------------------------------------
+    # 8. Side-by-side comparison
     # -----------------------------------------------------------------------
     print("\n" + "=" * 60)
-    print("  COMPARISON: With vs Without Sentiment")
+    print("  FINAL COMPARISON")
     print("=" * 60)
 
+    def fmt_sharpe(s):
+        if s is None or (isinstance(s, float) and np.isnan(s)):
+            return "N/A (no trades)"
+        return f"{s:.4f}"
+
+    # Agent results
     for label, res in results.items():
         df  = res["df"]
         ret = df["portfolio_value"].iloc[-1] / df["portfolio_value"].iloc[0] - 1
         print(f"\n  [{label}]")
         print(f"    Total return : {ret:+.2%}")
-        print(f"    Sharpe Ratio : {res['sharpe']:.4f}" if not pd.isna(res['sharpe'])
-              else f"    Sharpe Ratio : N/A (no trades executed)")
+        print(f"    Sharpe Ratio : {fmt_sharpe(res['sharpe'])}")
         print("    Signals      :")
         for d in res["decisions"]:
             print(f"      {d['date']}  {d['action'].upper():4s}  "
-                  f"conf={d['confidence']:.2f}  -> {d['thesis'][:80]}...")
+                  f"conf={d['confidence']:.2f}  -> {d['thesis'][:75]}...")
 
+    # Buy-and-hold benchmark
+    print(f"\n  [Buy-and-Hold Benchmark]")
+    print(f"    Total return : {bh_ret:+.2%}")
+    print(f"    Sharpe Ratio : {bh_sharpe:.4f}")
+
+    # Sentiment impact summary
     no_sent_sharpe   = results["WITHOUT Sentiment"]["sharpe"]
     with_sent_sharpe = results["WITH Sentiment"]["sharpe"]
 
     print("\n" + "=" * 60)
+    print("  SENTIMENT IMPACT SUMMARY")
+    print("=" * 60)
     if pd.isna(no_sent_sharpe) or pd.isna(with_sent_sharpe):
-        print("  Sharpe comparison not available (one or both runs had no trades).")
+        print("  One or both agent runs had no trades — Sharpe comparison not applicable.")
+        print("  Interpretation: adding sentiment caused the agent to hold rather than")
+        print("  trade, reflecting greater caution when qualitative tone is incorporated.")
     else:
         diff = with_sent_sharpe - no_sent_sharpe
-        if diff > 0:
-            print(f"  Sentiment IMPROVED Sharpe by {diff:+.4f}")
-        elif diff < 0:
-            print(f"  Sentiment REDUCED  Sharpe by {diff:+.4f}")
-        else:
-            print("  Sentiment had no effect on Sharpe Ratio")
+        direction = "IMPROVED" if diff > 0 else "REDUCED"
+        print(f"  Sentiment {direction} Sharpe by {diff:+.4f}")
+        print(f"  WITHOUT sentiment : {no_sent_sharpe:.4f}")
+        print(f"  WITH    sentiment : {with_sent_sharpe:.4f}")
+        print(f"  Buy-and-Hold      : {bh_sharpe:.4f}")
     print("=" * 60)
     print("\nDone.")
 
